@@ -1,142 +1,628 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    font-family: Arial, sans-serif;
-    background: #1a1a1a;
-    color: #fff;
+    font-family: 'Microsoft YaHei', sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #1a1a1a;
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+.search-box {
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
+    gap: 10px;
+    margin-bottom: 30px;
 }
-#container {
-    background: rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    border-radius: 10px;
-    width: 500px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-    border: 2px solid gold;
-}
-h2 {
-    color: gold;
-    text-align: center;
-    margin-top: 0;
-}
-#queryForm {
-    display: flex;
-    margin-bottom: 20px;
-}
+
 #uidInput {
-    flex-grow: 1;
-    padding: 8px;
-    border: 1px solid #555;
-    border-radius: 5px 0 0 5px;
-    background: #222;
-    color: white;
+    width: 300px;
+    padding: 10px 15px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+#uidInput:focus {
+    border-color: #4a90e2;
     outline: none;
 }
-#queryButton {
-    padding: 8px 15px;
-    background: #8b0000;
+
+button {
+    padding: 10px 20px;
+    background-color: #4a90e2;
     color: white;
-    border: 1px solid #555;
-    border-radius: 0 5px 5px 0;
+    border: none;
+    border-radius: 4px;
     cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
 }
-#queryButton:hover {
-    background: #b22222;
+
+button:hover {
+    background-color: #357abd;
 }
-#results {
-    padding: 10px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 5px;
-    height: 300px;
-    overflow-y: auto;
-}
-.tab {
-    margin-bottom: 10px;
+
+.tabs {
     display: flex;
     flex-wrap: wrap;
-    gap: 5px;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
 }
-.tab-btn {
-    padding: 8px 15px;
-    background: #555;
-    color: white;
-    border: none;
-    border-radius: 5px;
+
+.tab-button {
+    background-color: #f5f5f5;
+    color: #666;
+    border: 1px solid #ddd;
+    padding: 8px 16px;
+    border-radius: 4px;
     cursor: pointer;
+    transition: all 0.3s;
 }
-.tab-btn.active {
-    background: #8b0000;
+
+.tab-button:hover {
+    background-color: #e8e8e8;
 }
-.tab-btn:hover {
-    background: #777;
+
+.tab-button.active {
+    background-color: #4a90e2;
+    color: white;
+    border-color: #4a90e2;
 }
+
 .tab-content {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    min-height: 400px;
+}
+
+.tab-pane {
     display: none;
 }
-.tab-content.active {
+
+.tab-pane.active {
     display: block;
 }
-.stat {
-    margin: 5px 0;
-}
-.stat-name {
-    color: #aaa;
-}
-.stat-value {
-    color: gold;
-    font-weight: bold;
-}
-.error {
-    color: red;
-}
-.collapsible {
-    background: #444;
-    color: white;
-    cursor: pointer;
-    padding: 8px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 14px;
-    margin: 5px 0;
-}
-.collapsible:hover {
-    background: #666;
-}
-.content {
-    padding: 0 10px;
+
+.info-box {
     display: none;
-    overflow: hidden;
-    background: rgba(255, 255, 255, 0.05);
-}
-#infoBox {
     position: fixed;
-    bottom: 10px;
-    right: 10px;
-    width: 300px;
-    max-height: 200px;
-    background: rgba(0, 0, 0, 0.8);
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid gold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    max-width: 80%;
+    max-height: 80vh;
     overflow-y: auto;
-    font-size: 12px;
-    color: #fff;
 }
-#copyButton {
+
+.info-content {
+    margin-top: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#closeButton {
     position: absolute;
-    top: 5px;
-    right: 5px;
-    padding: 5px 10px;
-    background: #8b0000;
+    top: 10px;
+    right: 10px;
+    background-color: #dc3545;
     color: white;
     border: none;
-    border-radius: 3px;
+    padding: 5px 10px;
+    border-radius: 4px;
     cursor: pointer;
 }
-#copyButton:hover {
-    background: #b22222;
+
+#closeButton:hover {
+    background-color: #c82333;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .container {
+        margin: 10px;
+        padding: 15px;
+    }
+    
+    .search-box {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    #uidInput {
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    .tabs {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .tab-button {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* 信息区块样式 */
+.info-section {
+    background: #fff;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.info-section h3 {
+    color: #1a1a1a;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f0f2f5;
+}
+
+.info-section h4 {
+    color: #333;
+    margin: 10px 0;
+}
+
+/* 技能相关样式 */
+.skill-category {
+    margin-bottom: 20px;
+}
+
+.skill-page {
+    background: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 6px;
+}
+
+.skill-item {
+    background: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+/* 装备相关样式 */
+.equipment-item {
+    background: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 6px;
+    border-left: 4px solid #4a90e2;
+}
+
+/* 内丹相关样式 */
+.neidan-page {
+    background: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 6px;
+}
+
+.danqi-list {
+    margin-top: 10px;
+}
+
+.danqi-item {
+    background: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+/* 羽毛相关样式 */
+.feather-item {
+    background: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    border-left: 4px solid #52c41a;
+}
+
+/* 法宝相关样式 */
+.magic-item {
+    background: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    border-left: 4px solid #722ed1;
+}
+
+/* 翅膀相关样式 */
+.fashion-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.fashion-item {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    border-left: 4px solid #f5222d;
+}
+
+/* 宠物和坐骑相关样式 */
+.pet-info,
+.ride-info,
+.pet-quality,
+.ride-quality {
+    background: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 6px;
+}
+
+.pet-info,
+.ride-info {
+    border-left: 4px solid #1890ff;
+}
+
+.pet-quality,
+.ride-quality {
+    border-left: 4px solid #52c41a;
+}
+
+.pet-skills,
+.ride-skills {
+    margin-top: 15px;
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 6px;
+    border-left: 4px solid #722ed1;
+}
+
+.pet-equips,
+.ride-equips {
+    margin-top: 15px;
+}
+
+.pet-equips h4,
+.ride-equips h4 {
+    margin-bottom: 10px;
+}
+
+.pet-equips .equipment-item,
+.ride-equips .equipment-item {
+    background: #fff;
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 6px;
+    border: 1px solid #eee;
+    border-left: 4px solid #eb2f96;
+}
+
+.pet-equips h5,
+.ride-equips h5 {
+    color: #1a1a1a;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+/* 属性值样式 */
+.quality-value {
+    color: #52c41a;
+    font-weight: 500;
+}
+
+.energy-value {
+    color: #1890ff;
+    font-weight: 500;
+}
+
+.mood-value {
+    color: #fa8c16;
+    font-weight: 500;
+}
+
+.skill-level {
+    color: #722ed1;
+    font-weight: 500;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .pet-info,
+    .ride-info,
+    .pet-quality,
+    .ride-quality,
+    .pet-skills,
+    .ride-skills,
+    .pet-equips .equipment-item,
+    .ride-equips .equipment-item {
+        padding: 10px;
+    }
+}
+
+/* 经脉相关样式 */
+.meridians-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.meridian-item {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    border-left: 4px solid #fa8c16;
+}
+
+/* 通用样式优化 */
+p {
+    margin: 5px 0;
+    line-height: 1.5;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .fashion-list,
+    .meridians-list {
+        grid-template-columns: 1fr;
+    }
+    
+    .info-section {
+        padding: 10px;
+    }
+}
+
+/* 属性值的样式 */
+.attr-value {
+    color: #2196F3;
+    font-weight: 500;
+}
+
+/* 经验值的样式 */
+.exp-value {
+    color: #4CAF50;
+}
+
+/* 等级的样式 */
+.level-value {
+    color: #FF9800;
+    font-weight: 500;
+}
+
+/* ID的样式 */
+.id-value {
+    color: #9C27B0;
+    font-family: monospace;
+}
+
+/* 阵法相关样式 */
+.matrix-item {
+    background: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 6px;
+    border-left: 4px solid #1890ff;
+}
+
+.matrix-skill {
+    background: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+}
+
+.matrix-holes {
+    margin-top: 15px;
+}
+
+.hole-item {
+    background: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+/* 星系相关样式 */
+.galaxy-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.galaxy-item {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    border-left: 4px solid #13c2c2;
+}
+
+/* 声望相关样式 */
+.reputation-info {
+    background: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 6px;
+}
+
+.reputation-logs {
+    margin-top: 20px;
+}
+
+.log-item {
+    background: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    border-left: 4px solid #eb2f96;
+}
+
+/* 竞技场相关样式 */
+.arena-info,
+.pet-arena-info,
+.sky-war-info {
+    background: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 6px;
+}
+
+.arena-info {
+    border-left: 4px solid #f5222d;
+}
+
+.pet-arena-info {
+    border-left: 4px solid #52c41a;
+}
+
+.sky-war-info {
+    border-left: 4px solid #2f54eb;
+}
+
+/* 标签页响应式优化 */
+@media (max-width: 768px) {
+    .tabs {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: 5px;
+    }
+
+    .galaxy-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .reputation-logs {
+        max-height: 300px;
+        overflow-y: auto;
+    }
+}
+
+/* 宠物装备相关样式 */
+.pet-equips {
+    margin-top: 20px;
+}
+
+.pet-equips h4 {
+    color: #1a1a1a;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f0f2f5;
+}
+
+.pet-equips .equipment-item {
+    background: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    border-left: 4px solid #eb2f96;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.pet-equips h5 {
+    color: #1a1a1a;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.pet-equips h6 {
+    color: #666;
+    margin: 10px 0 5px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.pet-equips .attributes {
+    margin: 10px 0;
+    padding: 8px;
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+.pet-equips .attributes p {
+    margin: 4px 0;
+    color: #666;
+    font-size: 14px;
+}
+
+.pet-equips p {
+    margin: 6px 0;
+    line-height: 1.5;
+}
+
+/* 属性值颜色 */
+.pet-equips .attributes p[class*="atk"],
+.pet-equips .attributes p[class*="crit"] {
+    color: #f5222d;
+}
+
+.pet-equips .attributes p[class*="hp"],
+.pet-equips .attributes p[class*="def"] {
+    color: #52c41a;
+}
+
+.pet-equips .attributes p[class*="mp"],
+.pet-equips .attributes p[class*="healMp"] {
+    color: #1890ff;
+}
+
+.pet-equips .attributes p[class*="lucky"],
+.pet-equips .attributes p[class*="dodge"] {
+    color: #722ed1;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .pet-equips .equipment-item {
+        padding: 12px;
+    }
+    
+    .pet-equips h5 {
+        font-size: 15px;
+    }
+    
+    .pet-equips h6 {
+        font-size: 13px;
+    }
+    
+    .pet-equips .attributes p {
+        font-size: 13px;
+    }
 }

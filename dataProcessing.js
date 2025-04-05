@@ -1,6 +1,3 @@
-// dataProcessing.js
-
-// 直接嵌入称号数据
 const titleData = {
     1010001: "vip1",
     1010002: "vip2",
@@ -53,161 +50,240 @@ function getTitleName(titleId) {
     return titleData[titleId] || `未知称号(ID:${titleId})`;
 }
 
-function processData(text) {
+// 处理玩家数据
+function processData(data) {
     try {
-        const response = JSON.parse(text);
-        // 如果返回类型不是 success，则显示错误信息
-        if (response.type !== "success") {
-            document.getElementById('basic').innerHTML = `<p class="error">错误: ${response.error || "未知错误"}</p>`;
-            openTab('basic');
-            infoBox.style.display = 'none';
-            return;
-        }
-        const data = response.data;
-
-        // 基本信息
-        document.getElementById('basic').innerHTML = `
-            <div class="stat"><span class="stat-name">昵称:</span> <span class="stat-value">${data.name || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">UID:</span> <span class="stat-value">${data.uid || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${data.lv || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">VIP等级:</span> <span class="stat-value">${data.vipLv || '0'}</span></div>
-            <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${data.fightpoint || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">地区:</span> <span class="stat-value">${data.iparea || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">公会:</span> <span class="stat-value">${data.leagueName || '无'}</span></div>
-            <div class="stat"><span class="stat-name">隐藏VIP:</span> <span class="stat-value">${data.hideVip ? '是' : '否'}</span></div>
-			<div class="stat"><span class="stat-name">宠物数量:</span> <span class="stat-value">${data.petNum || '未知'}</span></div>
-			<div class="stat"><span class="stat-name">坐骑数量:</span> <span class="stat-value">${data.rideNum || '未知'}</span></div>
-        `;
-
-        // 称号（折叠）
-        const titlesList = Object.values(data.titles?.list || {});
-        let titlesHTML = '';
-        if (titlesList.length === 1 && titlesList[0]) {
-            titlesHTML = `
-                <div class="stat"><span class="stat-name">称号ID:</span> <span class="stat-value">${titlesList[0].id}</span></div>
-                <div class="stat"><span class="stat-name">称号名称:</span> <span class="stat-value">${getTitleName(titlesList[0].id)}</span></div>
-                <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${titlesList[0].pos ? '使用中' : '未使用'}</span></div>
-                <div class="stat"><span class="stat-name">到期时间:</span> <span class="stat-value">${titlesList[0].last ? new Date(titlesList[0].last).toLocaleString() : '无'}</span></div>
-            `;
-        } else if (titlesList.length > 1) {
-            titlesHTML = titlesList.map((t) => `
-                <button class="collapsible">称号 ${getTitleName(t.id)} ${t.pos ? '(使用中)' : ''}</button>
-                <div class="content">
-                    <div class="stat"><span class="stat-name">称号ID:</span> <span class="stat-value">${t.id}</span></div>
-                    <div class="stat"><span class="stat-name">称号名称:</span> <span class="stat-value">${getTitleName(t.id)}</span></div>
-                    <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${t.pos ? '使用中' : '未使用'}</span></div>
-                    <div class="stat"><span class="stat-name">到期时间:</span> <span class="stat-value">${t.last ? new Date(t.last).toLocaleString() : '无'}</span></div>
-                </div>
-            `).join('');
-        } else {
-            titlesHTML = '暂无称号';
-        }
-        document.getElementById('titles').innerHTML = titlesHTML;
-
-        // 翅膀（折叠）
-        const wingsList = data.wingBag || [];
-        let wingsHTML = '';
-        if (wingsList.length === 1 && wingsList[0]) {
-            wingsHTML = `
-                <div class="stat"><span class="stat-name">翅膀ID:</span> <span class="stat-value">${wingsList[0].id}</span></div>
-                <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${wingsList[0].lv || '未知'}</span></div>
-                <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${wingsList[0].pos ? '使用中' : '未使用'}</span></div>
-                <div class="stat"><span class="stat-name">技能:</span> <span class="stat-value">${wingsList[0].skills?.map(s => `技能${s.wingSkill}: ${s.lv}级`).join(', ') || '无'}</span></div>
-            `;
-        } else if (wingsList.length > 1) {
-            wingsHTML = wingsList.map((w) => `
-                <button class="collapsible">翅膀 ${w.id} ${w.pos ? '(使用中)' : ''}</button>
-                <div class="content">
-                    <div class="stat"><span class="stat-name">翅膀ID:</span> <span class="stat-value">${w.id}</span></div>
-                    <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${w.lv || '未知'}</span></div>
-                    <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${w.pos ? '使用中' : '未使用'}</span></div>
-                    <div class="stat"><span class="stat-name">技能:</span> <span class="stat-value">${w.skills?.map(s => `技能${s.wingSkill}: ${s.lv}级`).join(', ') || '无'}</span></div>
-                </div>
-            `).join('');
-        } else {
-            wingsHTML = '暂无翅膀';
-        }
-        document.getElementById('wingbag').innerHTML = wingsHTML;
-
-        // 宠物
-        const pet = data.pet || {};
-        document.getElementById('pet').innerHTML = data.pet ? `
-            <div class="stat"><span class="stat-name">名称:</span> <span class="stat-value">${pet.name || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">星级:</span> <span class="stat-value">${pet.star || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${pet.lv || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${pet.fightpoint || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${pet.pos ? '使用中' : '未使用'}</span></div>
-            <div class="stat"><span class="stat-name">资质:</span> <span class="stat-value">力量:${pet.strQuality || 0}, 体质:${pet.vitQuality || 0}, 气运:${pet.luckQuality || 0}, 敏捷:${pet.dexQuality || 0}</span></div>
-            <div class="stat"><span class="stat-name">主动技能:</span> <span class="stat-value">${pet.skillActive?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
-            <div class="stat"><span class="stat-name">被动技能:</span> <span class="stat-value">${pet.skillPassive?.map(s => s).join(', ') || '无'}</span></div>
-            <div class="stat"><span class="stat-name">特殊技能:</span> <span class="stat-value">${pet.skillSp?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
-            <div class="stat"><span class="stat-name">潜能技能:</span> <span class="stat-value">${pet.skillPotential?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
-            <div class="stat"><span class="stat-name">到期时间:</span> <span class="stat-value">${pet.expireTime === -1 ? '永久' : new Date(pet.expireTime).toLocaleString()}</span></div>
-        ` : '未出战宠物';
-
-        // 坐骑
-        const ride = data.ride || {};
-        document.getElementById('ride').innerHTML = data.ride ? `
-            <div class="stat"><span class="stat-name">坐骑ID:</span> <span class="stat-value">${ride.id || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">名称:</span> <span class="stat-value">${ride.name || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">星级:</span> <span class="stat-value">${ride.star || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${ride.lv || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${ride.fightpoint || '未知'}</span></div>
-            <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${ride.pos ? '使用中' : '未使用'}</span></div>
-            <div class="stat"><span class="stat-name">资质:</span> <span class="stat-value">力量:${ride.strQuality || 0}, 体质:${ride.vitQuality || 0}, 气运:${ride.luckQuality || 0}, 敏捷:${ride.dexQuality || 0}</span></div>
-            <div class="stat"><span class="stat-name">主动技能:</span> <span class="stat-value">${ride.skillActive?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
-            <div class="stat"><span class="stat-name">被动技能:</span> <span class="stat-value">${ride.skillPassive?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
-            <div class="stat"><span class="stat-name">特殊技能:</span> <span class="stat-value">${ride.skillSp?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
-            <div class="stat"><span class="stat-name">到期时间:</span> <span class="stat-value">${ride.expireTime === -1 ? '永久' : new Date(ride.expireTime).toLocaleString()}</span></div>
-        ` : '暂无坐骑';
-
-        // 羽毛（折叠）
-        const feathersList = data.hero?.feathers || [];
-        let feathersHTML = '';
-        if (feathersList.length === 1 && feathersList[0]) {
-            feathersHTML = `
-                <div class="stat"><span class="stat-name">羽毛ID:</span> <span class="stat-value">${feathersList[0].id}</span></div>
-                <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${feathersList[0].fightpoint || '未知'}</span></div>
-                <div class="stat"><span class="stat-name">属性:</span> <span class="stat-value">${Object.entries(feathersList[0].attr || {}).map(([k, v]) => `${k}: ${v}`).join(', ')}</span></div>
-                <div class="stat"><span class="stat-name">属性百分比:</span> <span class="stat-value">${Object.entries(feathersList[0].attrPer || {}).map(([k, v]) => `${k}: ${v}`).join(', ')}</span></div>
-                <div class="stat"><span class="stat-name">获取时间:</span> <span class="stat-value">${feathersList[0].getTime ? new Date(feathersList[0].getTime).toLocaleString() : '未知'}</span></div>
-            `;
-        } else if (feathersList.length > 1) {
-            feathersHTML = feathersList.map((f) => `
-                <button class="collapsible">羽毛 ${f.id} (战斗力: ${f.fightpoint || '未知'})</button>
-                <div class="content">
-                    <div class="stat"><span class="stat-name">羽毛ID:</span> <span class="stat-value">${f.id}</span></div>
-                    <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${f.fightpoint || '未知'}</span></div>
-                    <div class="stat"><span class="stat-name">属性:</span> <span class="stat-value">${Object.entries(f.attr || {}).map(([k, v]) => `${k}: ${v}`).join(', ')}</span></div>
-                    <div class="stat"><span class="stat-name">属性百分比:</span> <span class="stat-value">${Object.entries(f.attrPer || {}).map(([k, v]) => `${k}: ${v}`).join(', ')}</span></div>
-                    <div class="stat"><span class="stat-name">获取时间:</span> <span class="stat-value">${f.getTime ? new Date(f.getTime).toLocaleString() : '未知'}</span></div>
-                </div>
-            `).join('');
-        } else {
-            feathersHTML = '暂无羽毛';
-        }
-        document.getElementById('feathers').innerHTML = feathersHTML;
-
-        // 阵法
-        const meridians = data.meridians || {};
-        document.getElementById('meridians').innerHTML = `
-            <div class="stat"><span class="stat-name">经脉:</span> <span class="stat-value">${Object.entries(meridians.vein || {}).map(([k, v]) => `经脉${k}: 阶${v.rank} 级${v.level}`).join(', ')}</span></div>
-            <div class="stat"><span class="stat-name">镶嵌丹药:</span> <span class="stat-value">${Object.keys(meridians.inlayPill || {}).length > 0 ? JSON.stringify(meridians.inlayPill) : '无'}</span></div>
-            <div class="stat"><span class="stat-name">精炼次数:</span> <span class="stat-value">${Object.entries(meridians.refiningNum || {}).map(([k, v]) => `${k}: ${v}次`).join(', ')}</span></div>
-        `;
-
-        // 默认显示基本信息
-        openTab('basic');
-        // 右下角显示完整数据
-    //    infoBox.style.display = 'block';
-   //     infoContent.textContent = JSON.stringify(data, null, 2);
-
-        // 添加折叠功能
-        setupCollapsibles();
-
-    } catch (e) {
-        document.getElementById('basic').innerHTML = `<p class="error">解析错误: ${e.message}</p>`;
-        openTab('basic');
-        infoBox.style.display = 'none';
+        // 显示基本信息
+        displayBasicInfo(data);
+        
+        // 显示称号信息
+        displayTitles(data.titles);
+        
+        // 显示装备信息
+        displayEquipment(data.hero.equipments);
+        
+        // 显示技能信息
+        displaySkills(data.hero.skillPages);
+        
+        // 显示内丹信息
+        displayNeidan(data.hero.neiDanList);
+        
+        // 显示羽毛信息
+        displayFeathers(data.hero.feathers);
+        
+        // 显示法宝信息
+        displayMagics(data.magics);
+        
+        // 显示翅膀信息
+        displayWingbag(data.hero.fashions);
+        
+        // 显示宠物信息
+        displayPet(data.pet);
+        
+        // 显示坐骑信息
+        displayRide(data.ride);
+        
+        // 显示经脉信息
+        displayMeridians(data.meridians);
+        
+    } catch (error) {
+        console.error('数据处理错误:', error);
+        alert('数据处理出错，请稍后重试');
     }
+}
+
+// 显示基本信息
+function displayBasicInfo(data) {
+    const basicPane = document.getElementById('basic');
+    basicPane.innerHTML = `
+        <div class="info-section">
+            <h3>基本信息</h3>
+            <div class="info-grid">
+                <div class="info-item">
+                    <span class="label">名称：</span>
+                    <span class="value">${data.name}</span>
+                </div>
+                <div class="info-item">
+                    <span class="label">UID：</span>
+                    <span class="value">${data.uid}</span>
+                </div>
+                <div class="info-item">
+                    <span class="label">等级：</span>
+                    <span class="value">${data.lv}</span>
+                </div>
+                <div class="info-item">
+                    <span class="label">VIP等级：</span>
+                    <span class="value">${data.vipLv}</span>
+                </div>
+                <div class="info-item">
+                    <span class="label">战斗力：</span>
+                    <span class="value">${data.fightpoint}</span>
+                </div>
+            </div>
+        </div>
+    `;
+}
+
+// 显示称号信息
+function displayTitles(titles) {
+    const titlesPane = document.getElementById('titles');
+    let html = '<div class="info-section"><h3>称号列表</h3><div class="titles-grid">';
+    
+    for (const [id, title] of Object.entries(titles)) {
+        html += `
+            <div class="title-item">
+                <div class="title-id">ID: ${id}</div>
+                <div class="title-time">最后使用: ${title.last ? new Date(title.last).toLocaleString() : '未使用'}</div>
+            </div>
+        `;
+    }
+    
+    html += '</div></div>';
+    titlesPane.innerHTML = html;
+}
+
+// 显示装备信息
+function displayEquipment(equipments) {
+    const equipmentPane = document.getElementById('equipment');
+    let html = '<div class="info-section"><h3>装备信息</h3>';
+    
+    for (const [slot, equip] of Object.entries(equipments)) {
+        html += `
+            <div class="equipment-item">
+                <h4>${getEquipmentSlotName(slot)}</h4>
+                <div class="equipment-details">
+                    <p>等级：${equip.lv}</p>
+                    <p>经验：${equip.exp}</p>
+                    <div class="attributes">
+                        <h5>基础属性：</h5>
+                        ${formatAttributes(equip.data.attr)}
+                        <h5>附加属性：</h5>
+                        ${formatAttributes(equip.data.affixAttr)}
+                    </div>
+                </div>
+            </div>
+        `;
+    }
+    
+    html += '</div>';
+    equipmentPane.innerHTML = html;
+}
+
+// 显示技能信息
+function displaySkills(skillPages) {
+    const skillsPane = document.getElementById('skills');
+    let html = '<div class="info-section"><h3>技能信息</h3>';
+    
+    skillPages.pages.forEach((page, index) => {
+        html += `
+            <div class="skill-page">
+                <h4>技能页 ${index + 1}</h4>
+                <div class="skills-list">
+                    ${page.skills.map(skill => `
+                        <div class="skill-item">
+                            <span class="skill-id">ID: ${skill.id}</span>
+                            <span class="skill-level">等级: ${skill.lv}</span>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    });
+    
+    html += '</div>';
+    skillsPane.innerHTML = html;
+}
+
+// 显示内丹信息
+function displayNeidan(neiDanList) {
+    const neidanPane = document.getElementById('neidan');
+    let html = '<div class="info-section"><h3>内丹信息</h3>';
+    
+    neiDanList.pages.forEach((page, index) => {
+        html += `
+            <div class="neidan-page">
+                <h4>${page.name}</h4>
+                <div class="neidan-stats">
+                    <p>阴气：${page.yin}</p>
+                    <p>阳气：${page.yang}</p>
+                </div>
+                <div class="danqi-list">
+                    ${page.danqi.map(danqi => `
+                        <div class="danqi-item">
+                            <p>ID: ${danqi.id}</p>
+                            <p>类型: ${danqi.type}</p>
+                            <p>属性: ${JSON.stringify(danqi.attr)}</p>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    });
+    
+    html += '</div>';
+    neidanPane.innerHTML = html;
+}
+
+// 显示羽毛信息
+function displayFeathers(feathers) {
+    const feathersPane = document.getElementById('feathers');
+    let html = '<div class="info-section"><h3>羽毛信息</h3><div class="feathers-grid">';
+    
+    feathers.forEach(feather => {
+        html += `
+            <div class="feather-item">
+                <div class="feather-id">ID: ${feather.id}</div>
+                <div class="feather-attr">
+                    ${formatAttributes(feather.attr)}
+                </div>
+                <div class="feather-fightpoint">战斗力: ${feather.fightpoint}</div>
+            </div>
+        `;
+    });
+    
+    html += '</div></div>';
+    feathersPane.innerHTML = html;
+}
+
+// 显示法宝信息
+function displayMagics(magics) {
+    const magicsPane = document.getElementById('magics');
+    let html = '<div class="info-section"><h3>法宝信息</h3><div class="magics-grid">';
+    
+    magics.forEach(magic => {
+        html += `
+            <div class="magic-item">
+                <div class="magic-id">ID: ${magic.id}</div>
+                <div class="magic-level">等级: ${magic.lv}</div>
+                <div class="magic-growth">成长: ${magic.growth}</div>
+                <div class="magic-blessing">祝福: ${magic.blessing.join(', ')}</div>
+            </div>
+        `;
+    });
+    
+    html += '</div></div>';
+    magicsPane.innerHTML = html;
+}
+
+// 辅助函数：获取装备槽位名称
+function getEquipmentSlotName(slot) {
+    const slotNames = {
+        'weapon': '武器',
+        'head': '头部',
+        'hand': '手部',
+        'armor': '护甲',
+        'foot': '脚部',
+        'jewelry': '饰品'
+    };
+    return slotNames[slot] || slot;
+}
+
+// 辅助函数：格式化属性显示
+function formatAttributes(attr) {
+    return Object.entries(attr).map(([key, value]) => `
+        <div class="attr-item">
+            <span class="attr-name">${key}:</span>
+            <span class="attr-value">${value}</span>
+        </div>
+    `).join('');
 }

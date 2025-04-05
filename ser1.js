@@ -11,6 +11,7 @@ const CLIENT_WSS_PATH = '/client';   // 前端网页连接路径
 
 // ======== HTTP服务器 ========
 const server = http.createServer((req, res) => {
+  // 处理静态文件请求
   const filePath = path.join(__dirname, STATIC_DIR, req.url === '/' ? 'index.html' : req.url);
   const ext = path.extname(filePath).toLowerCase();
 
