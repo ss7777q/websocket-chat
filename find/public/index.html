@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>角色信息展示</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .section {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #333;
+        }
+        .attr-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+        }
+        .attr-item {
+            background: #f9f9f9;
+            padding: 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>角色信息</h1>
+    
+    <div class="section" id="basic-info">
+        <h2>基本信息</h2>
+    </div>
+
+    <div class="section" id="equipments">
+        <h2>装备</h2>
+    </div>
+
+    <div class="section" id="skills">
+        <h2>技能</h2>
+    </div>
+
+    <div class="section" id="matrix">
+        <h2>矩阵</h2>
+    </div>
+
+    <div class="section" id="ride">
+        <h2>坐骑</h2>
+    </div>
+
+    <div class="section" id="pet">
+        <h2>宠物</h2>
+    </div>
+
+    <div class="section" id="titles">
+        <h2>称号</h2>
+    </div>
+
+    <script>
+        // 示例 JSON 数据（实际应从后端获取）
+        const playerData = {
+            name: "示例角色",
+            uid: "123456",
+            lv: 50,
+            iparea: "中国",
+            fightpoint: 10000,
+            hero: {
+                equipments: {
+                    weapon: { data: { id: 8061393, attr: { atk: 100, hp: 500 }, affixAttr: { crit: 10, dodge: 5 } }, lv: 10 },
+                    armor: { data: { id: 8061394, attr: { atk: 50, hp: 1000 }, affixAttr: { crit: 5, dodge: 10 } }, lv: 15 }
+                },
+                skillPages: { pages: [{ skills: [{ id: 9001, lv: 5 }, { id: 9002, lv: 3 }] }] }
+            },
+            matrix: { "1": { equiped: true, skill: { id: 7001, level: 2 } } },
+            ride: { id: 6001, lv: 20, fightpoint: 2000, strQuality: 50, vitQuality: 60 },
+            pet: { id: 5001, lv: 15, fightpoint: 1500, strQuality: 40, dexQuality: 45 },
+            titles: { list: { "1010001": { pos: 1 }, "1010002": { pos: 0 } } }
+        };
+
+        async function fetchItemNameById(id, type) {
+            const response = await fetch(`/api/${type}/${id}`);
+            const data = await response.json();
+            return data.name || `未知${type} (ID: ${id})`;
+        }
+
+        function renderBasicInfo() {
+            const basicInfo = document.getElementById('basic-info');
+            const html = `
+                <p>名称: ${playerData.name}</p>
+                <p>UID: ${playerData.uid}</p>
+                <p>等级: ${playerData.lv}</p>
+                <p>地区: ${playerData.iparea}</p>
+                <p>战斗力: ${playerData.fightpoint}</p>
+            `;
+            basicInfo.innerHTML += html;
+        }
+
+        async function renderEquipments() {
+            const equipmentsDiv = document.getElementById('equipments');
+            const equipments = playerData.hero.equipments;
+            let html = '<div class="attr-list">';
+            for (const [part, equip] of Object.entries(equipments)) {
+                const itemName = await fetchItemNameById(equip.data.id, 'equipments');
+                html += `
+                    <div class="attr-item">
+                        <strong>${part} (${itemName})</strong><br>
+                        等级: ${equip.lv}<br>
+                        基础属性: ATK: ${equip.data.attr.atk || 0}, HP: ${equip.data.attr.hp || 0}<br>
+                        附加属性: Crit: ${equip.data.affixAttr.crit || 0}, Dodge: ${equip.data.affixAttr.dodge || 0}
+                    </div>
+                `;
+            }
+            html += '</div>';
+            equipmentsDiv.innerHTML += html;
+        }
+
+        async function renderSkills() {
+            const skillsDiv = document.getElementById('skills');
+            const skills = playerData.hero.skillPages.pages[0].skills;
+            let html = '<div class="attr-list">';
+            for (const skill of skills) {
+                const skillName = await fetchItemNameById(skill.id, 'skills');
+                html += `
+                    <div class="attr-item">
+                        <strong>${skillName}</strong><br>
+                        等级: ${skill.lv}
+                    </div>
+                `;
+            }
+            html += '</div>';
+            skillsDiv.innerHTML += html;
+        }
+
+        async function renderMatrix() {
+            const matrixDiv = document.getElementById('matrix');
+            const matrix = playerData.matrix;
+            let html = '<div class="attr-list">';
+            for (const [id, data] of Object.entries(matrix)) {
+                if (data.equiped) {
+                    const skillName = await fetchItemNameById(data.skill.id, 'matrix');
+                    html += `
+                        <div class="attr-item">
+                            <strong>矩阵 ${id} (${skillName})</strong><br>
+                            是否装备: 是<br>
+                            技能等级: ${data.skill.level}
+                        </div>
+                    `;
+                }
+            }
+            html += '</div>';
+            matrixDiv.innerHTML += html;
+        }
+
+        async function renderRide() {
+            const rideDiv = document.getElementById('ride');
+            const ride = playerData.ride;
+            const rideName = await fetchItemNameById(ride.id, 'ride');
+            const html = `
+                <p>名称: ${rideName}</p>
+                <p>等级: ${ride.lv}</p>
+                <p>战斗力: ${ride.fightpoint}</p>
+                <p>力量资质: ${ride.strQuality}</p>
+                <p>体质资质: ${ride.vitQuality}</p>
+            `;
+            rideDiv.innerHTML += html;
+        }
+
+        async function renderPet() {
+            const petDiv = document.getElementById('pet');
+            const pet = playerData.pet;
+            const petName = await fetchItemNameById(pet.id, 'pet');
+            const html = `
+                <p>名称: ${petName}</p>
+                <p>等级: ${pet.lv}</p>
+                <p>战斗力: ${pet.fightpoint}</p>
+                <p>力量资质: ${pet.strQuality}</p>
+                <p>敏捷资质: ${pet.dexQuality}</p>
+            `;
+            petDiv.innerHTML += html;
+        }
+
+        async function renderTitles() {
+            const titlesDiv = document.getElementById('titles');
+            const titles = playerData.titles.list;
+            let html = '<div class="attr-list">';
+            for (const [id, data] of Object.entries(titles)) {
+                const titleName = await fetchItemNameById(id, 'titles');
+                html += `
+                    <div class="attr-item">
+                        <strong>${titleName}</strong><br>
+                        ID: ${id}<br>
+                        位置: ${data.pos || '未装备'}
+                    </div>
+                `;
+            }
+            html += '</div>';
+            titlesDiv.innerHTML += html;
+        }
+
+        async function init() {
+            renderBasicInfo();
+            await renderEquipments();
+            await renderSkills();
+            await renderMatrix();
+            await renderRide();
+            await renderPet();
+            await renderTitles();
+        }
+
+        init();
+    </script>
+</body>
+</html>

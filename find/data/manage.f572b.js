@@ -1,0 +1,1 @@
+var tmp=[["id","maintenance","kickOut","version","loginedLimit","versionIos","bigVersionIos"],[1,0,0,"1.0.0",1e4,"1.0.0","1.0.0"]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.manage=tmp);

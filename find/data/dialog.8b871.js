@@ -1,0 +1,1 @@
+var tmp=[["id","content","sayer","link"],[1,"what your name?",,2],[2,"My name is monkey,thanks!","剧情NPC-小猴子",3],[3,"Get out~~~~~!"]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.dialog=tmp);

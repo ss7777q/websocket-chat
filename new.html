@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>斗罗大陆玩家信息查询</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #1a1a1a;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        #container {
+            background: rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            width: 500px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+            border: 2px solid gold;
+        }
+        h2 {
+            color: gold;
+            text-align: center;
+            margin-top: 0;
+        }
+        #queryForm {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        #uidInput {
+            flex-grow: 1;
+            padding: 8px;
+            border: 1px solid #555;
+            border-radius: 5px 0 0 5px;
+            background: #222;
+            color: white;
+            outline: none;
+        }
+        #queryButton {
+            padding: 8px 15px;
+            background: #8b0000;
+            color: white;
+            border: 1px solid #555;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+        }
+        #queryButton:hover {
+            background: #b22222;
+        }
+        #results {
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 5px;
+            height: 300px;
+            overflow-y: auto;
+        }
+        .tab {
+            margin-bottom: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        .tab-btn {
+            padding: 8px 15px;
+            background: #555;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .tab-btn.active {
+            background: #8b0000;
+        }
+        .tab-btn:hover {
+            background: #777;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .stat {
+            margin: 5px 0;
+        }
+        .stat-name {
+            color: #aaa;
+        }
+        .stat-value {
+            color: gold;
+            font-weight: bold;
+        }
+        .error {
+            color: red;
+        }
+        .collapsible {
+            background: #444;
+            color: white;
+            cursor: pointer;
+            padding: 8px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 14px;
+            margin: 5px 0;
+        }
+        .collapsible:hover {
+            background: #666;
+        }
+        .content {
+            padding: 0 10px;
+            display: none;
+            overflow: hidden;
+            background: rgba(255, 255, 255, 0.05);
+        }
+        #infoBox {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            width: 300px;
+            max-height: 200px;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid gold;
+            overflow-y: auto;
+            font-size: 12px;
+            color: #fff;
+        }
+        #copyButton {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            padding: 5px 10px;
+            background: #8b0000;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        #copyButton:hover {
+            background: #b22222;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h2>玩家信息查询</h2>
+        <div id="queryForm">
+            <input type="text" id="uidInput" placeholder="输入UID，例如 2018505912|4399|1">
+            <button id="queryButton">查询</button>
+        </div>
+        <div id="results">
+            <div class="tab">
+                <button class="tab-btn" onclick="openTab('basic')">基本信息</button>
+                <button class="tab-btn" onclick="openTab('titles')">称号</button>
+                <button class="tab-btn" onclick="openTab('wingbag')">翅膀</button>
+                <button class="tab-btn" onclick="openTab('pet')">宠物</button>
+                <button class="tab-btn" onclick="openTab('ride')">坐骑</button>
+                <button class="tab-btn" onclick="openTab('feathers')">羽毛</button>
+                <button class="tab-btn" onclick="openTab('meridians')">阵法</button>
+            </div>
+            <div id="basic" class="tab-content"></div>
+            <div id="titles" class="tab-content"></div>
+            <div id="wingbag" class="tab-content"></div>
+            <div id="pet" class="tab-content"></div>
+            <div id="ride" class="tab-content"></div>
+            <div id="feathers" class="tab-content"></div>
+            <div id="meridians" class="tab-content"></div>
+        </div>
+    </div>
+    <div id="infoBox" style="display: none;">
+        <button id="copyButton">复制</button>
+        <div id="infoContent"></div>
+    </div>
+
+    <script>
+		const ws = new WebSocket('ws://localhost:3000');
+        const resultsDiv = document.getElementById('results');
+        const infoBox = document.getElementById('infoBox');
+        const infoContent = document.getElementById('infoContent');
+        const copyButton = document.getElementById('copyButton');
+
+        ws.onopen = () => {
+            resultsDiv.innerHTML = `
+                <div class="tab">
+                    <button class="tab-btn" onclick="openTab('basic')">基本信息</button>
+                    <button class="tab-btn" onclick="openTab('titles')">称号</button>
+                    <button class="tab-btn" onclick="openTab('wingbag')">翅膀</button>
+                    <button class="tab-btn" onclick="openTab('pet')">宠物</button>
+                    <button class="tab-btn" onclick="openTab('ride')">坐骑</button>
+                    <button class="tab-btn" onclick="openTab('feathers')">羽毛</button>
+                    <button class="tab-btn" onclick="openTab('meridians')">阵法</button>
+                </div>
+                <div id="basic" class="tab-content active">已连接到服务器，请输入UID查询</div>
+                <div id="titles" class="tab-content"></div>
+                <div id="wingbag" class="tab-content"></div>
+                <div id="pet" class="tab-content"></div>
+                <div id="ride" class="tab-content"></div>
+                <div id="feathers" class="tab-content"></div>
+                <div id="meridians" class="tab-content"></div>
+            `;
+        };
+
+        ws.onmessage = (event) => {
+            const processData = (text) => {
+                try {
+                    const response = JSON.parse(text);
+                    if (response.success) {
+                        const data = response.data;
+
+                        // 基本信息
+                        document.getElementById('basic').innerHTML = `
+                            <div class="stat"><span class="stat-name">昵称:</span> <span class="stat-value">${data.name || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">UID:</span> <span class="stat-value">${data.uid || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${data.lv || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">VIP等级:</span> <span class="stat-value">${data.vipLv || '0'}</span></div>
+                            <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${data.fightpoint || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">地区:</span> <span class="stat-value">${data.iparea || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">公会:</span> <span class="stat-value">${data.leagueName || '无'}</span></div>
+                            <div class="stat"><span class="stat-name">隐藏VIP:</span> <span class="stat-value">${data.hideVip ? '是' : '否'}</span></div>
+                        `;
+
+                        // 称号（折叠）
+                        const titlesList = Object.values(data.titles?.list || {});
+                        let titlesHTML = titlesList.length > 1 ? '' : (titlesList[0] ? `
+                            <div class="stat"><span class="stat-name">称号ID:</span> <span class="stat-value">${titlesList[0].id}</span></div>
+                            <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${titlesList[0].pos ? '使用中' : '未使用'}</span></div>
+                            <div class="stat"><span class="stat-name">到期时间:</span> <span class="stat-value">${titlesList[0].last ? new Date(titlesList[0].last).toLocaleString() : '无'}</span></div>
+                        ` : '暂无称号');
+                        if (titlesList.length > 1) {
+                            titlesHTML = titlesList.map((t, index) => `
+                                <button class="collapsible">称号 ${t.id} ${t.pos ? '(使用中)' : ''}</button>
+                                <div class="content">
+                                    <div class="stat"><span class="stat-name">称号ID:</span> <span class="stat-value">${t.id}</span></div>
+                                    <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${t.pos ? '使用中' : '未使用'}</span></div>
+                                    <div class="stat"><span class="stat-name">到期时间:</span> <span class="stat-value">${t.last ? new Date(t.last).toLocaleString() : '无'}</span></div>
+                                </div>
+                            `).join('');
+                        }
+                        document.getElementById('titles').innerHTML = titlesHTML || '暂无称号';
+
+                        // 翅膀（折叠）
+                        const wingsList = data.wingBag || [];
+                        let wingsHTML = wingsList.length > 1 ? '' : (wingsList[0] ? `
+                            <div class="stat"><span class="stat-name">翅膀ID:</span> <span class="stat-value">${wingsList[0].id}</span></div>
+                            <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${wingsList[0].lv || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${wingsList[0].pos ? '使用中' : '未使用'}</span></div>
+                            <div class="stat"><span class="stat-name">技能:</span> <span class="stat-value">${wingsList[0].skills?.map(s => `技能${s.wingSkill}: ${s.lv}级`).join(', ') || '无'}</span></div>
+                        ` : '暂无翅膀');
+                        if (wingsList.length > 1) {
+                            wingsHTML = wingsList.map((w, index) => `
+                                <button class="collapsible">翅膀 ${w.id} ${w.pos ? '(使用中)' : ''}</button>
+                                <div class="content">
+                                    <div class="stat"><span class="stat-name">翅膀ID:</span> <span class="stat-value">${w.id}</span></div>
+                                    <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${w.lv || '未知'}</span></div>
+                                    <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${w.pos ? '使用中' : '未使用'}</span></div>
+                                    <div class="stat"><span class="stat-name">技能:</span> <span class="stat-value">${w.skills?.map(s => `技能${s.wingSkill}: ${s.lv}级`).join(', ') || '无'}</span></div>
+                                </div>
+                            `).join('');
+                        }
+                        document.getElementById('wingbag').innerHTML = wingsHTML || '暂无翅膀';
+
+                        // 宠物
+                        const pet = data.pet || {};
+                        document.getElementById('pet').innerHTML = data.pet ? `
+                            <div class="stat"><span class="stat-name">宠物ID:</span> <span class="stat-value">${pet.id || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">名称:</span> <span class="stat-value">${pet.name || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">星级:</span> <span class="stat-value">${pet.star || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${pet.lv || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${pet.fightpoint || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${pet.pos ? '使用中' : '未使用'}</span></div>
+                            <div class="stat"><span class="stat-name">资质:</span> <span class="stat-value">力量:${pet.strQuality || 0}, 体质:${pet.vitQuality || 0}, 幸运:${pet.luckQuality || 0}, 敏捷:${pet.dexQuality || 0}</span></div>
+                            <div class="stat"><span class="stat-name">主动技能:</span> <span class="stat-value">${pet.skillActive?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
+                            <div class="stat"><span class="stat-name">被动技能:</span> <span class="stat-value">${pet.skillPassive?.map(s => s).join(', ') || '无'}</span></div>
+                            <div class="stat"><span class="stat-name">特殊技能:</span> <span class="stat-value">${pet.skillSp?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
+                            <div class="stat"><span class="stat-name">潜能技能:</span> <span class="stat-value">${pet.skillPotential?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
+                            <div class="stat"><span class="stat-name">到期时间:</span> <span class="stat-value">${pet.expireTime === -1 ? '永久' : new Date(pet.expireTime).toLocaleString()}</span></div>
+                        ` : '暂无宠物';
+
+                        // 坐骑
+                        const ride = data.ride || {};
+                        document.getElementById('ride').innerHTML = data.ride ? `
+                            <div class="stat"><span class="stat-name">坐骑ID:</span> <span class="stat-value">${ride.id || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">名称:</span> <span class="stat-value">${ride.name || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">星级:</span> <span class="stat-value">${ride.star || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">等级:</span> <span class="stat-value">${ride.lv || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${ride.fightpoint || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">状态:</span> <span class="stat-value">${ride.pos ? '使用中' : '未使用'}</span></div>
+                            <div class="stat"><span class="stat-name">资质:</span> <span class="stat-value">力量:${ride.strQuality || 0}, 体质:${ride.vitQuality || 0}, 幸运:${ride.luckQuality || 0}, 敏捷:${ride.dexQuality || 0}</span></div>
+                            <div class="stat"><span class="stat-name">主动技能:</span> <span class="stat-value">${ride.skillActive?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
+                            <div class="stat"><span class="stat-name">被动技能:</span> <span class="stat-value">${ride.skillPassive?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
+                            <div class="stat"><span class="stat-name">特殊技能:</span> <span class="stat-value">${ride.skillSp?.map(s => `${s.id}: ${s.lv}级`).join(', ') || '无'}</span></div>
+                            <div class="stat"><span class="stat-name">到期时间:</span> <span class="stat-value">${ride.expireTime === -1 ? '永久' : new Date(ride.expireTime).toLocaleString()}</span></div>
+                        ` : '暂无坐骑';
+
+                        // 羽毛（折叠）
+                        const feathersList = data.hero?.feathers || [];
+                        let feathersHTML = feathersList.length > 1 ? '' : (feathersList[0] ? `
+                            <div class="stat"><span class="stat-name">羽毛ID:</span> <span class="stat-value">${feathersList[0].id}</span></div>
+                            <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${feathersList[0].fightpoint || '未知'}</span></div>
+                            <div class="stat"><span class="stat-name">属性:</span> <span class="stat-value">${Object.entries(feathersList[0].attr || {}).map(([k, v]) => `${k}: ${v}`).join(', ')}</span></div>
+                            <div class="stat"><span class="stat-name">属性百分比:</span> <span class="stat-value">${Object.entries(feathersList[0].attrPer || {}).map(([k, v]) => `${k}: ${v}`).join(', ')}</span></div>
+                            <div class="stat"><span class="stat-name">获取时间:</span> <span class="stat-value">${feathersList[0].getTime ? new Date(feathersList[0].getTime).toLocaleString() : '未知'}</span></div>
+                        ` : '暂无羽毛');
+                        if (feathersList.length > 1) {
+                            feathersHTML = feathersList.map((f, index) => `
+                                <button class="collapsible">羽毛 ${f.id} (战斗力: ${f.fightpoint || '未知'})</button>
+                                <div class="content">
+                                    <div class="stat"><span class="stat-name">羽毛ID:</span> <span class="stat-value">${f.id}</span></div>
+                                    <div class="stat"><span class="stat-name">战斗力:</span> <span class="stat-value">${f.fightpoint || '未知'}</span></div>
+                                    <div class="stat"><span class="stat-name">属性:</span> <span class="stat-value">${Object.entries(f.attr || {}).map(([k, v]) => `${k}: ${v}`).join(', ')}</span></div>
+                                    <div class="stat"><span class="stat-name">属性百分比:</span> <span class="stat-value">${Object.entries(f.attrPer || {}).map(([k, v]) => `${k}: ${v}`).join(', ')}</span></div>
+                                    <div class="stat"><span class="stat-name">获取时间:</span> <span class="stat-value">${f.getTime ? new Date(f.getTime).toLocaleString() : '未知'}</span></div>
+                                </div>
+                            `).join('');
+                        }
+                        document.getElementById('feathers').innerHTML = feathersHTML || '暂无羽毛';
+
+                        // 阵法
+                        const meridians = data.meridians || {};
+                        document.getElementById('meridians').innerHTML = `
+                            <div class="stat"><span class="stat-name">经脉:</span> <span class="stat-value">${Object.entries(meridians.vein || {}).map(([k, v]) => `经脉${k}: 阶${v.rank} 级${v.level}`).join(', ')}</span></div>
+                            <div class="stat"><span class="stat-name">镶嵌丹药:</span> <span class="stat-value">${Object.keys(meridians.inlayPill || {}).length > 0 ? JSON.stringify(meridians.inlayPill) : '无'}</span></div>
+                            <div class="stat"><span class="stat-name">精炼次数:</span> <span class="stat-value">${Object.entries(meridians.refiningNum || {}).map(([k, v]) => `${k}: ${v}次`).join(', ')}</span></div>
+                        `;
+
+                        // 默认显示基本信息
+                        openTab('basic');
+                        // 右下角显示完整数据
+                        infoBox.style.display = 'block';
+                        infoContent.textContent = JSON.stringify(data, null, 2);
+
+                        // 添加折叠功能
+                        const collapsibles = document.getElementsByClassName('collapsible');
+                        for (let i = 0; i < collapsibles.length; i++) {
+                            collapsibles[i].addEventListener('click', function() {
+                                this.classList.toggle('active');
+                                const content = this.nextElementSibling;
+                                if (content.style.display === 'block') {
+                                    content.style.display = 'none';
+                                } else {
+                                    content.style.display = 'block';
+                                }
+                            });
+                        }
+                    } else {
+                        document.getElementById('basic').innerHTML = `<p class="error">错误: ${response.error}</p>`;
+                        openTab('basic');
+                        infoBox.style.display = 'none';
+                    }
+                } catch (e) {
+                    document.getElementById('basic').innerHTML = `<p class="error">解析错误: ${e.message}</p>`;
+                    openTab('basic');
+                    infoBox.style.display = 'none';
+                }
+            };
+
+            if (event.data instanceof Blob) {
+                const reader = new FileReader();
+                reader.onload = () => processData(reader.result);
+                reader.onerror = () => {
+                    document.getElementById('basic').innerHTML = '<p class="error">读取数据失败</p>';
+                    openTab('basic');
+                    infoBox.style.display = 'none';
+                };
+                reader.readAsText(event.data);
+            } else {
+                processData(event.data);
+            }
+        };
+
+        ws.onerror = (error) => {
+            document.getElementById('basic').innerHTML = '<p class="error">连接错误，请检查服务器</p>';
+            openTab('basic');
+            infoBox.style.display = 'none';
+        };
+
+        ws.onclose = () => {
+            document.getElementById('basic').innerHTML = '<p class="error">连接已关闭</p>';
+            openTab('basic');
+            infoBox.style.display = 'none';
+        };
+
+        function openTab(tabName) {
+            const tabs = document.getElementsByClassName('tab-content');
+            const btns = document.getElementsByClassName('tab-btn');
+            for (let i = 0; i < tabs.length; i++) {
+                tabs[i].classList.remove('active');
+            }
+            for (let i = 0; i < btns.length; i++) {
+                btns[i].classList.remove('active');
+            }
+            document.getElementById(tabName).classList.add('active');
+            document.querySelector(`button[onclick="openTab('${tabName}')"]`).classList.add('active');
+        }
+
+        async function fetchPlayerInfo() {
+            const uid = document.getElementById('uidInput').value.trim();
+            if (!uid) {
+                document.getElementById('basic').innerHTML = '<p class="error">请输入有效的UID</p>';
+                openTab('basic');
+                return;
+            }
+            document.getElementById('basic').innerHTML = '查询中...';
+            openTab('basic');
+            if (ws.readyState === WebSocket.OPEN) {
+                ws.send(uid);
+            } else {
+                document.getElementById('basic').innerHTML = '<p class="error">未连接到服务器</p>';
+            }
+        }
+
+        document.getElementById('queryButton').addEventListener('click', fetchPlayerInfo);
+        document.getElementById('uidInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') fetchPlayerInfo();
+        });
+
+        copyButton.addEventListener('click', () => {
+            const textToCopy = infoContent.textContent;
+            navigator.clipboard.writeText(textToCopy)
+                .then(() => alert('已复制到剪贴板！'))
+                .catch(err => alert('复制失败: ' + err));
+        });
+    </script>
+</body>
+</html>

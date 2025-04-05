@@ -1,0 +1,1 @@
+var tmp=[["id","exp","max"],[1,500],[2,1050],[3,1650],[4,2350,1],[5,3150],[6,4100],[7,5200],[8,6500],[9,8e3],[10,9750],[11,11750],[12,14050],[13,16650],[14,19600],[15,22900],[16,26600],[17,30800],[18,35600],[19,41100],[20]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.goodFriend=tmp);

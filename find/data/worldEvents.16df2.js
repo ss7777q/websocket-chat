@@ -1,0 +1,1 @@
+var tmp=[["id","type","icon","picture","text","font"],[10001,1,"pantaodahdatu","pantaodahdatu1","天庭每年一度的蟠桃大会，会邀请为天庭做出杰出贡献的上仙参加。每一届蟠桃大会都会根据上仙在特殊活动中为天庭所做贡献而排座次。",[20,"#fffed5",2,"#283939"]]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.worldEvents=tmp);

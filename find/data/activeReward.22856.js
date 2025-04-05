@@ -1,0 +1,1 @@
+var tmp=[["id","reward"],[800,[[1002,1],[11300,5]]],[2e3,[[2,100],[11300,10]]],[4e3,[[2,200],[1030,1]]]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.activeReward=tmp);

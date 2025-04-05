@@ -1,0 +1,1 @@
+var tmp=[["id","friendValue","iconFile","isMaxLevel"],[1,[0,200],"psxf"],[2,[200,600],"xjhw"],[3,[600,2500],"ztdh"],[4,[2500,5e3],"gdxz"],[5,[5e3,1e4],"mnzj"],[6,[1e4,2e4],"ssbl",1]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.friendValue=tmp);

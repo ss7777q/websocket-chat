@@ -1,0 +1,1 @@
+var tmp=[["id","type","unlock","managerUnlock"],[101,1,[[16,3]]],[102,1,[[16,4]]],[103,1,[[16,5]]],[104,1,[[16,6]]],[105,1,[[16,7]]],[106,1,[[16,8]]],[107,1,[[16,9]]],[108,1,[[16,10]]],[109,1,[[16,11]]],[201,2,[[16,3]]]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.leaguePond=tmp);
