@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>造梦无双玩家信息查询</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="container">
+        <h2>玩家信息查询</h2>
+        <div id="queryForm">
+            <input type="text" id="uidInput" placeholder="输入UID，例如 2018505912|4399|1">
+            <button id="queryButton">查询</button>
+        </div>
+        <div id="results">
+            <div class="tab">
+                <button class="tab-btn" onclick="openTab('basic')">基本信息</button>
+                <button class="tab-btn" onclick="openTab('titles')">称号</button>
+                <button class="tab-btn" onclick="openTab('wingbag')">翅膀</button>
+                <button class="tab-btn" onclick="openTab('pet')">宠物</button>
+                <button class="tab-btn" onclick="openTab('ride')">坐骑</button>
+                <button class="tab-btn" onclick="openTab('feathers')">羽毛</button>
+                <button class="tab-btn" onclick="openTab('meridians')">外丹</button>
+            </div>
+            <div id="basic" class="tab-content"></div>
+            <div id="titles" class="tab-content"></div>
+            <div id="wingbag" class="tab-content"></div>
+            <div id="pet" class="tab-content"></div>
+            <div id="ride" class="tab-content"></div>
+            <div id="feathers" class="tab-content"></div>
+            <div id="meridians" class="tab-content"></div>
+        </div>
+    </div>
+    <div id="infoBox" style="display: none;">
+        <button id="copyButton">复制</button>
+        <div id="infoContent"></div>
+    </div>
+
+    <script src="styles.js"></script>
+    <script src="websocket.js"></script>
+    <script src="ui.js"></script>
+    <script src="dataProcessing.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
