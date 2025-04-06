@@ -1,0 +1,116 @@
+// ==UserScript==
+// @name         test造梦无双
+// @namespace    http://tampermonkey.net/
+// @version      1.6
+// @description  通过WebSocket桥接器连接本地服务器，实时转发游戏数据
+// @author       Claude
+// @match        https://client-zmxyol.3304399.net/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // ======== 初始化状态显示框 ======== （保持你原有UI逻辑）
+    const statusBox = (function createStatusBox() {
+        const div = document.createElement('div');
+        div.id = 'zw-status';
+        div.style.cssText = `
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            padding: 10px;
+            background: rgba(0,0,0,0.8);
+            color: white;
+            border-radius: 5px;
+            z-index: 9999;
+            max-width: 300px;
+        `;
+        div.innerHTML = '🟡 连接初始化中...';
+        document.body.appendChild(div);
+        return div;
+    })();
+
+    function updateStatus(text, color = 'white', emoji = '⚪') {
+        statusBox.innerHTML = `${emoji} ${text}`;
+        statusBox.style.color = color;
+    }
+
+    // ======== WebSocket连接核心 ========
+    let retryCount = 0;
+    const MAX_RETRIES = 5;
+
+    function connectToServer(socketManager) {
+        const ws = new WebSocket('ws://localhost:3000/game-relay');
+
+        ws.onopen = () => {
+            retryCount = 0;
+            updateStatus('服务器连接成功', '#90EE90', '🟢');
+        };
+
+        ws.onmessage = async (event) => {
+            const uid = event.data.toString().trim();
+            if (!uid) return;
+
+            updateStatus(`接收UID: ${uid}`, '#87CEEB', '📥');
+            try {
+                const userInfo = await new Promise((resolve, reject) => {
+                    socketManager.reqServer(
+                        "scene.playerHandler.getUserInfo",
+                        { uid: uid },
+                        response => response.code === 200 ? resolve(response.userInfo) : reject(response),
+                        error => reject(error || '请求超时')
+                    );
+                });
+
+                ws.send(JSON.stringify({
+                    type: 'success',
+                    uid: uid,
+                    data: userInfo
+                }));
+                updateStatus(`发送成功 UID:${uid}`, '#98FB98', '📤');
+            } catch (error) {
+                ws.send(JSON.stringify({
+                    type: 'error',
+                    uid: uid,
+                    message: error.message || `错误代码: ${error.code || '未知'}`
+                }));
+                updateStatus(`查询失败: ${error.message || error.code}`, '#FFB6C1', '❌');
+            }
+        };
+
+        ws.onerror = (err) => {
+            updateStatus(`连接错误: ${err.message || '未知'}`, '#FFA07A', '⚠️');
+            scheduleReconnect();
+        };
+
+        ws.onclose = () => {
+            updateStatus('连接已关闭', '#D3D3D3', '⚪');
+            scheduleReconnect();
+        };
+    }
+
+    function scheduleReconnect() {
+        if (retryCount++ < MAX_RETRIES) {
+            updateStatus(`尝试重新连接 (${retryCount}/${MAX_RETRIES})...`, 'orange', '🔄');
+            setTimeout(() => initConnection(), 3000 * retryCount);
+        } else {
+            updateStatus('永久离线', '#FF6347', '🔴');
+        }
+    }
+
+    // ======== 主初始化流程 ========
+    function initConnection() {
+        // 检测游戏核心对象
+        window.socketManager
+            ? (updateStatus('检测到socketManager', '#F0E68C', '🔍'), connectToServer(window.socketManager))
+            : setTimeout(() => window.socketManager ? connectToServer(window.socketManager) : initConnection(), 1000);
+    }
+
+    // 游戏加载完成后自动启动
+    if (document.readyState === 'complete') {
+        initConnection();
+    } else {
+        window.addEventListener('load', initConnection);
+    }
+})();
