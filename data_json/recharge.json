@@ -1,0 +1,2524 @@
+[
+  {
+    "id": 1,
+    "sortId": 11,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "600点券",
+    "rechargeType": 1,
+    "rechargeAmount": 6,
+    "exchangeGem": 600,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          12
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY6",
+      "Y6"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 2,
+    "sortId": 21,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "1000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 10,
+    "exchangeGem": 1000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          20
+        ],
+        [
+          5002,
+          1
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY10",
+      "Y10"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 3,
+    "sortId": 31,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "3000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 30,
+    "exchangeGem": 3000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          60
+        ],
+        [
+          5002,
+          3
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY30",
+      "Y30"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 4,
+    "sortId": 41,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "5000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 50,
+    "exchangeGem": 5000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          100
+        ],
+        [
+          5003,
+          3
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY68",
+      "Y50"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 5,
+    "sortId": 51,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "10000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 100,
+    "exchangeGem": 10000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          200
+        ],
+        [
+          5003,
+          6
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY128",
+      "Y100"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 6,
+    "sortId": 61,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "20000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 200,
+    "exchangeGem": 20000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          400
+        ],
+        [
+          5004,
+          6
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY198",
+      "Y200"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 7,
+    "sortId": 71,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "40000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 400,
+    "exchangeGem": 40000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          800
+        ],
+        [
+          5004,
+          12
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY328",
+      "Y400"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 8,
+    "sortId": 81,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "50000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 500,
+    "exchangeGem": 50000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          1000
+        ],
+        [
+          5004,
+          15
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY648",
+      "Y500"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 9,
+    "sortId": 91,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "100000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 1000,
+    "exchangeGem": 100000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          2000
+        ],
+        [
+          5004,
+          30
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY1024",
+      "Y1000"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10,
+    "sortId": 101,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "200000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 2000,
+    "exchangeGem": 200000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          4000
+        ],
+        [
+          5004,
+          60
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY2048",
+      "Y2000"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1
+  },
+  {
+    "id": 12,
+    "sortId": 10002,
+    "iosIapName": "com.4399.Zmxywz_b12",
+    "useOS": [],
+    "name": "点券月卡",
+    "rechargeType": 2,
+    "rechargeAmount": 30,
+    "exchangeGem": 3000,
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY10",
+      "Y10"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 8332,
+    "dailyReward": 8333,
+    "duration": 30,
+    "purchaseLimit": 5000,
+    "startTime": "2019-08-22 00:00:00",
+    "endTime": "2019-08-28 23:59:59",
+    "title": "点券月卡礼包",
+    "content": "恭喜您成功购买点券月卡，请查收您的奖励。感谢您对我们的支持，造梦世界，因你而精彩！"
+  },
+  {
+    "id": 13,
+    "sortId": 10003,
+    "iosIapName": "com.4399.Zmxywz_b13",
+    "useOS": [],
+    "name": "升星月卡",
+    "rechargeType": 2,
+    "rechargeAmount": 30,
+    "exchangeGem": 3000,
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY10",
+      "Y10"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 8330,
+    "dailyReward": 8331,
+    "duration": 30,
+    "purchaseLimit": -1,
+    "startTime": "2019-08-22 00:00:00",
+    "endTime": "2019-08-28 23:59:59",
+    "title": "升星月卡礼包",
+    "content": "恭喜您成功购买升星月卡，请查收您的奖励。感谢您对我们的支持，造梦世界，因你而精彩！"
+  },
+  {
+    "id": 14,
+    "sortId": 13,
+    "iosIapName": "com.4399.Zmxywz_b14",
+    "useOS": [
+      "gm"
+    ],
+    "name": "100点券",
+    "rechargeType": 1,
+    "rechargeAmount": 1,
+    "exchangeGem": 100,
+    "vipDisplay": 0
+  },
+  {
+    "id": 15,
+    "sortId": 12,
+    "iosIapName": "com.4399.Zmxywz_b10",
+    "useOS": [],
+    "name": "300000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 3000,
+    "exchangeGem": 300000,
+    "vipDisplay": 10,
+    "pictureDisplay": [
+      "danwtpY5000",
+      "Y3000"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 16,
+    "sortId": 1,
+    "iosIapName": "com.4399.Zmxywz_b15",
+    "useOS": [],
+    "name": "100点券",
+    "rechargeType": 1,
+    "rechargeAmount": 1,
+    "exchangeGem": 100,
+    "vipDisplay": 10,
+    "pictureDisplay": [
+      "danwtpY6",
+      "Y1"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 17,
+    "sortId": 62,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "30000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 300,
+    "exchangeGem": 30000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          600
+        ],
+        [
+          5004,
+          9
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY198",
+      "Y300"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 18,
+    "sortId": 82,
+    "useOS": [
+      "android",
+      "pc"
+    ],
+    "name": "60000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 600,
+    "exchangeGem": 60000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          1200
+        ],
+        [
+          5004,
+          18
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY328",
+      "Y600"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 101,
+    "sortId": 101,
+    "iosIapName": "com.xm4399.zmws.rmb6",
+    "useOS": [
+      "ios"
+    ],
+    "name": "600点券",
+    "rechargeType": 1,
+    "rechargeAmount": 6,
+    "exchangeGem": 600,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          12
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY6",
+      "Y6"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 102,
+    "sortId": 102,
+    "iosIapName": "com.xm4399.zmws.rmb12",
+    "useOS": [
+      "ios"
+    ],
+    "name": "1200点券",
+    "rechargeType": 1,
+    "rechargeAmount": 12,
+    "exchangeGem": 1200,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          20
+        ],
+        [
+          5002,
+          1
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY10",
+      "Y12"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 103,
+    "sortId": 103,
+    "iosIapName": "com.xm4399.zmws.rmb30",
+    "useOS": [
+      "ios"
+    ],
+    "name": "3000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 30,
+    "exchangeGem": 3000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          60
+        ],
+        [
+          5002,
+          3
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY30",
+      "Y30"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 104,
+    "sortId": 104,
+    "iosIapName": "com.xm4399.zmws.rmb50",
+    "useOS": [
+      "ios"
+    ],
+    "name": "5000点券",
+    "rechargeType": 1,
+    "rechargeAmount": 50,
+    "exchangeGem": 5000,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          100
+        ],
+        [
+          5003,
+          3
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY68",
+      "Y50"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 105,
+    "sortId": 105,
+    "iosIapName": "com.xm4399.zmws.rmb98",
+    "useOS": [
+      "ios"
+    ],
+    "name": "9800点券",
+    "rechargeType": 1,
+    "rechargeAmount": 98,
+    "exchangeGem": 9800,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          200
+        ],
+        [
+          5003,
+          6
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY128",
+      "Y98"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 106,
+    "sortId": 106,
+    "iosIapName": "com.xm4399.zmws.rmb198",
+    "useOS": [
+      "ios"
+    ],
+    "name": "19800点券",
+    "rechargeType": 1,
+    "rechargeAmount": 198,
+    "exchangeGem": 19800,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          400
+        ],
+        [
+          5004,
+          6
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY198",
+      "Y198"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 107,
+    "sortId": 107,
+    "iosIapName": "com.xm4399.zmws.rmb388",
+    "useOS": [
+      "ios"
+    ],
+    "name": "38800点券",
+    "rechargeType": 1,
+    "rechargeAmount": 388,
+    "exchangeGem": 38800,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          800
+        ],
+        [
+          5004,
+          12
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY328",
+      "Y388"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 108,
+    "sortId": 108,
+    "iosIapName": "com.xm4399.zmws.rmb518",
+    "useOS": [
+      "ios"
+    ],
+    "name": "51800点券",
+    "rechargeType": 1,
+    "rechargeAmount": 518,
+    "exchangeGem": 51800,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          1000
+        ],
+        [
+          5004,
+          15
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY648",
+      "Y518"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 109,
+    "sortId": 109,
+    "iosIapName": "com.xm4399.zmws.rmb998",
+    "useOS": [],
+    "name": "99800点券",
+    "rechargeType": 1,
+    "rechargeAmount": 998,
+    "exchangeGem": 99800,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          2000
+        ],
+        [
+          5004,
+          30
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY1024",
+      "Y998"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 110,
+    "sortId": 110,
+    "iosIapName": "com.xm4399.zmws.rmb1998",
+    "useOS": [],
+    "name": "199800点券",
+    "rechargeType": 1,
+    "rechargeAmount": 1998,
+    "exchangeGem": 199800,
+    "rechargeGift": {
+      "activityIds": [
+        5000012,
+        5000022,
+        5000032,
+        5000042
+      ],
+      "drops": [
+        [
+          5001,
+          4000
+        ],
+        [
+          5004,
+          60
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "pictureDisplay": [
+      "danwtpY2048",
+      "Y1998"
+    ],
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 202,
+    "sortId": 202,
+    "iosIapName": "com.xm4399.zmws.rmb8",
+    "useOS": [],
+    "name": "8元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 8,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 203,
+    "sortId": 203,
+    "iosIapName": "com.xm4399.zmws.rmb2",
+    "useOS": [],
+    "name": "2元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 2,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 204,
+    "sortId": 204,
+    "iosIapName": "com.xm4399.zmws.rmb1",
+    "useOS": [],
+    "name": "1元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 1,
+    "exchangeGem": 0,
+    "rechargeActivityId": 202,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 205,
+    "sortId": 205,
+    "iosIapName": "com.xm4399.zmws.gift6",
+    "useOS": [],
+    "name": "6元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 6,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 206,
+    "sortId": 206,
+    "iosIapName": "com.xm4399.zmws.chushu",
+    "useOS": [],
+    "name": "30元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 207,
+    "sortId": 207,
+    "iosIapName": "com.xm4399.zmws.rmb6yuan",
+    "useOS": [],
+    "name": "皮肤直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 6,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 208,
+    "sortId": 208,
+    "iosIapName": "com.xm4399.zmws.rmb8yuan",
+    "useOS": [],
+    "name": "新·8元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 8,
+    "exchangeGem": 0,
+    "rechargeActivityId": 208,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 209,
+    "sortId": 209,
+    "iosIapName": "com.xm4399.zmws.rmb18yuan",
+    "useOS": [],
+    "name": "18元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 18,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 210,
+    "sortId": 210,
+    "iosIapName": "com.xm4399.zmws.xiari8",
+    "useOS": [],
+    "name": "夏季超值礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 8,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          2,
+          800
+        ],
+        [
+          409992,
+          1
+        ],
+        [
+          409993,
+          1
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 211,
+    "sortId": 211,
+    "iosIapName": "com.xm4399.zmws.xiari30",
+    "useOS": [],
+    "name": "夏季特惠礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          1030,
+          10
+        ],
+        [
+          400101,
+          10
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 212,
+    "sortId": 212,
+    "iosIapName": "com.xm4399.zmws.xiaji8",
+    "useOS": [],
+    "name": "夏日超值礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 8,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          2,
+          800
+        ],
+        [
+          409992,
+          1
+        ],
+        [
+          409993,
+          1
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 213,
+    "sortId": 213,
+    "iosIapName": "com.xm4399.zmws.xiaji30",
+    "useOS": [],
+    "name": "夏日特惠礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          1030,
+          10
+        ],
+        [
+          400101,
+          10
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 214,
+    "sortId": 214,
+    "iosIapName": "com.xm4399.zmws.tongqu8",
+    "useOS": [],
+    "name": "假期超值礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 8,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          2,
+          800
+        ],
+        [
+          409992,
+          1
+        ],
+        [
+          1030,
+          2
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 215,
+    "sortId": 215,
+    "iosIapName": "com.xm4399.zmws.tongqu30",
+    "useOS": [],
+    "name": "假期特惠礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          2,
+          3000
+        ],
+        [
+          4311,
+          20
+        ],
+        [
+          501000,
+          50
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 216,
+    "sortId": 216,
+    "iosIapName": "com.xm4399.zmws.tongzhen8",
+    "useOS": [],
+    "name": "假日超值礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 8,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          2,
+          800
+        ],
+        [
+          409992,
+          1
+        ],
+        [
+          1030,
+          2
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 217,
+    "sortId": 217,
+    "iosIapName": "com.xm4399.zmws.tongzhen30",
+    "useOS": [],
+    "name": "假日特惠礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          2,
+          3000
+        ],
+        [
+          4311,
+          20
+        ],
+        [
+          501000,
+          50
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 218,
+    "sortId": 218,
+    "iosIapName": "com.xm4399.zmws.24June6",
+    "useOS": [],
+    "name": "特惠自选礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 6,
+    "exchangeGem": 0,
+    "rechargeGift": {
+      "drops": [
+        [
+          2,
+          900
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 219,
+    "sortId": 219,
+    "iosIapName": "com.xm4399.zmws.kaituo6",
+    "useOS": [],
+    "name": "造梦开拓礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 6,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 220,
+    "sortId": 220,
+    "iosIapName": "com.xm4399.zmws.kaituo12",
+    "useOS": [],
+    "name": "造梦迎新礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 12,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 221,
+    "sortId": 221,
+    "iosIapName": "com.xm4399.zmws.kaituo30",
+    "useOS": [],
+    "name": "造梦进阶礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 223,
+    "sortId": 223,
+    "iosIapName": "com.xm4399.zmws.shenlingshi18",
+    "useOS": [],
+    "name": "神灵石直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 18,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 224,
+    "sortId": 224,
+    "iosIapName": "com.xm4399.zmws.rmb8yuan1",
+    "useOS": [],
+    "name": "8元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 8,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 225,
+    "sortId": 225,
+    "iosIapName": "com.xm4399.zmws.monthgift1yuan",
+    "useOS": [],
+    "name": "月礼包·1元礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 1,
+    "exchangeGem": 0,
+    "rechargeActivityId": 237,
+    "rechargeGift": {
+      "drops": [
+        [
+          480430,
+          1
+        ]
+      ]
+    },
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 226,
+    "sortId": 226,
+    "iosIapName": "com.xm4399.zmws.monthgift3yuan",
+    "useOS": [],
+    "name": "3元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 3,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 227,
+    "sortId": 227,
+    "iosIapName": "com.xm4399.zmws.yinxindenglu20250123",
+    "useOS": [],
+    "name": "迎新签到1元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 1,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": "2025-01-24 00:00:00",
+    "endTime": "2025-02-28 23:59:59",
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 228,
+    "sortId": 228,
+    "iosIapName": "com.xm4399.zmws.chengzhangbi12",
+    "useOS": [],
+    "name": "雨露币礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 12,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 229,
+    "sortId": 229,
+    "iosIapName": "com.xm4399.zmws.qingjin18",
+    "useOS": [],
+    "name": "青金礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 18,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 301,
+    "sortId": 301,
+    "iosIapName": "com.xm4399.zmws.rmb25",
+    "useOS": [],
+    "name": "25元直充礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 25,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 302,
+    "sortId": 302,
+    "iosIapName": "com.xm4399.zmws.xinchun1",
+    "useOS": [],
+    "name": "18元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 18,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 303,
+    "sortId": 303,
+    "iosIapName": "com.xm4399.zmws.xinchun2",
+    "useOS": [],
+    "name": "18元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 18,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 304,
+    "sortId": 304,
+    "iosIapName": "com.xm4399.zmws.xinchun3",
+    "useOS": [],
+    "name": "50元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 50,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 305,
+    "sortId": 305,
+    "iosIapName": "com.xm4399.zmws.xinchun4",
+    "useOS": [],
+    "name": "50元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 50,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 306,
+    "sortId": 306,
+    "iosIapName": "com.xm4399.zmws.xinshou1",
+    "useOS": [],
+    "name": "1元直购礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 1,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 401,
+    "sortId": 401,
+    "iosIapName": "com.xm4399.zmws.fund1",
+    "useOS": [],
+    "name": "角色成长基金（1阶）",
+    "rechargeType": 3,
+    "rechargeAmount": 12,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 402,
+    "sortId": 402,
+    "iosIapName": "com.xm4399.zmws.fund2",
+    "useOS": [],
+    "name": "角色成长基金（2阶）",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 403,
+    "sortId": 403,
+    "iosIapName": "com.xm4399.zmws.fund3",
+    "useOS": [],
+    "name": "角色成长基金（3阶）",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 404,
+    "sortId": 404,
+    "iosIapName": "com.xm4399.zmws.fund4",
+    "useOS": [],
+    "name": "角色成长基金（4阶）",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 405,
+    "sortId": 405,
+    "iosIapName": "com.xm4399.zmws.fund5",
+    "useOS": [],
+    "name": "角色成长基金（5阶）",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 406,
+    "sortId": 406,
+    "iosIapName": "com.xm4399.zmws.fund6",
+    "useOS": [],
+    "name": "角色成长基金（6阶）",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 407,
+    "sortId": 407,
+    "iosIapName": "com.xm4399.zmws.fund7",
+    "useOS": [],
+    "name": "角色成长基金（7阶）",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 408,
+    "sortId": 408,
+    "iosIapName": "com.xm4399.zmws.fund8",
+    "useOS": [],
+    "name": "角色成长基金（8阶）",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 501,
+    "sortId": 501,
+    "iosIapName": "com.xm4399.zmws.tedian1",
+    "useOS": [],
+    "name": "蛇年特典",
+    "rechargeType": 3,
+    "rechargeAmount": 188,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10111,
+    "sortId": 10111,
+    "iosIapName": "com.xm4399.zmws.lichun",
+    "useOS": [],
+    "name": "立春礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10211,
+    "sortId": 10211,
+    "iosIapName": "com.xm4399.zmws.yushui",
+    "useOS": [],
+    "name": "雨水礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10311,
+    "sortId": 10311,
+    "iosIapName": "com.xm4399.zmws.jingzhe",
+    "useOS": [],
+    "name": "惊蛰礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10411,
+    "sortId": 10411,
+    "iosIapName": "com.xm4399.zmws.chunfen",
+    "useOS": [],
+    "name": "春分礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10511,
+    "sortId": 10511,
+    "iosIapName": "com.xm4399.zmws.qingming",
+    "useOS": [],
+    "name": "清明礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10611,
+    "sortId": 10611,
+    "iosIapName": "com.xm4399.zmws.guyu",
+    "useOS": [],
+    "name": "谷雨礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10711,
+    "sortId": 10711,
+    "iosIapName": "com.xm4399.zmws.lixia",
+    "useOS": [],
+    "name": "立夏礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10811,
+    "sortId": 10811,
+    "iosIapName": "com.xm4399.zmws.xiaoman",
+    "useOS": [],
+    "name": "小满礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 10911,
+    "sortId": 10911,
+    "iosIapName": "com.xm4399.zmws.mangzhong",
+    "useOS": [],
+    "name": "芒种礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11011,
+    "sortId": 11011,
+    "iosIapName": "com.xm4399.zmws.xiazhi",
+    "useOS": [],
+    "name": "夏至礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11111,
+    "sortId": 11111,
+    "iosIapName": "com.xm4399.zmws.xiaoshu",
+    "useOS": [],
+    "name": "小暑礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11211,
+    "sortId": 11211,
+    "iosIapName": "com.xm4399.zmws.dashu",
+    "useOS": [],
+    "name": "大暑礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11311,
+    "sortId": 11311,
+    "iosIapName": "com.xm4399.zmws.liqiu",
+    "useOS": [],
+    "name": "立秋礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11411,
+    "sortId": 11411,
+    "iosIapName": "com.xm4399.zmws.chushu1",
+    "useOS": [],
+    "name": "处暑礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11511,
+    "sortId": 11511,
+    "iosIapName": "com.xm4399.zmws.bailu",
+    "useOS": [],
+    "name": "白露礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11611,
+    "sortId": 11611,
+    "iosIapName": "com.xm4399.zmws.qiufen",
+    "useOS": [],
+    "name": "秋分礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11711,
+    "sortId": 11711,
+    "iosIapName": "com.xm4399.zmws.hanlu",
+    "useOS": [],
+    "name": "寒露礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11811,
+    "sortId": 11811,
+    "iosIapName": "com.xm4399.zmws.shuangjiang",
+    "useOS": [],
+    "name": "霜降礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 11911,
+    "sortId": 11911,
+    "iosIapName": "com.xm4399.zmws.lidong",
+    "useOS": [],
+    "name": "立冬礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 12011,
+    "sortId": 12011,
+    "iosIapName": "com.xm4399.zmws.xiaoxue1",
+    "useOS": [],
+    "name": "小雪礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 12111,
+    "sortId": 12111,
+    "iosIapName": "com.xm4399.zmws.daxue",
+    "useOS": [],
+    "name": "大雪礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 12211,
+    "sortId": 12211,
+    "iosIapName": "com.xm4399.zmws.dongzhi",
+    "useOS": [],
+    "name": "冬至礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 12311,
+    "sortId": 12311,
+    "iosIapName": "com.xm4399.zmws.xiaohan",
+    "useOS": [],
+    "name": "小寒礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  },
+  {
+    "id": 12411,
+    "sortId": 12411,
+    "iosIapName": "com.xm4399.zmws.dahan",
+    "useOS": [],
+    "name": "大寒礼包",
+    "rechargeType": 3,
+    "rechargeAmount": 30,
+    "exchangeGem": 0,
+    "vipDisplay": 0,
+    "rechargeDouble": 0,
+    "firstReward": 0,
+    "dailyReward": 0,
+    "duration": 0,
+    "purchaseLimit": -1,
+    "startTime": -1,
+    "endTime": -1,
+    "title": -1,
+    "content": -1
+  }
+]

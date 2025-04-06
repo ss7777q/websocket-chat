@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "unlock": [
+      [
+        1,
+        40
+      ],
+      [
+        2,
+        10101
+      ]
+    ],
+    "plunderMoney": 3150,
+    "plunderMoneyMax": 15800,
+    "devilMoney": 1050,
+    "devilMoneyMax": 5300
+  },
+  {
+    "id": 2,
+    "unlock": [
+      [
+        1,
+        60
+      ],
+      [
+        2,
+        70101
+      ]
+    ],
+    "plunderMoney": 3700,
+    "plunderMoneyMax": 18500,
+    "devilMoney": 1230,
+    "devilMoneyMax": 6200
+  },
+  {
+    "id": 3,
+    "unlock": [
+      [
+        1,
+        71
+      ],
+      [
+        2,
+        80101
+      ]
+    ],
+    "plunderMoney": 4330,
+    "plunderMoneyMax": 22000,
+    "devilMoney": 1440,
+    "devilMoneyMax": 7200
+  },
+  {
+    "id": 4,
+    "unlock": [
+      [
+        1,
+        81
+      ],
+      [
+        2,
+        90101
+      ]
+    ],
+    "plunderMoney": 5040,
+    "plunderMoneyMax": 25000,
+    "devilMoney": 1680,
+    "devilMoneyMax": 8500
+  },
+  {
+    "id": 5,
+    "unlock": [
+      [
+        1,
+        91
+      ],
+      [
+        2,
+        100101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 6,
+    "unlock": [
+      [
+        1,
+        101
+      ],
+      [
+        2,
+        110101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 7,
+    "unlock": [
+      [
+        1,
+        111
+      ],
+      [
+        2,
+        120101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 8,
+    "unlock": [
+      [
+        1,
+        121
+      ],
+      [
+        2,
+        130101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 9,
+    "unlock": [
+      [
+        1,
+        131
+      ],
+      [
+        2,
+        140101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 10,
+    "unlock": [
+      [
+        1,
+        141
+      ],
+      [
+        2,
+        150101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 11,
+    "unlock": [
+      [
+        1,
+        151
+      ],
+      [
+        2,
+        160101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 12,
+    "unlock": [
+      [
+        1,
+        161
+      ],
+      [
+        2,
+        170101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 13,
+    "unlock": [
+      [
+        1,
+        171
+      ],
+      [
+        2,
+        180101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 14,
+    "unlock": [
+      [
+        1,
+        181
+      ],
+      [
+        2,
+        190101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 15,
+    "unlock": [
+      [
+        1,
+        191
+      ],
+      [
+        2,
+        200101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  },
+  {
+    "id": 16,
+    "unlock": [
+      [
+        1,
+        201
+      ],
+      [
+        2,
+        210101
+      ]
+    ],
+    "plunderMoney": 6340,
+    "plunderMoneyMax": 32000,
+    "devilMoney": 2110,
+    "devilMoneyMax": 10600
+  }
+]

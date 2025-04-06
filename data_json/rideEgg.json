@@ -1,0 +1,249 @@
+[
+  {
+    "id": 101,
+    "rideId": 201041,
+    "starLevel": 3,
+    "name": "避水金睛兽",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 102,
+    "rideId": 201051,
+    "starLevel": 3,
+    "name": "胖呆",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 103,
+    "rideId": 201071,
+    "starLevel": 2,
+    "name": "年兽",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 104,
+    "rideId": 201071,
+    "starLevel": 3,
+    "name": "年兽",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 105,
+    "rideId": 201091,
+    "starLevel": 2,
+    "name": "汪汪",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      0.6,
+      0.3,
+      0.15
+    ]
+  },
+  {
+    "id": 106,
+    "rideId": 201071,
+    "starLevel": 4,
+    "name": "年兽",
+    "level": 1,
+    "qualityFixed": 1,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 107,
+    "rideId": 201091,
+    "starLevel": 3,
+    "name": "汪汪",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 108,
+    "rideId": 201101,
+    "starLevel": 2,
+    "name": "梼杌",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 109,
+    "rideId": 201101,
+    "starLevel": 3,
+    "name": "梼杌",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 110,
+    "rideId": 201101,
+    "starLevel": 1,
+    "name": "梼杌",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 111,
+    "rideId": 201201,
+    "starLevel": 3,
+    "name": "赤凤",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 112,
+    "rideId": 201091,
+    "starLevel": 1,
+    "name": "汪汪",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      0.6,
+      0.3,
+      0.15
+    ]
+  },
+  {
+    "id": 113,
+    "rideId": 201301,
+    "starLevel": 2,
+    "name": "谛听",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 114,
+    "rideId": 201301,
+    "starLevel": 3,
+    "name": "谛听",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 115,
+    "rideId": 201401,
+    "starLevel": 2,
+    "name": "烈焰天马",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 116,
+    "rideId": 201501,
+    "starLevel": 1,
+    "name": "混沌",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 117,
+    "rideId": 201601,
+    "starLevel": 2,
+    "name": "金毛犼",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 118,
+    "rideId": 201701,
+    "starLevel": 2,
+    "name": "天禄",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 119,
+    "rideId": 201701,
+    "starLevel": 3,
+    "name": "天禄",
+    "level": 1,
+    "qualityFixed": 0.5,
+    "skillGet": [
+      1,
+      1,
+      1
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+var tmp=[["id","type","atkBonus","spdBonus","lessTime","triggerTime","buckleValue","nextScore"],[1,4,0,0,4,.5,20,200],[2,3,.02,0,4,.5,30,500],[3,2,.05,0,4,.5,50,1e3],[4,1,.1,0,4,.5,90,1900],[5,0,.2,.2,15,.5,60,0]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.evaluate=tmp);

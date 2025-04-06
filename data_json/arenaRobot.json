@@ -1,0 +1,528 @@
+[
+  {
+    "id": 1,
+    "type": "arenaRank",
+    "monsterId": 1,
+    "atk": 426,
+    "hp": 4751,
+    "def": 150,
+    "mp": 2084,
+    "healHp": 217,
+    "healMp": 152,
+    "hitVal": 70,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 207,
+    "guardian": 143,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 29052,
+    "aiAmend": [
+      [
+        0.94,
+        1.05
+      ],
+      [
+        0.93,
+        0.96
+      ],
+      [
+        0.9,
+        0.93
+      ],
+      [
+        0.5,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "type": "arenaRank",
+    "monsterId": 2,
+    "atk": 600,
+    "hp": 5000,
+    "def": 150,
+    "mp": 3000,
+    "healHp": 217,
+    "healMp": 200,
+    "hitVal": 80,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 238,
+    "guardian": 164,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 33506,
+    "aiAmend": [
+      [
+        0.94,
+        1.05
+      ],
+      [
+        0.93,
+        0.96
+      ],
+      [
+        0.9,
+        0.93
+      ],
+      [
+        0.5,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "type": "arenaRank",
+    "monsterId": 3,
+    "atk": 7968,
+    "hp": 85199,
+    "def": 2760,
+    "mp": 39360,
+    "healHp": 4600,
+    "healMp": 2233,
+    "hitVal": 1201,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 3574,
+    "guardian": 2462,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 525772,
+    "aiAmend": [
+      [
+        0.94,
+        1.05
+      ],
+      [
+        0.93,
+        0.96
+      ],
+      [
+        0.9,
+        0.93
+      ],
+      [
+        0.5,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "type": "arenaRank",
+    "monsterId": 4,
+    "atk": 8488,
+    "hp": 71864,
+    "def": 2576,
+    "mp": 48753,
+    "healHp": 4250,
+    "healMp": 2374,
+    "hitVal": 1201,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 3574,
+    "guardian": 2462,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 529679,
+    "aiAmend": [
+      [
+        0.94,
+        1.05
+      ],
+      [
+        0.93,
+        0.96
+      ],
+      [
+        0.9,
+        0.93
+      ],
+      [
+        0.5,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "type": "arenaRank",
+    "monsterId": 5,
+    "atk": 9700,
+    "hp": 72604,
+    "def": 2523,
+    "mp": 43833,
+    "healHp": 4293,
+    "healMp": 2304,
+    "hitVal": 1201,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 3574,
+    "guardian": 2462,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 529363,
+    "aiAmend": [
+      [
+        0.94,
+        1.05
+      ],
+      [
+        0.93,
+        0.96
+      ],
+      [
+        0.9,
+        0.93
+      ],
+      [
+        0.5,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "type": "arenaRank",
+    "monsterId": 6,
+    "atk": 8661,
+    "hp": 74086,
+    "def": 2628,
+    "mp": 44728,
+    "healHp": 4381,
+    "healMp": 2351,
+    "hitVal": 1201,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 3574,
+    "guardian": 2462,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 528671,
+    "aiAmend": [
+      [
+        0.94,
+        1.05
+      ],
+      [
+        0.93,
+        0.96
+      ],
+      [
+        0.9,
+        0.93
+      ],
+      [
+        0.5,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "type": "arenaRank",
+    "monsterId": 7,
+    "atk": 8228,
+    "hp": 65937,
+    "def": 2786,
+    "mp": 49201,
+    "healHp": 4425,
+    "healMp": 2327,
+    "hitVal": 1201,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 3574,
+    "guardian": 2462,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 529806,
+    "aiAmend": [
+      [
+        0.94,
+        1.05
+      ],
+      [
+        0.93,
+        0.96
+      ],
+      [
+        0.9,
+        0.93
+      ],
+      [
+        0.5,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 101,
+    "type": "petArenaRank",
+    "monsterId": 190000001,
+    "atk": 306,
+    "hp": 8640,
+    "def": 104,
+    "mp": 0,
+    "healHp": 164,
+    "healMp": 0,
+    "hitVal": 115,
+    "dodge": 110,
+    "crit": 115,
+    "tenacity": 106,
+    "lucky": 110,
+    "guardian": 106,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 15322,
+    "aiAmend": [
+      [
+        0.7,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 102,
+    "type": "petArenaRank",
+    "monsterId": 190000011,
+    "atk": 290,
+    "hp": 9420,
+    "def": 98,
+    "mp": 0,
+    "healHp": 169,
+    "healMp": 0,
+    "hitVal": 106,
+    "dodge": 112,
+    "crit": 106,
+    "tenacity": 115,
+    "lucky": 109,
+    "guardian": 115,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 15337,
+    "aiAmend": [
+      [
+        0.7,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 103,
+    "type": "petArenaRank",
+    "monsterId": 190000021,
+    "atk": 310,
+    "hp": 8520,
+    "def": 100,
+    "mp": 0,
+    "healHp": 170,
+    "healMp": 0,
+    "hitVal": 113,
+    "dodge": 106,
+    "crit": 113,
+    "tenacity": 108,
+    "lucky": 114,
+    "guardian": 108,
+    "break": 0,
+    "protect": 0,
+    "fightpoint": 15310,
+    "aiAmend": [
+      [
+        0.7,
+        0.9
+      ]
+    ]
+  },
+  {
+    "id": 201,
+    "type": "godWar",
+    "monsterId": 2130011,
+    "atk": 2905.344,
+    "hp": 29476.8,
+    "def": 965.664,
+    "mp": 14061.6,
+    "healHp": 1609.44,
+    "healMp": 783.52,
+    "hitVal": 2592,
+    "dodge": 2592,
+    "crit": 2592,
+    "tenacity": 2592,
+    "lucky": 2592,
+    "guardian": 2592,
+    "break": 96,
+    "protect": 96,
+    "fightpoint": 260160,
+    "aiAmend": [
+      [
+        0.9,
+        1.1
+      ]
+    ]
+  },
+  {
+    "id": 202,
+    "type": "godWar",
+    "monsterId": 2130021,
+    "atk": 3049.344,
+    "hp": 26259.84,
+    "def": 945.888,
+    "mp": 15670.08,
+    "healHp": 1505.92,
+    "healMp": 811.76,
+    "hitVal": 2592,
+    "dodge": 2592,
+    "crit": 2592,
+    "tenacity": 2592,
+    "lucky": 2592,
+    "guardian": 2592,
+    "break": 96,
+    "protect": 96,
+    "fightpoint": 260160,
+    "aiAmend": [
+      [
+        0.9,
+        1.1
+      ]
+    ]
+  },
+  {
+    "id": 203,
+    "type": "godWar",
+    "monsterId": 2130031,
+    "atk": 2812.32,
+    "hp": 30070.08,
+    "def": 974.112,
+    "mp": 13891.68,
+    "healHp": 1623.52,
+    "healMp": 788.24,
+    "hitVal": 2592,
+    "dodge": 2592,
+    "crit": 2592,
+    "tenacity": 2592,
+    "lucky": 2592,
+    "guardian": 2592,
+    "break": 96,
+    "protect": 96,
+    "fightpoint": 260160,
+    "aiAmend": [
+      [
+        0.9,
+        1.1
+      ]
+    ]
+  },
+  {
+    "id": 204,
+    "type": "godWar",
+    "monsterId": 2130041,
+    "atk": 2992,
+    "hp": 25000,
+    "def": 900,
+    "mp": 17000,
+    "healHp": 1500,
+    "healMp": 830,
+    "hitVal": 2592,
+    "dodge": 2592,
+    "crit": 2592,
+    "tenacity": 2592,
+    "lucky": 2592,
+    "guardian": 2592,
+    "break": 96,
+    "protect": 96,
+    "fightpoint": 260160,
+    "aiAmend": [
+      [
+        0.9,
+        1.1
+      ]
+    ]
+  },
+  {
+    "id": 205,
+    "type": "godWar",
+    "monsterId": 2130051,
+    "atk": 3400,
+    "hp": 25370,
+    "def": 880,
+    "mp": 15300,
+    "healHp": 1515,
+    "healMp": 810,
+    "hitVal": 2592,
+    "dodge": 2592,
+    "crit": 2592,
+    "tenacity": 2592,
+    "lucky": 2592,
+    "guardian": 2592,
+    "break": 96,
+    "protect": 96,
+    "fightpoint": 260160,
+    "aiAmend": [
+      [
+        0.9,
+        1.1
+      ]
+    ]
+  },
+  {
+    "id": 206,
+    "type": "godWar",
+    "monsterId": 2130061,
+    "atk": 3040,
+    "hp": 25976,
+    "def": 920,
+    "mp": 15612,
+    "healHp": 1546,
+    "healMp": 827,
+    "hitVal": 2592,
+    "dodge": 2592,
+    "crit": 2592,
+    "tenacity": 2592,
+    "lucky": 2592,
+    "guardian": 2592,
+    "break": 96,
+    "protect": 96,
+    "fightpoint": 260160,
+    "aiAmend": [
+      [
+        0.9,
+        1.1
+      ]
+    ]
+  },
+  {
+    "id": 207,
+    "type": "godWar",
+    "monsterId": 2130071,
+    "atk": 2888,
+    "hp": 22742,
+    "def": 975,
+    "mp": 17173,
+    "healHp": 1561,
+    "healMp": 819,
+    "hitVal": 2592,
+    "dodge": 2592,
+    "crit": 2592,
+    "tenacity": 2592,
+    "lucky": 2592,
+    "guardian": 2592,
+    "break": 96,
+    "protect": 96,
+    "fightpoint": 260160,
+    "aiAmend": [
+      [
+        0.9,
+        1.1
+      ]
+    ]
+  }
+]

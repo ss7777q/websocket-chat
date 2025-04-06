@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1001,
+    "name": "鎏金宝箱",
+    "boxName": "宝石金箱子",
+    "type": 1,
+    "icon": "box_jin",
+    "time": 0,
+    "weight": 100,
+    "animation": [
+      [
+        "cw3_idle1",
+        0
+      ],
+      [
+        "cw3_idle2",
+        1
+      ],
+      [
+        "cw3_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "鎏金宝箱",
+    "boxName": "丹气金箱子",
+    "type": 1,
+    "icon": "box_jin",
+    "time": 0,
+    "weight": 100,
+    "animation": [
+      [
+        "cw3_idle1",
+        0
+      ],
+      [
+        "cw3_idle2",
+        1
+      ],
+      [
+        "cw3_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2001,
+    "name": "钰紫宝箱",
+    "boxName": "翅膀金箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2002,
+    "name": "钰紫宝箱",
+    "boxName": "丹气紫箱子A",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2003,
+    "name": "钰紫宝箱",
+    "boxName": "丹气紫箱子B",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2004,
+    "name": "钰紫宝箱",
+    "boxName": "宝石紫箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2005,
+    "name": "钰紫宝箱",
+    "boxName": "羽丝箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2006,
+    "name": "钰紫宝箱",
+    "boxName": "仙位箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2007,
+    "name": "钰紫宝箱",
+    "boxName": "斗宠币箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2008,
+    "name": "钰紫宝箱",
+    "boxName": "地藏灵瓶箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2009,
+    "name": "钰紫宝箱",
+    "boxName": "兜率宫A箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2010,
+    "name": "钰紫宝箱",
+    "boxName": "兜率宫B箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 2011,
+    "name": "钰紫宝箱",
+    "boxName": "体力箱子",
+    "type": 2,
+    "icon": "box_zi",
+    "time": 16,
+    "weight": 100,
+    "animation": [
+      [
+        "cw2_idle1",
+        0
+      ],
+      [
+        "cw2_idle2",
+        1
+      ],
+      [
+        "cw2_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 3001,
+    "name": "碧穹宝箱",
+    "boxName": "羽毛碎片箱子",
+    "type": 3,
+    "icon": "box_lan",
+    "time": 8,
+    "weight": 100,
+    "animation": [
+      [
+        "cw1_idle1",
+        0
+      ],
+      [
+        "cw1_idle2",
+        1
+      ],
+      [
+        "cw1_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 3002,
+    "name": "碧穹宝箱",
+    "boxName": "强化石箱子",
+    "type": 3,
+    "icon": "box_lan",
+    "time": 8,
+    "weight": 100,
+    "animation": [
+      [
+        "cw1_idle1",
+        0
+      ],
+      [
+        "cw1_idle2",
+        1
+      ],
+      [
+        "cw1_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 3003,
+    "name": "碧穹宝箱",
+    "boxName": "宠物残页箱子",
+    "type": 3,
+    "icon": "box_lan",
+    "time": 8,
+    "weight": 100,
+    "animation": [
+      [
+        "cw1_idle1",
+        0
+      ],
+      [
+        "cw1_idle2",
+        1
+      ],
+      [
+        "cw1_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 3004,
+    "name": "碧穹宝箱",
+    "boxName": "法宝箱子",
+    "type": 3,
+    "icon": "box_lan",
+    "time": 8,
+    "weight": 100,
+    "animation": [
+      [
+        "cw1_idle1",
+        0
+      ],
+      [
+        "cw1_idle2",
+        1
+      ],
+      [
+        "cw1_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 3005,
+    "name": "碧穹宝箱",
+    "boxName": "阵法图纸箱子",
+    "type": 3,
+    "icon": "box_lan",
+    "time": 8,
+    "weight": 100,
+    "animation": [
+      [
+        "cw1_idle1",
+        0
+      ],
+      [
+        "cw1_idle2",
+        1
+      ],
+      [
+        "cw1_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 3006,
+    "name": "碧穹宝箱",
+    "boxName": "先天之气箱子",
+    "type": 3,
+    "icon": "box_lan",
+    "time": 8,
+    "weight": 100,
+    "animation": [
+      [
+        "cw1_idle1",
+        0
+      ],
+      [
+        "cw1_idle2",
+        1
+      ],
+      [
+        "cw1_idle3",
+        0
+      ]
+    ]
+  },
+  {
+    "id": 3007,
+    "name": "碧穹宝箱",
+    "boxName": "葬灵洞箱子",
+    "type": 3,
+    "icon": "box_lan",
+    "time": 8,
+    "weight": 100,
+    "animation": [
+      [
+        "cw1_idle1",
+        0
+      ],
+      [
+        "cw1_idle2",
+        1
+      ],
+      [
+        "cw1_idle3",
+        0
+      ]
+    ]
+  }
+]

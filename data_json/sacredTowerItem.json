@@ -1,0 +1,599 @@
+[
+  {
+    "id": 150000002,
+    "name": "2层钥匙",
+    "type": "key02",
+    "列1": "前往2层钥匙",
+    "itemGroup": 150000001,
+    "Level": 1,
+    "icon": 999,
+    "iconStage": 999,
+    "sellCost": [
+      999,
+      1
+    ]
+  },
+  {
+    "id": 150000003,
+    "name": "3层钥匙",
+    "type": "key03",
+    "列1": "前往3层钥匙",
+    "itemGroup": 150000002,
+    "Level": 1
+  },
+  {
+    "id": 150000004,
+    "name": "4层钥匙",
+    "type": "key04",
+    "列1": "前往4层钥匙",
+    "itemGroup": 150000003,
+    "Level": 1
+  },
+  {
+    "id": 150000005,
+    "name": "5层钥匙",
+    "type": "key05",
+    "列1": "前往5层钥匙",
+    "itemGroup": 150000004,
+    "Level": 1
+  },
+  {
+    "id": 150000006,
+    "name": "6层钥匙",
+    "type": "key06",
+    "列1": "前往6层钥匙",
+    "itemGroup": 150000005,
+    "Level": 1
+  },
+  {
+    "id": 150000007,
+    "name": "7层钥匙",
+    "type": "key07",
+    "列1": "前往7层钥匙",
+    "itemGroup": 150000006,
+    "Level": 1
+  },
+  {
+    "id": 150000008,
+    "name": "8层钥匙",
+    "type": "key08",
+    "列1": "前往8层钥匙",
+    "itemGroup": 150000007,
+    "Level": 1
+  },
+  {
+    "id": 150000009,
+    "name": "9层钥匙",
+    "type": "key09",
+    "列1": "前往9层钥匙",
+    "itemGroup": 150000008,
+    "Level": 1
+  },
+  {
+    "id": 150000010,
+    "name": "10层钥匙",
+    "type": "key10",
+    "列1": "前往10层钥匙",
+    "itemGroup": 150000009,
+    "Level": 1
+  },
+  {
+    "id": 150000011,
+    "name": "11层钥匙",
+    "type": "key11",
+    "列1": "前往11层钥匙",
+    "itemGroup": 150000010,
+    "Level": 1
+  },
+  {
+    "id": 150000012,
+    "name": "12层钥匙",
+    "type": "key12",
+    "列1": "前往12层钥匙",
+    "itemGroup": 150000011,
+    "Level": 1
+  },
+  {
+    "id": 150000101,
+    "name": "莲藕分身",
+    "type": "lotus",
+    "列1": "莲藕分身",
+    "itemGroup": 150000101,
+    "Level": 1,
+    "icon": 999,
+    "iconStage": 999,
+    "sellCost": [
+      999,
+      1
+    ]
+  },
+  {
+    "id": 150000102,
+    "name": "普通舍利",
+    "type": "towerRelic",
+    "列1": "普通舍利",
+    "itemGroup": 150000102,
+    "Level": 1,
+    "scriptId": [
+      1000101
+    ],
+    "icon": "1401001_min",
+    "iconStage": "1401001_min",
+    "sellCost": [
+      999,
+      25
+    ]
+  },
+  {
+    "id": 150000103,
+    "name": "神明舍利",
+    "type": "GodRelic",
+    "列1": "神明舍利",
+    "itemGroup": 150000103,
+    "Level": 1,
+    "scriptId": [
+      1000102
+    ],
+    "icon": "1401002_min",
+    "iconStage": "1401002_min",
+    "sellCost": [
+      999,
+      50
+    ]
+  },
+  {
+    "id": 150000104,
+    "name": "金块",
+    "type": "gold",
+    "列1": "金块幻境特殊货币",
+    "itemGroup": 150000104,
+    "Level": 1,
+    "scriptId": [
+      1000201
+    ],
+    "icon": "1401003_min",
+    "iconStage": "1401003_min",
+    "sellCost": [
+      999,
+      25
+    ]
+  },
+  {
+    "id": 150000105,
+    "name": "玲珑宝具01",
+    "type": "towerItem",
+    "列1": "玲珑宝具01",
+    "itemGroup": 150000105,
+    "Level": 1,
+    "scriptId": [
+      1000202
+    ],
+    "icon": "1401004_min",
+    "iconStage": "1401004_min",
+    "sellCost": [
+      999,
+      50
+    ]
+  },
+  {
+    "id": 150000106,
+    "name": "玲珑宝具02",
+    "type": "towerItem",
+    "列1": "玲珑宝具02",
+    "itemGroup": 150000106,
+    "Level": 1,
+    "scriptId": [
+      1000301
+    ],
+    "icon": "1401005_min",
+    "iconStage": "1401005_min",
+    "sellCost": [
+      999,
+      15
+    ]
+  },
+  {
+    "id": 150000107,
+    "name": "玲珑宝具03",
+    "type": "towerItem",
+    "列1": "玲珑宝具03",
+    "itemGroup": 150000107,
+    "Level": 1,
+    "scriptId": [
+      1000302
+    ],
+    "icon": "1401006_min",
+    "iconStage": "1401006_min",
+    "sellCost": [
+      999,
+      25
+    ]
+  },
+  {
+    "id": 150000108,
+    "name": "玲珑宝具04",
+    "type": "towerItem",
+    "列1": "玲珑宝具04",
+    "itemGroup": 150000108,
+    "Level": 1,
+    "scriptId": [
+      1002801
+    ],
+    "icon": "1401007_min",
+    "iconStage": "1401007_min",
+    "sellCost": [
+      999,
+      50
+    ]
+  },
+  {
+    "id": 150000109,
+    "name": "玲珑宝具05",
+    "type": "towerItem",
+    "列1": "玲珑宝具05",
+    "itemGroup": 150000109,
+    "Level": 1,
+    "scriptId": [
+      1000401,
+      1000402,
+      1000403
+    ],
+    "icon": 160200100,
+    "iconStage": 160200100,
+    "sellCost": [
+      999,
+      100
+    ]
+  },
+  {
+    "id": 150000110,
+    "name": "玲珑宝具06",
+    "type": "towerItem",
+    "列1": "玲珑宝具06",
+    "itemGroup": 150000110,
+    "Level": 1,
+    "scriptId": [
+      2004401
+    ],
+    "icon": 160200200,
+    "iconStage": 160200200,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000111,
+    "name": "玲珑宝具07",
+    "type": "towerItem",
+    "列1": "玲珑宝具07",
+    "itemGroup": 150000111,
+    "Level": 1,
+    "scriptId": [
+      2004402
+    ],
+    "icon": 160200200,
+    "iconStage": 160200200,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000112,
+    "name": "玲珑宝具08",
+    "type": "towerItem",
+    "列1": "玲珑宝具08",
+    "itemGroup": 150000112,
+    "Level": 1,
+    "scriptId": [
+      2006401
+    ],
+    "icon": 160200200,
+    "iconStage": 160200200,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000113,
+    "name": "玲珑宝具09",
+    "type": "towerItem",
+    "列1": "玲珑宝具09",
+    "itemGroup": 150000113,
+    "Level": 1,
+    "scriptId": [
+      2006701
+    ],
+    "icon": 160200200,
+    "iconStage": 160200200,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000114,
+    "name": "玲珑宝具10",
+    "type": "towerItem",
+    "列1": "玲珑宝具10",
+    "itemGroup": 150000114,
+    "Level": 1,
+    "scriptId": [
+      2006901
+    ],
+    "icon": 160200205,
+    "iconStage": 160200205,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000115,
+    "name": "玲珑宝具11",
+    "type": "towerItem",
+    "列1": "玲珑宝具11",
+    "itemGroup": 150000115,
+    "Level": 1,
+    "scriptId": [
+      2007001
+    ],
+    "icon": 160200206,
+    "iconStage": 160200206,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000116,
+    "name": "玲珑宝具12",
+    "type": "towerItem",
+    "列1": "玲珑宝具12",
+    "itemGroup": 150000116,
+    "Level": 1,
+    "scriptId": [
+      2007101
+    ],
+    "icon": 160200207,
+    "iconStage": 160200207,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000117,
+    "name": "玲珑宝具13",
+    "type": "towerItem",
+    "列1": "玲珑宝具13",
+    "itemGroup": 150000117,
+    "Level": 1,
+    "scriptId": [
+      2007201
+    ],
+    "icon": 160200208,
+    "iconStage": 160200208,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000118,
+    "name": "玲珑宝具14",
+    "type": "towerItem",
+    "列1": "玲珑宝具14",
+    "itemGroup": 150000118,
+    "Level": 1,
+    "scriptId": [
+      2007301
+    ],
+    "icon": 160200209,
+    "iconStage": 160200209,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000119,
+    "name": "玲珑宝具15",
+    "type": "towerItem",
+    "列1": "玲珑宝具15",
+    "itemGroup": 150000119,
+    "Level": 1,
+    "scriptId": [
+      1000204
+    ],
+    "icon": 160200210,
+    "iconStage": 160200210,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000120,
+    "name": "玲珑宝具16",
+    "type": "towerItem",
+    "列1": "玲珑宝具16",
+    "itemGroup": 150000120,
+    "Level": 1,
+    "scriptId": [
+      2004403
+    ],
+    "icon": 160200211,
+    "iconStage": 160200211,
+    "sellCost": [
+      999,
+      20
+    ]
+  },
+  {
+    "id": 150000121,
+    "name": "玲珑宝具17",
+    "type": "towerItem",
+    "列1": "玲珑宝具17",
+    "itemGroup": 150000121,
+    "Level": 1,
+    "icon": 160200301,
+    "iconStage": 160200301,
+    "sellCost": [
+      999,
+      100
+    ]
+  },
+  {
+    "id": 150000122,
+    "name": "玲珑宝具18",
+    "type": "towerItem",
+    "列1": "玲珑宝具18",
+    "itemGroup": 150000122,
+    "Level": 1,
+    "icon": 160200302,
+    "iconStage": 160200302,
+    "sellCost": [
+      999,
+      100
+    ]
+  },
+  {
+    "id": 159010012,
+    "name": "莲藕人（基础）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（基础）",
+    "itemGroup": 159010012,
+    "Level": 1
+  },
+  {
+    "id": 159010022,
+    "name": "莲藕人（基础）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（基础）",
+    "itemGroup": 159010022,
+    "Level": 1
+  },
+  {
+    "id": 159010032,
+    "name": "莲藕人（基础）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（基础）",
+    "itemGroup": 159010032,
+    "Level": 1
+  },
+  {
+    "id": 159010042,
+    "name": "莲藕人（基础）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（基础）",
+    "itemGroup": 159010042,
+    "Level": 1
+  },
+  {
+    "id": 159010052,
+    "name": "莲藕人（基础）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（基础）",
+    "itemGroup": 159010052,
+    "Level": 1
+  },
+  {
+    "id": 159010062,
+    "name": "莲藕人（基础）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（基础）",
+    "itemGroup": 159010062,
+    "Level": 1
+  },
+  {
+    "id": 159010072,
+    "name": "莲藕人（基础）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（基础）",
+    "itemGroup": 159010072,
+    "Level": 1
+  },
+  {
+    "id": 159010082,
+    "name": "莲藕人（基础）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（基础）",
+    "itemGroup": 159010082,
+    "Level": 1
+  },
+  {
+    "id": 159020012,
+    "name": "莲藕人（无双奥义）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（无双奥义）",
+    "itemGroup": 159020012,
+    "Level": 1
+  },
+  {
+    "id": 159030012,
+    "name": "莲藕人（物理）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（物理）",
+    "itemGroup": 159030012,
+    "Level": 1
+  },
+  {
+    "id": 159030022,
+    "name": "莲藕人（法术）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（法术）",
+    "itemGroup": 159030022,
+    "Level": 1
+  },
+  {
+    "id": 159040012,
+    "name": "莲藕人（物理）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（物理）",
+    "itemGroup": 159040012,
+    "Level": 1
+  },
+  {
+    "id": 159040022,
+    "name": "莲藕人（法术）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（法术）",
+    "itemGroup": 159040022,
+    "Level": 1
+  },
+  {
+    "id": 159050012,
+    "name": "莲藕人（物理）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（物理）",
+    "itemGroup": 159050012,
+    "Level": 1
+  },
+  {
+    "id": 159050022,
+    "name": "莲藕人（法术）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（法术）",
+    "itemGroup": 159050022,
+    "Level": 1
+  },
+  {
+    "id": 159060012,
+    "name": "莲藕人（物理）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（物理）",
+    "itemGroup": 159060012,
+    "Level": 1
+  },
+  {
+    "id": 159060022,
+    "name": "莲藕人（法术）",
+    "type": "sacredTowerBook",
+    "列1": "莲藕人（法术）",
+    "itemGroup": 159060022,
+    "Level": 1
+  }
+]

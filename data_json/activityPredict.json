@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "神魔战场",
+    "functionTimeId": "godWar",
+    "sysUnlockId": 35,
+    "sortId": 1,
+    "jumpId": "huntEntrance",
+    "reward": [
+      8989998,
+      8989999,
+      4001
+    ],
+    "picture": "godWar",
+    "lowPicture": "godWar2"
+  },
+  {
+    "id": 2,
+    "name": "天道之战（双人）",
+    "functionTimeId": "skyWar2",
+    "sysUnlockId": 40,
+    "sortId": 2,
+    "jumpId": "heavenWarPanel2",
+    "reward": [
+      2021
+    ],
+    "picture": "skyWar2",
+    "lowPicture": "skyWar22",
+    "close": 1
+  },
+  {
+    "id": 3,
+    "name": "天机灵域",
+    "functionTimeId": "matrix",
+    "sysUnlockId": 50,
+    "sortId": 3,
+    "jumpId": "worldBoss",
+    "reward": [
+      200001001,
+      200001003,
+      200001004,
+      200001005
+    ],
+    "picture": "matrix",
+    "lowPicture": "matrix2"
+  },
+  {
+    "id": 4,
+    "name": "天道之战",
+    "functionTimeId": "skyWar",
+    "sysUnlockId": 40,
+    "sortId": 2,
+    "jumpId": "heavenWarPanel",
+    "reward": [
+      2021
+    ],
+    "picture": "skyWar1",
+    "lowPicture": "skyWar12"
+  },
+  {
+    "id": 5,
+    "name": "三界轶闻录",
+    "sysUnlockId": 23,
+    "sortId": 4,
+    "jumpId": "yiWenCollection",
+    "reward": [
+      5202
+    ],
+    "picture": "sanjieyiwenlu",
+    "lowPicture": "sanjieyiwenlu2"
+  }
+]

@@ -1,0 +1,4838 @@
+[
+  {
+    "id": 1010001,
+    "buteId": 101,
+    "wingLevel": 1,
+    "quality": 2,
+    "consume": [
+      501001,
+      1
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          11
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      23,
+      23
+    ]
+  },
+  {
+    "id": 1010002,
+    "buteId": 101,
+    "wingLevel": 2,
+    "quality": 2,
+    "consume": [
+      501001,
+      2
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          21
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      35,
+      35
+    ]
+  },
+  {
+    "id": 1010003,
+    "buteId": 101,
+    "wingLevel": 3,
+    "quality": 2,
+    "consume": [
+      501001,
+      3
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          31
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      48,
+      48
+    ]
+  },
+  {
+    "id": 1010004,
+    "buteId": 101,
+    "wingLevel": 4,
+    "quality": 3,
+    "consume": [
+      501001,
+      4
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          41
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      60,
+      60
+    ]
+  },
+  {
+    "id": 1010005,
+    "buteId": 101,
+    "wingLevel": 5,
+    "quality": 3,
+    "consume": [
+      501001,
+      5
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          51
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      76,
+      76
+    ]
+  },
+  {
+    "id": 1010006,
+    "buteId": 101,
+    "wingLevel": 6,
+    "quality": 3,
+    "consume": [
+      501082,
+      6
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          61
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      95,
+      95
+    ]
+  },
+  {
+    "id": 1010007,
+    "buteId": 101,
+    "wingLevel": 7,
+    "quality": 4,
+    "consume": [
+      501082,
+      7
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          71
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      120,
+      120
+    ]
+  },
+  {
+    "id": 1010008,
+    "buteId": 101,
+    "wingLevel": 8,
+    "quality": 4,
+    "consume": [
+      501082,
+      9
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          81
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      151,
+      151
+    ]
+  },
+  {
+    "id": 1010009,
+    "buteId": 101,
+    "wingLevel": 9,
+    "quality": 4,
+    "consume": [
+      501083,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          91
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      190,
+      190
+    ]
+  },
+  {
+    "id": 1010010,
+    "buteId": 101,
+    "wingLevel": 10,
+    "quality": 5,
+    "consume": [
+      501083,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          101
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      240,
+      240
+    ]
+  },
+  {
+    "id": 1010011,
+    "buteId": 101,
+    "wingLevel": 11,
+    "quality": 5,
+    "consume": [
+      501083,
+      11
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          111
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      302,
+      302
+    ]
+  },
+  {
+    "id": 1010012,
+    "buteId": 101,
+    "wingLevel": 12,
+    "quality": 5,
+    "consume": [
+      501084,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          121
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      381,
+      381
+    ]
+  },
+  {
+    "id": 1010013,
+    "buteId": 101,
+    "wingLevel": 13,
+    "quality": 6,
+    "consume": [
+      501084,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          131
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      480,
+      480
+    ]
+  },
+  {
+    "id": 1010014,
+    "buteId": 101,
+    "wingLevel": 14,
+    "quality": 6,
+    "consume": [
+      501084,
+      13
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          141
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      605,
+      605
+    ]
+  },
+  {
+    "id": 1010015,
+    "buteId": 101,
+    "wingLevel": 15,
+    "quality": 6,
+    "consume": [
+      501085,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          151
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      762,
+      762
+    ]
+  },
+  {
+    "id": 1010016,
+    "buteId": 101,
+    "wingLevel": 16,
+    "quality": 6,
+    "consume": [
+      501085,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          161
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      943,
+      943
+    ]
+  },
+  {
+    "id": 1010017,
+    "buteId": 101,
+    "wingLevel": 17,
+    "quality": 6,
+    "consume": [
+      501085,
+      15
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          171
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      1141,
+      1141
+    ]
+  },
+  {
+    "id": 1010018,
+    "buteId": 101,
+    "wingLevel": 18,
+    "quality": 6,
+    "consume": [
+      501086,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          181
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      1357,
+      1357
+    ]
+  },
+  {
+    "id": 1010019,
+    "buteId": 101,
+    "wingLevel": 19,
+    "quality": 6,
+    "consume": [
+      501086,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          191
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      1592,
+      1592
+    ]
+  },
+  {
+    "id": 1010020,
+    "buteId": 101,
+    "wingLevel": 20,
+    "quality": 6,
+    "consume": [
+      501086,
+      17
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          201
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      1848,
+      1848
+    ]
+  },
+  {
+    "id": 1010021,
+    "buteId": 101,
+    "wingLevel": 21,
+    "quality": 6,
+    "consume": [
+      501086,
+      18
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          211
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      2127,
+      2127
+    ]
+  },
+  {
+    "id": 1010022,
+    "buteId": 101,
+    "wingLevel": 22,
+    "quality": 6,
+    "consume": [
+      501086,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          221
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      2432,
+      2432
+    ]
+  },
+  {
+    "id": 1010023,
+    "buteId": 101,
+    "wingLevel": 23,
+    "quality": 6,
+    "consume": [
+      501086,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          231
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      2764,
+      2764
+    ]
+  },
+  {
+    "id": 1010024,
+    "buteId": 101,
+    "wingLevel": 24,
+    "quality": 6,
+    "consume": [
+      501086,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          241
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      3125,
+      3125
+    ]
+  },
+  {
+    "id": 1010025,
+    "buteId": 101,
+    "wingLevel": 25,
+    "quality": 6,
+    "consume": [
+      501086,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          251
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      3520,
+      3520
+    ]
+  },
+  {
+    "id": 1010026,
+    "buteId": 101,
+    "wingLevel": 26,
+    "quality": 6,
+    "consume": [
+      501086,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          261
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      3950,
+      3950
+    ]
+  },
+  {
+    "id": 1010027,
+    "buteId": 101,
+    "wingLevel": 27,
+    "quality": 6,
+    "consume": [
+      501086,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          271
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      4419,
+      4419
+    ]
+  },
+  {
+    "id": 1010028,
+    "buteId": 101,
+    "wingLevel": 28,
+    "quality": 6,
+    "consume": [
+      501086,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          281
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      4930,
+      4930
+    ]
+  },
+  {
+    "id": 1010029,
+    "buteId": 101,
+    "wingLevel": 29,
+    "quality": 6,
+    "consume": [
+      501086,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          291
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      5488,
+      5488
+    ]
+  },
+  {
+    "id": 1010030,
+    "buteId": 101,
+    "wingLevel": 30,
+    "quality": 6,
+    "upLimit": [
+      [
+        1,
+        [
+          301
+        ]
+      ]
+    ],
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      6096,
+      6096
+    ]
+  },
+  {
+    "id": 1020001,
+    "buteId": 201,
+    "wingLevel": 1,
+    "quality": 2,
+    "consume": [
+      501002,
+      1
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          11
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      6,
+      3
+    ]
+  },
+  {
+    "id": 1020002,
+    "buteId": 201,
+    "wingLevel": 2,
+    "quality": 2,
+    "consume": [
+      501002,
+      2
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          21
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      10,
+      5
+    ]
+  },
+  {
+    "id": 1020003,
+    "buteId": 201,
+    "wingLevel": 3,
+    "quality": 2,
+    "consume": [
+      501002,
+      3
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          31
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      13,
+      7
+    ]
+  },
+  {
+    "id": 1020004,
+    "buteId": 201,
+    "wingLevel": 4,
+    "quality": 3,
+    "consume": [
+      501002,
+      4
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          41
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      17,
+      8
+    ]
+  },
+  {
+    "id": 1020005,
+    "buteId": 201,
+    "wingLevel": 5,
+    "quality": 3,
+    "consume": [
+      501002,
+      5
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          51
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      21,
+      10
+    ]
+  },
+  {
+    "id": 1020006,
+    "buteId": 201,
+    "wingLevel": 6,
+    "quality": 3,
+    "consume": [
+      501002,
+      6
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          61
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      26,
+      13
+    ]
+  },
+  {
+    "id": 1020007,
+    "buteId": 201,
+    "wingLevel": 7,
+    "quality": 4,
+    "consume": [
+      501002,
+      7
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          71
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      33,
+      17
+    ]
+  },
+  {
+    "id": 1020008,
+    "buteId": 201,
+    "wingLevel": 8,
+    "quality": 4,
+    "consume": [
+      501002,
+      9
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          81
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      42,
+      21
+    ]
+  },
+  {
+    "id": 1020009,
+    "buteId": 201,
+    "wingLevel": 9,
+    "quality": 4,
+    "consume": [
+      501002,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          91
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      53,
+      26
+    ]
+  },
+  {
+    "id": 1020010,
+    "buteId": 201,
+    "wingLevel": 10,
+    "quality": 5,
+    "consume": [
+      501002,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          101
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      67,
+      33
+    ]
+  },
+  {
+    "id": 1020011,
+    "buteId": 201,
+    "wingLevel": 11,
+    "quality": 5,
+    "consume": [
+      501002,
+      11
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          111
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      84,
+      42
+    ]
+  },
+  {
+    "id": 1020012,
+    "buteId": 201,
+    "wingLevel": 12,
+    "quality": 5,
+    "consume": [
+      501002,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          121
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      106,
+      53
+    ]
+  },
+  {
+    "id": 1020013,
+    "buteId": 201,
+    "wingLevel": 13,
+    "quality": 6,
+    "consume": [
+      501002,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          131
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      133,
+      67
+    ]
+  },
+  {
+    "id": 1020014,
+    "buteId": 201,
+    "wingLevel": 14,
+    "quality": 6,
+    "consume": [
+      501002,
+      13
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          141
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      168,
+      84
+    ]
+  },
+  {
+    "id": 1020015,
+    "buteId": 201,
+    "wingLevel": 15,
+    "quality": 6,
+    "consume": [
+      501002,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          151
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      212,
+      106
+    ]
+  },
+  {
+    "id": 1020016,
+    "buteId": 201,
+    "wingLevel": 16,
+    "quality": 6,
+    "consume": [
+      501002,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          161
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      262,
+      131
+    ]
+  },
+  {
+    "id": 1020017,
+    "buteId": 201,
+    "wingLevel": 17,
+    "quality": 6,
+    "consume": [
+      501002,
+      15
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          171
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      317,
+      158
+    ]
+  },
+  {
+    "id": 1020018,
+    "buteId": 201,
+    "wingLevel": 18,
+    "quality": 6,
+    "consume": [
+      501002,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          181
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      377,
+      188
+    ]
+  },
+  {
+    "id": 1020019,
+    "buteId": 201,
+    "wingLevel": 19,
+    "quality": 6,
+    "consume": [
+      501002,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          191
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      442,
+      221
+    ]
+  },
+  {
+    "id": 1020020,
+    "buteId": 201,
+    "wingLevel": 20,
+    "quality": 6,
+    "consume": [
+      501002,
+      17
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          201
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      513,
+      257
+    ]
+  },
+  {
+    "id": 1020021,
+    "buteId": 201,
+    "wingLevel": 21,
+    "quality": 6,
+    "consume": [
+      501002,
+      18
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          211
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      591,
+      295
+    ]
+  },
+  {
+    "id": 1020022,
+    "buteId": 201,
+    "wingLevel": 22,
+    "quality": 6,
+    "consume": [
+      501002,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          221
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      675,
+      338
+    ]
+  },
+  {
+    "id": 1020023,
+    "buteId": 201,
+    "wingLevel": 23,
+    "quality": 6,
+    "consume": [
+      501002,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          231
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      768,
+      384
+    ]
+  },
+  {
+    "id": 1020024,
+    "buteId": 201,
+    "wingLevel": 24,
+    "quality": 6,
+    "consume": [
+      501002,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          241
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      868,
+      434
+    ]
+  },
+  {
+    "id": 1020025,
+    "buteId": 201,
+    "wingLevel": 25,
+    "quality": 6,
+    "consume": [
+      501002,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          251
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      978,
+      489
+    ]
+  },
+  {
+    "id": 1020026,
+    "buteId": 201,
+    "wingLevel": 26,
+    "quality": 6,
+    "consume": [
+      501002,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          261
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      1097,
+      549
+    ]
+  },
+  {
+    "id": 1020027,
+    "buteId": 201,
+    "wingLevel": 27,
+    "quality": 6,
+    "consume": [
+      501002,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          271
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      1228,
+      614
+    ]
+  },
+  {
+    "id": 1020028,
+    "buteId": 201,
+    "wingLevel": 28,
+    "quality": 6,
+    "consume": [
+      501002,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          281
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      1370,
+      685
+    ]
+  },
+  {
+    "id": 1020029,
+    "buteId": 201,
+    "wingLevel": 29,
+    "quality": 6,
+    "consume": [
+      501002,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          291
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      1524,
+      762
+    ]
+  },
+  {
+    "id": 1020030,
+    "buteId": 201,
+    "wingLevel": 30,
+    "quality": 6,
+    "upLimit": [
+      [
+        1,
+        [
+          301
+        ]
+      ]
+    ],
+    "attribute": [
+      "healHp",
+      "healMp"
+    ],
+    "attributeValue": [
+      1693,
+      847
+    ]
+  },
+  {
+    "id": 1030001,
+    "buteId": 301,
+    "wingLevel": 1,
+    "quality": 2,
+    "consume": [
+      501003,
+      1
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          11
+        ]
+      ],
+      [
+        16,
+        [
+          2
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      23,
+      23
+    ]
+  },
+  {
+    "id": 1030002,
+    "buteId": 301,
+    "wingLevel": 2,
+    "quality": 2,
+    "consume": [
+      501003,
+      2
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          21
+        ]
+      ],
+      [
+        16,
+        [
+          2
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      35,
+      35
+    ]
+  },
+  {
+    "id": 1030003,
+    "buteId": 301,
+    "wingLevel": 3,
+    "quality": 2,
+    "consume": [
+      501003,
+      3
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          31
+        ]
+      ],
+      [
+        16,
+        [
+          3
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      48,
+      48
+    ]
+  },
+  {
+    "id": 1030004,
+    "buteId": 301,
+    "wingLevel": 4,
+    "quality": 3,
+    "consume": [
+      501003,
+      4
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          41
+        ]
+      ],
+      [
+        16,
+        [
+          3
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      60,
+      60
+    ]
+  },
+  {
+    "id": 1030005,
+    "buteId": 301,
+    "wingLevel": 5,
+    "quality": 3,
+    "consume": [
+      501003,
+      5
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          51
+        ]
+      ],
+      [
+        16,
+        [
+          3
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      76,
+      76
+    ]
+  },
+  {
+    "id": 1030006,
+    "buteId": 301,
+    "wingLevel": 6,
+    "quality": 3,
+    "consume": [
+      501003,
+      6
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          61
+        ]
+      ],
+      [
+        16,
+        [
+          4
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      95,
+      95
+    ]
+  },
+  {
+    "id": 1030007,
+    "buteId": 301,
+    "wingLevel": 7,
+    "quality": 4,
+    "consume": [
+      501003,
+      7
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          71
+        ]
+      ],
+      [
+        16,
+        [
+          4
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      120,
+      120
+    ]
+  },
+  {
+    "id": 1030008,
+    "buteId": 301,
+    "wingLevel": 8,
+    "quality": 4,
+    "consume": [
+      501003,
+      9
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          81
+        ]
+      ],
+      [
+        16,
+        [
+          4
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      151,
+      151
+    ]
+  },
+  {
+    "id": 1030009,
+    "buteId": 301,
+    "wingLevel": 9,
+    "quality": 4,
+    "consume": [
+      501003,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          91
+        ]
+      ],
+      [
+        16,
+        [
+          5
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      190,
+      190
+    ]
+  },
+  {
+    "id": 1030010,
+    "buteId": 301,
+    "wingLevel": 10,
+    "quality": 5,
+    "consume": [
+      501003,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          101
+        ]
+      ],
+      [
+        16,
+        [
+          5
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      240,
+      240
+    ]
+  },
+  {
+    "id": 1030011,
+    "buteId": 301,
+    "wingLevel": 11,
+    "quality": 5,
+    "consume": [
+      501003,
+      11
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          111
+        ]
+      ],
+      [
+        16,
+        [
+          5
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      302,
+      302
+    ]
+  },
+  {
+    "id": 1030012,
+    "buteId": 301,
+    "wingLevel": 12,
+    "quality": 5,
+    "consume": [
+      501003,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          121
+        ]
+      ],
+      [
+        16,
+        [
+          6
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      381,
+      381
+    ]
+  },
+  {
+    "id": 1030013,
+    "buteId": 301,
+    "wingLevel": 13,
+    "quality": 6,
+    "consume": [
+      501003,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          131
+        ]
+      ],
+      [
+        16,
+        [
+          6
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      480,
+      480
+    ]
+  },
+  {
+    "id": 1030014,
+    "buteId": 301,
+    "wingLevel": 14,
+    "quality": 6,
+    "consume": [
+      501003,
+      13
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          141
+        ]
+      ],
+      [
+        16,
+        [
+          6
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      605,
+      605
+    ]
+  },
+  {
+    "id": 1030015,
+    "buteId": 301,
+    "wingLevel": 15,
+    "quality": 6,
+    "consume": [
+      501003,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          151
+        ]
+      ],
+      [
+        16,
+        [
+          7
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      762,
+      762
+    ]
+  },
+  {
+    "id": 1030016,
+    "buteId": 301,
+    "wingLevel": 16,
+    "quality": 6,
+    "consume": [
+      501003,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          161
+        ]
+      ],
+      [
+        16,
+        [
+          7
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      943,
+      943
+    ]
+  },
+  {
+    "id": 1030017,
+    "buteId": 301,
+    "wingLevel": 17,
+    "quality": 6,
+    "consume": [
+      501003,
+      15
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          171
+        ]
+      ],
+      [
+        16,
+        [
+          7
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      1141,
+      1141
+    ]
+  },
+  {
+    "id": 1030018,
+    "buteId": 301,
+    "wingLevel": 18,
+    "quality": 6,
+    "consume": [
+      501003,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          181
+        ]
+      ],
+      [
+        16,
+        [
+          8
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      1357,
+      1357
+    ]
+  },
+  {
+    "id": 1030019,
+    "buteId": 301,
+    "wingLevel": 19,
+    "quality": 6,
+    "consume": [
+      501003,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          191
+        ]
+      ],
+      [
+        16,
+        [
+          8
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      1592,
+      1592
+    ]
+  },
+  {
+    "id": 1030020,
+    "buteId": 301,
+    "wingLevel": 20,
+    "quality": 6,
+    "consume": [
+      501003,
+      17
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          201
+        ]
+      ],
+      [
+        16,
+        [
+          8
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      1848,
+      1848
+    ]
+  },
+  {
+    "id": 1030021,
+    "buteId": 301,
+    "wingLevel": 21,
+    "quality": 6,
+    "consume": [
+      501003,
+      18
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          211
+        ]
+      ],
+      [
+        16,
+        [
+          9
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      2127,
+      2127
+    ]
+  },
+  {
+    "id": 1030022,
+    "buteId": 301,
+    "wingLevel": 22,
+    "quality": 6,
+    "consume": [
+      501003,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          221
+        ]
+      ],
+      [
+        16,
+        [
+          9
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      2432,
+      2432
+    ]
+  },
+  {
+    "id": 1030023,
+    "buteId": 301,
+    "wingLevel": 23,
+    "quality": 6,
+    "consume": [
+      501003,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          231
+        ]
+      ],
+      [
+        16,
+        [
+          9
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      2764,
+      2764
+    ]
+  },
+  {
+    "id": 1030024,
+    "buteId": 301,
+    "wingLevel": 24,
+    "quality": 6,
+    "consume": [
+      501003,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          241
+        ]
+      ],
+      [
+        16,
+        [
+          10
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      3125,
+      3125
+    ]
+  },
+  {
+    "id": 1030025,
+    "buteId": 301,
+    "wingLevel": 25,
+    "quality": 6,
+    "consume": [
+      501003,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          251
+        ]
+      ],
+      [
+        16,
+        [
+          10
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      3520,
+      3520
+    ]
+  },
+  {
+    "id": 1030026,
+    "buteId": 301,
+    "wingLevel": 26,
+    "quality": 6,
+    "consume": [
+      501003,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          261
+        ]
+      ],
+      [
+        16,
+        [
+          10
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      3950,
+      3950
+    ]
+  },
+  {
+    "id": 1030027,
+    "buteId": 301,
+    "wingLevel": 27,
+    "quality": 6,
+    "consume": [
+      501003,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          271
+        ]
+      ],
+      [
+        16,
+        [
+          11
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      4419,
+      4419
+    ]
+  },
+  {
+    "id": 1030028,
+    "buteId": 301,
+    "wingLevel": 28,
+    "quality": 6,
+    "consume": [
+      501003,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          281
+        ]
+      ],
+      [
+        16,
+        [
+          11
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      4930,
+      4930
+    ]
+  },
+  {
+    "id": 1030029,
+    "buteId": 301,
+    "wingLevel": 29,
+    "quality": 6,
+    "consume": [
+      501003,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          291
+        ]
+      ],
+      [
+        16,
+        [
+          11
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      5488,
+      5488
+    ]
+  },
+  {
+    "id": 1030030,
+    "buteId": 301,
+    "wingLevel": 30,
+    "quality": 6,
+    "upLimit": [
+      [
+        1,
+        [
+          301
+        ]
+      ],
+      [
+        16,
+        [
+          12
+        ]
+      ]
+    ],
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      6096,
+      6096
+    ]
+  },
+  {
+    "id": 1040001,
+    "buteId": 401,
+    "wingLevel": 1,
+    "quality": 2,
+    "consume": [
+      501101,
+      1
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          11
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      113,
+      6
+    ]
+  },
+  {
+    "id": 1040002,
+    "buteId": 401,
+    "wingLevel": 2,
+    "quality": 2,
+    "consume": [
+      501101,
+      2
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          21
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      175,
+      10
+    ]
+  },
+  {
+    "id": 1040003,
+    "buteId": 401,
+    "wingLevel": 3,
+    "quality": 2,
+    "consume": [
+      501101,
+      3
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          31
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      238,
+      13
+    ]
+  },
+  {
+    "id": 1040004,
+    "buteId": 401,
+    "wingLevel": 4,
+    "quality": 3,
+    "consume": [
+      501101,
+      4
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          41
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      300,
+      17
+    ]
+  },
+  {
+    "id": 1040005,
+    "buteId": 401,
+    "wingLevel": 5,
+    "quality": 3,
+    "consume": [
+      501101,
+      5
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          51
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      378,
+      21
+    ]
+  },
+  {
+    "id": 1040006,
+    "buteId": 401,
+    "wingLevel": 6,
+    "quality": 3,
+    "consume": [
+      501101,
+      6
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          61
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      476,
+      26
+    ]
+  },
+  {
+    "id": 1040007,
+    "buteId": 401,
+    "wingLevel": 7,
+    "quality": 4,
+    "consume": [
+      501101,
+      7
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          71
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      600,
+      33
+    ]
+  },
+  {
+    "id": 1040008,
+    "buteId": 401,
+    "wingLevel": 8,
+    "quality": 4,
+    "consume": [
+      501101,
+      9
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          81
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      756,
+      42
+    ]
+  },
+  {
+    "id": 1040009,
+    "buteId": 401,
+    "wingLevel": 9,
+    "quality": 4,
+    "consume": [
+      501101,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          91
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      952,
+      53
+    ]
+  },
+  {
+    "id": 1040010,
+    "buteId": 401,
+    "wingLevel": 10,
+    "quality": 5,
+    "consume": [
+      501101,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          101
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      1200,
+      67
+    ]
+  },
+  {
+    "id": 1040011,
+    "buteId": 401,
+    "wingLevel": 11,
+    "quality": 5,
+    "consume": [
+      501101,
+      11
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          111
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      1512,
+      84
+    ]
+  },
+  {
+    "id": 1040012,
+    "buteId": 401,
+    "wingLevel": 12,
+    "quality": 5,
+    "consume": [
+      501101,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          121
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      1905,
+      106
+    ]
+  },
+  {
+    "id": 1040013,
+    "buteId": 401,
+    "wingLevel": 13,
+    "quality": 6,
+    "consume": [
+      501101,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          131
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      2400,
+      133
+    ]
+  },
+  {
+    "id": 1040014,
+    "buteId": 401,
+    "wingLevel": 14,
+    "quality": 6,
+    "consume": [
+      501101,
+      13
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          141
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      3024,
+      168
+    ]
+  },
+  {
+    "id": 1040015,
+    "buteId": 401,
+    "wingLevel": 15,
+    "quality": 6,
+    "consume": [
+      501101,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          151
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      3810,
+      212
+    ]
+  },
+  {
+    "id": 1040016,
+    "buteId": 401,
+    "wingLevel": 16,
+    "quality": 6,
+    "consume": [
+      501101,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          161
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      4716,
+      262
+    ]
+  },
+  {
+    "id": 1040017,
+    "buteId": 401,
+    "wingLevel": 17,
+    "quality": 6,
+    "consume": [
+      501101,
+      15
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          171
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      5705,
+      317
+    ]
+  },
+  {
+    "id": 1040018,
+    "buteId": 401,
+    "wingLevel": 18,
+    "quality": 6,
+    "consume": [
+      501101,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          181
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      6783,
+      377
+    ]
+  },
+  {
+    "id": 1040019,
+    "buteId": 401,
+    "wingLevel": 19,
+    "quality": 6,
+    "consume": [
+      501101,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          191
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      7958,
+      442
+    ]
+  },
+  {
+    "id": 1040020,
+    "buteId": 401,
+    "wingLevel": 20,
+    "quality": 6,
+    "consume": [
+      501101,
+      17
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          201
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      9239,
+      513
+    ]
+  },
+  {
+    "id": 1040021,
+    "buteId": 401,
+    "wingLevel": 21,
+    "quality": 6,
+    "consume": [
+      501101,
+      18
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          211
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      10635,
+      591
+    ]
+  },
+  {
+    "id": 1040022,
+    "buteId": 401,
+    "wingLevel": 22,
+    "quality": 6,
+    "consume": [
+      501101,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          221
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      12158,
+      675
+    ]
+  },
+  {
+    "id": 1040023,
+    "buteId": 401,
+    "wingLevel": 23,
+    "quality": 6,
+    "consume": [
+      501101,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          231
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      13818,
+      768
+    ]
+  },
+  {
+    "id": 1040024,
+    "buteId": 401,
+    "wingLevel": 24,
+    "quality": 6,
+    "consume": [
+      501101,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          241
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      15627,
+      868
+    ]
+  },
+  {
+    "id": 1040025,
+    "buteId": 401,
+    "wingLevel": 25,
+    "quality": 6,
+    "consume": [
+      501101,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          251
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      17600,
+      978
+    ]
+  },
+  {
+    "id": 1040026,
+    "buteId": 401,
+    "wingLevel": 26,
+    "quality": 6,
+    "consume": [
+      501101,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          261
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      19751,
+      1097
+    ]
+  },
+  {
+    "id": 1040027,
+    "buteId": 401,
+    "wingLevel": 27,
+    "quality": 6,
+    "consume": [
+      501101,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          271
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      22096,
+      1228
+    ]
+  },
+  {
+    "id": 1040028,
+    "buteId": 401,
+    "wingLevel": 28,
+    "quality": 6,
+    "consume": [
+      501101,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          281
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      24652,
+      1370
+    ]
+  },
+  {
+    "id": 1040029,
+    "buteId": 401,
+    "wingLevel": 29,
+    "quality": 6,
+    "consume": [
+      501101,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          291
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      27439,
+      1524
+    ]
+  },
+  {
+    "id": 1040030,
+    "buteId": 401,
+    "wingLevel": 30,
+    "quality": 6,
+    "upLimit": [
+      [
+        1,
+        [
+          301
+        ]
+      ]
+    ],
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      30478,
+      1693
+    ]
+  },
+  {
+    "id": 1050001,
+    "buteId": 501,
+    "wingLevel": 1,
+    "quality": 2,
+    "consume": [
+      501201,
+      1
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          11
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      11,
+      23
+    ]
+  },
+  {
+    "id": 1050002,
+    "buteId": 501,
+    "wingLevel": 2,
+    "quality": 2,
+    "consume": [
+      501201,
+      2
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          21
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      18,
+      35
+    ]
+  },
+  {
+    "id": 1050003,
+    "buteId": 501,
+    "wingLevel": 3,
+    "quality": 2,
+    "consume": [
+      501201,
+      3
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          31
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      24,
+      48
+    ]
+  },
+  {
+    "id": 1050004,
+    "buteId": 501,
+    "wingLevel": 4,
+    "quality": 3,
+    "consume": [
+      501201,
+      4
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          41
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      30,
+      60
+    ]
+  },
+  {
+    "id": 1050005,
+    "buteId": 501,
+    "wingLevel": 5,
+    "quality": 3,
+    "consume": [
+      501201,
+      5
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          51
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      38,
+      76
+    ]
+  },
+  {
+    "id": 1050006,
+    "buteId": 501,
+    "wingLevel": 6,
+    "quality": 3,
+    "consume": [
+      501201,
+      6
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          61
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      48,
+      95
+    ]
+  },
+  {
+    "id": 1050007,
+    "buteId": 501,
+    "wingLevel": 7,
+    "quality": 4,
+    "consume": [
+      501201,
+      7
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          71
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      60,
+      120
+    ]
+  },
+  {
+    "id": 1050008,
+    "buteId": 501,
+    "wingLevel": 8,
+    "quality": 4,
+    "consume": [
+      501201,
+      9
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          81
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      76,
+      151
+    ]
+  },
+  {
+    "id": 1050009,
+    "buteId": 501,
+    "wingLevel": 9,
+    "quality": 4,
+    "consume": [
+      501201,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          91
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      95,
+      190
+    ]
+  },
+  {
+    "id": 1050010,
+    "buteId": 501,
+    "wingLevel": 10,
+    "quality": 5,
+    "consume": [
+      501201,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          101
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      120,
+      240
+    ]
+  },
+  {
+    "id": 1050011,
+    "buteId": 501,
+    "wingLevel": 11,
+    "quality": 5,
+    "consume": [
+      501201,
+      11
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          111
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      151,
+      302
+    ]
+  },
+  {
+    "id": 1050012,
+    "buteId": 501,
+    "wingLevel": 12,
+    "quality": 5,
+    "consume": [
+      501201,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          121
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      190,
+      381
+    ]
+  },
+  {
+    "id": 1050013,
+    "buteId": 501,
+    "wingLevel": 13,
+    "quality": 6,
+    "consume": [
+      501201,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          131
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      240,
+      480
+    ]
+  },
+  {
+    "id": 1050014,
+    "buteId": 501,
+    "wingLevel": 14,
+    "quality": 6,
+    "consume": [
+      501201,
+      13
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          141
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      302,
+      605
+    ]
+  },
+  {
+    "id": 1050015,
+    "buteId": 501,
+    "wingLevel": 15,
+    "quality": 6,
+    "consume": [
+      501201,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          151
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      381,
+      762
+    ]
+  },
+  {
+    "id": 1050016,
+    "buteId": 501,
+    "wingLevel": 16,
+    "quality": 6,
+    "consume": [
+      501201,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          161
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      472,
+      943
+    ]
+  },
+  {
+    "id": 1050017,
+    "buteId": 501,
+    "wingLevel": 17,
+    "quality": 6,
+    "consume": [
+      501201,
+      15
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          171
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      571,
+      1141
+    ]
+  },
+  {
+    "id": 1050018,
+    "buteId": 501,
+    "wingLevel": 18,
+    "quality": 6,
+    "consume": [
+      501201,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          181
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      678,
+      1357
+    ]
+  },
+  {
+    "id": 1050019,
+    "buteId": 501,
+    "wingLevel": 19,
+    "quality": 6,
+    "consume": [
+      501201,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          191
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      796,
+      1592
+    ]
+  },
+  {
+    "id": 1050020,
+    "buteId": 501,
+    "wingLevel": 20,
+    "quality": 6,
+    "consume": [
+      501201,
+      17
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          201
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      924,
+      1848
+    ]
+  },
+  {
+    "id": 1050021,
+    "buteId": 501,
+    "wingLevel": 21,
+    "quality": 6,
+    "consume": [
+      501201,
+      18
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          211
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      1064,
+      2127
+    ]
+  },
+  {
+    "id": 1050022,
+    "buteId": 501,
+    "wingLevel": 22,
+    "quality": 6,
+    "consume": [
+      501201,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          221
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      1216,
+      2432
+    ]
+  },
+  {
+    "id": 1050023,
+    "buteId": 501,
+    "wingLevel": 23,
+    "quality": 6,
+    "consume": [
+      501201,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          231
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      1382,
+      2764
+    ]
+  },
+  {
+    "id": 1050024,
+    "buteId": 501,
+    "wingLevel": 24,
+    "quality": 6,
+    "consume": [
+      501201,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          241
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      1563,
+      3125
+    ]
+  },
+  {
+    "id": 1050025,
+    "buteId": 501,
+    "wingLevel": 25,
+    "quality": 6,
+    "consume": [
+      501201,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          251
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      1760,
+      3520
+    ]
+  },
+  {
+    "id": 1050026,
+    "buteId": 501,
+    "wingLevel": 26,
+    "quality": 6,
+    "consume": [
+      501201,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          261
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      1975,
+      3950
+    ]
+  },
+  {
+    "id": 1050027,
+    "buteId": 501,
+    "wingLevel": 27,
+    "quality": 6,
+    "consume": [
+      501201,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          271
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      2210,
+      4419
+    ]
+  },
+  {
+    "id": 1050028,
+    "buteId": 501,
+    "wingLevel": 28,
+    "quality": 6,
+    "consume": [
+      501201,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          281
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      2465,
+      4930
+    ]
+  },
+  {
+    "id": 1050029,
+    "buteId": 501,
+    "wingLevel": 29,
+    "quality": 6,
+    "consume": [
+      501201,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          291
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      2744,
+      5488
+    ]
+  },
+  {
+    "id": 1050030,
+    "buteId": 501,
+    "wingLevel": 30,
+    "quality": 6,
+    "upLimit": [
+      [
+        1,
+        [
+          301
+        ]
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "crit"
+    ],
+    "attributeValue": [
+      3048,
+      6096
+    ]
+  },
+  {
+    "id": 1060001,
+    "buteId": 601,
+    "wingLevel": 1,
+    "quality": 2,
+    "consume": [
+      501301,
+      1
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          11
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      4,
+      23
+    ]
+  },
+  {
+    "id": 1060002,
+    "buteId": 601,
+    "wingLevel": 2,
+    "quality": 2,
+    "consume": [
+      501301,
+      2
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          21
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      6,
+      35
+    ]
+  },
+  {
+    "id": 1060003,
+    "buteId": 601,
+    "wingLevel": 3,
+    "quality": 2,
+    "consume": [
+      501301,
+      3
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          31
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      8,
+      48
+    ]
+  },
+  {
+    "id": 1060004,
+    "buteId": 601,
+    "wingLevel": 4,
+    "quality": 3,
+    "consume": [
+      501301,
+      4
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          41
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      10,
+      60
+    ]
+  },
+  {
+    "id": 1060005,
+    "buteId": 601,
+    "wingLevel": 5,
+    "quality": 3,
+    "consume": [
+      501301,
+      5
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          51
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      13,
+      76
+    ]
+  },
+  {
+    "id": 1060006,
+    "buteId": 601,
+    "wingLevel": 6,
+    "quality": 3,
+    "consume": [
+      501301,
+      6
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          61
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      16,
+      95
+    ]
+  },
+  {
+    "id": 1060007,
+    "buteId": 601,
+    "wingLevel": 7,
+    "quality": 4,
+    "consume": [
+      501301,
+      7
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          71
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      20,
+      120
+    ]
+  },
+  {
+    "id": 1060008,
+    "buteId": 601,
+    "wingLevel": 8,
+    "quality": 4,
+    "consume": [
+      501301,
+      9
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          81
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      25,
+      151
+    ]
+  },
+  {
+    "id": 1060009,
+    "buteId": 601,
+    "wingLevel": 9,
+    "quality": 4,
+    "consume": [
+      501301,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          91
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      32,
+      190
+    ]
+  },
+  {
+    "id": 1060010,
+    "buteId": 601,
+    "wingLevel": 10,
+    "quality": 5,
+    "consume": [
+      501301,
+      10
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          101
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      40,
+      240
+    ]
+  },
+  {
+    "id": 1060011,
+    "buteId": 601,
+    "wingLevel": 11,
+    "quality": 5,
+    "consume": [
+      501301,
+      11
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          111
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      50,
+      302
+    ]
+  },
+  {
+    "id": 1060012,
+    "buteId": 601,
+    "wingLevel": 12,
+    "quality": 5,
+    "consume": [
+      501301,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          121
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      63,
+      381
+    ]
+  },
+  {
+    "id": 1060013,
+    "buteId": 601,
+    "wingLevel": 13,
+    "quality": 6,
+    "consume": [
+      501301,
+      12
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          131
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      80,
+      480
+    ]
+  },
+  {
+    "id": 1060014,
+    "buteId": 601,
+    "wingLevel": 14,
+    "quality": 6,
+    "consume": [
+      501301,
+      13
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          141
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      101,
+      605
+    ]
+  },
+  {
+    "id": 1060015,
+    "buteId": 601,
+    "wingLevel": 15,
+    "quality": 6,
+    "consume": [
+      501301,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          151
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      127,
+      762
+    ]
+  },
+  {
+    "id": 1060016,
+    "buteId": 601,
+    "wingLevel": 16,
+    "quality": 6,
+    "consume": [
+      501301,
+      14
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          161
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      157,
+      943
+    ]
+  },
+  {
+    "id": 1060017,
+    "buteId": 601,
+    "wingLevel": 17,
+    "quality": 6,
+    "consume": [
+      501301,
+      15
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          171
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      190,
+      1141
+    ]
+  },
+  {
+    "id": 1060018,
+    "buteId": 601,
+    "wingLevel": 18,
+    "quality": 6,
+    "consume": [
+      501301,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          181
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      226,
+      1357
+    ]
+  },
+  {
+    "id": 1060019,
+    "buteId": 601,
+    "wingLevel": 19,
+    "quality": 6,
+    "consume": [
+      501301,
+      16
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          191
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      265,
+      1592
+    ]
+  },
+  {
+    "id": 1060020,
+    "buteId": 601,
+    "wingLevel": 20,
+    "quality": 6,
+    "consume": [
+      501301,
+      17
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          201
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      308,
+      1848
+    ]
+  },
+  {
+    "id": 1060021,
+    "buteId": 601,
+    "wingLevel": 21,
+    "quality": 6,
+    "consume": [
+      501301,
+      18
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          211
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      355,
+      2127
+    ]
+  },
+  {
+    "id": 1060022,
+    "buteId": 601,
+    "wingLevel": 22,
+    "quality": 6,
+    "consume": [
+      501301,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          221
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      405,
+      2432
+    ]
+  },
+  {
+    "id": 1060023,
+    "buteId": 601,
+    "wingLevel": 23,
+    "quality": 6,
+    "consume": [
+      501301,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          231
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      461,
+      2764
+    ]
+  },
+  {
+    "id": 1060024,
+    "buteId": 601,
+    "wingLevel": 24,
+    "quality": 6,
+    "consume": [
+      501301,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          241
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      521,
+      3125
+    ]
+  },
+  {
+    "id": 1060025,
+    "buteId": 601,
+    "wingLevel": 25,
+    "quality": 6,
+    "consume": [
+      501301,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          251
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      587,
+      3520
+    ]
+  },
+  {
+    "id": 1060026,
+    "buteId": 601,
+    "wingLevel": 26,
+    "quality": 6,
+    "consume": [
+      501301,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          261
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      658,
+      3950
+    ]
+  },
+  {
+    "id": 1060027,
+    "buteId": 601,
+    "wingLevel": 27,
+    "quality": 6,
+    "consume": [
+      501301,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          271
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      737,
+      4419
+    ]
+  },
+  {
+    "id": 1060028,
+    "buteId": 601,
+    "wingLevel": 28,
+    "quality": 6,
+    "consume": [
+      501301,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          281
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      822,
+      4930
+    ]
+  },
+  {
+    "id": 1060029,
+    "buteId": 601,
+    "wingLevel": 29,
+    "quality": 6,
+    "consume": [
+      501301,
+      19
+    ],
+    "upLimit": [
+      [
+        1,
+        [
+          291
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      915,
+      5488
+    ]
+  },
+  {
+    "id": 1060030,
+    "buteId": 601,
+    "wingLevel": 30,
+    "quality": 6,
+    "upLimit": [
+      [
+        1,
+        [
+          301
+        ]
+      ]
+    ],
+    "attribute": [
+      "def",
+      "guardian"
+    ],
+    "attributeValue": [
+      1016,
+      6096
+    ]
+  }
+]

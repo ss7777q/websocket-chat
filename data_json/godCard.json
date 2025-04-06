@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1001,
+    "name": "夏季盛典",
+    "type": 1,
+    "activityTime": 100106,
+    "taskTime": 100101,
+    "receiveTime": 100101,
+    "shopStructureId": -1,
+    "shopTime": 100105,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3003,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 50,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 1002,
+    "name": "夏季盛典",
+    "type": 1,
+    "activityTime": 100106,
+    "taskTime": 100101,
+    "receiveTime": 100101,
+    "shopStructureId": -1,
+    "shopTime": 100205,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3003,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 50,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 102001,
+    "name": "初秋盛典",
+    "type": 2,
+    "activityTime": 100206,
+    "taskTime": 100201,
+    "receiveTime": 100201,
+    "shopStructureId": -1,
+    "shopTime": 100205,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3006,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 50,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 103001,
+    "name": "万圣盛典",
+    "type": 3,
+    "activityTime": 100306,
+    "taskTime": 100301,
+    "receiveTime": 100301,
+    "shopStructureId": -1,
+    "shopTime": 100305,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3023,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 60,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 104001,
+    "name": "冬日盛典",
+    "type": 4,
+    "activityTime": 100406,
+    "taskTime": 100401,
+    "receiveTime": 100401,
+    "shopStructureId": -1,
+    "shopTime": 100405,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3263,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 60,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 105001,
+    "name": "玩偶盛典",
+    "type": 5,
+    "activityTime": 100506,
+    "taskTime": 100501,
+    "receiveTime": 100501,
+    "shopStructureId": -1,
+    "shopTime": 100505,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3343,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 60,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 106001,
+    "name": "夏季盛典",
+    "type": 6,
+    "activityTime": 100606,
+    "taskTime": 100601,
+    "receiveTime": 100601,
+    "shopStructureId": -1,
+    "shopTime": 100605,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3373,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 50,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 107001,
+    "name": "萌宠盛典",
+    "type": 7,
+    "activityTime": 100706,
+    "taskTime": 100701,
+    "receiveTime": 100701,
+    "shopStructureId": -1,
+    "shopTime": 100705,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3403,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 108001,
+    "name": "万圣盛典",
+    "type": 8,
+    "activityTime": 100806,
+    "taskTime": 100801,
+    "receiveTime": 100801,
+    "shopStructureId": -1,
+    "shopTime": 100805,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 109001,
+    "name": "冬日盛典",
+    "type": 9,
+    "activityTime": 100906,
+    "taskTime": 100901,
+    "receiveTime": 100901,
+    "shopStructureId": -1,
+    "shopTime": 100905,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1009010,
+      [
+        190060304,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ]
+  },
+  {
+    "id": 110001,
+    "name": "新春盛典",
+    "type": 10,
+    "activityTime": 101006,
+    "taskTime": 101001,
+    "receiveTime": 101001,
+    "shopStructureId": -1,
+    "shopTime": 101005,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 111001,
+    "name": "春季盛典",
+    "type": 11,
+    "activityTime": 101106,
+    "taskTime": 101101,
+    "receiveTime": 101101,
+    "shopStructureId": -1,
+    "shopTime": 101105,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60
+  },
+  {
+    "id": 112001,
+    "name": "牛气盛典",
+    "type": 12,
+    "activityTime": 101206,
+    "taskTime": 101201,
+    "receiveTime": 101201,
+    "shopStructureId": -1,
+    "shopTime": 101205,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190060306,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "哞！上仙们一起牛气冲天！"
+  },
+  {
+    "id": 113001,
+    "name": "汪汪盛典",
+    "type": 13,
+    "activityTime": 101306,
+    "taskTime": 101301,
+    "receiveTime": 101301,
+    "shopStructureId": -1,
+    "shopTime": 101305,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190005,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "哈士汪闪亮登场"
+  },
+  {
+    "id": 114001,
+    "name": "夏末盛典",
+    "type": 14,
+    "activityTime": 101406,
+    "taskTime": 101401,
+    "receiveTime": 101401,
+    "shopStructureId": -1,
+    "shopTime": 101405,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3000033,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "让刑天燃烧这最后的夏日吧"
+  },
+  {
+    "id": 115001,
+    "name": "秋季盛典",
+    "type": 15,
+    "activityTime": 101506,
+    "taskTime": 101501,
+    "receiveTime": 101501,
+    "shopStructureId": -1,
+    "shopTime": 101505,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "text": "秋风拂过，喜迎丰收之季！"
+  },
+  {
+    "id": 116001,
+    "name": "初冬盛典",
+    "type": 16,
+    "activityTime": 101606,
+    "taskTime": 101601,
+    "receiveTime": 101601,
+    "shopStructureId": -1,
+    "shopTime": 101605,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190006,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "白雪皑皑，冬天已悄悄来临"
+  },
+  {
+    "id": 117001,
+    "name": "冬季盛典",
+    "type": 17,
+    "activityTime": 101706,
+    "taskTime": 101701,
+    "receiveTime": 101701,
+    "shopStructureId": -1,
+    "shopTime": 101705,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3623,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190060307,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "寒冬已至，霜翼寒刃正隐藏于风雪之中。"
+  },
+  {
+    "id": 118001,
+    "name": "迎春盛典",
+    "type": 18,
+    "activityTime": 101806,
+    "taskTime": 101801,
+    "receiveTime": 101801,
+    "shopStructureId": -1,
+    "shopTime": 101805,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190060308,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "喜迎新春，玉兔赐福"
+  },
+  {
+    "id": 119001,
+    "name": "春季盛典",
+    "type": 19,
+    "activityTime": 101906,
+    "taskTime": 101901,
+    "receiveTime": 101901,
+    "shopStructureId": -1,
+    "shopTime": 101905,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        191004,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "枯叶又逢春"
+  },
+  {
+    "id": 120001,
+    "name": "春耕盛典",
+    "type": 20,
+    "activityTime": 102006,
+    "taskTime": 102001,
+    "receiveTime": 102001,
+    "shopStructureId": -1,
+    "shopTime": 102005,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3625,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "布谷飞飞劝早耕，春锄扑扑趁初晴"
+  },
+  {
+    "id": 121001,
+    "name": "初夏盛典",
+    "type": 21,
+    "activityTime": 102106,
+    "taskTime": 102101,
+    "receiveTime": 102101,
+    "shopStructureId": -1,
+    "shopTime": 102105,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3626,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "小荷才露尖尖角，早有蜻蜓立上头"
+  },
+  {
+    "id": 122001,
+    "name": "夏季盛典",
+    "type": 22,
+    "activityTime": 102206,
+    "taskTime": 102201,
+    "receiveTime": 102201,
+    "shopStructureId": -1,
+    "shopTime": 102205,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 101,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3423,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3627,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "竹深树密虫鸣处，时有微凉不是风"
+  },
+  {
+    "id": 123001,
+    "name": "夏末盛典",
+    "type": 23,
+    "activityTime": 102306,
+    "taskTime": 102301,
+    "receiveTime": 102301,
+    "shopStructureId": -1,
+    "shopTime": 102305,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 106,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3643,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3626,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "盛夏将入尾声，去海边享受最后的夏日吧！"
+  },
+  {
+    "id": 124001,
+    "name": "夏末盛典-新区",
+    "type": 24,
+    "activityTime": 102406,
+    "taskTime": 102401,
+    "receiveTime": 102401,
+    "shopStructureId": -1,
+    "shopTime": 102405,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 107,
+    "specialGiveReward": [
+      [
+        410053,
+        1
+      ],
+      [
+        3623,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3628,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "盛夏将入尾声，去海边享受最后的夏日吧！"
+  },
+  {
+    "id": 125001,
+    "name": "初秋盛典",
+    "type": 25,
+    "activityTime": 102506,
+    "taskTime": 102501,
+    "receiveTime": 102501,
+    "shopStructureId": -1,
+    "shopTime": 102505,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 108,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3643,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3626,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "飒飒西风吹薜萝，炎天伏枕一时过。"
+  },
+  {
+    "id": 126001,
+    "name": "初秋盛典-新区",
+    "type": 25,
+    "activityTime": 102606,
+    "taskTime": 102601,
+    "receiveTime": 102601,
+    "shopStructureId": 0,
+    "shopTime": 102605,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 109,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3647,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190050104,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "飒飒西风吹薜萝，炎天伏枕一时过。"
+  },
+  {
+    "id": 127001,
+    "name": "中秋盛典",
+    "type": 27,
+    "activityTime": 102706,
+    "taskTime": 102701,
+    "receiveTime": 102701,
+    "shopStructureId": 1,
+    "shopTime": 102705,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 110,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3651,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3627,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "柳下系舟犹未稳，能几日、又中秋。"
+  },
+  {
+    "id": 128001,
+    "name": "深秋盛典",
+    "type": 28,
+    "activityTime": 102806,
+    "taskTime": 102801,
+    "receiveTime": 102801,
+    "shopStructureId": 0,
+    "shopTime": 102805,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 111,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3655,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3629,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "空山新雨后，天气晚来秋。"
+  },
+  {
+    "id": 129001,
+    "name": "入冬盛典",
+    "type": 29,
+    "activityTime": 102906,
+    "taskTime": 102901,
+    "receiveTime": 102901,
+    "shopStructureId": 1,
+    "shopTime": 102905,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 112,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3659,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3626,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "早久何当雨，秋深渐入冬"
+  },
+  {
+    "id": 130001,
+    "name": "冬季盛典",
+    "type": 30,
+    "activityTime": 103006,
+    "taskTime": 103001,
+    "receiveTime": 103001,
+    "shopStructureId": 0,
+    "shopTime": 103005,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 113,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3663,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3630,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "晚来天欲雪，能饮一杯无。"
+  },
+  {
+    "id": 131001,
+    "name": "迎春盛典",
+    "type": 31,
+    "activityTime": 103106,
+    "taskTime": 103101,
+    "receiveTime": 103101,
+    "shopStructureId": 1,
+    "shopTime": 103105,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 114,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3667,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3625,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "爆竹声中一岁除，春风送暖入屠苏。"
+  },
+  {
+    "id": 132001,
+    "name": "迎春盛典",
+    "type": 31,
+    "activityTime": 103206,
+    "taskTime": 103201,
+    "receiveTime": 103201,
+    "shopStructureId": 0,
+    "shopTime": 103205,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 115,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3671,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3901,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "爆竹声中一岁除，春风送暖入屠苏。"
+  },
+  {
+    "id": 133001,
+    "name": "春季盛典",
+    "type": 33,
+    "activityTime": 103306,
+    "taskTime": 103301,
+    "receiveTime": 103301,
+    "shopStructureId": 2,
+    "shopTime": 103305,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 116,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3643,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3626,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "云霞出海曙，梅柳渡江春。"
+  },
+  {
+    "id": 134001,
+    "name": "春季盛典",
+    "type": 33,
+    "activityTime": 103406,
+    "taskTime": 103401,
+    "receiveTime": 103401,
+    "shopStructureId": 3,
+    "shopTime": 103405,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 117,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3647,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3901,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "云霞出海曙，梅柳渡江春。"
+  },
+  {
+    "id": 135001,
+    "name": "初夏盛典",
+    "type": 34,
+    "activityTime": 103506,
+    "taskTime": 103501,
+    "receiveTime": 103501,
+    "shopStructureId": 0,
+    "shopTime": 103505,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 118,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3651,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190050106,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "更无柳絮因风起，惟有葵花向日倾。"
+  },
+  {
+    "id": 136001,
+    "name": "夏季盛典",
+    "type": 35,
+    "activityTime": 103606,
+    "taskTime": 103601,
+    "receiveTime": 103601,
+    "shopStructureId": 1,
+    "shopTime": 103605,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 119,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3655,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3902,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "柳庭风静人眠昼，昼眠人静风庭柳。"
+  },
+  {
+    "id": 137001,
+    "name": "夏末盛典",
+    "type": 36,
+    "activityTime": 103706,
+    "taskTime": 103701,
+    "receiveTime": 103701,
+    "shopStructureId": 2,
+    "shopTime": 103705,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 120,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3659,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3903,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "参差小市林边出，缥缈疏钟雨外来。"
+  },
+  {
+    "id": 138001,
+    "name": "夏末盛典",
+    "type": 36,
+    "activityTime": 103806,
+    "taskTime": 103801,
+    "receiveTime": 103801,
+    "shopStructureId": 3,
+    "shopTime": 103805,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 121,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3663,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3901,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "参差小市林边出，缥缈疏钟雨外来。"
+  },
+  {
+    "id": 139001,
+    "name": "初秋盛典",
+    "type": 37,
+    "activityTime": 103906,
+    "taskTime": 103901,
+    "receiveTime": 103901,
+    "shopStructureId": 0,
+    "shopTime": 103905,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 122,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3667,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3626,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "烟际轻舟分霁色，望中飞鹭点山光。"
+  },
+  {
+    "id": 140001,
+    "name": "初秋盛典",
+    "type": 37,
+    "activityTime": 104006,
+    "taskTime": 104001,
+    "receiveTime": 104001,
+    "shopStructureId": 1,
+    "shopTime": 104005,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 123,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3671,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3901,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "烟际轻舟分霁色，望中飞鹭点山光。"
+  },
+  {
+    "id": 141001,
+    "name": "中秋盛典",
+    "type": 38,
+    "activityTime": 104106,
+    "taskTime": 104101,
+    "receiveTime": 104101,
+    "shopStructureId": 2,
+    "shopTime": 104105,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 124,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3643,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        480423,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "今夜月明人尽望，不知秋思落谁家。"
+  },
+  {
+    "id": 142001,
+    "name": "中秋盛典",
+    "type": 38,
+    "activityTime": 104206,
+    "taskTime": 104201,
+    "receiveTime": 104201,
+    "shopStructureId": 3,
+    "shopTime": 104205,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 125,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3647,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        480423,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "今夜月明人尽望，不知秋思落谁家。"
+  },
+  {
+    "id": 143001,
+    "name": "深秋盛典",
+    "type": 39,
+    "activityTime": 104306,
+    "taskTime": 104301,
+    "receiveTime": 104301,
+    "shopStructureId": 0,
+    "shopTime": 104305,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 126,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3651,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3902,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "深秋帘幕千家雨，落日楼台一笛风"
+  },
+  {
+    "id": 144001,
+    "name": "初冬盛典",
+    "type": 40,
+    "activityTime": 104406,
+    "taskTime": 104401,
+    "receiveTime": 104401,
+    "shopStructureId": 1,
+    "shopTime": 104405,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 127,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3655,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3903,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "细雨生寒未有霜，庭前木叶半青黄。"
+  },
+  {
+    "id": 145001,
+    "name": "冬季盛典",
+    "type": 41,
+    "activityTime": 104506,
+    "taskTime": 104501,
+    "receiveTime": 104501,
+    "shopStructureId": 2,
+    "shopTime": 104505,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 128,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3659,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3626,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "雪里已知春信至，寒梅点缀琼枝腻。"
+  },
+  {
+    "id": 146001,
+    "name": "迎春盛典",
+    "type": 42,
+    "activityTime": 104606,
+    "taskTime": 104601,
+    "receiveTime": 104601,
+    "shopStructureId": 3,
+    "shopTime": 104605,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 129,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3663,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190050110,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "千门万户曈曈日， 总把新桃换旧符"
+  },
+  {
+    "id": 147001,
+    "name": "迎春盛典",
+    "type": 42,
+    "activityTime": 104706,
+    "taskTime": 104701,
+    "receiveTime": 104701,
+    "shopStructureId": 0,
+    "shopTime": 104705,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 130,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3667,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        190050110,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "千门万户曈曈日， 总把新桃换旧符"
+  },
+  {
+    "id": 148001,
+    "name": "春季盛典",
+    "type": 43,
+    "activityTime": 104806,
+    "taskTime": 104801,
+    "receiveTime": 104801,
+    "shopStructureId": 1,
+    "shopTime": 104805,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 131,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3643,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3905,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "等闲识得东风面，万紫千红总是春。"
+  },
+  {
+    "id": 149001,
+    "name": "春季盛典",
+    "type": 43,
+    "activityTime": 104906,
+    "taskTime": 104901,
+    "receiveTime": 104901,
+    "shopStructureId": 2,
+    "shopTime": 104905,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 132,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3647,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3901,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "等闲识得东风面，万紫千红总是春。"
+  },
+  {
+    "id": 150001,
+    "name": "晚春盛典",
+    "type": 44,
+    "activityTime": 105006,
+    "taskTime": 105001,
+    "receiveTime": 105001,
+    "shopStructureId": 3,
+    "shopTime": 105005,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 133,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3651,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3903,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "池上碧苔三四点，叶底黄鹂一两声。"
+  },
+  {
+    "id": 151001,
+    "name": "晚春盛典",
+    "type": 44,
+    "activityTime": 105106,
+    "taskTime": 105101,
+    "receiveTime": 105101,
+    "shopStructureId": 0,
+    "shopTime": 105105,
+    "specialSpend": [
+      1,
+      4399
+    ],
+    "expSpend": [
+      1,
+      2
+    ],
+    "expItem": 134,
+    "specialGiveReward": [
+      [
+        410004,
+        1
+      ],
+      [
+        3655,
+        1
+      ],
+      [
+        1002,
+        3
+      ]
+    ],
+    "specialGiveExp": 1000,
+    "buyHighest": 120,
+    "buyTipsLv": 60,
+    "spacial": [
+      1012010,
+      [
+        3901,
+        1
+      ],
+      "金仙礼包第10档奖励获取"
+    ],
+    "text": "池上碧苔三四点，叶底黄鹂一两声。"
+  }
+]

@@ -1,0 +1,6190 @@
+[
+  {
+    "id": 8010851,
+    "name": "混元神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        45,
+        45
+      ],
+      [
+        90,
+        90
+      ],
+      [
+        150,
+        150
+      ]
+    ]
+  },
+  {
+    "id": 8010891,
+    "name": "混元魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        68
+      ],
+      [
+        135
+      ],
+      [
+        225
+      ]
+    ]
+  },
+  {
+    "id": 8010951,
+    "name": "紫金神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        57,
+        57
+      ],
+      [
+        114,
+        114
+      ],
+      [
+        190,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 8010991,
+    "name": "紫金魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        86
+      ],
+      [
+        171
+      ],
+      [
+        285
+      ]
+    ]
+  },
+  {
+    "id": 8011051,
+    "name": "火龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        72,
+        72
+      ],
+      [
+        144,
+        144
+      ],
+      [
+        240,
+        240
+      ]
+    ]
+  },
+  {
+    "id": 8011091,
+    "name": "火龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        108
+      ],
+      [
+        216
+      ],
+      [
+        360
+      ]
+    ]
+  },
+  {
+    "id": 8011151,
+    "name": "九龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        90,
+        90
+      ],
+      [
+        180,
+        180
+      ],
+      [
+        300,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 8011191,
+    "name": "九龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        135
+      ],
+      [
+        270
+      ],
+      [
+        450
+      ]
+    ]
+  },
+  {
+    "id": 8011251,
+    "name": "三霄神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        114,
+        114
+      ],
+      [
+        228,
+        228
+      ],
+      [
+        380,
+        380
+      ]
+    ]
+  },
+  {
+    "id": 8011291,
+    "name": "三霄魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        171
+      ],
+      [
+        342
+      ],
+      [
+        570
+      ]
+    ]
+  },
+  {
+    "id": 8011351,
+    "name": "仙鞘神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        144,
+        144
+      ],
+      [
+        288,
+        288
+      ],
+      [
+        480,
+        480
+      ]
+    ]
+  },
+  {
+    "id": 8011391,
+    "name": "仙鞘魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        216
+      ],
+      [
+        432
+      ],
+      [
+        720
+      ]
+    ]
+  },
+  {
+    "id": 8011451,
+    "name": "灵鳌神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        180,
+        180
+      ],
+      [
+        360,
+        360
+      ],
+      [
+        600,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 8011491,
+    "name": "灵鳌魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        270
+      ],
+      [
+        540
+      ],
+      [
+        900
+      ]
+    ]
+  },
+  {
+    "id": 8011551,
+    "name": "金仙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        228,
+        228
+      ],
+      [
+        456,
+        456
+      ],
+      [
+        760,
+        760
+      ]
+    ]
+  },
+  {
+    "id": 8011591,
+    "name": "金仙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342
+      ],
+      [
+        684
+      ],
+      [
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8011651,
+    "name": "究天神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        282,
+        282
+      ],
+      [
+        564,
+        564
+      ],
+      [
+        940,
+        940
+      ]
+    ]
+  },
+  {
+    "id": 8011691,
+    "name": "究天魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        423
+      ],
+      [
+        846
+      ],
+      [
+        1410
+      ]
+    ]
+  },
+  {
+    "id": 8011751,
+    "name": "摩愿神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342,
+        342
+      ],
+      [
+        684,
+        684
+      ],
+      [
+        1140,
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8011791,
+    "name": "摩愿魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        513
+      ],
+      [
+        1026
+      ],
+      [
+        1710
+      ]
+    ]
+  },
+  {
+    "id": 8011851,
+    "name": "罗悲神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        405,
+        405
+      ],
+      [
+        810,
+        810
+      ],
+      [
+        1350,
+        1350
+      ]
+    ]
+  },
+  {
+    "id": 8011891,
+    "name": "罗悲魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        609
+      ],
+      [
+        1218
+      ],
+      [
+        2030
+      ]
+    ]
+  },
+  {
+    "id": 8011951,
+    "name": "浮行神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        477,
+        477
+      ],
+      [
+        954,
+        954
+      ],
+      [
+        1590,
+        1590
+      ]
+    ]
+  },
+  {
+    "id": 8011991,
+    "name": "浮行魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        715
+      ],
+      [
+        1431
+      ],
+      [
+        2385
+      ]
+    ]
+  },
+  {
+    "id": 8012051,
+    "name": "多智神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        555,
+        555
+      ],
+      [
+        1110,
+        1110
+      ],
+      [
+        1850,
+        1850
+      ]
+    ]
+  },
+  {
+    "id": 8012091,
+    "name": "多智魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        832
+      ],
+      [
+        1665
+      ],
+      [
+        2775
+      ]
+    ]
+  },
+  {
+    "id": 8020851,
+    "name": "混元神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        45,
+        45
+      ],
+      [
+        90,
+        90
+      ],
+      [
+        150,
+        150
+      ]
+    ]
+  },
+  {
+    "id": 8020891,
+    "name": "混元魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        68
+      ],
+      [
+        135
+      ],
+      [
+        225
+      ]
+    ]
+  },
+  {
+    "id": 8020951,
+    "name": "紫金神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        57,
+        57
+      ],
+      [
+        114,
+        114
+      ],
+      [
+        190,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 8020991,
+    "name": "紫金魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        86
+      ],
+      [
+        171
+      ],
+      [
+        285
+      ]
+    ]
+  },
+  {
+    "id": 8021051,
+    "name": "火龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        72,
+        72
+      ],
+      [
+        144,
+        144
+      ],
+      [
+        240,
+        240
+      ]
+    ]
+  },
+  {
+    "id": 8021091,
+    "name": "火龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        108
+      ],
+      [
+        216
+      ],
+      [
+        360
+      ]
+    ]
+  },
+  {
+    "id": 8021151,
+    "name": "九龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        90,
+        90
+      ],
+      [
+        180,
+        180
+      ],
+      [
+        300,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 8021191,
+    "name": "九龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        135
+      ],
+      [
+        270
+      ],
+      [
+        450
+      ]
+    ]
+  },
+  {
+    "id": 8021251,
+    "name": "三霄神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        114,
+        114
+      ],
+      [
+        228,
+        228
+      ],
+      [
+        380,
+        380
+      ]
+    ]
+  },
+  {
+    "id": 8021291,
+    "name": "三霄魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        171
+      ],
+      [
+        342
+      ],
+      [
+        570
+      ]
+    ]
+  },
+  {
+    "id": 8021351,
+    "name": "仙鞘神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        144,
+        144
+      ],
+      [
+        288,
+        288
+      ],
+      [
+        480,
+        480
+      ]
+    ]
+  },
+  {
+    "id": 8021391,
+    "name": "仙鞘魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        216
+      ],
+      [
+        432
+      ],
+      [
+        720
+      ]
+    ]
+  },
+  {
+    "id": 8021451,
+    "name": "灵鳌神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        180,
+        180
+      ],
+      [
+        360,
+        360
+      ],
+      [
+        600,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 8021491,
+    "name": "灵鳌魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        270
+      ],
+      [
+        540
+      ],
+      [
+        900
+      ]
+    ]
+  },
+  {
+    "id": 8021551,
+    "name": "金仙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        228,
+        228
+      ],
+      [
+        456,
+        456
+      ],
+      [
+        760,
+        760
+      ]
+    ]
+  },
+  {
+    "id": 8021591,
+    "name": "金仙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342
+      ],
+      [
+        684
+      ],
+      [
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8021651,
+    "name": "究天神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        282,
+        282
+      ],
+      [
+        564,
+        564
+      ],
+      [
+        940,
+        940
+      ]
+    ]
+  },
+  {
+    "id": 8021691,
+    "name": "究天魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        423
+      ],
+      [
+        846
+      ],
+      [
+        1410
+      ]
+    ]
+  },
+  {
+    "id": 8021751,
+    "name": "摩愿神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342,
+        342
+      ],
+      [
+        684,
+        684
+      ],
+      [
+        1140,
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8021791,
+    "name": "摩愿魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        513
+      ],
+      [
+        1026
+      ],
+      [
+        1710
+      ]
+    ]
+  },
+  {
+    "id": 8021851,
+    "name": "罗悲神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        405,
+        405
+      ],
+      [
+        810,
+        810
+      ],
+      [
+        1350,
+        1350
+      ]
+    ]
+  },
+  {
+    "id": 8021891,
+    "name": "罗悲魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        609
+      ],
+      [
+        1218
+      ],
+      [
+        2030
+      ]
+    ]
+  },
+  {
+    "id": 8021951,
+    "name": "浮行神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        477,
+        477
+      ],
+      [
+        954,
+        954
+      ],
+      [
+        1590,
+        1590
+      ]
+    ]
+  },
+  {
+    "id": 8021991,
+    "name": "浮行魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        715
+      ],
+      [
+        1431
+      ],
+      [
+        2385
+      ]
+    ]
+  },
+  {
+    "id": 8022051,
+    "name": "多智神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        555,
+        555
+      ],
+      [
+        1110,
+        1110
+      ],
+      [
+        1850,
+        1850
+      ]
+    ]
+  },
+  {
+    "id": 8022091,
+    "name": "多智魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        832
+      ],
+      [
+        1665
+      ],
+      [
+        2775
+      ]
+    ]
+  },
+  {
+    "id": 8030851,
+    "name": "混元神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        45,
+        45
+      ],
+      [
+        90,
+        90
+      ],
+      [
+        150,
+        150
+      ]
+    ]
+  },
+  {
+    "id": 8030891,
+    "name": "混元魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        68
+      ],
+      [
+        135
+      ],
+      [
+        225
+      ]
+    ]
+  },
+  {
+    "id": 8030951,
+    "name": "紫金神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        57,
+        57
+      ],
+      [
+        114,
+        114
+      ],
+      [
+        190,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 8030991,
+    "name": "紫金魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        86
+      ],
+      [
+        171
+      ],
+      [
+        285
+      ]
+    ]
+  },
+  {
+    "id": 8031051,
+    "name": "火龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        72,
+        72
+      ],
+      [
+        144,
+        144
+      ],
+      [
+        240,
+        240
+      ]
+    ]
+  },
+  {
+    "id": 8031091,
+    "name": "火龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        108
+      ],
+      [
+        216
+      ],
+      [
+        360
+      ]
+    ]
+  },
+  {
+    "id": 8031151,
+    "name": "九龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        90,
+        90
+      ],
+      [
+        180,
+        180
+      ],
+      [
+        300,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 8031191,
+    "name": "九龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        135
+      ],
+      [
+        270
+      ],
+      [
+        450
+      ]
+    ]
+  },
+  {
+    "id": 8031251,
+    "name": "三霄神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        114,
+        114
+      ],
+      [
+        228,
+        228
+      ],
+      [
+        380,
+        380
+      ]
+    ]
+  },
+  {
+    "id": 8031291,
+    "name": "三霄魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        171
+      ],
+      [
+        342
+      ],
+      [
+        570
+      ]
+    ]
+  },
+  {
+    "id": 8031351,
+    "name": "仙鞘神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        144,
+        144
+      ],
+      [
+        288,
+        288
+      ],
+      [
+        480,
+        480
+      ]
+    ]
+  },
+  {
+    "id": 8031391,
+    "name": "仙鞘魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        216
+      ],
+      [
+        432
+      ],
+      [
+        720
+      ]
+    ]
+  },
+  {
+    "id": 8031451,
+    "name": "灵鳌神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        180,
+        180
+      ],
+      [
+        360,
+        360
+      ],
+      [
+        600,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 8031491,
+    "name": "灵鳌魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        270
+      ],
+      [
+        540
+      ],
+      [
+        900
+      ]
+    ]
+  },
+  {
+    "id": 8031551,
+    "name": "金仙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        228,
+        228
+      ],
+      [
+        456,
+        456
+      ],
+      [
+        760,
+        760
+      ]
+    ]
+  },
+  {
+    "id": 8031591,
+    "name": "金仙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342
+      ],
+      [
+        684
+      ],
+      [
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8031651,
+    "name": "究天神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        282,
+        282
+      ],
+      [
+        564,
+        564
+      ],
+      [
+        940,
+        940
+      ]
+    ]
+  },
+  {
+    "id": 8031691,
+    "name": "究天魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        423
+      ],
+      [
+        846
+      ],
+      [
+        1410
+      ]
+    ]
+  },
+  {
+    "id": 8031751,
+    "name": "摩愿神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342,
+        342
+      ],
+      [
+        684,
+        684
+      ],
+      [
+        1140,
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8031791,
+    "name": "摩愿魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        513
+      ],
+      [
+        1026
+      ],
+      [
+        1710
+      ]
+    ]
+  },
+  {
+    "id": 8031851,
+    "name": "罗悲神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        405,
+        405
+      ],
+      [
+        810,
+        810
+      ],
+      [
+        1350,
+        1350
+      ]
+    ]
+  },
+  {
+    "id": 8031891,
+    "name": "罗悲魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        609
+      ],
+      [
+        1218
+      ],
+      [
+        2030
+      ]
+    ]
+  },
+  {
+    "id": 8031951,
+    "name": "浮行神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        477,
+        477
+      ],
+      [
+        954,
+        954
+      ],
+      [
+        1590,
+        1590
+      ]
+    ]
+  },
+  {
+    "id": 8031991,
+    "name": "浮行魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        715
+      ],
+      [
+        1431
+      ],
+      [
+        2385
+      ]
+    ]
+  },
+  {
+    "id": 8032051,
+    "name": "多智神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        555,
+        555
+      ],
+      [
+        1110,
+        1110
+      ],
+      [
+        1850,
+        1850
+      ]
+    ]
+  },
+  {
+    "id": 8032091,
+    "name": "多智魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        832
+      ],
+      [
+        1665
+      ],
+      [
+        2775
+      ]
+    ]
+  },
+  {
+    "id": 8040851,
+    "name": "混元神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        45,
+        45
+      ],
+      [
+        90,
+        90
+      ],
+      [
+        150,
+        150
+      ]
+    ]
+  },
+  {
+    "id": 8040891,
+    "name": "混元魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        68
+      ],
+      [
+        135
+      ],
+      [
+        225
+      ]
+    ]
+  },
+  {
+    "id": 8040951,
+    "name": "紫金神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        57,
+        57
+      ],
+      [
+        114,
+        114
+      ],
+      [
+        190,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 8040991,
+    "name": "紫金魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        86
+      ],
+      [
+        171
+      ],
+      [
+        285
+      ]
+    ]
+  },
+  {
+    "id": 8041051,
+    "name": "火龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        72,
+        72
+      ],
+      [
+        144,
+        144
+      ],
+      [
+        240,
+        240
+      ]
+    ]
+  },
+  {
+    "id": 8041091,
+    "name": "火龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        108
+      ],
+      [
+        216
+      ],
+      [
+        360
+      ]
+    ]
+  },
+  {
+    "id": 8041151,
+    "name": "九龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        90,
+        90
+      ],
+      [
+        180,
+        180
+      ],
+      [
+        300,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 8041191,
+    "name": "九龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        135
+      ],
+      [
+        270
+      ],
+      [
+        450
+      ]
+    ]
+  },
+  {
+    "id": 8041251,
+    "name": "三霄神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        114,
+        114
+      ],
+      [
+        228,
+        228
+      ],
+      [
+        380,
+        380
+      ]
+    ]
+  },
+  {
+    "id": 8041291,
+    "name": "三霄魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        171
+      ],
+      [
+        342
+      ],
+      [
+        570
+      ]
+    ]
+  },
+  {
+    "id": 8041351,
+    "name": "仙鞘神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        144,
+        144
+      ],
+      [
+        288,
+        288
+      ],
+      [
+        480,
+        480
+      ]
+    ]
+  },
+  {
+    "id": 8041391,
+    "name": "仙鞘魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        216
+      ],
+      [
+        432
+      ],
+      [
+        720
+      ]
+    ]
+  },
+  {
+    "id": 8041451,
+    "name": "灵鳌神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        180,
+        180
+      ],
+      [
+        360,
+        360
+      ],
+      [
+        600,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 8041491,
+    "name": "灵鳌魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        270
+      ],
+      [
+        540
+      ],
+      [
+        900
+      ]
+    ]
+  },
+  {
+    "id": 8041551,
+    "name": "金仙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        228,
+        228
+      ],
+      [
+        456,
+        456
+      ],
+      [
+        760,
+        760
+      ]
+    ]
+  },
+  {
+    "id": 8041591,
+    "name": "金仙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342
+      ],
+      [
+        684
+      ],
+      [
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8041651,
+    "name": "究天神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        282,
+        282
+      ],
+      [
+        564,
+        564
+      ],
+      [
+        940,
+        940
+      ]
+    ]
+  },
+  {
+    "id": 8041691,
+    "name": "究天魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        423
+      ],
+      [
+        846
+      ],
+      [
+        1410
+      ]
+    ]
+  },
+  {
+    "id": 8041751,
+    "name": "摩愿神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342,
+        342
+      ],
+      [
+        684,
+        684
+      ],
+      [
+        1140,
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8041791,
+    "name": "摩愿魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        513
+      ],
+      [
+        1026
+      ],
+      [
+        1710
+      ]
+    ]
+  },
+  {
+    "id": 8041851,
+    "name": "罗悲神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        405,
+        405
+      ],
+      [
+        810,
+        810
+      ],
+      [
+        1350,
+        1350
+      ]
+    ]
+  },
+  {
+    "id": 8041891,
+    "name": "罗悲魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        609
+      ],
+      [
+        1218
+      ],
+      [
+        2030
+      ]
+    ]
+  },
+  {
+    "id": 8041951,
+    "name": "浮行神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        477,
+        477
+      ],
+      [
+        954,
+        954
+      ],
+      [
+        1590,
+        1590
+      ]
+    ]
+  },
+  {
+    "id": 8041991,
+    "name": "浮行魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        715
+      ],
+      [
+        1431
+      ],
+      [
+        2385
+      ]
+    ]
+  },
+  {
+    "id": 8042051,
+    "name": "多智神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        555,
+        555
+      ],
+      [
+        1110,
+        1110
+      ],
+      [
+        1850,
+        1850
+      ]
+    ]
+  },
+  {
+    "id": 8042091,
+    "name": "多智魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        832
+      ],
+      [
+        1665
+      ],
+      [
+        2775
+      ]
+    ]
+  },
+  {
+    "id": 8050851,
+    "name": "混元神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        45,
+        45
+      ],
+      [
+        90,
+        90
+      ],
+      [
+        150,
+        150
+      ]
+    ]
+  },
+  {
+    "id": 8050891,
+    "name": "混元魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        68
+      ],
+      [
+        135
+      ],
+      [
+        225
+      ]
+    ]
+  },
+  {
+    "id": 8050951,
+    "name": "紫金神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        57,
+        57
+      ],
+      [
+        114,
+        114
+      ],
+      [
+        190,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 8050991,
+    "name": "紫金魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        86
+      ],
+      [
+        171
+      ],
+      [
+        285
+      ]
+    ]
+  },
+  {
+    "id": 8051051,
+    "name": "火龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        72,
+        72
+      ],
+      [
+        144,
+        144
+      ],
+      [
+        240,
+        240
+      ]
+    ]
+  },
+  {
+    "id": 8051091,
+    "name": "火龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        108
+      ],
+      [
+        216
+      ],
+      [
+        360
+      ]
+    ]
+  },
+  {
+    "id": 8051151,
+    "name": "九龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        90,
+        90
+      ],
+      [
+        180,
+        180
+      ],
+      [
+        300,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 8051191,
+    "name": "九龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        135
+      ],
+      [
+        270
+      ],
+      [
+        450
+      ]
+    ]
+  },
+  {
+    "id": 8051251,
+    "name": "三霄神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        114,
+        114
+      ],
+      [
+        228,
+        228
+      ],
+      [
+        380,
+        380
+      ]
+    ]
+  },
+  {
+    "id": 8051291,
+    "name": "三霄魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        171
+      ],
+      [
+        342
+      ],
+      [
+        570
+      ]
+    ]
+  },
+  {
+    "id": 8051351,
+    "name": "仙鞘神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        144,
+        144
+      ],
+      [
+        288,
+        288
+      ],
+      [
+        480,
+        480
+      ]
+    ]
+  },
+  {
+    "id": 8051391,
+    "name": "仙鞘魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        216
+      ],
+      [
+        432
+      ],
+      [
+        720
+      ]
+    ]
+  },
+  {
+    "id": 8051451,
+    "name": "灵鳌神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        180,
+        180
+      ],
+      [
+        360,
+        360
+      ],
+      [
+        600,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 8051491,
+    "name": "灵鳌魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        270
+      ],
+      [
+        540
+      ],
+      [
+        900
+      ]
+    ]
+  },
+  {
+    "id": 8051551,
+    "name": "金仙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        228,
+        228
+      ],
+      [
+        456,
+        456
+      ],
+      [
+        760,
+        760
+      ]
+    ]
+  },
+  {
+    "id": 8051591,
+    "name": "金仙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342
+      ],
+      [
+        684
+      ],
+      [
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8051651,
+    "name": "究天神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        282,
+        282
+      ],
+      [
+        564,
+        564
+      ],
+      [
+        940,
+        940
+      ]
+    ]
+  },
+  {
+    "id": 8051691,
+    "name": "究天魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        423
+      ],
+      [
+        846
+      ],
+      [
+        1410
+      ]
+    ]
+  },
+  {
+    "id": 8051751,
+    "name": "摩愿神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342,
+        342
+      ],
+      [
+        684,
+        684
+      ],
+      [
+        1140,
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8051791,
+    "name": "摩愿魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        513
+      ],
+      [
+        1026
+      ],
+      [
+        1710
+      ]
+    ]
+  },
+  {
+    "id": 8051851,
+    "name": "罗悲神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        405,
+        405
+      ],
+      [
+        810,
+        810
+      ],
+      [
+        1350,
+        1350
+      ]
+    ]
+  },
+  {
+    "id": 8051891,
+    "name": "罗悲魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        609
+      ],
+      [
+        1218
+      ],
+      [
+        2030
+      ]
+    ]
+  },
+  {
+    "id": 8051951,
+    "name": "浮行神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        477,
+        477
+      ],
+      [
+        954,
+        954
+      ],
+      [
+        1590,
+        1590
+      ]
+    ]
+  },
+  {
+    "id": 8051991,
+    "name": "浮行魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        715
+      ],
+      [
+        1431
+      ],
+      [
+        2385
+      ]
+    ]
+  },
+  {
+    "id": 8052051,
+    "name": "多智神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        555,
+        555
+      ],
+      [
+        1110,
+        1110
+      ],
+      [
+        1850,
+        1850
+      ]
+    ]
+  },
+  {
+    "id": 8052091,
+    "name": "多智魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        832
+      ],
+      [
+        1665
+      ],
+      [
+        2775
+      ]
+    ]
+  },
+  {
+    "id": 8060851,
+    "name": "混元神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        45,
+        45
+      ],
+      [
+        90,
+        90
+      ],
+      [
+        150,
+        150
+      ]
+    ]
+  },
+  {
+    "id": 8060891,
+    "name": "混元魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        68
+      ],
+      [
+        135
+      ],
+      [
+        225
+      ]
+    ]
+  },
+  {
+    "id": 8060951,
+    "name": "紫金神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        57,
+        57
+      ],
+      [
+        114,
+        114
+      ],
+      [
+        190,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 8060991,
+    "name": "紫金魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        86
+      ],
+      [
+        171
+      ],
+      [
+        285
+      ]
+    ]
+  },
+  {
+    "id": 8061051,
+    "name": "火龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        72,
+        72
+      ],
+      [
+        144,
+        144
+      ],
+      [
+        240,
+        240
+      ]
+    ]
+  },
+  {
+    "id": 8061091,
+    "name": "火龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        108
+      ],
+      [
+        216
+      ],
+      [
+        360
+      ]
+    ]
+  },
+  {
+    "id": 8061151,
+    "name": "九龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        90,
+        90
+      ],
+      [
+        180,
+        180
+      ],
+      [
+        300,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 8061191,
+    "name": "九龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        135
+      ],
+      [
+        270
+      ],
+      [
+        450
+      ]
+    ]
+  },
+  {
+    "id": 8061251,
+    "name": "三霄神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        114,
+        114
+      ],
+      [
+        228,
+        228
+      ],
+      [
+        380,
+        380
+      ]
+    ]
+  },
+  {
+    "id": 8061291,
+    "name": "三霄魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        171
+      ],
+      [
+        342
+      ],
+      [
+        570
+      ]
+    ]
+  },
+  {
+    "id": 8061351,
+    "name": "仙鞘神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        144,
+        144
+      ],
+      [
+        288,
+        288
+      ],
+      [
+        480,
+        480
+      ]
+    ]
+  },
+  {
+    "id": 8061391,
+    "name": "仙鞘魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        216
+      ],
+      [
+        432
+      ],
+      [
+        720
+      ]
+    ]
+  },
+  {
+    "id": 8061451,
+    "name": "灵鳌神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        180,
+        180
+      ],
+      [
+        360,
+        360
+      ],
+      [
+        600,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 8061491,
+    "name": "灵鳌魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        270
+      ],
+      [
+        540
+      ],
+      [
+        900
+      ]
+    ]
+  },
+  {
+    "id": 8061551,
+    "name": "金仙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        228,
+        228
+      ],
+      [
+        456,
+        456
+      ],
+      [
+        760,
+        760
+      ]
+    ]
+  },
+  {
+    "id": 8061591,
+    "name": "金仙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342
+      ],
+      [
+        684
+      ],
+      [
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8061651,
+    "name": "究天神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        282,
+        282
+      ],
+      [
+        564,
+        564
+      ],
+      [
+        940,
+        940
+      ]
+    ]
+  },
+  {
+    "id": 8061691,
+    "name": "究天魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        423
+      ],
+      [
+        846
+      ],
+      [
+        1410
+      ]
+    ]
+  },
+  {
+    "id": 8061751,
+    "name": "摩愿神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342,
+        342
+      ],
+      [
+        684,
+        684
+      ],
+      [
+        1140,
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8061791,
+    "name": "摩愿魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        513
+      ],
+      [
+        1026
+      ],
+      [
+        1710
+      ]
+    ]
+  },
+  {
+    "id": 8061851,
+    "name": "罗悲神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        405,
+        405
+      ],
+      [
+        810,
+        810
+      ],
+      [
+        1350,
+        1350
+      ]
+    ]
+  },
+  {
+    "id": 8061891,
+    "name": "罗悲魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        609
+      ],
+      [
+        1218
+      ],
+      [
+        2030
+      ]
+    ]
+  },
+  {
+    "id": 8061951,
+    "name": "浮行神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        477,
+        477
+      ],
+      [
+        954,
+        954
+      ],
+      [
+        1590,
+        1590
+      ]
+    ]
+  },
+  {
+    "id": 8061991,
+    "name": "浮行魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        715
+      ],
+      [
+        1431
+      ],
+      [
+        2385
+      ]
+    ]
+  },
+  {
+    "id": 8062051,
+    "name": "多智神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        555,
+        555
+      ],
+      [
+        1110,
+        1110
+      ],
+      [
+        1850,
+        1850
+      ]
+    ]
+  },
+  {
+    "id": 8062091,
+    "name": "多智魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        832
+      ],
+      [
+        1665
+      ],
+      [
+        2775
+      ]
+    ]
+  },
+  {
+    "id": 8070851,
+    "name": "混元神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        45,
+        45
+      ],
+      [
+        90,
+        90
+      ],
+      [
+        150,
+        150
+      ]
+    ]
+  },
+  {
+    "id": 8070891,
+    "name": "混元魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        68
+      ],
+      [
+        135
+      ],
+      [
+        225
+      ]
+    ]
+  },
+  {
+    "id": 8070951,
+    "name": "紫金神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        57,
+        57
+      ],
+      [
+        114,
+        114
+      ],
+      [
+        190,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 8070991,
+    "name": "紫金魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        86
+      ],
+      [
+        171
+      ],
+      [
+        285
+      ]
+    ]
+  },
+  {
+    "id": 8071051,
+    "name": "火龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        72,
+        72
+      ],
+      [
+        144,
+        144
+      ],
+      [
+        240,
+        240
+      ]
+    ]
+  },
+  {
+    "id": 8071091,
+    "name": "火龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        108
+      ],
+      [
+        216
+      ],
+      [
+        360
+      ]
+    ]
+  },
+  {
+    "id": 8071151,
+    "name": "九龙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        90,
+        90
+      ],
+      [
+        180,
+        180
+      ],
+      [
+        300,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 8071191,
+    "name": "九龙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        135
+      ],
+      [
+        270
+      ],
+      [
+        450
+      ]
+    ]
+  },
+  {
+    "id": 8071251,
+    "name": "三霄神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        114,
+        114
+      ],
+      [
+        228,
+        228
+      ],
+      [
+        380,
+        380
+      ]
+    ]
+  },
+  {
+    "id": 8071291,
+    "name": "三霄魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        171
+      ],
+      [
+        342
+      ],
+      [
+        570
+      ]
+    ]
+  },
+  {
+    "id": 8071351,
+    "name": "仙鞘神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        144,
+        144
+      ],
+      [
+        288,
+        288
+      ],
+      [
+        480,
+        480
+      ]
+    ]
+  },
+  {
+    "id": 8071391,
+    "name": "仙鞘魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        216
+      ],
+      [
+        432
+      ],
+      [
+        720
+      ]
+    ]
+  },
+  {
+    "id": 8071451,
+    "name": "灵鳌神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        180,
+        180
+      ],
+      [
+        360,
+        360
+      ],
+      [
+        600,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 8071491,
+    "name": "灵鳌魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        270
+      ],
+      [
+        540
+      ],
+      [
+        900
+      ]
+    ]
+  },
+  {
+    "id": 8071551,
+    "name": "金仙神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        228,
+        228
+      ],
+      [
+        456,
+        456
+      ],
+      [
+        760,
+        760
+      ]
+    ]
+  },
+  {
+    "id": 8071591,
+    "name": "金仙魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342
+      ],
+      [
+        684
+      ],
+      [
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8071651,
+    "name": "究天神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        282,
+        282
+      ],
+      [
+        564,
+        564
+      ],
+      [
+        940,
+        940
+      ]
+    ]
+  },
+  {
+    "id": 8071691,
+    "name": "究天魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        423
+      ],
+      [
+        846
+      ],
+      [
+        1410
+      ]
+    ]
+  },
+  {
+    "id": 8071751,
+    "name": "摩愿神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        342,
+        342
+      ],
+      [
+        684,
+        684
+      ],
+      [
+        1140,
+        1140
+      ]
+    ]
+  },
+  {
+    "id": 8071791,
+    "name": "摩愿魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        513
+      ],
+      [
+        1026
+      ],
+      [
+        1710
+      ]
+    ]
+  },
+  {
+    "id": 8071851,
+    "name": "罗悲神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        405,
+        405
+      ],
+      [
+        810,
+        810
+      ],
+      [
+        1350,
+        1350
+      ]
+    ]
+  },
+  {
+    "id": 8071891,
+    "name": "罗悲魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        609
+      ],
+      [
+        1218
+      ],
+      [
+        2030
+      ]
+    ]
+  },
+  {
+    "id": 8071951,
+    "name": "浮行神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        477,
+        477
+      ],
+      [
+        954,
+        954
+      ],
+      [
+        1590,
+        1590
+      ]
+    ]
+  },
+  {
+    "id": 8071991,
+    "name": "浮行魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        715
+      ],
+      [
+        1431
+      ],
+      [
+        2385
+      ]
+    ]
+  },
+  {
+    "id": 8072051,
+    "name": "多智神铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ],
+      [
+        "break",
+        "protect"
+      ]
+    ],
+    "attributeValue": [
+      [
+        555,
+        555
+      ],
+      [
+        1110,
+        1110
+      ],
+      [
+        1850,
+        1850
+      ]
+    ]
+  },
+  {
+    "id": 8072091,
+    "name": "多智魔铸套装属性",
+    "number": [
+      2,
+      4,
+      6
+    ],
+    "attribute": [
+      [
+        "break"
+      ],
+      [
+        "break"
+      ],
+      [
+        "break"
+      ]
+    ],
+    "attributeValue": [
+      [
+        832
+      ],
+      [
+        1665
+      ],
+      [
+        2775
+      ]
+    ]
+  }
+]

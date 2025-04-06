@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "picture": "npc0001",
+    "textPicture": "sl001",
+    "npcClosePos": [
+      -30,
+      50
+    ],
+    "npcOpenPos": [
+      8,
+      50
+    ],
+    "itemPos": [
+      -110,
+      50
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "npc0002",
+    "textPicture": "sl002",
+    "npcClosePos": [
+      -50,
+      50
+    ],
+    "npcOpenPos": [
+      4,
+      50
+    ],
+    "itemPos": [
+      -100,
+      75
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "npc0003",
+    "textPicture": "sl003",
+    "npcClosePos": [
+      -10,
+      50
+    ],
+    "npcOpenPos": [
+      2,
+      50
+    ],
+    "itemPos": [
+      -75,
+      10
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "npc0005",
+    "textPicture": "sl004",
+    "npcClosePos": [
+      0,
+      50
+    ],
+    "npcOpenPos": [
+      18,
+      50
+    ],
+    "itemPos": [
+      -95,
+      5
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "npc0004",
+    "textPicture": "sl005",
+    "npcClosePos": [
+      0,
+      50
+    ],
+    "npcOpenPos": [
+      23,
+      50
+    ],
+    "itemPos": [
+      -100,
+      30
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "npc0006",
+    "textPicture": "sl006",
+    "npcClosePos": [
+      0,
+      50
+    ],
+    "npcOpenPos": [
+      18,
+      50
+    ],
+    "itemPos": [
+      -35,
+      -25
+    ]
+  },
+  {
+    "id": 7,
+    "picture": "npc0007",
+    "textPicture": "sl007",
+    "npcClosePos": [
+      0,
+      50
+    ],
+    "npcOpenPos": [
+      28,
+      50
+    ],
+    "itemPos": [
+      -72,
+      0
+    ]
+  }
+]

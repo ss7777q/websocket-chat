@@ -1,0 +1,4227 @@
+[
+  {
+    "id": 1,
+    "file": "02-tangseng_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 2,
+    "file": "01-wukong_texiao",
+    "ratio": 0.68
+  },
+  {
+    "id": 3,
+    "file": "01-wukong_texiao2",
+    "ratio": 0.77
+  },
+  {
+    "id": 4,
+    "file": "31101-bianfushixiang_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 5,
+    "file": "2040191-liemoshu_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 6,
+    "file": "2040291-liehuohou_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 7,
+    "file": "2040391-shenmushe_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 8,
+    "file": "2071201-jufuyao_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 9,
+    "file": "41101-heibaiwuchang_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 10,
+    "file": "40101-mingdeng_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 11,
+    "file": "40201-jiangshi_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 12,
+    "file": "zhuangbeidiaoluo_hong",
+    "ratio": 0.69
+  },
+  {
+    "id": 13,
+    "file": "zhuangbeidiaoluo_jin",
+    "ratio": 0.7
+  },
+  {
+    "id": 14,
+    "file": "zhuangbeidiaoluo_lan",
+    "ratio": 0.83
+  },
+  {
+    "id": 15,
+    "file": "zhuangbeidiaoluo_zi",
+    "ratio": 0.84
+  },
+  {
+    "id": 16,
+    "file": "40601-yuannv_texiao_ske",
+    "ratio": 0.95
+  },
+  {
+    "id": 17,
+    "file": "41402-yecha_youling_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 18,
+    "file": "bajiaodonghuoyan1",
+    "ratio": 0.89
+  },
+  {
+    "id": 19,
+    "file": "chiyundianbeijing",
+    "ratio": 0.97
+  },
+  {
+    "id": 20,
+    "file": "chiyundian_juesejiemian",
+    "ratio": 0.83
+  },
+  {
+    "id": 21,
+    "file": "chiyundianqianjingyun",
+    "ratio": 0.62
+  },
+  {
+    "id": 22,
+    "file": "chiyundianzhongjingshan",
+    "ratio": 0.9
+  },
+  {
+    "id": 23,
+    "file": "chiyundianshanjianyun",
+    "ratio": 0.83
+  },
+  {
+    "id": 24,
+    "file": "chiyundianbeijing_heiye",
+    "ratio": 0.97
+  },
+  {
+    "id": 25,
+    "file": "chiyundianzhongjingshan_heiye",
+    "ratio": 0.9
+  },
+  {
+    "id": 26,
+    "file": "chiyundianshanjianyun_heiye",
+    "ratio": 0.83
+  },
+  {
+    "id": 27,
+    "file": "chuansongmencemian_hong",
+    "ratio": 0.97
+  },
+  {
+    "id": 28,
+    "file": "chuansongmencemian_huang",
+    "ratio": 0.97
+  },
+  {
+    "id": 29,
+    "file": "chuansongmencemian_lan",
+    "ratio": 0.97
+  },
+  {
+    "id": 30,
+    "file": "chuansongmencemian_lv",
+    "ratio": 0.96
+  },
+  {
+    "id": 31,
+    "file": "chuansongmencemian_zi",
+    "ratio": 0.97
+  },
+  {
+    "id": 32,
+    "file": "difuguancai",
+    "ratio": 0.95
+  },
+  {
+    "id": 33,
+    "file": "emengdonghai",
+    "ratio": 0.99
+  },
+  {
+    "id": 34,
+    "file": "emenghuaguoshan",
+    "ratio": 0.97
+  },
+  {
+    "id": 35,
+    "file": "feixingguaichuxian",
+    "ratio": 0.95
+  },
+  {
+    "id": 36,
+    "file": "fenshuijiangjun",
+    "ratio": 0.98
+  },
+  {
+    "id": 37,
+    "file": "gateway_donghai",
+    "ratio": 0.84
+  },
+  {
+    "id": 38,
+    "file": "gateway_tiankong",
+    "ratio": 0.94
+  },
+  {
+    "id": 39,
+    "file": "huaguoshandapubu",
+    "ratio": 0.97
+  },
+  {
+    "id": 40,
+    "file": "huaguoshanxiaopubu",
+    "ratio": 0.98
+  },
+  {
+    "id": 41,
+    "file": "huanjing-shudong",
+    "ratio": 0.97
+  },
+  {
+    "id": 42,
+    "file": "huoxing",
+    "ratio": 0.93
+  },
+  {
+    "id": 43,
+    "file": "maopao",
+    "ratio": 0.92
+  },
+  {
+    "id": 44,
+    "file": "maopao1",
+    "ratio": 0.92
+  },
+  {
+    "id": 45,
+    "file": "maopao2",
+    "ratio": 0.92
+  },
+  {
+    "id": 46,
+    "file": "maopao3",
+    "ratio": 0.92
+  },
+  {
+    "id": 47,
+    "file": "maopao4",
+    "ratio": 0.92
+  },
+  {
+    "id": 48,
+    "file": "niumoguposuidiban1",
+    "ratio": 0.96
+  },
+  {
+    "id": 49,
+    "file": "No_2-2-shuiliu-1",
+    "ratio": 0.78
+  },
+  {
+    "id": 50,
+    "file": "pubu_cemian",
+    "ratio": 0.95
+  },
+  {
+    "id": 51,
+    "file": "pubu_zhengmian",
+    "ratio": 0.98
+  },
+  {
+    "id": 52,
+    "file": "tantiaogu1",
+    "ratio": 0.99
+  },
+  {
+    "id": 53,
+    "file": "tantiaogu2",
+    "ratio": 0.95
+  },
+  {
+    "id": 54,
+    "file": "wanchengrenwu",
+    "ratio": 0.96
+  },
+  {
+    "id": 55,
+    "file": "xiayu",
+    "ratio": 0.86
+  },
+  {
+    "id": 56,
+    "file": "xiulianchenggong",
+    "ratio": 0.92
+  },
+  {
+    "id": 57,
+    "file": "yaowanglaixi",
+    "ratio": 0.78
+  },
+  {
+    "id": 58,
+    "file": "yun2_lower",
+    "ratio": 0.96
+  },
+  {
+    "id": 59,
+    "file": "yun2_upper",
+    "ratio": 0.95
+  },
+  {
+    "id": 60,
+    "file": "41301-mamian_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 61,
+    "file": "pubu_da",
+    "ratio": 0.75
+  },
+  {
+    "id": 62,
+    "file": "41801-mengpo_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 63,
+    "file": "41801-mengpo_texiao_1",
+    "ratio": 0.4
+  },
+  {
+    "id": 64,
+    "file": "buff_1051_mengyan",
+    "ratio": 0.73
+  },
+  {
+    "id": 65,
+    "file": "difuchuangfu",
+    "ratio": 0.9
+  },
+  {
+    "id": 66,
+    "file": "difuwangxiangtai",
+    "ratio": 0.85
+  },
+  {
+    "id": 67,
+    "file": "2030501-baishuangjing_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 68,
+    "file": "buff_1052_jiaoxie",
+    "ratio": 0.92
+  },
+  {
+    "id": 69,
+    "file": "buff_1053_jintiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 70,
+    "file": "buff_1054_jianankang",
+    "ratio": 0.95
+  },
+  {
+    "id": 71,
+    "file": "huanjingshiqiang",
+    "ratio": 0.9
+  },
+  {
+    "id": 72,
+    "file": "buff_1055_yezhuhudun",
+    "ratio": 0.97
+  },
+  {
+    "id": 73,
+    "file": "42201-qinguangwang_xiaokuilei",
+    "ratio": 0.52
+  },
+  {
+    "id": 74,
+    "file": "42001-qinguangwang_1kuilei",
+    "ratio": 0.96
+  },
+  {
+    "id": 75,
+    "file": "42001-qinguangwang_1kuilei_texiao",
+    "ratio": 0.52
+  },
+  {
+    "id": 76,
+    "file": "42101-qinguangwang_2kuilei_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 77,
+    "file": "11101-tongbiyuanhou",
+    "ratio": 0.9
+  },
+  {
+    "id": 78,
+    "file": "11201-mihouwang",
+    "ratio": 0.9
+  },
+  {
+    "id": 78,
+    "file": "30401-yingguai",
+    "ratio": 0.86
+  },
+  {
+    "id": 79,
+    "file": "30601-shibing",
+    "ratio": 0.95
+  },
+  {
+    "id": 80,
+    "file": "30701-fengyao",
+    "ratio": 0.82
+  },
+  {
+    "id": 81,
+    "file": "30801-niumobing",
+    "ratio": 0.9
+  },
+  {
+    "id": 82,
+    "file": "31502-dan",
+    "ratio": 0.95
+  },
+  {
+    "id": 83,
+    "file": "31603-niumowang_upper",
+    "ratio": 0.85
+  },
+  {
+    "id": 84,
+    "file": "31603-niumowang_lower",
+    "ratio": 0.63
+  },
+  {
+    "id": 85,
+    "file": "31604-xinzang",
+    "ratio": 0.97
+  },
+  {
+    "id": 86,
+    "file": "2070501-xingxing",
+    "ratio": 0.66
+  },
+  {
+    "id": 87,
+    "file": "2052401-chuangfu",
+    "ratio": 0.85
+  },
+  {
+    "id": 88,
+    "file": "niumoguliandanlu",
+    "ratio": 0.9
+  },
+  {
+    "id": 89,
+    "file": "1012401-baigujing_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 90,
+    "file": "1012501-baigujing_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 91,
+    "file": "mihundianshixinag",
+    "ratio": 0.95
+  },
+  {
+    "id": 92,
+    "file": "3010501-bajiaoluohan_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 93,
+    "file": "difuguihuo",
+    "ratio": 0.76
+  },
+  {
+    "id": 94,
+    "file": "huangquanluguangshu",
+    "ratio": 0.9
+  },
+  {
+    "id": 95,
+    "file": "naiheqiaoshuibo",
+    "ratio": 0.9
+  },
+  {
+    "id": 96,
+    "file": "wangxiangtaiyanwu",
+    "ratio": 0.85
+  },
+  {
+    "id": 97,
+    "file": "2060301-guijiangqishi_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 98,
+    "file": "buff_1022_kangxing",
+    "ratio": 0.86
+  },
+  {
+    "id": 99,
+    "file": "buff_1021_yisu",
+    "ratio": 0.88
+  },
+  {
+    "id": 100,
+    "file": "2100601-zhendangbo_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 101,
+    "file": "huangquanluniutou",
+    "ratio": 0.85
+  },
+  {
+    "id": 102,
+    "file": "huangquanlumamian",
+    "ratio": 0.85
+  },
+  {
+    "id": 103,
+    "file": "jihandianbingdiban",
+    "ratio": 0.8
+  },
+  {
+    "id": 104,
+    "file": "51002-guimen",
+    "ratio": 0.95
+  },
+  {
+    "id": 105,
+    "file": "51101-chujiangwang_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 106,
+    "file": "51201-songdiwang_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 107,
+    "file": "102-tangsengbianshen_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 108,
+    "file": "51301-yaomozhongkui_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 109,
+    "file": "51502-tianguimen",
+    "ratio": 0.95
+  },
+  {
+    "id": 110,
+    "file": "50101-niutouguai_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 111,
+    "file": "50401-yeyoushen",
+    "ratio": 0.97
+  },
+  {
+    "id": 112,
+    "file": "1012801-jinjiangdawang_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 113,
+    "file": "1012901-yinjiaodawang_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 114,
+    "file": "2130201-xingtian_texiao",
+    "ratio": 0.72
+  },
+  {
+    "id": 115,
+    "file": "03-bajie_texiao",
+    "ratio": 0.61
+  },
+  {
+    "id": 116,
+    "file": "103-tianpengyuanshuai_texiao",
+    "ratio": 0.49
+  },
+  {
+    "id": 117,
+    "file": "2130201-xingtian",
+    "ratio": 0.91
+  },
+  {
+    "id": 118,
+    "file": "huadiweilao",
+    "ratio": 0.92
+  },
+  {
+    "id": 119,
+    "file": "zhuchengchuansong",
+    "ratio": 0.8
+  },
+  {
+    "id": 120,
+    "file": "shenpandianhuoyan",
+    "ratio": 0.92
+  },
+  {
+    "id": 121,
+    "file": "dengdiandaohuo",
+    "ratio": 0.93
+  },
+  {
+    "id": 122,
+    "file": "jihandianhanqi_tex",
+    "ratio": 0.9
+  },
+  {
+    "id": 123,
+    "file": "panguan_shenpanzi",
+    "ratio": 0.7
+  },
+  {
+    "id": 124,
+    "file": "buff_1062_bajiehudun",
+    "ratio": 0.9
+  },
+  {
+    "id": 125,
+    "file": "effect_10002_shengji",
+    "ratio": 0.79
+  },
+  {
+    "id": 126,
+    "file": "51501-yanluowang_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 127,
+    "file": "2110401-hanbingzhou_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 128,
+    "file": "60501-wugong_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 129,
+    "file": "61201-taishanwang",
+    "ratio": 0.96
+  },
+  {
+    "id": 130,
+    "file": "61201-taishanwang_texiao",
+    "ratio": 0.78
+  },
+  {
+    "id": 131,
+    "file": "shachenyushawu",
+    "ratio": 0.83
+  },
+  {
+    "id": 132,
+    "file": "shachenyuzhezhao",
+    "ratio": 0.59
+  },
+  {
+    "id": 133,
+    "file": "shachenyuliusha",
+    "ratio": 0.86
+  },
+  {
+    "id": 134,
+    "file": "zhaozeyushuihua",
+    "ratio": 0.94
+  },
+  {
+    "id": 135,
+    "file": "zhaozeyuwuqi",
+    "ratio": 0.92
+  },
+  {
+    "id": 136,
+    "file": "60801-zhuanlunqinwei_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 137,
+    "file": "zhizhuyuzhuwang",
+    "ratio": 0.9
+  },
+  {
+    "id": 138,
+    "file": "zhizhuyufutai",
+    "ratio": 0.72
+  },
+  {
+    "id": 139,
+    "file": "zhizhuyudongkou",
+    "ratio": 0.84
+  },
+  {
+    "id": 140,
+    "file": "60401-chuisizhizhu_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 141,
+    "file": "60301-zhizhu_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 142,
+    "file": "61601-liuermihou_texiao",
+    "ratio": 0.78
+  },
+  {
+    "id": 143,
+    "file": "buff_1068_youminguizhua",
+    "ratio": 0.66
+  },
+  {
+    "id": 144,
+    "file": "3010701-waerluohan_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 145,
+    "file": "61401-pingdengwang_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 146,
+    "file": "zhuanlundianchangjing",
+    "ratio": 0.76
+  },
+  {
+    "id": 147,
+    "file": "61402-mubei",
+    "ratio": 0.9
+  },
+  {
+    "id": 148,
+    "file": "61501-zhuanlunwang-p1_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 149,
+    "file": "61502-zhuanlunwang-p2_lower",
+    "ratio": 0.94
+  },
+  {
+    "id": 150,
+    "file": "61502-zhuanlunwang-p2_texiao",
+    "ratio": 0.72
+  },
+  {
+    "id": 151,
+    "file": "2053201-lunzi_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 152,
+    "file": "2072701-dawugong_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 153,
+    "file": "61101-bianchengwang_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 154,
+    "file": "61301-dushiwang_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 155,
+    "file": "huoyundonghuoyan",
+    "ratio": 0.98
+  },
+  {
+    "id": 156,
+    "file": "2140101-honghaier_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 157,
+    "file": "1013201-huoyunzhanche_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 158,
+    "file": "chenghao_GM",
+    "ratio": 0.8
+  },
+  {
+    "id": 159,
+    "file": "1011301-changqiangxiaogui_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 159,
+    "file": "1011401-touhuoxiaogui_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 160,
+    "file": "Activity_2020-Qixi",
+    "ratio": 0.6
+  },
+  {
+    "id": 161,
+    "file": "1013301-huojianqiang_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 162,
+    "file": "huoyundongshidui",
+    "ratio": 0.8
+  },
+  {
+    "id": 163,
+    "file": "buff_1064_qianniudanyuan",
+    "ratio": 0.95
+  },
+  {
+    "id": 164,
+    "file": "buff_1064_zhinvdanyuan",
+    "ratio": 0.95
+  },
+  {
+    "id": 165,
+    "file": "2120201-huoyunneidan_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 166,
+    "file": "Activity_Qixizhinv",
+    "ratio": 0.96
+  },
+  {
+    "id": 167,
+    "file": "2140301-niulang_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 168,
+    "file": "71101-xiaotianquan_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 169,
+    "file": "2130301-kuafu_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 170,
+    "file": "71301-shunfenger_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 171,
+    "file": "70101-feiying_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 172,
+    "file": "70201-xuntianquan_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 173,
+    "file": "70501-wuying_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 174,
+    "file": "71401-duyujiang_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 175,
+    "file": "71701-wanglingguan_texiao",
+    "ratio": 0.67
+  },
+  {
+    "id": 176,
+    "file": "71701-wanglingguan",
+    "ratio": 1
+  },
+  {
+    "id": 177,
+    "file": "71702-fenghuolun",
+    "ratio": 0.95
+  },
+  {
+    "id": 178,
+    "file": "2040502-yutu_nan_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 179,
+    "file": "shenhuotaihuotai",
+    "ratio": 0.83
+  },
+  {
+    "id": 180,
+    "file": "70301-heixiaobing_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 181,
+    "file": "70401-guikebing_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 182,
+    "file": "3010801-chensiluohan_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 183,
+    "file": "70601-gushe_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 184,
+    "file": "2060801-pangdai_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 185,
+    "file": "2030801-xuanhuachui_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 186,
+    "file": "71501-yaochajiang_texiao_2",
+    "ratio": 0.85
+  },
+  {
+    "id": 187,
+    "file": "zhanlizhiwang",
+    "ratio": 1.25
+  },
+  {
+    "id": 188,
+    "file": "yuchongzhiwang",
+    "ratio": 1.25
+  },
+  {
+    "id": 189,
+    "file": "71501-yaochajiang",
+    "ratio": 0.99
+  },
+  {
+    "id": 190,
+    "file": "71602-julingshen-p2",
+    "ratio": 0.98
+  },
+  {
+    "id": 191,
+    "file": "71602-julingshen-p2_texiao",
+    "ratio": 0.45
+  },
+  {
+    "id": 192,
+    "file": "1025201-lenglong_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 193,
+    "file": "1025101-yangli_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 194,
+    "file": "1025101-yangli",
+    "ratio": 0.96
+  },
+  {
+    "id": 195,
+    "file": "1025501-huli_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 196,
+    "file": "1020101-yangtouguai_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 197,
+    "file": "1020201-lushoujing_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 198,
+    "file": "buff_1064_yanglidanyuan",
+    "ratio": 0.96
+  },
+  {
+    "id": 199,
+    "file": "buff_1064_hulidanyuan",
+    "ratio": 0.89
+  },
+  {
+    "id": 200,
+    "file": "buff_1064_lulidanyuan",
+    "ratio": 0.95
+  },
+  {
+    "id": 201,
+    "file": "2151501-qingluan_texiao",
+    "ratio": 0.55
+  },
+  {
+    "id": 202,
+    "file": "2151401-fangyuta_1",
+    "ratio": 0.9
+  },
+  {
+    "id": 203,
+    "file": "2151402-fangyuta_2",
+    "ratio": 0.9
+  },
+  {
+    "id": 204,
+    "file": "2151403-fangyuta_3",
+    "ratio": 0.9
+  },
+  {
+    "id": 205,
+    "file": "buxiewang",
+    "ratio": 1.25
+  },
+  {
+    "id": 206,
+    "file": "hanxiuwang",
+    "ratio": 1.25
+  },
+  {
+    "id": 207,
+    "file": "sesewang",
+    "ratio": 1.25
+  },
+  {
+    "id": 208,
+    "file": "81101-zengzhangtianwang_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 209,
+    "file": "81401-chiguotianwang_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 210,
+    "file": "81501-tuotatianwang_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 211,
+    "file": "04-shaseng_texiao",
+    "ratio": 0.45
+  },
+  {
+    "id": 212,
+    "file": "104-juanliandajiang_texiao",
+    "ratio": 0.42
+  },
+  {
+    "id": 213,
+    "file": "104-juanliandajiang",
+    "ratio": 0.95
+  },
+  {
+    "id": 214,
+    "file": "2061002-nianshou_max_texiao",
+    "ratio": 0.73
+  },
+  {
+    "id": 215,
+    "file": "2112001_bianpao_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 216,
+    "file": "2131501-niumowang_texiao",
+    "ratio": 0.66
+  },
+  {
+    "id": 217,
+    "file": "2040591-jiaoyuetu_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 218,
+    "file": "1025701-linggandawang_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 219,
+    "file": "2151901-leidianta_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 220,
+    "file": "2151902-leidianta_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 221,
+    "file": "2151903-leidianta_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 222,
+    "file": "90101-quanrong_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 223,
+    "file": "2160101-qintianjun_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 224,
+    "file": "91201-zhuzizhen_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 225,
+    "file": "91401-wulong_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 226,
+    "file": "91501-changhao_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 227,
+    "file": "2160201-zhaotianjun_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 228,
+    "file": "1_chibang21_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 229,
+    "file": "2170201-diliezhen_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 230,
+    "file": "2131601-nuegui_texiao",
+    "ratio": 0.74
+  },
+  {
+    "id": 231,
+    "file": "diliezhen_diban",
+    "ratio": 0.45
+  },
+  {
+    "id": 232,
+    "file": "dilie_xiaofutai",
+    "ratio": 0.6
+  },
+  {
+    "id": 233,
+    "file": "tongmingdian_yun",
+    "ratio": 1
+  },
+  {
+    "id": 234,
+    "file": "2040802_hua_nan_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 235,
+    "file": "91301-jindasheng_texiao",
+    "ratio": 0.73
+  },
+  {
+    "id": 236,
+    "file": "2061101-wangwang_tx",
+    "ratio": 0.95
+  },
+  {
+    "id": 237,
+    "file": "2160301-dongtianjun_h",
+    "ratio": 0.87
+  },
+  {
+    "id": 238,
+    "file": "fenghou_xiaofazhen",
+    "ratio": 0.47
+  },
+  {
+    "id": 239,
+    "file": "fenghou_dafazhen",
+    "ratio": 0.51
+  },
+  {
+    "id": 240,
+    "file": "91701-yangjian_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 241,
+    "file": "2054301-tianyanjiguan",
+    "ratio": 0.94
+  },
+  {
+    "id": 242,
+    "file": "1020801-manniuzhanshi_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 243,
+    "file": "1021001-xiniuzhanche_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 244,
+    "file": "2141401-titingzhanshen_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 245,
+    "file": "2141501-titingzhanshen_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 246,
+    "file": "hundunzhimen_texiao",
+    "ratio": 0.4
+  },
+  {
+    "id": 247,
+    "file": "2141701-zhanshenjiezhi_texiao",
+    "ratio": 0.74
+  },
+  {
+    "id": 248,
+    "file": "2141400-huanxiang",
+    "ratio": 0.89
+  },
+  {
+    "id": 249,
+    "file": "chiyundianqianjingyun",
+    "ratio": 0.44
+  },
+  {
+    "id": 250,
+    "file": "shenshu",
+    "ratio": 0.89
+  },
+  {
+    "id": 251,
+    "file": "yancheng",
+    "ratio": 0.89
+  },
+  {
+    "id": 252,
+    "file": "101104_biyun_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 253,
+    "file": "101104_caiyun_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 254,
+    "file": "100401-shiguai_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 255,
+    "file": "100302-gujing_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 256,
+    "file": "100301-kulouwushi_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 257,
+    "file": "vip9",
+    "ratio": 1.1
+  },
+  {
+    "id": 258,
+    "file": "2040701-niu_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 259,
+    "file": "101302-xinzang",
+    "ratio": 0.95
+  },
+  {
+    "id": 260,
+    "file": "2031101-huolongling_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 261,
+    "file": "2040401-jibinghu_texiao-2",
+    "ratio": 0.95
+  },
+  {
+    "id": 262,
+    "file": "101402-yanjiang",
+    "ratio": 0.94
+  },
+  {
+    "id": 263,
+    "file": "100701-yanzhongling_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 264,
+    "file": "wanya_fazhen",
+    "ratio": 0.64
+  },
+  {
+    "id": 265,
+    "file": "2031300-yanxinglu_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 266,
+    "file": "101702-huogongling_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 267,
+    "file": "huolongdao_beijing",
+    "ratio": 0.8
+  },
+  {
+    "id": 268,
+    "file": "101603-luoxuan-p3_texiao",
+    "ratio": 0.66
+  },
+  {
+    "id": 269,
+    "file": "weiyaolin_wu",
+    "ratio": 0.25
+  },
+  {
+    "id": 270,
+    "file": "111201-yangsen_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 271,
+    "file": "longjishan_wu",
+    "ratio": 0.25
+  },
+  {
+    "id": 272,
+    "file": "111301-gaoyouqian_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 273,
+    "file": "111502-liqi_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 274,
+    "file": "2040601-xueren_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 275,
+    "file": "05-longnv_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 276,
+    "file": "111701-lvyue-p2_texiao",
+    "ratio": 0.68
+  },
+  {
+    "id": 277,
+    "file": "105-longhaijianji_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 278,
+    "file": "shengwangshanfutai",
+    "ratio": 0.73
+  },
+  {
+    "id": 279,
+    "file": "105-longhaijianji_texiao2",
+    "ratio": 0.69
+  },
+  {
+    "id": 280,
+    "file": "lvyuechangjing_buff",
+    "ratio": 0.5
+  },
+  {
+    "id": 281,
+    "file": "lvyuechangjing_buff",
+    "ratio": 0.85
+  },
+  {
+    "id": 282,
+    "file": "31301-tieshangongzhu_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 283,
+    "file": "1021501-duxie_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 284,
+    "file": "1021601-wugongshinv_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 285,
+    "file": "1021601-wugongshinv_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 286,
+    "file": "1027201-pipa_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 287,
+    "file": "1027301-xiewei_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 288,
+    "file": "2041001-baihu_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 289,
+    "file": "2041004-baihu_nan",
+    "ratio": 0.95
+  },
+  {
+    "id": 290,
+    "file": "2130101-shangui_texiao",
+    "ratio": 0.71
+  },
+  {
+    "id": 291,
+    "file": "longjuan",
+    "ratio": 0.9
+  },
+  {
+    "id": 292,
+    "file": "2152901-guimianxianjing",
+    "ratio": 0.86
+  },
+  {
+    "id": 293,
+    "file": "2152902-guimianxianjing",
+    "ratio": 0.86
+  },
+  {
+    "id": 294,
+    "file": "2152903-guimianxianjing",
+    "ratio": 0.74
+  },
+  {
+    "id": 295,
+    "file": "2160501-jinguangzhen",
+    "ratio": 0.95
+  },
+  {
+    "id": 296,
+    "file": "shengwangshanfutai_emeng",
+    "ratio": 0.82
+  },
+  {
+    "id": 297,
+    "file": "2160502-jinguangjing",
+    "ratio": 0.88
+  },
+  {
+    "id": 298,
+    "file": "120101-fengyingshushi_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 299,
+    "file": "120201-pipaxiannv_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 300,
+    "file": "999154101_leiyun",
+    "ratio": 0.79
+  },
+  {
+    "id": 301,
+    "file": "2130301-kuafu_texiao2",
+    "ratio": 0.95
+  },
+  {
+    "id": 302,
+    "file": "2160502-shihao",
+    "ratio": 0.91
+  },
+  {
+    "id": 303,
+    "file": "2170501-jinguangzhen_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 304,
+    "file": "999154101_leifu",
+    "ratio": 0.85
+  },
+  {
+    "id": 305,
+    "file": "121101-bixiao_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 305,
+    "file": "121101-bixiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 306,
+    "file": "61551-younianzhuanlunwang_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 307,
+    "file": "121102-hualing_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 308,
+    "file": "999154101-mzrh_buff",
+    "ratio": 0.95
+  },
+  {
+    "id": 309,
+    "file": "999154101_jinguang",
+    "ratio": 0.79
+  },
+  {
+    "id": 310,
+    "file": "121201-qiongxiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 311,
+    "file": "121201-qiongxiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 312,
+    "file": "111401-lixingba-texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 313,
+    "file": "buff_1134_hengxingbadao",
+    "ratio": 0.55
+  },
+  {
+    "id": 314,
+    "file": "120301-dujianxian_texiao",
+    "ratio": 0.74
+  },
+  {
+    "id": 315,
+    "file": "120401-wufaxiannv_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 316,
+    "file": "2112701-shayudao",
+    "ratio": 0.81
+  },
+  {
+    "id": 317,
+    "file": "2112801-jiaolongbaiwei_texiao",
+    "ratio": 0.65
+  },
+  {
+    "id": 318,
+    "file": "120201_MoveFloor",
+    "ratio": 0.9
+  },
+  {
+    "id": 319,
+    "file": "81501-tuotatianwang",
+    "ratio": 0.95
+  },
+  {
+    "id": 320,
+    "file": "120201_BigStone",
+    "ratio": 0.95
+  },
+  {
+    "id": 321,
+    "file": "121201-qiongxiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 322,
+    "file": "120501-chijianxiannv_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 323,
+    "file": "3017001-guojiangluohan",
+    "ratio": 0.92
+  },
+  {
+    "id": 324,
+    "file": "3017001-guojiangluohan_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 325,
+    "file": "3017002-juanzhou",
+    "ratio": 0.92
+  },
+  {
+    "id": 326,
+    "file": "120301_lvfutai",
+    "ratio": 0.81
+  },
+  {
+    "id": 327,
+    "file": "120301_yunxiao",
+    "ratio": 0.77
+  },
+  {
+    "id": 328,
+    "file": "120301_yunxiao_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 329,
+    "file": "120201_dianChe",
+    "ratio": 0.9
+  },
+  {
+    "id": 330,
+    "file": "121303-wuyun",
+    "ratio": 0.93
+  },
+  {
+    "id": 331,
+    "file": "121302-qingluan_texiao",
+    "ratio": 0.78
+  },
+  {
+    "id": 332,
+    "file": "120301_longjuanf",
+    "ratio": 0.9
+  },
+  {
+    "id": 333,
+    "file": "120301_longjuanf",
+    "ratio": 0.91
+  },
+  {
+    "id": 334,
+    "file": "11101-tongbiyuanhou_heibai",
+    "ratio": 0.9
+  },
+  {
+    "id": 335,
+    "file": "100501-youque",
+    "ratio": 0.96
+  },
+  {
+    "id": 336,
+    "file": "50501-wuya",
+    "ratio": 0.96
+  },
+  {
+    "id": 337,
+    "file": "11year_chengxufang_niao_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 338,
+    "file": "2131901-qinshishujing_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 339,
+    "file": "11101-tongbiyuanhou_heibai_texiao",
+    "ratio": 0.66
+  },
+  {
+    "id": 340,
+    "file": "10301-daxingxing_heibai_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 341,
+    "file": "2141801-donglaimao_texiao",
+    "ratio": 0.77
+  },
+  {
+    "id": 342,
+    "file": "2061401-zhiyanfenghuang",
+    "ratio": 0.97
+  },
+  {
+    "id": 343,
+    "file": "120601-nanshandawang",
+    "ratio": 0.82
+  },
+  {
+    "id": 344,
+    "file": "120401_zhaogongming_jiaozi",
+    "ratio": 0.9
+  },
+  {
+    "id": 345,
+    "file": "120601-nanshandawang_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 346,
+    "file": "2131801-taizichangqin_texiao",
+    "ratio": 0.77
+  },
+  {
+    "id": 347,
+    "file": "2141901-laoshidaren",
+    "ratio": 1
+  },
+  {
+    "id": 348,
+    "file": "2141911-aikesi",
+    "ratio": 1
+  },
+  {
+    "id": 349,
+    "file": "2141921-tutu",
+    "ratio": 1
+  },
+  {
+    "id": 350,
+    "file": "2141931-qidian",
+    "ratio": 1
+  },
+  {
+    "id": 351,
+    "file": "121211-qiongxiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 352,
+    "file": "121321_yunxiao",
+    "ratio": 0.77
+  },
+  {
+    "id": 353,
+    "file": "121111-bixiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 354,
+    "file": "999121411_cup",
+    "ratio": 0.77
+  },
+  {
+    "id": 355,
+    "file": "999121411_trash",
+    "ratio": 0.7
+  },
+  {
+    "id": 356,
+    "file": "121401_zhaogongming_texiao",
+    "ratio": 0.67
+  },
+  {
+    "id": 357,
+    "file": "999121411_computer",
+    "ratio": 0.89
+  },
+  {
+    "id": 358,
+    "file": "2141951-diannaozhuo",
+    "ratio": 0.95
+  },
+  {
+    "id": 359,
+    "file": "2141952-diannaoyi",
+    "ratio": 0.99
+  },
+  {
+    "id": 360,
+    "file": "120401_yanwu",
+    "ratio": 0.9
+  },
+  {
+    "id": 361,
+    "file": "121401_zhaogongming",
+    "ratio": 0.85
+  },
+  {
+    "id": 362,
+    "file": "2061301-huofeng_texiao",
+    "ratio": 0.5
+  },
+  {
+    "id": 363,
+    "file": "2152301-huofengzhizi_texiao",
+    "ratio": 0.55
+  },
+  {
+    "id": 364,
+    "file": "2152001-fenghuang_texiao_1",
+    "ratio": 0.5
+  },
+  {
+    "id": 365,
+    "file": "121601_caiyunxianzi",
+    "ratio": 0.95
+  },
+  {
+    "id": 366,
+    "file": "121601_caiyunxianzi_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 367,
+    "file": "2152001-fenghuang_texiao_2",
+    "ratio": 0.5
+  },
+  {
+    "id": 368,
+    "file": "20401-shayuguai",
+    "ratio": 0.85
+  },
+  {
+    "id": 369,
+    "file": "20401-shayuguai_lan",
+    "ratio": 0.85
+  },
+  {
+    "id": 370,
+    "file": "121701_hanzhixian_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 371,
+    "file": "120701-zhenling_texiao",
+    "ratio": 0.74
+  },
+  {
+    "id": 372,
+    "file": "120701-zhenling",
+    "ratio": 0.85
+  },
+  {
+    "id": 373,
+    "file": "shouhuzhe3",
+    "ratio": 1.2
+  },
+  {
+    "id": 374,
+    "file": "shouhuzhe4",
+    "ratio": 1.2
+  },
+  {
+    "id": 375,
+    "file": "1022201-huoyuansu_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 376,
+    "file": "1022301-zhanchuiniuzhanshi",
+    "ratio": 0.95
+  },
+  {
+    "id": 377,
+    "file": "1022301-zhanchuiniuzhanshi_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 378,
+    "file": "1022401-huowushi",
+    "ratio": 0.92
+  },
+  {
+    "id": 379,
+    "file": "1022401-huowushi_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 380,
+    "file": "shouhuzhe5",
+    "ratio": 1.25
+  },
+  {
+    "id": 381,
+    "file": "shouhuzhe6",
+    "ratio": 1.25
+  },
+  {
+    "id": 382,
+    "file": "121801-hunyuanjindou_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 383,
+    "file": "10021_qipao",
+    "ratio": 0.75
+  },
+  {
+    "id": 384,
+    "file": "buff_1137",
+    "ratio": 0.8
+  },
+  {
+    "id": 385,
+    "file": "121801-hunyuanjindou_zi",
+    "ratio": 1
+  },
+  {
+    "id": 386,
+    "file": "10021_huoji",
+    "ratio": 0.75
+  },
+  {
+    "id": 387,
+    "file": "121901-tian",
+    "ratio": 1
+  },
+  {
+    "id": 388,
+    "file": "122001-di",
+    "ratio": 0.97
+  },
+  {
+    "id": 389,
+    "file": "120501_red_column",
+    "ratio": 0.99
+  },
+  {
+    "id": 390,
+    "file": "120501_yellow_column",
+    "ratio": 0.99
+  },
+  {
+    "id": 391,
+    "file": "120501_white_column",
+    "ratio": 0.99
+  },
+  {
+    "id": 392,
+    "file": "120501_green_column",
+    "ratio": 0.99
+  },
+  {
+    "id": 393,
+    "file": "120501_Portal",
+    "ratio": 0.89
+  },
+  {
+    "id": 394,
+    "file": "120501_Base",
+    "ratio": 0.92
+  },
+  {
+    "id": 395,
+    "file": "2113001-shuqiang",
+    "ratio": 0.74
+  },
+  {
+    "id": 396,
+    "file": "121901-sancai_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 397,
+    "file": "120501_bg_effect",
+    "ratio": 0.55
+  },
+  {
+    "id": 398,
+    "file": "yudi",
+    "ratio": 0.86
+  },
+  {
+    "id": 399,
+    "file": "2073501-taibaijinxing",
+    "ratio": 0.92
+  },
+  {
+    "id": 400,
+    "file": "yudingzhenren",
+    "ratio": 0.93
+  },
+  {
+    "id": 401,
+    "file": "120501_teleport_effect",
+    "ratio": 0.55
+  },
+  {
+    "id": 402,
+    "file": "120501_energyball",
+    "ratio": 0.99
+  },
+  {
+    "id": 403,
+    "file": "heiyiren_guangmutianwang",
+    "ratio": 0.89
+  },
+  {
+    "id": 404,
+    "file": "71601-julingshen-p1",
+    "ratio": 0.84
+  },
+  {
+    "id": 405,
+    "file": "71401-duyujiang",
+    "ratio": 0.99
+  },
+  {
+    "id": 406,
+    "file": "71701-wanglingguan",
+    "ratio": 0.89
+  },
+  {
+    "id": 407,
+    "file": "81101-zengzhangtianwang",
+    "ratio": 0.8
+  },
+  {
+    "id": 408,
+    "file": "120501_yellow_bg",
+    "ratio": 0.54
+  },
+  {
+    "id": 409,
+    "file": "120501_red_bg",
+    "ratio": 0.54
+  },
+  {
+    "id": 410,
+    "file": "81401-chiguotianwang-baiyan",
+    "ratio": 0.87
+  },
+  {
+    "id": 411,
+    "file": "81201-guangmutianwang",
+    "ratio": 0.81
+  },
+  {
+    "id": 412,
+    "file": "81301-duowentianwang",
+    "ratio": 0.81
+  },
+  {
+    "id": 413,
+    "file": "91701-yangjian",
+    "ratio": 0.89
+  },
+  {
+    "id": 414,
+    "file": "71301-shunfenger",
+    "ratio": 0.97
+  },
+  {
+    "id": 415,
+    "file": "71201-qianliyan",
+    "ratio": 0.8
+  },
+  {
+    "id": 416,
+    "file": "70701-jushenbing",
+    "ratio": 0.93
+  },
+  {
+    "id": 417,
+    "file": "1028101-niumowang_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 418,
+    "file": "1028101-niumowang",
+    "ratio": 1
+  },
+  {
+    "id": 419,
+    "file": "shitouqiang_huoyanshan",
+    "ratio": 0.99
+  },
+  {
+    "id": 420,
+    "file": "2113101-diandanglaoban_texiao",
+    "ratio": 0.72
+  },
+  {
+    "id": 421,
+    "file": "rouge12-yanjiang",
+    "ratio": 0.55
+  },
+  {
+    "id": 422,
+    "file": "rouge12-hongshuihua",
+    "ratio": 0.64
+  },
+  {
+    "id": 423,
+    "file": "rouge12-huohua",
+    "ratio": 0.81
+  },
+  {
+    "id": 424,
+    "file": "2055601-huoshanjiguan_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 425,
+    "file": "2154001-xiefashi_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 426,
+    "file": "90301-lingshe_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 427,
+    "file": "122201-jinjiaojian_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 428,
+    "file": "999140301-fushi",
+    "ratio": 0.92
+  },
+  {
+    "id": 429,
+    "file": "2154201-yuanchu_texiao",
+    "ratio": 0.7
+  },
+  {
+    "id": 430,
+    "file": "2154301-shenguangta_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 431,
+    "file": "2154301-shenguangta",
+    "ratio": 0.9
+  },
+  {
+    "id": 432,
+    "file": "2154302-shenguangta",
+    "ratio": 0.92
+  },
+  {
+    "id": 433,
+    "file": "2154303-shenguangta",
+    "ratio": 0.85
+  },
+  {
+    "id": 434,
+    "file": "1025301-luli_texiao",
+    "ratio": 0.59
+  },
+  {
+    "id": 435,
+    "file": "6000101-lianouren_texiao",
+    "ratio": 0.71
+  },
+  {
+    "id": 436,
+    "file": "6200101-tuxingsun_texiao",
+    "ratio": 0.67
+  },
+  {
+    "id": 437,
+    "file": "6200101-tuxingsun",
+    "ratio": 0.93
+  },
+  {
+    "id": 438,
+    "file": "6000201-lianouren_texiao",
+    "ratio": 0.69
+  },
+  {
+    "id": 439,
+    "file": "6200201-leizhenzi_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 440,
+    "file": "richCat",
+    "ratio": 0.96
+  },
+  {
+    "id": 441,
+    "file": "youlian",
+    "ratio": 0.88
+  },
+  {
+    "id": 442,
+    "file": "sacredTower_floor_1",
+    "ratio": 0.94
+  },
+  {
+    "id": 443,
+    "file": "2055701-shanpaojiguan",
+    "ratio": 0.93
+  },
+  {
+    "id": 444,
+    "file": "2055701-shanpaojiguan_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 445,
+    "file": "2055801-longtoupaojiguan",
+    "ratio": 0.91
+  },
+  {
+    "id": 446,
+    "file": "2055801-longtoupaojiguan_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 447,
+    "file": "2055901-longtoupaojiguan",
+    "ratio": 0.91
+  },
+  {
+    "id": 448,
+    "file": "sacredTower_sunkens",
+    "ratio": 0.74
+  },
+  {
+    "id": 449,
+    "file": "2114101-bingtianxuelian_texiao",
+    "ratio": 0.7
+  },
+  {
+    "id": 450,
+    "file": "sacredTower_pillar",
+    "ratio": 0.92
+  },
+  {
+    "id": 451,
+    "file": "2040991_xuanwudi",
+    "ratio": 0.96
+  },
+  {
+    "id": 452,
+    "file": "91703-yangjian",
+    "ratio": 0.85
+  },
+  {
+    "id": 453,
+    "file": "12050103_shipEffect",
+    "ratio": 0.99
+  },
+  {
+    "id": 454,
+    "file": "12050103_bg",
+    "ratio": 0.55
+  },
+  {
+    "id": 455,
+    "file": "131101-qiannianyaochan_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 456,
+    "file": "2041101-maomaochong_texiao2",
+    "ratio": 0.47
+  },
+  {
+    "id": 457,
+    "file": "130101-sangmaoyaochong",
+    "ratio": 0.85
+  },
+  {
+    "id": 458,
+    "file": "130101-sangmaoyaochong_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 459,
+    "file": "130111-kunkeyong",
+    "ratio": 0.92
+  },
+  {
+    "id": 460,
+    "file": "130121-kunkeyong",
+    "ratio": 0.92
+  },
+  {
+    "id": 461,
+    "file": "130131-linfene",
+    "ratio": 0.89
+  },
+  {
+    "id": 462,
+    "file": "130131-linfene_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 463,
+    "file": "2140221-qianliyan_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 464,
+    "file": "2140222-shunfenger",
+    "ratio": 0.83
+  },
+  {
+    "id": 465,
+    "file": "999120103-datuanyuan",
+    "ratio": 0.83
+  },
+  {
+    "id": 466,
+    "file": "999120103-wuyadiaonanhai",
+    "ratio": 0.84
+  },
+  {
+    "id": 467,
+    "file": "999120103-wuyadiaonvhai",
+    "ratio": 0.84
+  },
+  {
+    "id": 468,
+    "file": "131201-qiannianwugong_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 469,
+    "file": "130201-pojunyi_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 470,
+    "file": "130211-pojunyichao",
+    "ratio": 0.85
+  },
+  {
+    "id": 471,
+    "file": "130101_wenzi_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 472,
+    "file": "130201_bg_loop",
+    "ratio": 0.71
+  },
+  {
+    "id": 473,
+    "file": "6000301-lianouren_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 474,
+    "file": "2031202-shaxie",
+    "ratio": 0.98
+  },
+  {
+    "id": 475,
+    "file": "2031202-shaxie_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 476,
+    "file": "6200301-longxuhu",
+    "ratio": 0.88
+  },
+  {
+    "id": 477,
+    "file": "6200301-longxuhu_texiao",
+    "ratio": 0.51
+  },
+  {
+    "id": 478,
+    "file": "2115101-yanbaochui_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 479,
+    "file": "6200311-longxushan",
+    "ratio": 0.91
+  },
+  {
+    "id": 480,
+    "file": "2115101-yanbaochui_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 481,
+    "file": "taibaijinxing_juqing",
+    "ratio": 0.93
+  },
+  {
+    "id": 482,
+    "file": "131301-qianniandujiaoxian",
+    "ratio": 0.91
+  },
+  {
+    "id": 483,
+    "file": "130301-xijiachong_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 484,
+    "file": "131301-qianniandujiaoxian_texiao",
+    "ratio": 0.74
+  },
+  {
+    "id": 485,
+    "file": "131302-mieyaochuanhunnu_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 486,
+    "file": "131302-mieyaochuanhunnu",
+    "ratio": 0.92
+  },
+  {
+    "id": 487,
+    "file": "3018001-jingzuouohan_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 488,
+    "file": "3018002-yuanshen",
+    "ratio": 0.98
+  },
+  {
+    "id": 489,
+    "file": "3018002-yuanshen_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 490,
+    "file": "2031701-bahuangchongyu_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 491,
+    "file": "71611-julingshen-p1",
+    "ratio": 0.84
+  },
+  {
+    "id": 492,
+    "file": "81511-baota_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 493,
+    "file": "131501-zaiefenghou",
+    "ratio": 0.95
+  },
+  {
+    "id": 494,
+    "file": "131501-zaiefenghou_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 495,
+    "file": "130501-jiantougouweiwen_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 496,
+    "file": "2130511-changehouyi",
+    "ratio": 0.93
+  },
+  {
+    "id": 497,
+    "file": "131401-qianniantanglang_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 498,
+    "file": "130401_floor_2",
+    "ratio": 0.98
+  },
+  {
+    "id": 499,
+    "file": "130401_shu_1",
+    "ratio": 0.91
+  },
+  {
+    "id": 500,
+    "file": "2132101-xiemofenshen_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 501,
+    "file": "2132001-pangmeng",
+    "ratio": 0.88
+  },
+  {
+    "id": 502,
+    "file": "2132001-pangmeng_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 503,
+    "file": "2132101-xiemofenshen",
+    "ratio": 0.88
+  },
+  {
+    "id": 504,
+    "file": "6200401-weihu",
+    "ratio": 0.89
+  },
+  {
+    "id": 505,
+    "file": "6200401-weihu_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 506,
+    "file": "buff_1141_kangxingbiaoxian",
+    "ratio": 0.37
+  },
+  {
+    "id": 507,
+    "file": "2115201-tianbengshoutao_texiao",
+    "ratio": 0.53
+  },
+  {
+    "id": 508,
+    "file": "131601-qiannianwenyao_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 509,
+    "file": "130501_paopao",
+    "ratio": 0.87
+  },
+  {
+    "id": 510,
+    "file": "131602-xuechiheiwen_texiao",
+    "ratio": 0.77
+  },
+  {
+    "id": 511,
+    "file": "131603-xueqiuluan",
+    "ratio": 0.83
+  },
+  {
+    "id": 512,
+    "file": "1022501-benboerba_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 513,
+    "file": "1022601-baboerben_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 514,
+    "file": "1022801-xiejiang_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 515,
+    "file": "2061501-diting_lan",
+    "ratio": 0.95
+  },
+  {
+    "id": 516,
+    "file": "2061501-diting_lan_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 517,
+    "file": "130501-zhaoze",
+    "ratio": 0.93
+  },
+  {
+    "id": 518,
+    "file": "2061502-jiuyouditing_lan",
+    "ratio": 0.81
+  },
+  {
+    "id": 519,
+    "file": "2061601-diting_hong",
+    "ratio": 0.95
+  },
+  {
+    "id": 520,
+    "file": "2061601-diting_hong_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 521,
+    "file": "2061602-jiuyouditing_hong",
+    "ratio": 0.81
+  },
+  {
+    "id": 522,
+    "file": "taibaijinxing",
+    "ratio": 0.71
+  },
+  {
+    "id": 523,
+    "file": "redEnvelope",
+    "ratio": 0.85
+  },
+  {
+    "id": 524,
+    "file": "2061202-taowu_maxboss",
+    "ratio": 0.97
+  },
+  {
+    "id": 525,
+    "file": "2061202-taowu_max",
+    "ratio": 0.97
+  },
+  {
+    "id": 526,
+    "file": "1022901-hebang",
+    "ratio": 0.97
+  },
+  {
+    "id": 527,
+    "file": "1028201-jiutouchong_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 528,
+    "file": "1028211-feichong",
+    "ratio": 0.82
+  },
+  {
+    "id": 529,
+    "file": "1028211-feichong_texiao",
+    "ratio": 0.99
+  },
+  {
+    "id": 530,
+    "file": "6000498-shitou_texiao",
+    "ratio": 0.74
+  },
+  {
+    "id": 531,
+    "file": "6000401-lianouren_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 532,
+    "file": "1028201-jiutouchong",
+    "ratio": 0.96
+  },
+  {
+    "id": 533,
+    "file": "2154703-fengjinzhu",
+    "ratio": 0.86
+  },
+  {
+    "id": 534,
+    "file": "2154701-fengjinzhu_texiao",
+    "ratio": 0.74
+  },
+  {
+    "id": 535,
+    "file": "2160602-huaxuewushi_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 536,
+    "file": "2160601-suntianjun",
+    "ratio": 0.93
+  },
+  {
+    "id": 537,
+    "file": "2160601-suntianjun_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 538,
+    "file": "2160604-lanyunzhou",
+    "ratio": 0.88
+  },
+  {
+    "id": 539,
+    "file": "2073801-qianniandujiaoxian",
+    "ratio": 0.8
+  },
+  {
+    "id": 540,
+    "file": "6200501-huangtianhua_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 541,
+    "file": "6200511-moyebaojian_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 542,
+    "file": "2061102-wangwang_max_teixao",
+    "ratio": 0.91
+  },
+  {
+    "id": 543,
+    "file": "2170601-huaxuezhen_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 544,
+    "file": "2031801-cuju_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 545,
+    "file": "140101-jianmaobing_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 546,
+    "file": "140201-judunbing",
+    "ratio": 0.99
+  },
+  {
+    "id": 547,
+    "file": "140201-judunbing_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 548,
+    "file": "141101-chiyueshenjun",
+    "ratio": 0.94
+  },
+  {
+    "id": 549,
+    "file": "141101-chiyueshenjun_texiao",
+    "ratio": 0.71
+  },
+  {
+    "id": 550,
+    "file": "aimuwang",
+    "ratio": 1.1
+  },
+  {
+    "id": 551,
+    "file": "nanshouwang",
+    "ratio": 0.9
+  },
+  {
+    "id": 552,
+    "file": "2040907-shuishe",
+    "ratio": 0.85
+  },
+  {
+    "id": 553,
+    "file": "2031801-heibaizuqiu_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 554,
+    "file": "2031801-shijiebeizuqiu_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 555,
+    "file": "141102-chiyueshenjun",
+    "ratio": 0.94
+  },
+  {
+    "id": 556,
+    "file": "story_jeuxianmentexiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 557,
+    "file": "06-bailong_texiao",
+    "ratio": 0.58
+  },
+  {
+    "id": 558,
+    "file": "140301-feilunyao_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 559,
+    "file": "141201-zimoujiuwang",
+    "ratio": 0.92
+  },
+  {
+    "id": 560,
+    "file": "141201-zimoujiuwang_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 561,
+    "file": "yiwen_kongqiqiang",
+    "ratio": 0.84
+  },
+  {
+    "id": 562,
+    "file": "141203-zijingzhu",
+    "ratio": 0.85
+  },
+  {
+    "id": 563,
+    "file": "06-bailong_yinlei",
+    "ratio": 0.56
+  },
+  {
+    "id": 564,
+    "file": "story-chiguotianwang",
+    "ratio": 0.87
+  },
+  {
+    "id": 565,
+    "file": "106-babutianlong_texiao2",
+    "ratio": 0.65
+  },
+  {
+    "id": 566,
+    "file": "106-babutianlong",
+    "ratio": 1
+  },
+  {
+    "id": 567,
+    "file": "106-babutianlong_texiao",
+    "ratio": 0.43
+  },
+  {
+    "id": 568,
+    "file": "2074102-dianliujiguan",
+    "ratio": 0.9
+  },
+  {
+    "id": 569,
+    "file": "140401-zhanxingshi",
+    "ratio": 0.98
+  },
+  {
+    "id": 570,
+    "file": "140401-zhanxingshi_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 571,
+    "file": "story_baishui",
+    "ratio": 0.84
+  },
+  {
+    "id": 572,
+    "file": "3019001-tuotaluohan_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 573,
+    "file": "3019003-songjingtongren_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 574,
+    "file": "141301-baishuishenjun",
+    "ratio": 0.87
+  },
+  {
+    "id": 574,
+    "file": "141301-baishuishenjun_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 575,
+    "file": "2031901-lingaodunjia_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 576,
+    "file": "141302-baishuishenjun",
+    "ratio": 0.9
+  },
+  {
+    "id": 577,
+    "file": "151500-wuyunxian",
+    "ratio": 1
+  },
+  {
+    "id": 578,
+    "file": "151500-wuyunxian_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 579,
+    "file": "150001-aoyu_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 580,
+    "file": "buff_1142_yinyangbian",
+    "ratio": 0.66
+  },
+  {
+    "id": 581,
+    "file": "2060602-zhizunmojinshou_huo",
+    "ratio": 0.93
+  },
+  {
+    "id": 582,
+    "file": "2060702-zhizunmojinshou_shui",
+    "ratio": 0.93
+  },
+  {
+    "id": 583,
+    "file": "140501-julianbing",
+    "ratio": 0.89
+  },
+  {
+    "id": 584,
+    "file": "140601-songzangzhe_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 585,
+    "file": "141501-qingyangshenjun_texiao",
+    "ratio": 0.75
+  },
+  {
+    "id": 586,
+    "file": "141501-qingyangshenjun",
+    "ratio": 0.9
+  },
+  {
+    "id": 587,
+    "file": "2132201-gun_texiao",
+    "ratio": 0.56
+  },
+  {
+    "id": 588,
+    "file": "10041_yuanqi",
+    "ratio": 0.94
+  },
+  {
+    "id": 589,
+    "file": "10041_yw",
+    "ratio": 0.9
+  },
+  {
+    "id": 590,
+    "file": "2041201-yanhuangque_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 591,
+    "file": "2041201-yanhuangque_texiao2",
+    "ratio": 0.8
+  },
+  {
+    "id": 592,
+    "file": "141502-qingyangshenjun",
+    "ratio": 0.92
+  },
+  {
+    "id": 593,
+    "file": "141401-zijingpengwang",
+    "ratio": 0.91
+  },
+  {
+    "id": 594,
+    "file": "2061701-hundun",
+    "ratio": 0.93
+  },
+  {
+    "id": 595,
+    "file": "2061701-hundun_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 596,
+    "file": "2132301-niantukuilei_texiao",
+    "ratio": 0.77
+  },
+  {
+    "id": 597,
+    "file": "140701-lianchuibing_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 598,
+    "file": "141601-guilingshengmu_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 599,
+    "file": "140501_tower",
+    "ratio": 0.85
+  },
+  {
+    "id": 600,
+    "file": "141602-guilingshengmu",
+    "ratio": 0.79
+  },
+  {
+    "id": 601,
+    "file": "141602-guilingshengmu_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 602,
+    "file": "141603-huxinjing",
+    "ratio": 0.93
+  },
+  {
+    "id": 603,
+    "file": "1023001-guishi_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 604,
+    "file": "1023101-lamei_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 605,
+    "file": "1023201-dangui_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 606,
+    "file": "1023301-xingxian_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 607,
+    "file": "2041191_guimeifengdie_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 608,
+    "file": "1023401-niuqushujing_day",
+    "ratio": 0.96
+  },
+  {
+    "id": 609,
+    "file": "1023402-niuqushujing_night",
+    "ratio": 0.96
+  },
+  {
+    "id": 610,
+    "file": "1023403-maokai_day",
+    "ratio": 0.96
+  },
+  {
+    "id": 611,
+    "file": "1023404-maokai_night",
+    "ratio": 0.96
+  },
+  {
+    "id": 612,
+    "file": "1023401-niuqushujing_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 613,
+    "file": "1028301-shibagong",
+    "ratio": 0.85
+  },
+  {
+    "id": 614,
+    "file": "1028301-song_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 615,
+    "file": "1028401-hui_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 616,
+    "file": "1028401-lingkongzi",
+    "ratio": 0.97
+  },
+  {
+    "id": 617,
+    "file": "1028401-lingkongzi_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 618,
+    "file": "1028501-guzhigong_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 619,
+    "file": "1028601-fuyunsou_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 620,
+    "file": "buff_1144_mudun",
+    "ratio": 0.97
+  },
+  {
+    "id": 621,
+    "file": "2154901-touwangta_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 622,
+    "file": "duihuakuang_ske",
+    "ratio": 0.83
+  },
+  {
+    "id": 623,
+    "file": "chuangzuozongshi",
+    "ratio": 0.98
+  },
+  {
+    "id": 624,
+    "file": "6200601-chigui",
+    "ratio": 0.82
+  },
+  {
+    "id": 625,
+    "file": "6200601-chigui_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 626,
+    "file": "6200602-qinggui",
+    "ratio": 0.98
+  },
+  {
+    "id": 627,
+    "file": "6200605-baigui_texiao",
+    "ratio": 0.78
+  },
+  {
+    "id": 628,
+    "file": "6200604-heigui_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 629,
+    "file": "6200601-wuguiyuncai",
+    "ratio": 0.91
+  },
+  {
+    "id": 630,
+    "file": "150101-shibing_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 631,
+    "file": "150201-baixianshiling",
+    "ratio": 0.94
+  },
+  {
+    "id": 632,
+    "file": "150202-shilinghexin",
+    "ratio": 0.94
+  },
+  {
+    "id": 633,
+    "file": "150101_LionHead",
+    "ratio": 0.88
+  },
+  {
+    "id": 634,
+    "file": "151101-qiushouxian",
+    "ratio": 0.79
+  },
+  {
+    "id": 635,
+    "file": "151101-qiushouxian_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 636,
+    "file": "151102-qingshi",
+    "ratio": 0.83
+  },
+  {
+    "id": 637,
+    "file": "151102-qingshi_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 638,
+    "file": "150101_bg",
+    "ratio": 0.8
+  },
+  {
+    "id": 639,
+    "file": "150401-dapengbing_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 640,
+    "file": "2131601-monster_cfg_jiyu-1",
+    "ratio": 0.93
+  },
+  {
+    "id": 641,
+    "file": "2131601-bullet_cfg_jiyu-1",
+    "ratio": 0.72
+  },
+  {
+    "id": 642,
+    "file": "151203-xiangjiaoshu",
+    "ratio": 0.92
+  },
+  {
+    "id": 643,
+    "file": "151202-baixiang",
+    "ratio": 0.87
+  },
+  {
+    "id": 644,
+    "file": "151202-baixiang_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 645,
+    "file": "151201-lingyaxian",
+    "ratio": 0.82
+  },
+  {
+    "id": 646,
+    "file": "buff_1146_jianci",
+    "ratio": 0.74
+  },
+  {
+    "id": 647,
+    "file": "2132601-yanmo",
+    "ratio": 0.91
+  },
+  {
+    "id": 648,
+    "file": "2132601-yanmo_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 649,
+    "file": "2132701-chuansong_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 650,
+    "file": "151301-jinguangxian_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 651,
+    "file": "151301-jinguangxian",
+    "ratio": 0.81
+  },
+  {
+    "id": 652,
+    "file": "151302-jinmaohong",
+    "ratio": 0.86
+  },
+  {
+    "id": 653,
+    "file": "151302-jinmaohong_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 654,
+    "file": "8000001-jiazuo",
+    "ratio": 0.91
+  },
+  {
+    "id": 655,
+    "file": "8000001-jiazuo_texiao",
+    "ratio": 0.67
+  },
+  {
+    "id": 656,
+    "file": "8000201-qiuwei",
+    "ratio": 0.91
+  },
+  {
+    "id": 657,
+    "file": "2131801-bullet_cfg_changqin-1",
+    "ratio": 0.79
+  },
+  {
+    "id": 658,
+    "file": "8000301-linglintongzi_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 659,
+    "file": "8000201-qiuwei_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 660,
+    "file": "3020001-juboluohan_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 661,
+    "file": "21151-guichengxiang_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 662,
+    "file": "150601-jinhuanlishi_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 663,
+    "file": "151403-jinguquan",
+    "ratio": 0.83
+  },
+  {
+    "id": 664,
+    "file": "151401-jinguxian_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 665,
+    "file": "151601-piluxian_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 666,
+    "file": "150701-daopaodizi_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 667,
+    "file": "2143301-citunzhanxia_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 668,
+    "file": "4510101-zengzhangtianwang",
+    "ratio": 0.8
+  },
+  {
+    "id": 669,
+    "file": "1023601-eseng_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 670,
+    "file": "1023701-nianzhuxiaoseng_texiao",
+    "ratio": 0.88
+  },
+  {
+    "id": 671,
+    "file": "1023801-emianjingang_texiao",
+    "ratio": 0.78
+  },
+  {
+    "id": 672,
+    "file": "151503-yuanchiyouhun",
+    "ratio": 1
+  },
+  {
+    "id": 673,
+    "file": "151503-yuanchiyouhun_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 674,
+    "file": "151502-jinxuaoyu",
+    "ratio": 0.87
+  },
+  {
+    "id": 675,
+    "file": "151502-jinxuaoyu_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 676,
+    "file": "4510801-heibaiwuchang_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 677,
+    "file": "shouhuzhe7",
+    "ratio": 1.4
+  },
+  {
+    "id": 678,
+    "file": "1029201-modai_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 679,
+    "file": "15050101-longzhu",
+    "ratio": 0.91
+  },
+  {
+    "id": 680,
+    "file": "101-wukongbianshen_story_texiao",
+    "ratio": 0.57
+  },
+  {
+    "id": 681,
+    "file": "1029101-huangmeidawang",
+    "ratio": 0.97
+  },
+  {
+    "id": 682,
+    "file": "1029101-huangmeidawang_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 683,
+    "file": "1029301-jinrao_texiao",
+    "ratio": 0.99
+  },
+  {
+    "id": 684,
+    "file": "2061901-3zhouniandapao_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 685,
+    "file": "2155101-honghu_texiao",
+    "ratio": 0.69
+  },
+  {
+    "id": 686,
+    "file": "8000401-xiongbo_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 687,
+    "file": "8000401-xiongbo",
+    "ratio": 0.96
+  },
+  {
+    "id": 688,
+    "file": "8000501-lingtaitongzi",
+    "ratio": 0.84
+  },
+  {
+    "id": 689,
+    "file": "8000501-lingtaitongzi_texiao",
+    "ratio": 0.78
+  },
+  {
+    "id": 690,
+    "file": "2155301-daobingzhen_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 691,
+    "file": "2155601-motianbing_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 692,
+    "file": "2155501-dunbing_texiao",
+    "ratio": 0.99
+  },
+  {
+    "id": 693,
+    "file": "2062001-lieyantianma_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 694,
+    "file": "2062001-lieyantianma",
+    "ratio": 1
+  },
+  {
+    "id": 695,
+    "file": "2062002-chiyanshenju",
+    "ratio": 1
+  },
+  {
+    "id": 696,
+    "file": "2133001-jiaochong_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 697,
+    "file": "2160701-baitianjun_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 698,
+    "file": "991501-shuimiantexiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 699,
+    "file": "991501_light",
+    "ratio": 0.94
+  },
+  {
+    "id": 700,
+    "file": "2133201-feiaochongwangquanti_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 701,
+    "file": "160101-juma",
+    "ratio": 0.8
+  },
+  {
+    "id": 702,
+    "file": "buff_1110_text",
+    "ratio": 1
+  },
+  {
+    "id": 703,
+    "file": "2133301-tianjiaochong_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 704,
+    "file": "161101-yinjiangjun_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 705,
+    "file": "999157101-longtou",
+    "ratio": 0.92
+  },
+  {
+    "id": 706,
+    "file": "999157101-xiaofutai",
+    "ratio": 0.82
+  },
+  {
+    "id": 707,
+    "file": "999157101-xiaofutai",
+    "ratio": 0.9
+  },
+  {
+    "id": 708,
+    "file": "futai",
+    "ratio": 0.88
+  },
+  {
+    "id": 709,
+    "file": "160101-caodi",
+    "ratio": 0.99
+  },
+  {
+    "id": 710,
+    "file": "160201-gongchengbing_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 711,
+    "file": "2056701-longtou",
+    "ratio": 0.79
+  },
+  {
+    "id": 712,
+    "file": "160101-fire",
+    "ratio": 0.68
+  },
+  {
+    "id": 713,
+    "file": "liandanlu_xunishan",
+    "ratio": 0.93
+  },
+  {
+    "id": 714,
+    "file": "161101-yinjiangjun_texiao_jq",
+    "ratio": 0.92
+  },
+  {
+    "id": 715,
+    "file": "2041302-guangsuhou_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 716,
+    "file": "8000601-lingzhuangtongzi_texiao",
+    "ratio": 0.85
+  },
+  {
+    "id": 717,
+    "file": "2149101-tongnan_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 718,
+    "file": "161201-shaoqing_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 719,
+    "file": "161301-techushi_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 720,
+    "file": "161601-xiongshanjun_texiao",
+    "ratio": 0.96
+  },
+  {
+    "id": 721,
+    "file": "2032201-jiutiangujian",
+    "ratio": 0.87
+  },
+  {
+    "id": 722,
+    "file": "2130101-bullet_cfg_shankui-2",
+    "ratio": 0.64
+  },
+  {
+    "id": 723,
+    "file": "danlu_1",
+    "ratio": 0.84
+  },
+  {
+    "id": 724,
+    "file": "160101-qiaojq",
+    "ratio": 0.85
+  },
+  {
+    "id": 725,
+    "file": "161502-ranxuesuohunzhen_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 726,
+    "file": "2032201-jiutiangujian",
+    "ratio": 0.98
+  },
+  {
+    "id": 727,
+    "file": "110981-duniao_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 728,
+    "file": "2180201-leishenhuanzhuang_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 729,
+    "file": "2180201-leishenhuanzhuang_texiao_fujia",
+    "ratio": 0.72
+  },
+  {
+    "id": 730,
+    "file": "160401-tongzhong",
+    "ratio": 0.93
+  },
+  {
+    "id": 731,
+    "file": "2130401-houyi_texiao",
+    "ratio": 0.81
+  },
+  {
+    "id": 732,
+    "file": "2130401-bullet_cfg_houyi-1",
+    "ratio": 0.81
+  },
+  {
+    "id": 733,
+    "file": "8000701-lanzhu_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 734,
+    "file": "8000801-lingjuetongzi_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 735,
+    "file": "161704-jinwuzhifu",
+    "ratio": 0.79
+  },
+  {
+    "id": 736,
+    "file": "161701-jinzhizuwu_texiao",
+    "ratio": 0.77
+  },
+  {
+    "id": 737,
+    "file": "yuannianwang",
+    "ratio": 1.11
+  },
+  {
+    "id": 738,
+    "file": "9400301-jijingxie_ske",
+    "ratio": 0.87
+  },
+  {
+    "id": 739,
+    "file": "9400301-jijingxie_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 740,
+    "file": "8001101-lingqiantongzi_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 741,
+    "file": "2156101-tengjingta_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 742,
+    "file": "171101-minlaohufa_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 743,
+    "file": "2062101-hundun_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 744,
+    "file": "2032001-qixiandao_texiao",
+    "ratio": 0.99
+  },
+  {
+    "id": 745,
+    "file": "174-shuiling_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 746,
+    "file": "177-shiling_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 747,
+    "file": "108-xianshanguling_texiao",
+    "ratio": 0.59
+  },
+  {
+    "id": 748,
+    "file": "108-xianshanguling_texiao_2",
+    "ratio": 0.6
+  },
+  {
+    "id": 749,
+    "file": "51201-songdiwang",
+    "ratio": 0.84
+  },
+  {
+    "id": 750,
+    "file": "9102401-fengyinguai",
+    "ratio": 0.95
+  },
+  {
+    "id": 751,
+    "file": "107-yulingxianzi_texiao",
+    "ratio": 0.39
+  },
+  {
+    "id": 752,
+    "file": "999130408_milin_tengwan",
+    "ratio": 0.89
+  },
+  {
+    "id": 753,
+    "file": "107-yulingxianzi_texiao_2",
+    "ratio": 0.92
+  },
+  {
+    "id": 754,
+    "file": "999130408_milin_caocong",
+    "ratio": 0.97
+  },
+  {
+    "id": 755,
+    "file": "999130408_milin_kuzhi",
+    "ratio": 0.91
+  },
+  {
+    "id": 756,
+    "file": "2062401-motuo_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 757,
+    "file": "171401-hongzengjiangjun_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 758,
+    "file": "171402-lanzengjiangjun_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 759,
+    "file": "171403-lvsunjiangjun_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 760,
+    "file": "2032301-moyuanfozhu_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 761,
+    "file": "2062501-zhanyaofeijian_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 762,
+    "file": "2032401-xuanhuahonghulu_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 762,
+    "file": "8001301-linggoutongzi_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 763,
+    "file": "999130408_jiangguoshu",
+    "ratio": 0.82
+  },
+  {
+    "id": 764,
+    "file": "171501-daoming_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 765,
+    "file": "buff_1158_heiqi",
+    "ratio": 0.99
+  },
+  {
+    "id": 766,
+    "file": "2062601-yongdongnianshou_max_texiao",
+    "ratio": 0.72
+  },
+  {
+    "id": 767,
+    "file": "2062701-taotie_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 768,
+    "file": "171701-muzhizuwu_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 769,
+    "file": "171601-mengshan_texiao",
+    "ratio": 0.8
+  },
+  {
+    "id": 770,
+    "file": "1029601-saitaisui_texiao",
+    "ratio": 0.72
+  },
+  {
+    "id": 771,
+    "file": "2121001-huohoudanyuan_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 772,
+    "file": "2156401-gouhunfatan",
+    "ratio": 0.93
+  },
+  {
+    "id": 773,
+    "file": "2156402-gouhunfatan",
+    "ratio": 0.93
+  },
+  {
+    "id": 774,
+    "file": "2156403-gouhunfatan",
+    "ratio": 0.93
+  },
+  {
+    "id": 775,
+    "file": "2156404-gouhunfatan",
+    "ratio": 0.93
+  },
+  {
+    "id": 776,
+    "file": "2156405-gouhunfatan",
+    "ratio": 0.93
+  },
+  {
+    "id": 777,
+    "file": "2156406-gouhunfatan",
+    "ratio": 0.93
+  },
+  {
+    "id": 778,
+    "file": "buff_1159_shuangjian",
+    "ratio": 0.89
+  },
+  {
+    "id": 779,
+    "file": "91101-dailii_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 780,
+    "file": "2170801-luohunzhen_texiao",
+    "ratio": 0.93
+  },
+  {
+    "id": 781,
+    "file": "2160801-yaotianjun_texiao2",
+    "ratio": 0.83
+  },
+  {
+    "id": 782,
+    "file": "8001401-zuming_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 783,
+    "file": "8200101-tudoufuwuqi_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 784,
+    "file": "8001501-lingduntongzi_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 785,
+    "file": "buff_1160_xiehunqiyue",
+    "ratio": 0.92
+  },
+  {
+    "id": 786,
+    "file": "180000-shuiwuzhili",
+    "ratio": 0.93
+  },
+  {
+    "id": 787,
+    "file": "181201-linggandawang_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 788,
+    "file": "181401-shetou_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 789,
+    "file": "buff_1037_ouhuang",
+    "ratio": 0.9
+  },
+  {
+    "id": 790,
+    "file": "2113401-zhongshangfu_texiao",
+    "ratio": 0.92
+  },
+  {
+    "id": 791,
+    "file": "181501-jinchizhanglao_texiao",
+    "ratio": 0.87
+  },
+  {
+    "id": 792,
+    "file": "2040401-jibinghu_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 793,
+    "file": "181701-xuanxing_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 794,
+    "file": "180101-ice",
+    "ratio": 0.75
+  },
+  {
+    "id": 795,
+    "file": "2100701-jiaodiguanghuanu_texiao",
+    "ratio": 0.95
+  },
+  {
+    "id": 796,
+    "file": "2100801-huohuan_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 797,
+    "file": "2100901-shugenchanrao_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 798,
+    "file": "2101101-luolei_texiao",
+    "ratio": 0.86
+  },
+  {
+    "id": 799,
+    "file": "2101401-heidong_texiao",
+    "ratio": 0.83
+  },
+  {
+    "id": 800,
+    "file": "181801-heifengguai_texiao",
+    "ratio": 0.98
+  },
+  {
+    "id": 801,
+    "file": "2062801-jinmaohou_texiao",
+    "ratio": 0.76
+  },
+  {
+    "id": 802,
+    "file": "2062801-jinmaohou_texiao2",
+    "ratio": 0.88
+  },
+  {
+    "id": 803,
+    "file": "buff_1166_lianourenshengjie",
+    "ratio": 0.81
+  },
+  {
+    "id": 804,
+    "file": "180501-floor",
+    "ratio": 0.81
+  },
+  {
+    "id": 805,
+    "file": "181901-shuizhizuwu_texiao",
+    "ratio": 0.7
+  },
+  {
+    "id": 806,
+    "file": "181903-shirenyu_texiao",
+    "ratio": 0.84
+  },
+  {
+    "id": 807,
+    "file": "2131801-bullet_cfg_changqin-2",
+    "ratio": 0.79
+  },
+  {
+    "id": 808,
+    "file": "180501-floor2",
+    "ratio": 0.95
+  },
+  {
+    "id": 809,
+    "file": "2031901-shizihudun_texiao",
+    "ratio": 0.91
+  },
+  {
+    "id": 810,
+    "file": "999121316-yujing_1",
+    "ratio": 0.94
+  },
+  {
+    "id": 811,
+    "file": "1029701-pansidaxian_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 812,
+    "file": "181901-shuizhizuwu_texia2",
+    "ratio": 0.89
+  },
+  {
+    "id": 813,
+    "file": "101-wukongbianshen_texiao",
+    "ratio": 0.57
+  },
+  {
+    "id": 814,
+    "file": "101-wukongbianshen",
+    "ratio": 0.9294
+  },
+  {
+    "id": 815,
+    "file": "2113501-bajiaoshan_texiao",
+    "ratio": 0.82
+  },
+  {
+    "id": 816,
+    "file": "2131601-bullet_cfg_jiyu-2",
+    "ratio": 0.72
+  },
+  {
+    "id": 817,
+    "file": "2076101-simen",
+    "ratio": 0.99
+  },
+  {
+    "id": 818,
+    "file": "buff_1168_jiangukuangmai",
+    "ratio": 0.83
+  },
+  {
+    "id": 819,
+    "file": "191101-chiyanjingang_texiao",
+    "ratio": 0.69
+  },
+  {
+    "id": 820,
+    "file": "2062902-tianlu_texiao-1",
+    "ratio": 0.64
+  },
+  {
+    "id": 821,
+    "file": "2062902-tianlu_max",
+    "ratio": 1
+  },
+  {
+    "id": 822,
+    "file": "2062904-pixie_max",
+    "ratio": 1
+  },
+  {
+    "id": 823,
+    "file": "2062902-tianlu_max-1",
+    "ratio": 0.96
+  },
+  {
+    "id": 824,
+    "file": "duguwang",
+    "ratio": 1.15
+  },
+  {
+    "id": 825,
+    "file": "2140601-wangwang_texiao",
+    "ratio": 0.9
+  },
+  {
+    "id": 826,
+    "file": "190701-suolianhuoshi",
+    "ratio": 0.94
+  },
+  {
+    "id": 827,
+    "file": "190701-suolianhuoshi_texiao",
+    "ratio": 0.94
+  },
+  {
+    "id": 828,
+    "file": "180101-shuicao2",
+    "ratio": 0.72
+  },
+  {
+    "id": 829,
+    "file": "buff_1132_shanguiyinji",
+    "ratio": 0.96
+  },
+  {
+    "id": 830,
+    "file": "2130401- bullet_ cfg houyi-2",
+    "ratio": 0.81
+  },
+  {
+    "id": 831,
+    "file": "101602-luoxuan-p2_texiao",
+    "ratio": 0.97
+  },
+  {
+    "id": 832,
+    "file": "2041291-mohuazhuque_texiao",
+    "ratio": 0.79
+  },
+  {
+    "id": 833,
+    "file": "999158101_bloodErupt",
+    "ratio": 0.79
+  },
+  {
+    "id": 834,
+    "file": "10003-tongyongshouji",
+    "ratio": 0.79
+  },
+  {
+    "id": 835,
+    "file": "2060601-bishuijinjingshou_UI",
+    "ratio": 0.87
+  },
+  {
+    "id": 836,
+    "file": "2060701-bihuomojingshou_UI",
+    "ratio": 0.87
+  },
+  {
+    "id": 837,
+    "file": "2110301-liehuozhou_texiao",
+    "ratio": 1
+  },
+  {
+    "id": 838,
+    "file": "2110501-leidianzhou_texiao",
+    "ratio": 0.89
+  },
+  {
+    "id": 839,
+    "file": "2040902-xuanwu_texiao-1",
+    "ratio": 0.89
+  },
+  {
+    "id": 840,
+    "file": "2040902-xuanwu_texiao",
+    "ratio": 0.94
+  }
+]

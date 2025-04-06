@@ -1,0 +1,2669 @@
+[
+  {
+    "id": 20101,
+    "activityId": 201,
+    "condition": [
+      1,
+      10
+    ],
+    "string": "10级",
+    "reward": [
+      [
+        1132,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 20102,
+    "activityId": 201,
+    "condition": [
+      1,
+      20
+    ],
+    "string": "20级",
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1002,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20103,
+    "activityId": 201,
+    "condition": [
+      1,
+      30
+    ],
+    "string": "30级",
+    "reward": [
+      [
+        8980404,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        200
+      ]
+    ]
+  },
+  {
+    "id": 20104,
+    "activityId": 201,
+    "condition": [
+      1,
+      35
+    ],
+    "string": "35级",
+    "reward": [
+      [
+        430031,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410002,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20105,
+    "activityId": 201,
+    "condition": [
+      1,
+      40
+    ],
+    "string": "40级",
+    "reward": [
+      [
+        1132,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 20106,
+    "activityId": 201,
+    "condition": [
+      1,
+      42
+    ],
+    "string": "42级",
+    "reward": [
+      [
+        8980504,
+        17
+      ]
+    ],
+    "rechargeReward": [
+      [
+        10300,
+        16
+      ]
+    ]
+  },
+  {
+    "id": 20107,
+    "activityId": 201,
+    "condition": [
+      1,
+      44
+    ],
+    "string": "44级",
+    "reward": [
+      [
+        1132,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        400
+      ]
+    ]
+  },
+  {
+    "id": 20108,
+    "activityId": 201,
+    "condition": [
+      1,
+      46
+    ],
+    "string": "46级",
+    "reward": [
+      [
+        430031,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410003,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20109,
+    "activityId": 201,
+    "condition": [
+      1,
+      48
+    ],
+    "string": "48级",
+    "reward": [
+      [
+        17,
+        400
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 20110,
+    "activityId": 201,
+    "condition": [
+      1,
+      50
+    ],
+    "string": "50级",
+    "reward": [
+      [
+        1132,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        11402,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20111,
+    "activityId": 201,
+    "condition": [
+      1,
+      52
+    ],
+    "string": "52级",
+    "reward": [
+      [
+        8980604,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 20112,
+    "activityId": 201,
+    "condition": [
+      1,
+      54
+    ],
+    "string": "54级",
+    "reward": [
+      [
+        11101,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000004,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20113,
+    "activityId": 201,
+    "condition": [
+      1,
+      56
+    ],
+    "string": "56级",
+    "reward": [
+      [
+        19,
+        400
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 20114,
+    "activityId": 201,
+    "condition": [
+      1,
+      58
+    ],
+    "string": "58级",
+    "reward": [
+      [
+        11401,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410003,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20115,
+    "activityId": 201,
+    "condition": [
+      1,
+      60
+    ],
+    "string": "60级",
+    "reward": [
+      [
+        2,
+        300
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        800
+      ]
+    ]
+  },
+  {
+    "id": 20201,
+    "activityId": 202,
+    "condition": [
+      1,
+      61
+    ],
+    "string": "61级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410003,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20202,
+    "activityId": 202,
+    "condition": [
+      1,
+      62
+    ],
+    "string": "62级",
+    "reward": [
+      [
+        1106,
+        6
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 20203,
+    "activityId": 202,
+    "condition": [
+      1,
+      64
+    ],
+    "string": "64级",
+    "reward": [
+      [
+        8980704,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        15
+      ]
+    ]
+  },
+  {
+    "id": 20204,
+    "activityId": 202,
+    "condition": [
+      1,
+      66
+    ],
+    "string": "66级",
+    "reward": [
+      [
+        1106,
+        6
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 20205,
+    "activityId": 202,
+    "condition": [
+      1,
+      68
+    ],
+    "string": "68级",
+    "reward": [
+      [
+        11101,
+        5
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000004,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20206,
+    "activityId": 202,
+    "condition": [
+      1,
+      70
+    ],
+    "string": "70级",
+    "reward": [
+      [
+        11401,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 20207,
+    "activityId": 202,
+    "condition": [
+      1,
+      72
+    ],
+    "string": "72级",
+    "reward": [
+      [
+        1106,
+        8
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20208,
+    "activityId": 202,
+    "condition": [
+      1,
+      74
+    ],
+    "string": "74级",
+    "reward": [
+      [
+        8980804,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 20209,
+    "activityId": 202,
+    "condition": [
+      1,
+      76
+    ],
+    "string": "76级",
+    "reward": [
+      [
+        1106,
+        8
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        20
+      ]
+    ]
+  },
+  {
+    "id": 20210,
+    "activityId": 202,
+    "condition": [
+      1,
+      78
+    ],
+    "string": "78级",
+    "reward": [
+      [
+        11310,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        900
+      ]
+    ]
+  },
+  {
+    "id": 20211,
+    "activityId": 202,
+    "condition": [
+      1,
+      80
+    ],
+    "string": "80级",
+    "reward": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410003,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20212,
+    "activityId": 202,
+    "condition": [
+      1,
+      82
+    ],
+    "string": "82级",
+    "reward": [
+      [
+        1106,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1100
+      ]
+    ]
+  },
+  {
+    "id": 20213,
+    "activityId": 202,
+    "condition": [
+      1,
+      84
+    ],
+    "string": "84级",
+    "reward": [
+      [
+        8980904,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20214,
+    "activityId": 202,
+    "condition": [
+      1,
+      86
+    ],
+    "string": "86级",
+    "reward": [
+      [
+        1106,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 20215,
+    "activityId": 202,
+    "condition": [
+      1,
+      88
+    ],
+    "string": "88级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000004,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20216,
+    "activityId": 202,
+    "condition": [
+      1,
+      90
+    ],
+    "string": "90级",
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1500
+      ]
+    ]
+  },
+  {
+    "id": 20301,
+    "activityId": 203,
+    "condition": [
+      1,
+      91
+    ],
+    "string": "91级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410004,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20302,
+    "activityId": 203,
+    "condition": [
+      1,
+      92
+    ],
+    "string": "92级",
+    "reward": [
+      [
+        1109,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 20303,
+    "activityId": 203,
+    "condition": [
+      1,
+      93
+    ],
+    "string": "93级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        15
+      ]
+    ]
+  },
+  {
+    "id": 20304,
+    "activityId": 203,
+    "condition": [
+      1,
+      95
+    ],
+    "string": "95级",
+    "reward": [
+      [
+        8981004,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 20305,
+    "activityId": 203,
+    "condition": [
+      1,
+      96
+    ],
+    "string": "96级",
+    "reward": [
+      [
+        1109,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20306,
+    "activityId": 203,
+    "condition": [
+      1,
+      97
+    ],
+    "string": "97级",
+    "reward": [
+      [
+        11310,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 20307,
+    "activityId": 203,
+    "condition": [
+      1,
+      98
+    ],
+    "string": "98级",
+    "reward": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20308,
+    "activityId": 203,
+    "condition": [
+      1,
+      100
+    ],
+    "string": "100级",
+    "reward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 20309,
+    "activityId": 203,
+    "condition": [
+      1,
+      101
+    ],
+    "string": "101级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        20
+      ]
+    ]
+  },
+  {
+    "id": 20310,
+    "activityId": 203,
+    "condition": [
+      1,
+      102
+    ],
+    "string": "102级",
+    "reward": [
+      [
+        1109,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        900
+      ]
+    ]
+  },
+  {
+    "id": 20311,
+    "activityId": 203,
+    "condition": [
+      1,
+      103
+    ],
+    "string": "103级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410004,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20312,
+    "activityId": 203,
+    "condition": [
+      1,
+      105
+    ],
+    "string": "105级",
+    "reward": [
+      [
+        8982004,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1100
+      ]
+    ]
+  },
+  {
+    "id": 20313,
+    "activityId": 203,
+    "condition": [
+      1,
+      106
+    ],
+    "string": "106级",
+    "reward": [
+      [
+        1109,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        11300,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 20314,
+    "activityId": 203,
+    "condition": [
+      1,
+      107
+    ],
+    "string": "107级",
+    "reward": [
+      [
+        11310,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 20315,
+    "activityId": 203,
+    "condition": [
+      1,
+      108
+    ],
+    "string": "108级",
+    "reward": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20316,
+    "activityId": 203,
+    "condition": [
+      1,
+      110
+    ],
+    "string": "110级",
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1500
+      ]
+    ]
+  },
+  {
+    "id": 20401,
+    "activityId": 204,
+    "condition": [
+      1,
+      111
+    ],
+    "string": "111级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410004,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20402,
+    "activityId": 204,
+    "condition": [
+      1,
+      112
+    ],
+    "string": "112级",
+    "reward": [
+      [
+        1109,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 20403,
+    "activityId": 204,
+    "condition": [
+      1,
+      113
+    ],
+    "string": "113级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        20
+      ]
+    ]
+  },
+  {
+    "id": 20404,
+    "activityId": 204,
+    "condition": [
+      1,
+      115
+    ],
+    "string": "115级",
+    "reward": [
+      [
+        8981204,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 20405,
+    "activityId": 204,
+    "condition": [
+      1,
+      116
+    ],
+    "string": "116级",
+    "reward": [
+      [
+        1109,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20406,
+    "activityId": 204,
+    "condition": [
+      1,
+      117
+    ],
+    "string": "117级",
+    "reward": [
+      [
+        11310,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 20407,
+    "activityId": 204,
+    "condition": [
+      1,
+      118
+    ],
+    "string": "118级",
+    "reward": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20408,
+    "activityId": 204,
+    "condition": [
+      1,
+      120
+    ],
+    "string": "120级",
+    "reward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 20409,
+    "activityId": 204,
+    "condition": [
+      1,
+      121
+    ],
+    "string": "121级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        30
+      ]
+    ]
+  },
+  {
+    "id": 20410,
+    "activityId": 204,
+    "condition": [
+      1,
+      122
+    ],
+    "string": "122级",
+    "reward": [
+      [
+        1112,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        900
+      ]
+    ]
+  },
+  {
+    "id": 20411,
+    "activityId": 204,
+    "condition": [
+      1,
+      123
+    ],
+    "string": "123级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410004,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20412,
+    "activityId": 204,
+    "condition": [
+      1,
+      125
+    ],
+    "string": "125级",
+    "reward": [
+      [
+        8981304,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1100
+      ]
+    ]
+  },
+  {
+    "id": 20413,
+    "activityId": 204,
+    "condition": [
+      1,
+      126
+    ],
+    "string": "126级",
+    "reward": [
+      [
+        1112,
+        9
+      ]
+    ],
+    "rechargeReward": [
+      [
+        10300,
+        30
+      ]
+    ]
+  },
+  {
+    "id": 20414,
+    "activityId": 204,
+    "condition": [
+      1,
+      127
+    ],
+    "string": "127级",
+    "reward": [
+      [
+        11310,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 20415,
+    "activityId": 204,
+    "condition": [
+      1,
+      128
+    ],
+    "string": "128级",
+    "reward": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20416,
+    "activityId": 204,
+    "condition": [
+      1,
+      130
+    ],
+    "string": "130级",
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1500
+      ]
+    ]
+  },
+  {
+    "id": 20501,
+    "activityId": 205,
+    "condition": [
+      1,
+      131
+    ],
+    "string": "131级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410005,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20502,
+    "activityId": 205,
+    "condition": [
+      1,
+      132
+    ],
+    "string": "132级",
+    "reward": [
+      [
+        1112,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 20503,
+    "activityId": 205,
+    "condition": [
+      1,
+      133
+    ],
+    "string": "133级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        25
+      ]
+    ]
+  },
+  {
+    "id": 20504,
+    "activityId": 205,
+    "condition": [
+      1,
+      135
+    ],
+    "string": "135级",
+    "reward": [
+      [
+        8981404,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 20505,
+    "activityId": 205,
+    "condition": [
+      1,
+      136
+    ],
+    "string": "136级",
+    "reward": [
+      [
+        1112,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20506,
+    "activityId": 205,
+    "condition": [
+      1,
+      137
+    ],
+    "string": "137级",
+    "reward": [
+      [
+        11300,
+        30
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 20507,
+    "activityId": 205,
+    "condition": [
+      1,
+      138
+    ],
+    "string": "138级",
+    "reward": [
+      [
+        10300,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20508,
+    "activityId": 205,
+    "condition": [
+      1,
+      140
+    ],
+    "string": "140级",
+    "reward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 20509,
+    "activityId": 205,
+    "condition": [
+      1,
+      141
+    ],
+    "string": "141级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        40
+      ]
+    ]
+  },
+  {
+    "id": 20510,
+    "activityId": 205,
+    "condition": [
+      1,
+      142
+    ],
+    "string": "142级",
+    "reward": [
+      [
+        1112,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        900
+      ]
+    ]
+  },
+  {
+    "id": 20511,
+    "activityId": 205,
+    "condition": [
+      1,
+      143
+    ],
+    "string": "143级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410005,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20512,
+    "activityId": 205,
+    "condition": [
+      1,
+      145
+    ],
+    "string": "145级",
+    "reward": [
+      [
+        8981504,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1100
+      ]
+    ]
+  },
+  {
+    "id": 20513,
+    "activityId": 205,
+    "condition": [
+      1,
+      146
+    ],
+    "string": "146级",
+    "reward": [
+      [
+        1112,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        11402,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20514,
+    "activityId": 205,
+    "condition": [
+      1,
+      147
+    ],
+    "string": "147级",
+    "reward": [
+      [
+        11300,
+        30
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 20515,
+    "activityId": 205,
+    "condition": [
+      1,
+      148
+    ],
+    "string": "148级",
+    "reward": [
+      [
+        10300,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20516,
+    "activityId": 205,
+    "condition": [
+      1,
+      150
+    ],
+    "string": "150级",
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1500
+      ]
+    ]
+  },
+  {
+    "id": 20601,
+    "activityId": 206,
+    "condition": [
+      1,
+      151
+    ],
+    "string": "151级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410005,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20602,
+    "activityId": 206,
+    "condition": [
+      1,
+      152
+    ],
+    "string": "152级",
+    "reward": [
+      [
+        1116,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 20603,
+    "activityId": 206,
+    "condition": [
+      1,
+      153
+    ],
+    "string": "153级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        25
+      ]
+    ]
+  },
+  {
+    "id": 20604,
+    "activityId": 206,
+    "condition": [
+      1,
+      155
+    ],
+    "string": "155级",
+    "reward": [
+      [
+        8981604,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 20605,
+    "activityId": 206,
+    "condition": [
+      1,
+      156
+    ],
+    "string": "156级",
+    "reward": [
+      [
+        1116,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20606,
+    "activityId": 206,
+    "condition": [
+      1,
+      157
+    ],
+    "string": "157级",
+    "reward": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 20607,
+    "activityId": 206,
+    "condition": [
+      1,
+      158
+    ],
+    "string": "158级",
+    "reward": [
+      [
+        10300,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20608,
+    "activityId": 206,
+    "condition": [
+      1,
+      160
+    ],
+    "string": "160级",
+    "reward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 20609,
+    "activityId": 206,
+    "condition": [
+      1,
+      161
+    ],
+    "string": "161级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        45
+      ]
+    ]
+  },
+  {
+    "id": 20610,
+    "activityId": 206,
+    "condition": [
+      1,
+      162
+    ],
+    "string": "162级",
+    "reward": [
+      [
+        1116,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        900
+      ]
+    ]
+  },
+  {
+    "id": 20611,
+    "activityId": 206,
+    "condition": [
+      1,
+      163
+    ],
+    "string": "163级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410005,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20612,
+    "activityId": 206,
+    "condition": [
+      1,
+      165
+    ],
+    "string": "165级",
+    "reward": [
+      [
+        8981704,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1100
+      ]
+    ]
+  },
+  {
+    "id": 20613,
+    "activityId": 206,
+    "condition": [
+      1,
+      166
+    ],
+    "string": "166级",
+    "reward": [
+      [
+        1116,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        5
+      ]
+    ]
+  },
+  {
+    "id": 20614,
+    "activityId": 206,
+    "condition": [
+      1,
+      167
+    ],
+    "string": "167级",
+    "reward": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 20615,
+    "activityId": 206,
+    "condition": [
+      1,
+      168
+    ],
+    "string": "168级",
+    "reward": [
+      [
+        10300,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20616,
+    "activityId": 206,
+    "condition": [
+      1,
+      170
+    ],
+    "string": "170级",
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1500
+      ]
+    ]
+  },
+  {
+    "id": 20701,
+    "activityId": 207,
+    "condition": [
+      1,
+      171
+    ],
+    "string": "171级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410005,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 20702,
+    "activityId": 207,
+    "condition": [
+      1,
+      172
+    ],
+    "string": "172级",
+    "reward": [
+      [
+        1117,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 20703,
+    "activityId": 207,
+    "condition": [
+      1,
+      173
+    ],
+    "string": "173级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        35
+      ]
+    ]
+  },
+  {
+    "id": 20704,
+    "activityId": 207,
+    "condition": [
+      1,
+      175
+    ],
+    "string": "175级",
+    "reward": [
+      [
+        8981804,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 20705,
+    "activityId": 207,
+    "condition": [
+      1,
+      176
+    ],
+    "string": "176级",
+    "reward": [
+      [
+        1117,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20706,
+    "activityId": 207,
+    "condition": [
+      1,
+      177
+    ],
+    "string": "177级",
+    "reward": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 20707,
+    "activityId": 207,
+    "condition": [
+      1,
+      178
+    ],
+    "string": "178级",
+    "reward": [
+      [
+        10300,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20708,
+    "activityId": 207,
+    "condition": [
+      1,
+      180
+    ],
+    "string": "180级",
+    "reward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 20709,
+    "activityId": 207,
+    "condition": [
+      1,
+      181
+    ],
+    "string": "181级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 20710,
+    "activityId": 207,
+    "condition": [
+      1,
+      182
+    ],
+    "string": "182级",
+    "reward": [
+      [
+        1118,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        900
+      ]
+    ]
+  },
+  {
+    "id": 20711,
+    "activityId": 207,
+    "condition": [
+      1,
+      183
+    ],
+    "string": "183级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410005,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20712,
+    "activityId": 207,
+    "condition": [
+      1,
+      185
+    ],
+    "string": "185级",
+    "reward": [
+      [
+        8981904,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1100
+      ]
+    ]
+  },
+  {
+    "id": 20713,
+    "activityId": 207,
+    "condition": [
+      1,
+      186
+    ],
+    "string": "186级",
+    "reward": [
+      [
+        1118,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        5
+      ]
+    ]
+  },
+  {
+    "id": 20714,
+    "activityId": 207,
+    "condition": [
+      1,
+      187
+    ],
+    "string": "187级",
+    "reward": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 20715,
+    "activityId": 207,
+    "condition": [
+      1,
+      188
+    ],
+    "string": "188级",
+    "reward": [
+      [
+        10300,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20716,
+    "activityId": 207,
+    "condition": [
+      1,
+      190
+    ],
+    "string": "190级",
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1500
+      ]
+    ]
+  },
+  {
+    "id": 20801,
+    "activityId": 208,
+    "condition": [
+      1,
+      191
+    ],
+    "string": "191级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410005,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20802,
+    "activityId": 208,
+    "condition": [
+      1,
+      192
+    ],
+    "string": "192级",
+    "reward": [
+      [
+        1119,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 20803,
+    "activityId": 208,
+    "condition": [
+      1,
+      193
+    ],
+    "string": "193级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        40
+      ]
+    ]
+  },
+  {
+    "id": 20804,
+    "activityId": 208,
+    "condition": [
+      1,
+      195
+    ],
+    "string": "195级",
+    "reward": [
+      [
+        8981104,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 20805,
+    "activityId": 208,
+    "condition": [
+      1,
+      196
+    ],
+    "string": "196级",
+    "reward": [
+      [
+        1119,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20806,
+    "activityId": 208,
+    "condition": [
+      1,
+      197
+    ],
+    "string": "197级",
+    "reward": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 20807,
+    "activityId": 208,
+    "condition": [
+      1,
+      198
+    ],
+    "string": "198级",
+    "reward": [
+      [
+        10300,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20808,
+    "activityId": 208,
+    "condition": [
+      1,
+      200
+    ],
+    "string": "200级",
+    "reward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 20809,
+    "activityId": 208,
+    "condition": [
+      1,
+      201
+    ],
+    "string": "201级",
+    "reward": [
+      [
+        1002,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        480052,
+        70
+      ]
+    ]
+  },
+  {
+    "id": 20810,
+    "activityId": 208,
+    "condition": [
+      1,
+      202
+    ],
+    "string": "202级",
+    "reward": [
+      [
+        1120,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        900
+      ]
+    ]
+  },
+  {
+    "id": 20811,
+    "activityId": 208,
+    "condition": [
+      1,
+      203
+    ],
+    "string": "203级",
+    "reward": [
+      [
+        430032,
+        2
+      ]
+    ],
+    "rechargeReward": [
+      [
+        410006,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 20812,
+    "activityId": 208,
+    "condition": [
+      1,
+      205
+    ],
+    "string": "205级",
+    "reward": [
+      [
+        8982104,
+        22
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1100
+      ]
+    ]
+  },
+  {
+    "id": 20813,
+    "activityId": 208,
+    "condition": [
+      1,
+      206
+    ],
+    "string": "206级",
+    "reward": [
+      [
+        1120,
+        12
+      ]
+    ],
+    "rechargeReward": [
+      [
+        1030,
+        5
+      ]
+    ]
+  },
+  {
+    "id": 20814,
+    "activityId": 208,
+    "condition": [
+      1,
+      207
+    ],
+    "string": "207级",
+    "reward": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 20815,
+    "activityId": 208,
+    "condition": [
+      1,
+      208
+    ],
+    "string": "208级",
+    "reward": [
+      [
+        10300,
+        10
+      ]
+    ],
+    "rechargeReward": [
+      [
+        9000006,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 20816,
+    "activityId": 208,
+    "condition": [
+      1,
+      210
+    ],
+    "string": "210级",
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "rechargeReward": [
+      [
+        2,
+        1500
+      ]
+    ]
+  }
+]

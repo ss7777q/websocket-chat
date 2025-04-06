@@ -1,0 +1,504 @@
+[
+  {
+    "id": 1001,
+    "type": "plunder",
+    "name": "神将·五",
+    "resource": "huntRank_1",
+    "integral": 0,
+    "rank": 1,
+    "rankReward": [],
+    "mateCorrect": 1,
+    "nextRank": 1
+  },
+  {
+    "id": 1002,
+    "type": "plunder",
+    "name": "神将·四",
+    "resource": "huntRank_2",
+    "integral": 600,
+    "rank": 2,
+    "rankReward": [
+      [
+        430102,
+        5
+      ]
+    ],
+    "mateCorrect": 2,
+    "nextRank": 1
+  },
+  {
+    "id": 1003,
+    "type": "plunder",
+    "name": "神将·三",
+    "resource": "huntRank_3",
+    "integral": 1200,
+    "rank": 3,
+    "rankReward": [
+      [
+        430102,
+        5
+      ]
+    ],
+    "mateCorrect": 3,
+    "nextRank": 1
+  },
+  {
+    "id": 1004,
+    "type": "plunder",
+    "name": "神将·二",
+    "resource": "huntRank_4",
+    "integral": 1800,
+    "rank": 4,
+    "rankReward": [
+      [
+        430102,
+        5
+      ]
+    ],
+    "mateCorrect": 4,
+    "nextRank": 1
+  },
+  {
+    "id": 1005,
+    "type": "plunder",
+    "name": "神将·一",
+    "resource": "huntRank_5",
+    "integral": 2400,
+    "rank": 5,
+    "rankReward": [
+      [
+        430102,
+        5
+      ]
+    ],
+    "mateCorrect": 5,
+    "nextRank": 1
+  },
+  {
+    "id": 1006,
+    "type": "plunder",
+    "name": "卓越神将·五",
+    "resource": "huntRank_6",
+    "integral": 3000,
+    "rank": 6,
+    "rankReward": [
+      [
+        3000201,
+        1
+      ]
+    ],
+    "mateCorrect": 6,
+    "nextRank": 1
+  },
+  {
+    "id": 1007,
+    "type": "plunder",
+    "name": "卓越神将·四",
+    "resource": "huntRank_7",
+    "integral": 4200,
+    "rank": 7,
+    "rankReward": [
+      [
+        430102,
+        10
+      ]
+    ],
+    "mateCorrect": 7,
+    "nextRank": 1
+  },
+  {
+    "id": 1008,
+    "type": "plunder",
+    "name": "卓越神将·三",
+    "resource": "huntRank_8",
+    "integral": 5400,
+    "rank": 8,
+    "rankReward": [
+      [
+        430102,
+        10
+      ]
+    ],
+    "mateCorrect": 8,
+    "nextRank": 1
+  },
+  {
+    "id": 1009,
+    "type": "plunder",
+    "name": "卓越神将·二",
+    "resource": "huntRank_9",
+    "integral": 6600,
+    "rank": 9,
+    "rankReward": [
+      [
+        430102,
+        10
+      ]
+    ],
+    "mateCorrect": 9,
+    "nextRank": 1
+  },
+  {
+    "id": 1010,
+    "type": "plunder",
+    "name": "卓越神将·一",
+    "resource": "huntRank_10",
+    "integral": 7800,
+    "rank": 10,
+    "rankReward": [
+      [
+        430102,
+        10
+      ]
+    ],
+    "mateCorrect": 10,
+    "nextRank": 1
+  },
+  {
+    "id": 1011,
+    "type": "plunder",
+    "name": "无双神将·五",
+    "resource": "huntRank_11",
+    "integral": 9000,
+    "rank": 11,
+    "rankReward": [
+      [
+        3000202,
+        1
+      ]
+    ],
+    "mateCorrect": 11,
+    "nextRank": 1
+  },
+  {
+    "id": 1012,
+    "type": "plunder",
+    "name": "无双神将·四",
+    "resource": "huntRank_12",
+    "integral": 12600,
+    "rank": 12,
+    "rankReward": [
+      [
+        430102,
+        30
+      ]
+    ],
+    "mateCorrect": 12,
+    "nextRank": 1
+  },
+  {
+    "id": 1013,
+    "type": "plunder",
+    "name": "无双神将·三",
+    "resource": "huntRank_13",
+    "integral": 16200,
+    "rank": 13,
+    "rankReward": [
+      [
+        430102,
+        30
+      ]
+    ],
+    "mateCorrect": 13,
+    "nextRank": 1
+  },
+  {
+    "id": 1014,
+    "type": "plunder",
+    "name": "无双神将·二",
+    "resource": "huntRank_14",
+    "integral": 19800,
+    "rank": 14,
+    "rankReward": [
+      [
+        430102,
+        30
+      ]
+    ],
+    "mateCorrect": 14,
+    "nextRank": 1
+  },
+  {
+    "id": 1015,
+    "type": "plunder",
+    "name": "无双神将·一",
+    "resource": "huntRank_15",
+    "integral": 23400,
+    "rank": 15,
+    "rankReward": [
+      [
+        430102,
+        30
+      ]
+    ],
+    "mateCorrect": 15,
+    "nextRank": 1
+  },
+  {
+    "id": 1016,
+    "type": "plunder",
+    "name": "绝世神将",
+    "resource": "huntRank_16",
+    "integral": 27000,
+    "rank": 16,
+    "rankReward": [
+      [
+        5303,
+        1
+      ]
+    ],
+    "mateCorrect": 16,
+    "nextRank": 1
+  },
+  {
+    "id": 2001,
+    "type": "devil",
+    "name": "魔王·五",
+    "resource": "devilRank_1",
+    "integral": 0,
+    "rank": 1,
+    "rankReward": [],
+    "mateCorrect": 1,
+    "nextRank": 1
+  },
+  {
+    "id": 2002,
+    "type": "devil",
+    "name": "魔王·四",
+    "resource": "devilRank_2",
+    "integral": 600,
+    "rank": 2,
+    "rankReward": [
+      [
+        430102,
+        5
+      ]
+    ],
+    "mateCorrect": 2,
+    "nextRank": 1
+  },
+  {
+    "id": 2003,
+    "type": "devil",
+    "name": "魔王·三",
+    "resource": "devilRank_3",
+    "integral": 1200,
+    "rank": 3,
+    "rankReward": [
+      [
+        430102,
+        5
+      ]
+    ],
+    "mateCorrect": 3,
+    "nextRank": 1
+  },
+  {
+    "id": 2004,
+    "type": "devil",
+    "name": "魔王·二",
+    "resource": "devilRank_4",
+    "integral": 1800,
+    "rank": 4,
+    "rankReward": [
+      [
+        430102,
+        5
+      ]
+    ],
+    "mateCorrect": 4,
+    "nextRank": 1
+  },
+  {
+    "id": 2005,
+    "type": "devil",
+    "name": "魔王·一",
+    "resource": "devilRank_5",
+    "integral": 2400,
+    "rank": 5,
+    "rankReward": [
+      [
+        430102,
+        5
+      ]
+    ],
+    "mateCorrect": 5,
+    "nextRank": 1
+  },
+  {
+    "id": 2006,
+    "type": "devil",
+    "name": "恐惧魔王·五",
+    "resource": "devilRank_6",
+    "integral": 3000,
+    "rank": 6,
+    "rankReward": [
+      [
+        3000201,
+        1
+      ]
+    ],
+    "mateCorrect": 6,
+    "nextRank": 1
+  },
+  {
+    "id": 2007,
+    "type": "devil",
+    "name": "恐惧魔王·四",
+    "resource": "devilRank_7",
+    "integral": 4200,
+    "rank": 7,
+    "rankReward": [
+      [
+        430102,
+        10
+      ]
+    ],
+    "mateCorrect": 7,
+    "nextRank": 1
+  },
+  {
+    "id": 2008,
+    "type": "devil",
+    "name": "恐惧魔王·三",
+    "resource": "devilRank_8",
+    "integral": 5400,
+    "rank": 8,
+    "rankReward": [
+      [
+        430102,
+        10
+      ]
+    ],
+    "mateCorrect": 8,
+    "nextRank": 1
+  },
+  {
+    "id": 2009,
+    "type": "devil",
+    "name": "恐惧魔王·二",
+    "resource": "devilRank_9",
+    "integral": 6600,
+    "rank": 9,
+    "rankReward": [
+      [
+        430102,
+        10
+      ]
+    ],
+    "mateCorrect": 9,
+    "nextRank": 1
+  },
+  {
+    "id": 2010,
+    "type": "devil",
+    "name": "恐惧魔王·一",
+    "resource": "devilRank_10",
+    "integral": 7800,
+    "rank": 10,
+    "rankReward": [
+      [
+        430102,
+        10
+      ]
+    ],
+    "mateCorrect": 10,
+    "nextRank": 1
+  },
+  {
+    "id": 2011,
+    "type": "devil",
+    "name": "惩天魔王·五",
+    "resource": "devilRank_11",
+    "integral": 9000,
+    "rank": 11,
+    "rankReward": [
+      [
+        3000202,
+        1
+      ]
+    ],
+    "mateCorrect": 11,
+    "nextRank": 1
+  },
+  {
+    "id": 2012,
+    "type": "devil",
+    "name": "惩天魔王·四",
+    "resource": "devilRank_12",
+    "integral": 12600,
+    "rank": 12,
+    "rankReward": [
+      [
+        430102,
+        30
+      ]
+    ],
+    "mateCorrect": 12,
+    "nextRank": 1
+  },
+  {
+    "id": 2013,
+    "type": "devil",
+    "name": "惩天魔王·三",
+    "resource": "devilRank_13",
+    "integral": 16200,
+    "rank": 13,
+    "rankReward": [
+      [
+        430102,
+        30
+      ]
+    ],
+    "mateCorrect": 13,
+    "nextRank": 1
+  },
+  {
+    "id": 2014,
+    "type": "devil",
+    "name": "惩天魔王·二",
+    "resource": "devilRank_14",
+    "integral": 19800,
+    "rank": 14,
+    "rankReward": [
+      [
+        430102,
+        30
+      ]
+    ],
+    "mateCorrect": 14,
+    "nextRank": 1
+  },
+  {
+    "id": 2015,
+    "type": "devil",
+    "name": "惩天魔王·一",
+    "resource": "devilRank_15",
+    "integral": 23400,
+    "rank": 15,
+    "rankReward": [
+      [
+        430102,
+        30
+      ]
+    ],
+    "mateCorrect": 15,
+    "nextRank": 1
+  },
+  {
+    "id": 2016,
+    "type": "devil",
+    "name": "灭世魔王",
+    "resource": "devilRank_16",
+    "integral": 27000,
+    "rank": 16,
+    "rankReward": [
+      [
+        5303,
+        1
+      ]
+    ],
+    "mateCorrect": 16,
+    "nextRank": 1
+  }
+]

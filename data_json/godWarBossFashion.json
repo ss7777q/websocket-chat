@@ -1,0 +1,1534 @@
+[
+  {
+    "id": 1001,
+    "name": "无头骑士",
+    "desc": "游荡在西方大陆的勇士<br/>利刃斩去了他的头颅<br/>但无法消灭勇者的意志<br/>他寻找的不是头颅<br/>而是前往新世界的力量",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "zhanshenxingtian001",
+      "2130201-monster_cfg_xingtian-1"
+    ],
+    "icon": "zhanshenxingtian001",
+    "file": "2130201-monster_cfg_xingtian-1",
+    "tokenFile": {
+      "2130300": "2130201-monster_cfg_xingtian-1_token"
+    },
+    "beskill": [
+      21302010601
+    ],
+    "beskillLimit": [
+      [
+        21302010701,
+        1680278300000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000011,
+        1
+      ],
+      [
+        3000012,
+        1
+      ],
+      [
+        3000013,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 1
+  },
+  {
+    "id": 1002,
+    "name": "炼狱修罗",
+    "desc": "由怒火而生，寻罪念而往。<br/>在无间炼狱中，<br/>唯有此修罗恶鬼可保太平秩序。<br/>因他们向来只管屠戮，<br/>不问缘由，斩尽一切，<br/>便是存在的意义。",
+    "sort": 2,
+    "label": "shishi",
+    "fileShow": [
+      "zhanshenxingtian002",
+      "2130201-monster_cfg_xingtian-2"
+    ],
+    "icon": "zhanshenxingtian002",
+    "file": "2130201-monster_cfg_xingtian-2",
+    "tokenFile": {
+      "2130300": "2130201-monster_cfg_xingtian-2_token"
+    },
+    "beskill": [
+      21302010602
+    ],
+    "beskillLimit": [
+      [
+        21302010702,
+        1693497599000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000031,
+        1
+      ],
+      [
+        3000032,
+        1
+      ],
+      [
+        3000033,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 1
+  },
+  {
+    "id": 1003,
+    "name": "厄运邪神",
+    "desc": "污浊的气息<br/>混杂着腐烂的味道，<br/>蠕动扭曲的无名之物<br/>仍在不断延伸。<br/>天地无知，厄运将来，<br/>此间终将无一人可逃。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "zhanshenxingtian003",
+      "2130201-monster_cfg_xingtian-3"
+    ],
+    "icon": "zhanshenxingtian003",
+    "file": "2130201-monster_cfg_xingtian-3",
+    "tokenFile": {
+      "2130300": "2130201-monster_cfg_xingtian-3_token"
+    },
+    "beskill": [
+      21302010801
+    ],
+    "beskillLimit": [
+      [
+        21302010802,
+        1704038399000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000111,
+        1
+      ],
+      [
+        3000112,
+        1
+      ],
+      [
+        3000113,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 1
+  },
+  {
+    "id": 102001,
+    "name": "凶狱鬼王",
+    "desc": "获取强大力量的代价，<br/>便是遭受无尽的诅咒。<br/>如此被煞气与锁链<br/>纠缠终生的结果，<br/>乃上天之恩，<br/>亦是上天之惩。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "kuafu001",
+      "2130301-monster_cfg_kuafu-1"
+    ],
+    "icon": "kuafu001",
+    "file": "2130301-monster_cfg_kuafu-1",
+    "beskill": [
+      21303010601
+    ],
+    "beskillLimit": [
+      [
+        21303010701,
+        1688140700000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000021,
+        1
+      ],
+      [
+        3000022,
+        1
+      ],
+      [
+        3000023,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 102001
+  },
+  {
+    "id": 102002,
+    "name": "噬甲魔蛊",
+    "desc": "盔甲会被侵蚀，<br/>信仰也终将扭曲。<br/>你听，那来自深渊的呼唤，<br/>正引领你前往<br/>全新的世界，<br/>全新的未来。",
+    "sort": 2,
+    "label": "shishi",
+    "fileShow": [
+      "kuafu002",
+      "2130301-monster_cfg_kuafu-2"
+    ],
+    "icon": "kuafu002",
+    "file": "2130301-monster_cfg_kuafu-2",
+    "beskill": [
+      21303010801
+    ],
+    "beskillLimit": [
+      [
+        21303010802,
+        1735660799000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000131,
+        1
+      ],
+      [
+        3000132,
+        1
+      ],
+      [
+        3000133,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 102001
+  },
+  {
+    "id": 103001001,
+    "name": "冥夜驰雷",
+    "desc": "魔王欲用驰雷之箭，<br/>射下世间最后的金乌。<br/>然雷电已至，<br/>乌云亦来，<br/>他终其一生，<br/>也无法破开冥夜，<br/>如愿以偿。",
+    "sort": 1,
+    "label": "chuanshuo",
+    "fileShow": [
+      "houyi001",
+      "2130401-monster_cfg_houyi-1"
+    ],
+    "icon": "houyi001",
+    "file": "2130401-monster_cfg_houyi-1",
+    "bulletFile": {
+      "2130401-houyi_texiao": "2130401-bullet_cfg_houyi-1"
+    },
+    "buffEffectId": {
+      "80647": 80648
+    },
+    "beskill": [
+      21304010801
+    ],
+    "beskillLimit": [
+      [
+        21304010701,
+        1696089599000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000041,
+        1
+      ],
+      [
+        3000042,
+        1
+      ],
+      [
+        3000043,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 103001
+  },
+  {
+    "id": 103001002,
+    "name": "赤焰流火",
+    "desc": "长弓焚燎，烈焰灼日。<br/>他用血液点燃神火，<br/>屠燎一切生灵，<br/>只为寻求那片<br/>孕育信仰的焦土。",
+    "sort": 2,
+    "label": "chuanshuo",
+    "fileShow": [
+      "houyi002",
+      "2130401-monster_cfg_houyi-2"
+    ],
+    "icon": "houyi002",
+    "file": "2130401-monster_cfg_houyi-2",
+    "bulletFile": {
+      "2130401-houyi_texiao": "2130401-bullet_cfg_houyi-2"
+    },
+    "beskill": [
+      21304010802
+    ],
+    "beskillLimit": [
+      [
+        21304010702,
+        1743436799000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000141,
+        1
+      ],
+      [
+        3000142,
+        1
+      ],
+      [
+        3000143,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 103001
+  },
+  {
+    "id": 105001001,
+    "name": "冰狱鬼火",
+    "desc": "寒焰流火，骨灯冷烛，<br/>召孤魂摄野鬼，是为夜游判官。",
+    "sort": 1,
+    "label": "chuanshuo",
+    "fileShow": [
+      "jiyu001",
+      "2131601-monster_cfg_jiyu-1"
+    ],
+    "icon": "jiyu001",
+    "file": "2131601-monster_cfg_jiyu-1",
+    "bulletFile": {
+      "2131601-nuegui_texiao": "2131601-bullet_cfg_jiyu-1"
+    },
+    "buffEffectId": {
+      "209": 453,
+      "210": 454,
+      "213": 455,
+      "368": 456,
+      "369": 457,
+      "400": 458
+    },
+    "beskill": [
+      21316010801
+    ],
+    "beskillLimit": [
+      [
+        21316010901,
+        1711814399000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000081,
+        1
+      ],
+      [
+        3000082,
+        1
+      ],
+      [
+        3000083,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 105001
+  },
+  {
+    "id": 105001002,
+    "name": "冥龙鬼帝",
+    "desc": "黑暗滋生绝望，<br/>孤独几近永恒。<br/>当生死轮回中断，<br/>即便是天道，<br/>亦将在此冥渊中<br/>无尽沉沦。",
+    "sort": 2,
+    "label": "chuanshuo",
+    "fileShow": [
+      "jiyu002",
+      "2131601-monster_cfg_jiyu-2"
+    ],
+    "icon": "jiyu002",
+    "file": "2131601-monster_cfg_jiyu-2",
+    "viewType": 1,
+    "bulletFile": {
+      "2131601-nuegui_texiao": "2131601-bullet_cfg_jiyu-2"
+    },
+    "buffEffectId": {
+      "209": 668,
+      "210": 669,
+      "213": 670,
+      "368": 671,
+      "369": 672,
+      "400": 673
+    },
+    "beskill": [
+      21316011001
+    ],
+    "beskillLimit": [
+      [
+        21316011101,
+        1756655999000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000171,
+        1
+      ],
+      [
+        3000172,
+        1
+      ],
+      [
+        3000173,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 105001
+  },
+  {
+    "id": 106001001,
+    "name": "巾帼舞狮",
+    "desc": "巾帼舞狮<br/>红颜烈枪<br/>华夏传承永存",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "shangui001",
+      "2130101-monster_cfg_shankui-1"
+    ],
+    "icon": "shangui001",
+    "file": "2130101-monster_cfg_shankui-1",
+    "bulletFile": {
+      "2130101-monster_cfg_shankui-1": "2130101-monster_cfg_shankui-1"
+    },
+    "beskill": [
+      21301010701
+    ],
+    "beskillLimit": [
+      [
+        21301010801,
+        1672502300000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000001,
+        1
+      ],
+      [
+        3000002,
+        1
+      ],
+      [
+        3000003,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 106001
+  },
+  {
+    "id": 106001002,
+    "name": "凛冬猎灵",
+    "desc": "北风猎猎<br/>冰雪长寒<br/>凛冬即将降临",
+    "sort": 2,
+    "label": "chuanshuo",
+    "fileShow": [
+      "shangui002",
+      "2130101-monster_cfg_shankui-2"
+    ],
+    "icon": "shangui002",
+    "file": "2130101-monster_cfg_shankui-2",
+    "bulletFile": {
+      "2130101-shangui_texiao": "2130101-bullet_cfg_shankui-2",
+      "2130101-monster_cfg_shankui-2": "2130101-monster_cfg_shankui-2"
+    },
+    "beskill": [
+      21301010901,
+      21301010802
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000061,
+        1
+      ],
+      [
+        3000062,
+        1
+      ],
+      [
+        3000063,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 106001
+  },
+  {
+    "id": 106001003,
+    "name": "月之狩",
+    "desc": "借堕魔之力，狩堕魔之人。<br/>月光下，<br/>她守着再无生息的村落，<br/>誓要斩灭人心贪婪，<br/>寻回最初的那瓶禁药。",
+    "sort": 3,
+    "label": "shishi",
+    "fileShow": [
+      "shangui003",
+      "2130101-monster_cfg_shankui-3"
+    ],
+    "icon": "shangui003",
+    "file": "2130101-monster_cfg_shankui-3",
+    "bulletFile": {
+      "2130101-monster_cfg_shankui-3": "2130101-monster_cfg_shankui-3"
+    },
+    "beskill": [
+      21301011001
+    ],
+    "beskillLimit": [
+      [
+        21301011002,
+        1696089599000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000091,
+        1
+      ],
+      [
+        3000092,
+        1
+      ],
+      [
+        3000093,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 106001
+  },
+  {
+    "id": 106001004,
+    "name": "金甲战神",
+    "desc": "承亡将武魂，洒枪缨热血。<br/>她一身神辉立于此界，<br/>斩尽一切生灵，<br/>只为心中执念。",
+    "sort": 4,
+    "label": "shishi",
+    "fileShow": [
+      "shangui004",
+      "2130101-monster_cfg_shankui-4"
+    ],
+    "icon": "shangui004",
+    "file": "2130101-monster_cfg_shankui-4",
+    "viewType": 1,
+    "bulletFile": {
+      "2130101-monster_cfg_shankui-4": "2130101-monster_cfg_shankui-4"
+    },
+    "beskill": [
+      21301012001
+    ],
+    "beskillLimit": [
+      [
+        21301012002,
+        1748707199000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000191,
+        1
+      ],
+      [
+        3000192,
+        1
+      ],
+      [
+        3000193,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 106001
+  },
+  {
+    "id": 107001001,
+    "name": "山海神音",
+    "desc": "停留于黑暗的神祇，<br/>将地狱拟作了山海，<br/>将血刃化作了琴音。<br/>倾天覆海，万籁俱灭，<br/>是慈悲面，是恶鬼心。",
+    "sort": 1,
+    "label": "chuanshuo",
+    "fileShow": [
+      "changqin001",
+      "2131801-monster_cfg_changqin-1"
+    ],
+    "icon": "changqin001",
+    "file": "2131801-monster_cfg_changqin-1",
+    "bulletFile": {
+      "2131801-taizichangqin_texiao": "2131801-bullet_cfg_changqin-1"
+    },
+    "buffEffectId": {
+      "326": 467
+    },
+    "beskill": [
+      21318010701
+    ],
+    "beskillLimit": [
+      [
+        21318010801,
+        1714492799000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000101,
+        1
+      ],
+      [
+        3000102,
+        1
+      ],
+      [
+        3000103,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 107001
+  },
+  {
+    "id": 107001002,
+    "name": "云崖玄鹤",
+    "desc": "污浊腐蚀心灵，<br/>罪恶深陷循环。<br/>当信仰破碎之日，<br/>即便是神明，<br/>亦会踏入无尽的失落之地。",
+    "sort": 2,
+    "label": "chuanshuo",
+    "fileShow": [
+      "changqin002",
+      "2131801-monster_cfg_changqin-2"
+    ],
+    "icon": "changqin002",
+    "file": "2131801-monster_cfg_changqin-2",
+    "viewType": 1,
+    "bulletFile": {
+      "2131801-taizichangqin_texiao": "2131801-bullet_cfg_changqin-2"
+    },
+    "buffEffectId": {
+      "326": 655
+    },
+    "beskill": [
+      21318010901
+    ],
+    "beskillLimit": [
+      [
+        21318011001,
+        1753977599000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000161,
+        1
+      ],
+      [
+        3000162,
+        1
+      ],
+      [
+        3000163,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 107001
+  },
+  {
+    "id": 108001001,
+    "name": "堕魔猎手",
+    "desc": "与魔物共生，<br/>将杀戮奉为信仰，<br/>永堕无尽黑暗。<br/>这便是他为求力量<br/>而饮下禁药的代价。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "pangmeng001",
+      "2132001-monster_cfg_pangmeng-1"
+    ],
+    "icon": "pangmeng001",
+    "file": "2132001-monster_cfg_pangmeng-1",
+    "beskill": [
+      21320010701
+    ],
+    "beskillLimit": [
+      [
+        21320010702,
+        1704038399000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000051,
+        1
+      ],
+      [
+        3000052,
+        1
+      ],
+      [
+        3000053,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 108001
+  },
+  {
+    "id": 108001002,
+    "name": "绯珀玄焰",
+    "desc": "血色凝晶，<br/>玄焰焚天。<br/>他手持绯刃，<br/>在生与死之间，<br/>不断缔造关于永恒的传说。",
+    "sort": 2,
+    "label": "shishi",
+    "fileShow": [
+      "pangmeng002",
+      "2132001-monster_cfg_pangmeng-2"
+    ],
+    "icon": "pangmeng002",
+    "file": "2132001-monster_cfg_pangmeng-2",
+    "viewType": 1,
+    "beskill": [
+      21320010703
+    ],
+    "beskillLimit": [
+      [
+        21320010704,
+        1774972799000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000201,
+        1
+      ],
+      [
+        3000202,
+        1
+      ],
+      [
+        3000203,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 108001
+  },
+  {
+    "id": 109001001,
+    "name": "醒狮山河",
+    "desc": "醒狮冷眼观风动,<br/>雷霆一击定乾坤",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "gun001",
+      "2132201-monster_cfg_gun-1"
+    ],
+    "icon": "gun001",
+    "file": "2132201-monster_cfg_gun-1",
+    "beskill": [
+      21322011201
+    ],
+    "beskillLimit": [
+      [
+        21322011301,
+        1704038399000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000071,
+        1
+      ],
+      [
+        3000072,
+        1
+      ],
+      [
+        3000073,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 109001
+  },
+  {
+    "id": 109001002,
+    "name": "深渊咒师",
+    "desc": "纵横光影，<br/>跃入未知……<br/>跟随那来自深渊的声音，<br/>你将成为古神的使者，<br/>去探索全新的命运。",
+    "sort": 2,
+    "label": "shishi",
+    "fileShow": [
+      "gun002",
+      "2132201-monster_cfg_gun-2"
+    ],
+    "icon": "gun002",
+    "file": "2132201-monster_cfg_gun-2",
+    "viewType": 1,
+    "tokenFile": {
+      "2132301": "2132201-monster_cfg_gun-2_token"
+    },
+    "beskill": [
+      21322011401
+    ],
+    "beskillLimit": [
+      [
+        21322011501,
+        1756655999000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000181,
+        1
+      ],
+      [
+        3000182,
+        1
+      ],
+      [
+        3000183,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 109001
+  },
+  {
+    "id": 110001001,
+    "name": "邪身恶灵",
+    "desc": "魔族肆虐的战场，<br/>是何人降下诅咒？<br/>镰刀映照在它困惑的深瞳，<br/>即便拥有两个脑袋，<br/>它也未能看透真相。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "jiaochong001",
+      "2133001-monster_cfg_jiaochong-1"
+    ],
+    "icon": {
+      "jiaochong": "jiaochong001",
+      "tianjiaochong": "tianjiaochong001"
+    },
+    "file": {
+      "2133001-jiaochong": "2133001-monster_cfg_jiaochong-1",
+      "2133301-tianjiaochong": "2133301-monster_cfg_tianjiaochong-1_token"
+    },
+    "smallMapHeadSp": {
+      "tianjiaochong_tx": "tianjiaochong_tx001",
+      "dijiaochong_tx": "dijiaochong_tx001",
+      "feiaochong": "feiaochong001",
+      "feiaochong_x": "feiaochong_x001",
+      "diaochong": "diaochong001"
+    },
+    "bulletFile": {
+      "2133101-qianaochong": "2133101-bullet_cfg_qianaochong-1",
+      "2133201-feiaochongwangquanti": "2133101-bullet_cfg_feiaochongwangquanti-1"
+    },
+    "extraFile": {
+      "2133001-jiaochong": "2133001-monster_cfg_jiaochong-1"
+    },
+    "tokenFile": {
+      "2133101": "2133301-monster_cfg_feiaochong-1_token",
+      "2133201": "2133201-monster_cfg_feiaochongwangquanti-1_token",
+      "2133301": "2133301-monster_cfg_tianjiaochong-1_token"
+    },
+    "beskill": [
+      21330010901
+    ],
+    "beskillLimit": [
+      [
+        21330011001,
+        1727711999000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000121,
+        1
+      ],
+      [
+        3000122,
+        1
+      ],
+      [
+        3000123,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 110001
+  },
+  {
+    "id": 111001001,
+    "name": "鸣昼鎏羽",
+    "desc": "金铭映日，<br/>残阳煦升。<br/>她望着余晖<br/>照向猩红大地，<br/>虔诚地祈祷着，<br/>来自神的旨意。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "jingwei001",
+      "2133401-monster_cfg_jingwei-1"
+    ],
+    "icon": "jingwei001",
+    "file": "2133401-monster_cfg_jingwei-1",
+    "beskill": [
+      21334011501
+    ],
+    "beskillLimit": [
+      [
+        21334011601,
+        1748707199000
+      ]
+    ],
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000151,
+        1
+      ],
+      [
+        3000152,
+        1
+      ],
+      [
+        3000153,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 111001
+  },
+  {
+    "id": 991001,
+    "name": "无头骑士",
+    "desc": "游荡在西方大陆的勇士<br/>利刃斩去了他的头颅<br/>但无法消灭勇者的意志<br/>他寻找的不是头颅<br/>而是前往新世界的力量",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "zhanshenxingtian001",
+      "2130201-monster_cfg_xingtian-1"
+    ],
+    "icon": "zhanshenxingtian001",
+    "file": "2130201-monster_cfg_xingtian-1",
+    "tokenFile": {
+      "2130300": "2130201-monster_cfg_xingtian-1_token"
+    },
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000011,
+        1
+      ],
+      [
+        3000012,
+        1
+      ],
+      [
+        3000013,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 1
+  },
+  {
+    "id": 991002,
+    "name": "炼狱修罗",
+    "desc": "由怒火而生，寻罪念而往。<br/>在无间炼狱中，<br/>唯有此修罗恶鬼可保太平秩序。<br/>因他们向来只管屠戮，<br/>不问缘由，斩尽一切，<br/>便是存在的意义。",
+    "sort": 2,
+    "label": "shishi",
+    "fileShow": [
+      "zhanshenxingtian002",
+      "2130201-monster_cfg_xingtian-2"
+    ],
+    "icon": "zhanshenxingtian002",
+    "file": "2130201-monster_cfg_xingtian-2",
+    "tokenFile": {
+      "2130300": "2130201-monster_cfg_xingtian-2_token"
+    },
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000031,
+        1
+      ],
+      [
+        3000032,
+        1
+      ],
+      [
+        3000033,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 1
+  },
+  {
+    "id": 991003,
+    "name": "厄运邪神",
+    "desc": "污浊的气息<br/>混杂着腐烂的味道，<br/>蠕动扭曲的无名之物<br/>仍在不断延伸。<br/>天地无知，厄运将来，<br/>此间终将无一人可逃。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "zhanshenxingtian003",
+      "2130201-monster_cfg_xingtian-3"
+    ],
+    "icon": "zhanshenxingtian003",
+    "file": "2130201-monster_cfg_xingtian-3",
+    "tokenFile": {
+      "2130300": "2130201-monster_cfg_xingtian-3_token"
+    },
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000111,
+        1
+      ],
+      [
+        3000112,
+        1
+      ],
+      [
+        3000113,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 1
+  },
+  {
+    "id": 99102001,
+    "name": "凶狱鬼王",
+    "desc": "获取强大力量的代价，<br/>便是遭受无尽的诅咒。<br/>如此被煞气与锁链<br/>纠缠终生的结果，<br/>乃上天之恩，<br/>亦是上天之惩。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "kuafu001",
+      "2130301-monster_cfg_kuafu-1"
+    ],
+    "icon": "kuafu001",
+    "file": "2130301-monster_cfg_kuafu-1",
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000021,
+        1
+      ],
+      [
+        3000022,
+        1
+      ],
+      [
+        3000023,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 102001
+  },
+  {
+    "id": 99103001001,
+    "name": "冥夜驰雷",
+    "desc": "魔王欲用驰雷之箭，<br/>射下世间最后的金乌。<br/>然雷电已至，<br/>乌云亦来，<br/>他终其一生，<br/>也无法破开冥夜，<br/>如愿以偿。",
+    "sort": 1,
+    "label": "chuanshuo",
+    "fileShow": [
+      "houyi001",
+      "2130401-monster_cfg_houyi-1"
+    ],
+    "icon": "houyi001",
+    "file": "2130401-monster_cfg_houyi-1",
+    "bulletFile": {
+      "2130401-houyi_texiao": "2130401-bullet_cfg_houyi-1"
+    },
+    "buffEffectId": {
+      "80647": 80648
+    },
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000041,
+        1
+      ],
+      [
+        3000042,
+        1
+      ],
+      [
+        3000043,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 103001
+  },
+  {
+    "id": 99105001001,
+    "name": "冰狱鬼火",
+    "desc": "寒焰流火，骨灯冷烛，<br/>召孤魂摄野鬼，是为夜游判官。",
+    "sort": 1,
+    "label": "chuanshuo",
+    "fileShow": [
+      "jiyu001",
+      "2131601-monster_cfg_jiyu-1"
+    ],
+    "icon": "jiyu001",
+    "file": "2131601-monster_cfg_jiyu-1",
+    "bulletFile": {
+      "2131601-nuegui_texiao": "2131601-bullet_cfg_jiyu-1"
+    },
+    "buffEffectId": {
+      "209": 453,
+      "210": 454,
+      "213": 455,
+      "368": 456,
+      "369": 457,
+      "400": 458
+    },
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000081,
+        1
+      ],
+      [
+        3000082,
+        1
+      ],
+      [
+        3000083,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 105001
+  },
+  {
+    "id": 99106001001,
+    "name": "巾帼舞狮",
+    "desc": "巾帼舞狮<br/>红颜烈枪<br/>华夏传承永存",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "shangui001",
+      "2130101-monster_cfg_shankui-1"
+    ],
+    "icon": "shangui001",
+    "file": "2130101-monster_cfg_shankui-1",
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000001,
+        1
+      ],
+      [
+        3000002,
+        1
+      ],
+      [
+        3000003,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 106001
+  },
+  {
+    "id": 99106001002,
+    "name": "凛冬猎灵",
+    "desc": "北风猎猎<br/>冰雪长寒<br/>凛冬即将降临",
+    "sort": 2,
+    "label": "chuanshuo",
+    "fileShow": [
+      "shangui002",
+      "2130101-monster_cfg_shankui-2"
+    ],
+    "icon": "shangui002",
+    "file": "2130101-monster_cfg_shankui-2",
+    "bulletFile": {
+      "2130101-shangui_texiao": "2130101-bullet_cfg_shankui-2"
+    },
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000061,
+        1
+      ],
+      [
+        3000062,
+        1
+      ],
+      [
+        3000063,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 106001
+  },
+  {
+    "id": 99106001003,
+    "name": "月之狩",
+    "desc": "借堕魔之力，狩堕魔之人。<br/>月光下，<br/>她守着再无生息的村落，<br/>誓要斩灭人心贪婪，<br/>寻回最初的那瓶禁药。",
+    "sort": 3,
+    "label": "shishi",
+    "fileShow": [
+      "shangui003",
+      "2130101-monster_cfg_shankui-3"
+    ],
+    "icon": "shangui003",
+    "file": "2130101-monster_cfg_shankui-3",
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000091,
+        1
+      ],
+      [
+        3000092,
+        1
+      ],
+      [
+        3000093,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 106001
+  },
+  {
+    "id": 99107001001,
+    "name": "山海神音",
+    "desc": "停留于黑暗的神祇，<br/>将地狱拟作了山海，<br/>将血刃化作了琴音。<br/>倾天覆海，万籁俱灭，<br/>是慈悲面，是恶鬼心。",
+    "sort": 1,
+    "label": "chuanshuo",
+    "fileShow": [
+      "changqin001",
+      "2131801-monster_cfg_changqin-1"
+    ],
+    "icon": "changqin001",
+    "file": "2131801-monster_cfg_changqin-1",
+    "bulletFile": {
+      "2131801-taizichangqin_texiao": "2131801-bullet_cfg_changqin-1"
+    },
+    "buffEffectId": {
+      "326": 467
+    },
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000101,
+        1
+      ],
+      [
+        3000102,
+        1
+      ],
+      [
+        3000103,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 107001
+  },
+  {
+    "id": 99108001001,
+    "name": "堕魔猎手",
+    "desc": "与魔物共生，<br/>将杀戮奉为信仰，<br/>永堕无尽黑暗。<br/>这便是他为求力量<br/>而饮下禁药的代价。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "pangmeng001",
+      "2132001-monster_cfg_pangmeng-1"
+    ],
+    "icon": "pangmeng001",
+    "file": "2132001-monster_cfg_pangmeng-1",
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000051,
+        1
+      ],
+      [
+        3000052,
+        1
+      ],
+      [
+        3000053,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 108001
+  },
+  {
+    "id": 99109001001,
+    "name": "醒狮山河",
+    "desc": "醒狮冷眼观风动,<br/>雷霆一击定乾坤",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "gun001",
+      "2132201-monster_cfg_gun-1"
+    ],
+    "icon": "gun001",
+    "file": "2132201-monster_cfg_gun-1",
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000071,
+        1
+      ],
+      [
+        3000072,
+        1
+      ],
+      [
+        3000073,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 109001
+  },
+  {
+    "id": 99110001001,
+    "name": "邪身恶灵",
+    "desc": "魔族肆虐的战场，<br/>是何人降下诅咒？<br/>镰刀映照在它困惑的深瞳，<br/>即便拥有两个脑袋，<br/>它也未能看透真相。",
+    "sort": 1,
+    "label": "shishi",
+    "fileShow": [
+      "jiaochong001",
+      "2133001-monster_cfg_jiaochong-1"
+    ],
+    "icon": {
+      "jiaochong": "jiaochong001",
+      "tianjiaochong": "tianjiaochong001"
+    },
+    "file": {
+      "2133001-jiaochong": "2133001-monster_cfg_jiaochong-1",
+      "2133301-tianjiaochong": "2133301-monster_cfg_tianjiaochong-1_token"
+    },
+    "smallMapHeadSp": {
+      "tianjiaochong_tx": "tianjiaochong_tx001",
+      "dijiaochong_tx": "dijiaochong_tx001",
+      "feiaochong": "feiaochong001",
+      "feiaochong_x": "feiaochong_x001",
+      "diaochong": "diaochong001"
+    },
+    "bulletFile": {
+      "2133101-qianaochong": "2133101-bullet_cfg_qianaochong-1",
+      "2133201-feiaochongwangquanti": "2133101-bullet_cfg_feiaochongwangquanti-1"
+    },
+    "extraFile": {
+      "2133001-jiaochong": "2133001-monster_cfg_jiaochong-1"
+    },
+    "tokenFile": {
+      "2133101": "2133301-monster_cfg_feiaochong-1_token",
+      "2133201": "2133201-monster_cfg_feiaochongwangquanti-1_token",
+      "2133301": "2133301-monster_cfg_tianjiaochong-1_token"
+    },
+    "attribute": [],
+    "attributeValue": [],
+    "value": [
+      [
+        3000121,
+        1
+      ],
+      [
+        3000122,
+        1
+      ],
+      [
+        3000123,
+        1
+      ]
+    ],
+    "time": [
+      864000,
+      2592000,
+      -1
+    ],
+    "godWarBossId": 110001
+  }
+]

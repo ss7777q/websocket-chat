@@ -1,0 +1,146 @@
+[
+  {
+    "id": 101,
+    "name": "燕之翼",
+    "resource": "slot_wing_chibang1",
+    "itemId": 501001,
+    "buteId": 101,
+    "unlockItem": [
+      501001,
+      1
+    ],
+    "wingSkill": [
+      1
+    ],
+    "unlockSkill": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "displayConditions": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 102,
+    "name": "轮之翼",
+    "resource": "slot_wing_chibang4",
+    "itemId": 501002,
+    "buteId": 201,
+    "unlockItem": [
+      501002,
+      1
+    ],
+    "wingSkill": [
+      2
+    ],
+    "unlockSkill": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "displayConditions": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 103,
+    "name": "旗之翼",
+    "resource": "slot_wing_chibang2",
+    "itemId": 501003,
+    "buteId": 301,
+    "unlockItem": [
+      501003,
+      1
+    ],
+    "wingSkill": [
+      3
+    ],
+    "unlockSkill": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "displayConditions": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 104,
+    "name": "鹤之翼",
+    "resource": "slot_wing_chibang15",
+    "itemId": 501101,
+    "buteId": 401,
+    "unlockItem": [
+      501101,
+      1
+    ],
+    "wingSkill": [
+      4
+    ],
+    "unlockSkill": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "displayConditions": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 105,
+    "name": "龙之翼",
+    "resource": "slot_wing_chibang21",
+    "itemId": 501201,
+    "buteId": 501,
+    "unlockItem": [
+      501201,
+      1
+    ],
+    "wingSkill": [
+      5
+    ],
+    "unlockSkill": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "displayConditions": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 106,
+    "name": "龟之翼",
+    "resource": "slot_wing_chibang41",
+    "itemId": 501301,
+    "buteId": 601,
+    "unlockItem": [
+      501301,
+      1
+    ],
+    "wingSkill": [
+      6
+    ],
+    "unlockSkill": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "displayConditions": [
+      1,
+      1
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "秘海滨海（1级）",
+    "exp": 720,
+    "dropGroup": 135001001,
+    "extraDropGroup": 135002001,
+    "fisherSkin": "black",
+    "seaAction": "idle1",
+    "boatSkin": "noon"
+  },
+  {
+    "id": 2,
+    "name": "秘海浅海（2级）",
+    "exp": 1560,
+    "dropGroup": 135001002,
+    "extraDropGroup": 135002002,
+    "fisherSkin": "blue",
+    "seaAction": "idle4",
+    "boatSkin": "noon"
+  },
+  {
+    "id": 3,
+    "name": "秘海近海（3级）",
+    "exp": 2500,
+    "dropGroup": 135001003,
+    "extraDropGroup": 135002003,
+    "fisherSkin": "golden",
+    "seaAction": "idle5",
+    "boatSkin": "noon"
+  },
+  {
+    "id": 4,
+    "name": "秘海远海（4级）",
+    "exp": 3450,
+    "dropGroup": 135001004,
+    "extraDropGroup": 135002004,
+    "fisherSkin": "green",
+    "seaAction": "idle2",
+    "boatSkin": "morning"
+  },
+  {
+    "id": 5,
+    "name": "秘海深海（5级）",
+    "dropGroup": 135001005,
+    "extraDropGroup": 135002005,
+    "fisherSkin": "selvery",
+    "seaAction": "idle3",
+    "boatSkin": "night"
+  }
+]

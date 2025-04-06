@@ -1,0 +1,854 @@
+[
+  {
+    "id": 9003,
+    "name": "主线-幻兽-小猴子",
+    "monsterId": 9003,
+    "monsterGroup": 9003,
+    "desc": "小猴子·等级1",
+    "roguelikeShow": 0,
+    "headIcon": 2010101
+  },
+  {
+    "id": 9004,
+    "name": "主线-幻兽-两头小猴子",
+    "monsterId": 9004,
+    "monsterGroup": 9003,
+    "desc": "两头小猴子·等级2",
+    "roguelikeShow": 0,
+    "headIcon": 2010102
+  },
+  {
+    "id": 9005,
+    "name": "主线-幻兽-三头小猴子",
+    "monsterId": 9005,
+    "monsterGroup": 9003,
+    "desc": "三头小猴子·等级3",
+    "roguelikeShow": 0,
+    "headIcon": 2010103
+  },
+  {
+    "id": 2010101,
+    "name": "幻兽-小猴子",
+    "monsterId": 2010101,
+    "monsterGroup": 2010100,
+    "desc": "小猴子·等级1",
+    "roguelikeShow": 1,
+    "headIcon": 2010101,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010102,
+    "name": "幻兽-两头小猴子",
+    "monsterId": 2010102,
+    "monsterGroup": 2010100,
+    "desc": "两头小猴子·等级2",
+    "roguelikeShow": 1,
+    "headIcon": 2010102,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010103,
+    "name": "幻兽-三头小猴子",
+    "monsterId": 2010103,
+    "monsterGroup": 2010100,
+    "desc": "三头小猴子·等级3",
+    "roguelikeShow": 1,
+    "headIcon": 2010103,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010104,
+    "name": "幻兽-三头小猴子",
+    "monsterId": 2010104,
+    "monsterGroup": 2010100,
+    "desc": "三头小猴子·等级4",
+    "roguelikeShow": 1,
+    "headIcon": 2010103,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010105,
+    "name": "幻兽-三头小猴子",
+    "monsterId": 2010105,
+    "monsterGroup": 2010100,
+    "desc": "三头小猴子·等级5",
+    "roguelikeShow": 1,
+    "headIcon": 2010103,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010106,
+    "name": "幻兽-三头小猴子",
+    "monsterId": 2010106,
+    "monsterGroup": 2010100,
+    "desc": "三头小猴子·等级6",
+    "roguelikeShow": 1,
+    "headIcon": 2010103,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010201,
+    "name": "幻兽-lv1赤脚小仙",
+    "monsterId": 2010201,
+    "monsterGroup": 2010200,
+    "disableObstracle": 1,
+    "desc": "赤脚小仙·等级1",
+    "roguelikeShow": 1,
+    "headIcon": 2010201,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010202,
+    "name": "幻兽-lv2赤脚小仙",
+    "monsterId": 2010202,
+    "monsterGroup": 2010200,
+    "disableObstracle": 1,
+    "desc": "赤脚小仙·等级2",
+    "roguelikeShow": 1,
+    "headIcon": 2010202,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010203,
+    "name": "幻兽-lv3赤脚小仙",
+    "monsterId": 2010203,
+    "monsterGroup": 2010200,
+    "disableObstracle": 1,
+    "desc": "赤脚小仙·等级3",
+    "roguelikeShow": 1,
+    "headIcon": 2010202,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010204,
+    "name": "幻兽-lv4赤脚小仙",
+    "monsterId": 2010204,
+    "monsterGroup": 2010200,
+    "disableObstracle": 1,
+    "desc": "赤脚小仙·等级4",
+    "roguelikeShow": 1,
+    "headIcon": 2010202,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010301,
+    "name": "幻兽-lv1血海魔童",
+    "monsterId": 2010301,
+    "monsterGroup": 2010300,
+    "disableObstracle": 1,
+    "desc": "血海魔童·等级1",
+    "roguelikeShow": 1,
+    "headIcon": 2010301,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010302,
+    "name": "幻兽-lv2血海魔童",
+    "monsterId": 2010302,
+    "monsterGroup": 2010300,
+    "disableObstracle": 1,
+    "desc": "血海魔童·等级2",
+    "roguelikeShow": 1,
+    "headIcon": 2010302,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010303,
+    "name": "幻兽-lv3血海魔童",
+    "monsterId": 2010303,
+    "monsterGroup": 2010300,
+    "disableObstracle": 1,
+    "desc": "血海魔童·等级3",
+    "roguelikeShow": 1,
+    "headIcon": 2010303,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010304,
+    "name": "幻兽-lv4血海魔童",
+    "monsterId": 2010304,
+    "monsterGroup": 2010300,
+    "disableObstracle": 1,
+    "desc": "血海魔童·等级4",
+    "roguelikeShow": 1,
+    "headIcon": 2010303,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010305,
+    "name": "幻兽-lv5血海魔童",
+    "monsterId": 2010305,
+    "monsterGroup": 2010300,
+    "disableObstracle": 1,
+    "desc": "血海魔童·等级5",
+    "roguelikeShow": 1,
+    "headIcon": 2010303,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010306,
+    "name": "幻兽-lv6血海魔童",
+    "monsterId": 2010306,
+    "monsterGroup": 2010300,
+    "disableObstracle": 1,
+    "desc": "血海魔童·等级6",
+    "roguelikeShow": 1,
+    "headIcon": 2010303,
+    "phamtionHitToParam": [
+      {
+        "per": 0.064,
+        "val": 0
+      },
+      {
+        "per": 0.096,
+        "val": 0
+      },
+      {
+        "per": 0.128,
+        "val": 0
+      }
+    ],
+    "phamtionPropAddParam": [
+      [
+        {
+          "type": "atk",
+          "per": 2.5907,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 3.8861,
+          "val": 0
+        }
+      ],
+      [
+        {
+          "type": "atk",
+          "per": 5.1814,
+          "val": 0
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2010501,
+    "name": "幻兽-血翅黑蚊-主线使用",
+    "monsterId": 2010501,
+    "monsterGroup": 2010500,
+    "disableObstracle": 1,
+    "desc": "lv1-血翅黑蚊",
+    "roguelikeShow": 0,
+    "headIcon": 2010101
+  },
+  {
+    "id": 2010511,
+    "name": "幻兽-雯雯-主线使用",
+    "monsterId": 2010511,
+    "monsterGroup": 2010500,
+    "disableObstracle": 1,
+    "desc": "lv2-雯雯",
+    "roguelikeShow": 0,
+    "headIcon": 2010101
+  },
+  {
+    "id": 2010601,
+    "name": "幻兽-1级雯雯",
+    "monsterId": 2010601,
+    "monsterGroup": 2010601,
+    "disableObstracle": 1,
+    "desc": "lv1-血翅黑蚊",
+    "roguelikeShow": 0,
+    "headIcon": 2010601
+  },
+  {
+    "id": 2010602,
+    "name": "幻兽-2级雯雯",
+    "monsterId": 2010602,
+    "monsterGroup": 2010601,
+    "disableObstracle": 1,
+    "desc": "lv2-雯雯",
+    "roguelikeShow": 0,
+    "headIcon": 2010602
+  },
+  {
+    "id": 2143531,
+    "name": "蟠桃会客人",
+    "monsterId": 2143531,
+    "monsterGroup": 2143510,
+    "desc": "蟠桃会客人",
+    "roguelikeShow": 0,
+    "headIcon": 2010102,
+    "titleMonster": 1
+  },
+  {
+    "id": 2143521,
+    "name": "蟠桃会贵客",
+    "monsterId": 2143521,
+    "monsterGroup": 2143510,
+    "desc": "蟠桃会贵客",
+    "roguelikeShow": 0,
+    "headIcon": 2010102,
+    "titleMonster": 1
+  },
+  {
+    "id": 2143511,
+    "name": "蟠桃会上宾",
+    "monsterId": 2143511,
+    "monsterGroup": 2143510,
+    "desc": "蟠桃会上宾",
+    "roguelikeShow": 0,
+    "headIcon": 2010102,
+    "titleMonster": 1
+  },
+  {
+    "id": 2144901,
+    "name": "母猎魔鼠-随从-轶闻录专用",
+    "monsterId": 2144901,
+    "monsterGroup": 2144901,
+    "desc": "母猎魔鼠-随从-轶闻录专用",
+    "roguelikeShow": 0,
+    "headIcon": 2144901
+  }
+]

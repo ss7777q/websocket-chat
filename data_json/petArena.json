@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "驭宠新手",
+    "resource": "chong001",
+    "integral": 0,
+    "historyReward": [
+      [
+        19,
+        6
+      ],
+      [
+        2,
+        6
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        20
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 2,
+    "name": "驭宠高手",
+    "resource": "chong002",
+    "integral": 100,
+    "historyReward": [
+      [
+        19,
+        12
+      ],
+      [
+        2,
+        12
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        80
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 3,
+    "name": "驭宠大师",
+    "resource": "chong003",
+    "integral": 300,
+    "historyReward": [
+      [
+        19,
+        24
+      ],
+      [
+        2,
+        24
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        240
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 4,
+    "name": "灵兽宗师",
+    "resource": "chong004",
+    "integral": 600,
+    "historyReward": [
+      [
+        19,
+        42
+      ],
+      [
+        2,
+        42
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        480
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 5,
+    "name": "灵兽长老",
+    "resource": "chong005",
+    "integral": 900,
+    "historyReward": [
+      [
+        19,
+        66
+      ],
+      [
+        2,
+        66
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        720
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 6,
+    "name": "灵兽大仙",
+    "resource": "chong006",
+    "integral": 1300,
+    "historyReward": [
+      [
+        19,
+        98
+      ],
+      [
+        2,
+        98
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        1040
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 7,
+    "name": "仙兽灵尊",
+    "resource": "chong007",
+    "integral": 1700,
+    "historyReward": [
+      [
+        19,
+        132
+      ],
+      [
+        2,
+        132
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        1360
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 8,
+    "name": "仙兽尊者",
+    "resource": "chong008",
+    "integral": 2200,
+    "historyReward": [
+      [
+        19,
+        170
+      ],
+      [
+        2,
+        170
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        1760
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 9,
+    "name": "仙兽王者",
+    "resource": "chong009",
+    "integral": 2800,
+    "historyReward": [
+      [
+        19,
+        220
+      ],
+      [
+        2,
+        220
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        2240
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 10,
+    "name": "神兽至尊",
+    "resource": "chong010",
+    "integral": 3500,
+    "historyReward": [
+      [
+        19,
+        280
+      ],
+      [
+        2,
+        280
+      ]
+    ],
+    "weekReward": [
+      [
+        19,
+        2800
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  }
+]

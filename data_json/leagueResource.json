@@ -1,0 +1,864 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "name": "旗帜01",
+    "resource": "lianmqzjd5-001",
+    "fristExempt": 1
+  },
+  {
+    "id": 2,
+    "type": 1,
+    "name": "旗帜02",
+    "resource": "lianmqzjd5-002",
+    "fristExempt": 1
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "name": "旗帜03",
+    "resource": "lianmqzjd5-003",
+    "fristExempt": 1
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "name": "旗帜04",
+    "resource": "lianmqzjd5-004",
+    "fristExempt": 1
+  },
+  {
+    "id": 5,
+    "type": 1,
+    "name": "旗帜05",
+    "resource": "lianmqz1-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 6,
+    "type": 1,
+    "name": "旗帜06",
+    "resource": "lianmqz1-002",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 7,
+    "type": 1,
+    "name": "旗帜07",
+    "resource": "lianmqz1-003",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 8,
+    "type": 1,
+    "name": "旗帜08",
+    "resource": "lianmqz1-004",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 9,
+    "type": 1,
+    "name": "旗帜09",
+    "resource": "lianmqz2-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 10,
+    "type": 1,
+    "name": "旗帜10",
+    "resource": "lianmqz2-002",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 11,
+    "type": 1,
+    "name": "旗帜11",
+    "resource": "lianmqz2-003",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 12,
+    "type": 1,
+    "name": "旗帜12",
+    "resource": "lianmqz2-004",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 13,
+    "type": 1,
+    "name": "旗帜13",
+    "resource": "lianmqz3-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 14,
+    "type": 1,
+    "name": "旗帜14",
+    "resource": "lianmqz3-002",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 15,
+    "type": 1,
+    "name": "旗帜15",
+    "resource": "lianmqz3-003",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 16,
+    "type": 1,
+    "name": "旗帜16",
+    "resource": "lianmqz3-004",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 17,
+    "type": 1,
+    "name": "旗帜17",
+    "resource": "lianmqz4-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 18,
+    "type": 1,
+    "name": "旗帜18",
+    "resource": "lianmqz4-002",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 19,
+    "type": 1,
+    "name": "旗帜19",
+    "resource": "lianmqz4-003",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 20,
+    "type": 1,
+    "name": "旗帜20",
+    "resource": "lianmqz4-004",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 21,
+    "type": 1,
+    "name": "gm旗帜1",
+    "resource": "lianmqzgm-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            9000000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "gm": 1
+  },
+  {
+    "id": 22,
+    "type": 1,
+    "name": "龙舟旗帜01",
+    "resource": "lianmqzlz-001",
+    "tips": [
+      "huodong",
+      "xianshi"
+    ],
+    "limitType": [
+      [
+        17,
+        [
+          "league_duanwu",
+          "leagueId",
+          10
+        ]
+      ],
+      [
+        18,
+        [
+          "stageActivityEndTime",
+          108001
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "time": [
+      "fixed",
+      1746028799000
+    ],
+    "text": "龙舟挑战赛前10名奖励"
+  },
+  {
+    "id": 23,
+    "type": 1,
+    "name": "龙舟旗帜02",
+    "resource": "lianmqzlz-002",
+    "tips": [
+      "huodong",
+      "xianshi"
+    ],
+    "limitType": [
+      [
+        17,
+        [
+          "league_duanwu",
+          "leagueId",
+          10
+        ]
+      ],
+      [
+        18,
+        [
+          "stageActivityEndTime",
+          108001
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "time": [
+      "fixed",
+      1746028799000
+    ],
+    "text": "龙舟挑战赛前10名奖励"
+  },
+  {
+    "id": 24,
+    "type": 1,
+    "name": "龙舟旗帜03",
+    "resource": "lianmqzlz-003",
+    "tips": [
+      "huodong",
+      "xianshi"
+    ],
+    "limitType": [
+      [
+        17,
+        [
+          "league_duanwu",
+          "leagueId",
+          10
+        ]
+      ],
+      [
+        18,
+        [
+          "stageActivityEndTime",
+          108001
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "time": [
+      "fixed",
+      1746028799000
+    ],
+    "text": "龙舟挑战赛前10名奖励"
+  },
+  {
+    "id": 25,
+    "type": 1,
+    "name": "龙舟旗帜04",
+    "resource": "lianmqzlz-004",
+    "tips": [
+      "huodong",
+      "xianshi"
+    ],
+    "limitType": [
+      [
+        17,
+        [
+          "league_duanwu",
+          "leagueId",
+          10
+        ]
+      ],
+      [
+        18,
+        [
+          "stageActivityEndTime",
+          108001
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "time": [
+      "fixed",
+      1746028799000
+    ],
+    "text": "龙舟挑战赛前10名奖励"
+  },
+  {
+    "id": 101,
+    "type": 2,
+    "name": "图案1",
+    "resource": "qiztuan1-001",
+    "fristExempt": 1
+  },
+  {
+    "id": 102,
+    "type": 2,
+    "name": "图案2",
+    "resource": "qiztuan1-002",
+    "fristExempt": 1
+  },
+  {
+    "id": 103,
+    "type": 2,
+    "name": "图案3",
+    "resource": "qiztuan1-003",
+    "fristExempt": 1
+  },
+  {
+    "id": 104,
+    "type": 2,
+    "name": "图案4",
+    "resource": "qiztuan1-004",
+    "fristExempt": 1
+  },
+  {
+    "id": 105,
+    "type": 2,
+    "name": "图案5",
+    "resource": "qiztuan2-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 106,
+    "type": 2,
+    "name": "图案6",
+    "resource": "qiztuan2-002",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 107,
+    "type": 2,
+    "name": "图案7",
+    "resource": "qiztuan2-003",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 108,
+    "type": 2,
+    "name": "图案8",
+    "resource": "qiztuan2-004",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 109,
+    "type": 2,
+    "name": "图案9",
+    "resource": "qiztuan3-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 110,
+    "type": 2,
+    "name": "图案10",
+    "resource": "qiztuan3-002",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 111,
+    "type": 2,
+    "name": "图案11",
+    "resource": "qiztuan3-003",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 112,
+    "type": 2,
+    "name": "图案12",
+    "resource": "qiztuan3-004",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 113,
+    "type": 2,
+    "name": "图案13",
+    "resource": "qiztuan4-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 114,
+    "type": 2,
+    "name": "图案14",
+    "resource": "qiztuan4-002",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 115,
+    "type": 2,
+    "name": "图案15",
+    "resource": "qiztuan4-003",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 116,
+    "type": 2,
+    "name": "图案16",
+    "resource": "qiztuan4-004",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            1000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0
+  },
+  {
+    "id": 117,
+    "type": 2,
+    "name": "gm图案1",
+    "resource": "qiztuangm-001",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            1,
+            9000000
+          ]
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "gm": 1
+  },
+  {
+    "id": 118,
+    "type": 2,
+    "name": "龙舟图案01",
+    "resource": "qiztuanlz-001",
+    "tips": [
+      "huodong",
+      "xianshi"
+    ],
+    "limitType": [
+      [
+        17,
+        [
+          "league_duanwu",
+          "leagueId",
+          10
+        ]
+      ],
+      [
+        18,
+        [
+          "stageActivityEndTime",
+          108001
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "time": [
+      "fixed",
+      1746028799000
+    ],
+    "text": "龙舟挑战赛前10名奖励"
+  },
+  {
+    "id": 119,
+    "type": 2,
+    "name": "龙舟图案02",
+    "resource": "qiztuanlz-002",
+    "tips": [
+      "huodong",
+      "xianshi"
+    ],
+    "limitType": [
+      [
+        17,
+        [
+          "league_duanwu",
+          "leagueId",
+          10
+        ]
+      ],
+      [
+        18,
+        [
+          "stageActivityEndTime",
+          108001
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "time": [
+      "fixed",
+      1746028799000
+    ],
+    "text": "龙舟挑战赛前10名奖励"
+  },
+  {
+    "id": 120,
+    "type": 2,
+    "name": "龙舟图案03",
+    "resource": "qiztuanlz-003",
+    "tips": [
+      "huodong",
+      "xianshi"
+    ],
+    "limitType": [
+      [
+        17,
+        [
+          "league_duanwu",
+          "leagueId",
+          10
+        ]
+      ],
+      [
+        18,
+        [
+          "stageActivityEndTime",
+          108001
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "time": [
+      "fixed",
+      1746028799000
+    ],
+    "text": "龙舟挑战赛前10名奖励"
+  },
+  {
+    "id": 121,
+    "type": 2,
+    "name": "龙舟图案04",
+    "resource": "qiztuanlz-004",
+    "tips": [
+      "huodong",
+      "xianshi"
+    ],
+    "limitType": [
+      [
+        17,
+        [
+          "league_duanwu",
+          "leagueId",
+          10
+        ]
+      ],
+      [
+        18,
+        [
+          "stageActivityEndTime",
+          108001
+        ]
+      ]
+    ],
+    "fristExempt": 0,
+    "time": [
+      "fixed",
+      1746028799000
+    ],
+    "text": "龙舟挑战赛前10名奖励"
+  }
+]

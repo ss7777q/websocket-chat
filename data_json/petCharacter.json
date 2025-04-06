@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "icon": "cwxg001",
+    "type": 1,
+    "attribute": [
+      "ATK",
+      "DEF"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "勇敢，攻击提升10%，防御下降10%"
+  },
+  {
+    "id": 2,
+    "icon": "cwxg002",
+    "type": 1,
+    "attribute": [
+      "DEF",
+      "ATK"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "慎重，防御提升10%，攻击下降10%"
+  },
+  {
+    "id": 3,
+    "icon": "cwxg003",
+    "type": 1,
+    "attribute": [
+      "MAX_HP",
+      "HEALHP"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "坦率，生命提升10%，回血下降10%"
+  },
+  {
+    "id": 4,
+    "icon": "cwxg004",
+    "type": 1,
+    "attribute": [
+      "HEALHP",
+      "MAX_HP"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "坚强，回血提升10%，生命下降10%"
+  },
+  {
+    "id": 5,
+    "icon": "cwxg005",
+    "type": 1,
+    "attribute": [
+      "HITVAL",
+      "DODGE"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "稳重，命中提升10%，闪避下降10%"
+  },
+  {
+    "id": 6,
+    "icon": "cwxg006",
+    "type": 1,
+    "attribute": [
+      "DODGE",
+      "HITVAL"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "顽皮，闪避提升10%，命中下降10%"
+  },
+  {
+    "id": 7,
+    "icon": "cwxg007",
+    "type": 1,
+    "attribute": [
+      "CRIT",
+      "TENACITY"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "暴躁，暴击提升10%，韧性下降10%"
+  },
+  {
+    "id": 8,
+    "icon": "cwxg008",
+    "type": 1,
+    "attribute": [
+      "TENACITY",
+      "CRIT"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "沉着，韧性提升10%，暴击下降10%"
+  },
+  {
+    "id": 9,
+    "icon": "cwxg009",
+    "type": 1,
+    "attribute": [
+      "LUCKY",
+      "GUARDIAN"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "开朗，幸运提升10%，守护下降10%"
+  },
+  {
+    "id": 10,
+    "icon": "cwxg010",
+    "type": 1,
+    "attribute": [
+      "GUARDIAN",
+      "LUCKY"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ],
+    "desc": "害羞，守护提升10%，幸运下降10%"
+  }
+]

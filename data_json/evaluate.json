@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "type": 4,
+    "atkBonus": 0,
+    "spdBonus": 0,
+    "lessTime": 4,
+    "triggerTime": 0.5,
+    "buckleValue": 20,
+    "nextScore": 200
+  },
+  {
+    "id": 2,
+    "type": 3,
+    "atkBonus": 0.02,
+    "spdBonus": 0,
+    "lessTime": 4,
+    "triggerTime": 0.5,
+    "buckleValue": 30,
+    "nextScore": 500
+  },
+  {
+    "id": 3,
+    "type": 2,
+    "atkBonus": 0.05,
+    "spdBonus": 0,
+    "lessTime": 4,
+    "triggerTime": 0.5,
+    "buckleValue": 50,
+    "nextScore": 1000
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "atkBonus": 0.1,
+    "spdBonus": 0,
+    "lessTime": 4,
+    "triggerTime": 0.5,
+    "buckleValue": 90,
+    "nextScore": 1900
+  },
+  {
+    "id": 5,
+    "type": 0,
+    "atkBonus": 0.2,
+    "spdBonus": 0.2,
+    "lessTime": 15,
+    "triggerTime": 0.5,
+    "buckleValue": 60,
+    "nextScore": 0
+  }
+]

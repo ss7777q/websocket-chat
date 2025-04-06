@@ -1,0 +1,3318 @@
+[
+  {
+    "id": 1001,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800101
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1002,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800102
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1003,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800103
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1004,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800104
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1005,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800105
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1006,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800106
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1007,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800107
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1008,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "beSkill": [
+      7800108
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1009,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "beSkill": [
+      7800109
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 1010,
+    "name": "救世圣莲",
+    "groupId": 1,
+    "level": 10,
+    "beSkill": [
+      7800110
+    ],
+    "icon": "magicSoul_1001",
+    "desName": "救世",
+    "desIntro": "携带法宝出战时提升自身回血属性"
+  },
+  {
+    "id": 2001,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800201
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2002,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800202
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2003,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800203
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2004,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800204
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2005,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800205
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2006,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800206
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2007,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "beSkill": [
+      7800207
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2008,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "beSkill": [
+      7800208
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2009,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "beSkill": [
+      7800209
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 2010,
+    "name": "地煞葫芦",
+    "groupId": 2,
+    "level": 10,
+    "beSkill": [
+      7800210
+    ],
+    "icon": "magicSoul_2001",
+    "desName": "强收",
+    "desIntro": "提升宠物捕捉成功率"
+  },
+  {
+    "id": 3001,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "beSkill": [
+      7800301
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3002,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "beSkill": [
+      7800302
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3003,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "beSkill": [
+      7800303
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3004,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "beSkill": [
+      7800304
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3005,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        3
+      ]
+    ],
+    "beSkill": [
+      7800305
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3006,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        3
+      ]
+    ],
+    "beSkill": [
+      7800306
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3007,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        3
+      ]
+    ],
+    "beSkill": [
+      7800307
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3008,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        3
+      ]
+    ],
+    "beSkill": [
+      7800308
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3009,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        4
+      ]
+    ],
+    "beSkill": [
+      7800309
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 3010,
+    "name": "青玉宝瓶",
+    "groupId": 3,
+    "level": 10,
+    "beSkill": [
+      7800310
+    ],
+    "icon": "magicSoul_3001",
+    "desName": "魔瓶",
+    "desIntro": "携带法宝出战时提升自身回魔属性"
+  },
+  {
+    "id": 4001,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        4
+      ]
+    ],
+    "beSkill": [
+      7800401
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4002,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        4
+      ]
+    ],
+    "beSkill": [
+      7800402
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4003,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        5
+      ]
+    ],
+    "beSkill": [
+      7800403
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4004,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        5
+      ]
+    ],
+    "beSkill": [
+      7800404
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4005,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        5
+      ]
+    ],
+    "beSkill": [
+      7800405
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4006,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        6
+      ]
+    ],
+    "beSkill": [
+      7800406
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4007,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        6
+      ]
+    ],
+    "beSkill": [
+      7800407
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4008,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        7
+      ]
+    ],
+    "beSkill": [
+      7800408
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4009,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        8
+      ]
+    ],
+    "beSkill": [
+      7800409
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 4010,
+    "name": "天煞古剑",
+    "groupId": 4,
+    "level": 10,
+    "beSkill": [
+      7800410
+    ],
+    "icon": "magicSoul_4001",
+    "desName": "瞬影",
+    "desIntro": "携带法宝出战时提升自身闪避属性"
+  },
+  {
+    "id": 5001,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        9
+      ]
+    ],
+    "beSkill": [
+      7800501
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5002,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        9
+      ]
+    ],
+    "beSkill": [
+      7800502
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5003,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        10
+      ]
+    ],
+    "beSkill": [
+      7800503
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5004,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        11
+      ]
+    ],
+    "beSkill": [
+      7800504
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5005,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        12
+      ]
+    ],
+    "beSkill": [
+      7800505
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5006,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        13
+      ]
+    ],
+    "beSkill": [
+      7800506
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5007,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        14
+      ]
+    ],
+    "beSkill": [
+      7800507
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5008,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        15
+      ]
+    ],
+    "beSkill": [
+      7800508
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5009,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        16
+      ]
+    ],
+    "beSkill": [
+      7800509
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 5010,
+    "name": "白霜镜",
+    "groupId": 5,
+    "level": 10,
+    "beSkill": [
+      7800510
+    ],
+    "icon": "magicSoul_5001",
+    "desName": "冰凌",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被冰冻效果"
+  },
+  {
+    "id": 6001,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        18
+      ]
+    ],
+    "beSkill": [
+      7800601
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6002,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        20
+      ]
+    ],
+    "beSkill": [
+      7800602
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6003,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        21
+      ]
+    ],
+    "beSkill": [
+      7800603
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6004,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        23
+      ]
+    ],
+    "beSkill": [
+      7800604
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6005,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        25
+      ]
+    ],
+    "beSkill": [
+      7800605
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6006,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        27
+      ]
+    ],
+    "beSkill": [
+      7800606
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6007,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        29
+      ]
+    ],
+    "beSkill": [
+      7800607
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6008,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        32
+      ]
+    ],
+    "beSkill": [
+      7800608
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6009,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        34
+      ]
+    ],
+    "beSkill": [
+      7800609
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 6010,
+    "name": "罗刹妖伞",
+    "groupId": 6,
+    "level": 10,
+    "beSkill": [
+      7800610
+    ],
+    "icon": "magicSoul_6001",
+    "desName": "毒牙",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加中毒效果"
+  },
+  {
+    "id": 7001,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        29
+      ]
+    ],
+    "beSkill": [
+      7800701
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7002,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        31
+      ]
+    ],
+    "beSkill": [
+      7800702
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7003,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        34
+      ]
+    ],
+    "beSkill": [
+      7800703
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7004,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        37
+      ]
+    ],
+    "beSkill": [
+      7800704
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7005,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        40
+      ]
+    ],
+    "beSkill": [
+      7800705
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7006,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        43
+      ]
+    ],
+    "beSkill": [
+      7800706
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7007,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        47
+      ]
+    ],
+    "beSkill": [
+      7800707
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7008,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        51
+      ]
+    ],
+    "beSkill": [
+      7800708
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7009,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        55
+      ]
+    ],
+    "beSkill": [
+      7800709
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 7010,
+    "name": "幽冥鬼爪",
+    "groupId": 7,
+    "level": 10,
+    "beSkill": [
+      7800710
+    ],
+    "icon": "magicSoul_7001",
+    "desName": "锁魂",
+    "desIntro": "携带法宝出战时被攻击命中后，小概率会使攻击者被锁链缠身"
+  },
+  {
+    "id": 8001,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        42
+      ]
+    ],
+    "beSkill": [
+      7800801
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8002,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        45
+      ]
+    ],
+    "beSkill": [
+      7800802
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8003,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        49
+      ]
+    ],
+    "beSkill": [
+      7800803
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8004,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        53
+      ]
+    ],
+    "beSkill": [
+      7800804
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8005,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        57
+      ]
+    ],
+    "beSkill": [
+      7800805
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8006,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        62
+      ]
+    ],
+    "beSkill": [
+      7800806
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8007,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        67
+      ]
+    ],
+    "beSkill": [
+      7800807
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8008,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        73
+      ]
+    ],
+    "beSkill": [
+      7800808
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8009,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        79
+      ]
+    ],
+    "beSkill": [
+      7800809
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 8010,
+    "name": "宣花锤",
+    "groupId": 8,
+    "level": 10,
+    "beSkill": [
+      7800810
+    ],
+    "icon": "magicSoul_8001",
+    "desName": "无序",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被混乱"
+  },
+  {
+    "id": 9001,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        57
+      ]
+    ],
+    "beSkill": [
+      7800901
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9002,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        61
+      ]
+    ],
+    "beSkill": [
+      7800902
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9003,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        66
+      ]
+    ],
+    "beSkill": [
+      7800903
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9004,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        71
+      ]
+    ],
+    "beSkill": [
+      7800904
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9005,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        78
+      ]
+    ],
+    "beSkill": [
+      7800905
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9006,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        84
+      ]
+    ],
+    "beSkill": [
+      7800906
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9007,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        91
+      ]
+    ],
+    "beSkill": [
+      7800907
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9008,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        99
+      ]
+    ],
+    "beSkill": [
+      7800908
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9009,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        108
+      ]
+    ],
+    "beSkill": [
+      7800909
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 9010,
+    "name": "混元珍珠伞",
+    "groupId": 9,
+    "level": 10,
+    "beSkill": [
+      7800910
+    ],
+    "icon": "magicSoul_9001",
+    "desName": "硬身",
+    "desIntro": "携带法宝出战时提升自身防御属性"
+  },
+  {
+    "id": 10001,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        94
+      ]
+    ],
+    "beSkill": [
+      7801001
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10002,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        101
+      ]
+    ],
+    "beSkill": [
+      7801002
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10003,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        109
+      ]
+    ],
+    "beSkill": [
+      7801003
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10004,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        118
+      ]
+    ],
+    "beSkill": [
+      7801004
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10005,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        128
+      ]
+    ],
+    "beSkill": [
+      7801005
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10006,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        139
+      ]
+    ],
+    "beSkill": [
+      7801006
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10007,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        150
+      ]
+    ],
+    "beSkill": [
+      7801007
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10008,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        163
+      ]
+    ],
+    "beSkill": [
+      7801008
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10009,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        177
+      ]
+    ],
+    "beSkill": [
+      7801009
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 10010,
+    "name": "紫金铃铛",
+    "groupId": 10,
+    "level": 10,
+    "beSkill": [
+      7801010
+    ],
+    "icon": "magicSoul_10001",
+    "desName": "狂宠",
+    "desIntro": "携带法宝出战时提升场上宠物攻击属性"
+  },
+  {
+    "id": 11001,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        152
+      ]
+    ],
+    "beSkill": [
+      7801101
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11002,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        163
+      ]
+    ],
+    "beSkill": [
+      7801102
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11003,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        176
+      ]
+    ],
+    "beSkill": [
+      7801103
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11004,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        190
+      ]
+    ],
+    "beSkill": [
+      7801104
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11005,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        207
+      ]
+    ],
+    "beSkill": [
+      7801105
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11006,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        224
+      ]
+    ],
+    "beSkill": [
+      7801106
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11007,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        243
+      ]
+    ],
+    "beSkill": [
+      7801107
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11008,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        263
+      ]
+    ],
+    "beSkill": [
+      7801108
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11009,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        287
+      ]
+    ],
+    "beSkill": [
+      7801109
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 11010,
+    "name": "火龙令",
+    "groupId": 11,
+    "level": 10,
+    "beSkill": [
+      7801110
+    ],
+    "icon": "magicSoul_11001",
+    "desName": "灼焰",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加灼烧效果"
+  },
+  {
+    "id": 14001,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        205
+      ]
+    ],
+    "beSkill": [
+      7801201
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14002,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        220
+      ]
+    ],
+    "beSkill": [
+      7801202
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14003,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        238
+      ]
+    ],
+    "beSkill": [
+      7801203
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14004,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        257
+      ]
+    ],
+    "beSkill": [
+      7801204
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14005,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        279
+      ]
+    ],
+    "beSkill": [
+      7801205
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14006,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        303
+      ]
+    ],
+    "beSkill": [
+      7801206
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14007,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        328
+      ]
+    ],
+    "beSkill": [
+      7801207
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14008,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        355
+      ]
+    ],
+    "beSkill": [
+      7801208
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14009,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        387
+      ]
+    ],
+    "beSkill": [
+      7801209
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 14010,
+    "name": "九龙行瘟幡",
+    "groupId": 12,
+    "level": 10,
+    "beSkill": [
+      7801210
+    ],
+    "icon": "magicSoul_14001",
+    "desName": "行瘟",
+    "desIntro": "携带法宝出战时攻击命中后，小概率会附加瘟疫效果"
+  },
+  {
+    "id": 15001,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        275
+      ]
+    ],
+    "beSkill": [
+      7801301
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15002,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        295
+      ]
+    ],
+    "beSkill": [
+      7801302
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15003,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        320
+      ]
+    ],
+    "beSkill": [
+      7801303
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15004,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        346
+      ]
+    ],
+    "beSkill": [
+      7801304
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15005,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        375
+      ]
+    ],
+    "beSkill": [
+      7801305
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15006,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        407
+      ]
+    ],
+    "beSkill": [
+      7801306
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15007,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        440
+      ]
+    ],
+    "beSkill": [
+      7801307
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15008,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        477
+      ]
+    ],
+    "beSkill": [
+      7801308
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15009,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        520
+      ]
+    ],
+    "beSkill": [
+      7801309
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 15010,
+    "name": "三霄镇魂坠",
+    "groupId": 13,
+    "level": 10,
+    "beSkill": [
+      7801310
+    ],
+    "icon": "magicSoul_15001",
+    "desName": "眠术",
+    "desIntro": "携带法宝出战时被攻击命中后，极小概率会使攻击者被催眠"
+  },
+  {
+    "id": 16001,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        368
+      ]
+    ],
+    "beSkill": [
+      7801401
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16002,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        395
+      ]
+    ],
+    "beSkill": [
+      7801402
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16003,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        428
+      ]
+    ],
+    "beSkill": [
+      7801403
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16004,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        463
+      ]
+    ],
+    "beSkill": [
+      7801404
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16005,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        502
+      ]
+    ],
+    "beSkill": [
+      7801405
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16006,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        545
+      ]
+    ],
+    "beSkill": [
+      7801406
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16007,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        589
+      ]
+    ],
+    "beSkill": [
+      7801407
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16008,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        639
+      ]
+    ],
+    "beSkill": [
+      7801408
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16009,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        696
+      ]
+    ],
+    "beSkill": [
+      7801409
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 16010,
+    "name": "八荒虫玉",
+    "groupId": 14,
+    "level": 10,
+    "beSkill": [
+      7801410
+    ],
+    "icon": "magicSoul_16001",
+    "desName": "极隐",
+    "desIntro": "被攻击命中后，极小概率会使自身进入隐身状态（隐身期间闪避增加）"
+  },
+  {
+    "id": 17001,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        546
+      ]
+    ],
+    "beSkill": [
+      7801501
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17002,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        586
+      ]
+    ],
+    "beSkill": [
+      7801502
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17003,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        634
+      ]
+    ],
+    "beSkill": [
+      7801503
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17004,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        686
+      ]
+    ],
+    "beSkill": [
+      7801504
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17005,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        745
+      ]
+    ],
+    "beSkill": [
+      7801505
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17006,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        807
+      ]
+    ],
+    "beSkill": [
+      7801506
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17007,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        874
+      ]
+    ],
+    "beSkill": [
+      7801507
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17008,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        947
+      ]
+    ],
+    "beSkill": [
+      7801508
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17009,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        1032
+      ]
+    ],
+    "beSkill": [
+      7801509
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 17010,
+    "name": "灵鳌盾甲",
+    "groupId": 15,
+    "level": 10,
+    "beSkill": [
+      7801510
+    ],
+    "icon": "magicSoul_17001",
+    "desName": "盾灵",
+    "desIntro": "被攻击命中后，极小概率会帮自身抵挡伤害"
+  },
+  {
+    "id": 18001,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        653
+      ]
+    ],
+    "beSkill": [
+      7801601
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18002,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        702
+      ]
+    ],
+    "beSkill": [
+      7801602
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18003,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        759
+      ]
+    ],
+    "beSkill": [
+      7801603
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18004,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        821
+      ]
+    ],
+    "beSkill": [
+      7801604
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18005,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        891
+      ]
+    ],
+    "beSkill": [
+      7801605
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18006,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        966
+      ]
+    ],
+    "beSkill": [
+      7801606
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18007,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        1046
+      ]
+    ],
+    "beSkill": [
+      7801607
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18008,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        1134
+      ]
+    ],
+    "beSkill": [
+      7801608
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18009,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        1235
+      ]
+    ],
+    "beSkill": [
+      7801609
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 18010,
+    "name": "金仙斩魔刀",
+    "groupId": 16,
+    "level": 10,
+    "beSkill": [
+      7801610
+    ],
+    "icon": "magicSoul_18001",
+    "desName": "绝刀",
+    "desIntro": "攻击命中后，极小概率召唤金仙斩魔刀攻击敌人，金仙斩魔刀对召唤物，宠物，坐骑，中立怪物造成额外伤害"
+  },
+  {
+    "id": 19001,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        866
+      ]
+    ],
+    "beSkill": [
+      7801701
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19002,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        930
+      ]
+    ],
+    "beSkill": [
+      7801702
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19003,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        1006
+      ]
+    ],
+    "beSkill": [
+      7801703
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19004,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        1088
+      ]
+    ],
+    "beSkill": [
+      7801704
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19005,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        1182
+      ]
+    ],
+    "beSkill": [
+      7801705
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19006,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        1281
+      ]
+    ],
+    "beSkill": [
+      7801706
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19007,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        1387
+      ]
+    ],
+    "beSkill": [
+      7801707
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19008,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        1504
+      ]
+    ],
+    "beSkill": [
+      7801708
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19009,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        1638
+      ]
+    ],
+    "beSkill": [
+      7801709
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 19010,
+    "name": "究天古剑",
+    "groupId": 17,
+    "level": 10,
+    "beSkill": [
+      7801710
+    ],
+    "icon": "magicSoul_19001",
+    "desName": "天剑",
+    "desIntro": "攻击命中后，极小概率会降低敌人韧性"
+  },
+  {
+    "id": 20001,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        1091
+      ]
+    ],
+    "beSkill": [
+      7801801
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20002,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        1172
+      ]
+    ],
+    "beSkill": [
+      7801802
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20003,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        1268
+      ]
+    ],
+    "beSkill": [
+      7801803
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20004,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        1371
+      ]
+    ],
+    "beSkill": [
+      7801804
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20005,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        1489
+      ]
+    ],
+    "beSkill": [
+      7801805
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20006,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        1615
+      ]
+    ],
+    "beSkill": [
+      7801806
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20007,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        1747
+      ]
+    ],
+    "beSkill": [
+      7801807
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20008,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        1895
+      ]
+    ],
+    "beSkill": [
+      7801808
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20009,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        2064
+      ]
+    ],
+    "beSkill": [
+      7801809
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 20010,
+    "name": "摩愿佛珠",
+    "groupId": 18,
+    "level": 10,
+    "beSkill": [
+      7801810
+    ],
+    "icon": "magicSoul_20001",
+    "desName": "佛念",
+    "desIntro": "攻击命中后，概率发射1颗佛珠攻击敌人"
+  },
+  {
+    "id": 21001,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 1,
+    "upCost": [
+      [
+        141000000,
+        1375
+      ]
+    ],
+    "beSkill": [
+      7801901,
+      7801911
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21002,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 2,
+    "upCost": [
+      [
+        141000000,
+        1477
+      ]
+    ],
+    "beSkill": [
+      7801902,
+      7801912
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21003,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 3,
+    "upCost": [
+      [
+        141000000,
+        1598
+      ]
+    ],
+    "beSkill": [
+      7801903,
+      7801913
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21004,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 4,
+    "upCost": [
+      [
+        141000000,
+        1728
+      ]
+    ],
+    "beSkill": [
+      7801904,
+      7801914
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21005,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 5,
+    "upCost": [
+      [
+        141000000,
+        1876
+      ]
+    ],
+    "beSkill": [
+      7801905,
+      7801915
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21006,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 6,
+    "upCost": [
+      [
+        141000000,
+        2034
+      ]
+    ],
+    "beSkill": [
+      7801906,
+      7801916
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21007,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 7,
+    "upCost": [
+      [
+        141000000,
+        2201
+      ]
+    ],
+    "beSkill": [
+      7801907,
+      7801917
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21008,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 8,
+    "upCost": [
+      [
+        141000000,
+        2387
+      ]
+    ],
+    "beSkill": [
+      7801908,
+      7801918
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21009,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 9,
+    "upCost": [
+      [
+        141000000,
+        2601
+      ]
+    ],
+    "beSkill": [
+      7801909,
+      7801919
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  },
+  {
+    "id": 21010,
+    "name": "罗悲净瓶",
+    "groupId": 19,
+    "level": 10,
+    "beSkill": [
+      7801910,
+      7801920
+    ],
+    "icon": "magicSoul_21001",
+    "desName": "净回",
+    "desIntro": "立刻回复少量魔法值。若使用罗悲净瓶时没有驱散异常状态，则少量降低法宝的冷却时间。"
+  }
+]

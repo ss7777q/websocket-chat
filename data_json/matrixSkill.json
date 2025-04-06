@@ -1,0 +1,7042 @@
+[
+  {
+    "id": 10001201,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      6
+    ],
+    "beSkill": [
+      7006801
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成1067伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001202,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      12
+    ],
+    "beSkill": [
+      7006802
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成2133伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001203,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7006803
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成3200伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001204,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7006804
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成4266伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001205,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7006805
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成5333伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001206,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7006806
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成6399伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001207,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      42
+    ],
+    "beSkill": [
+      7006807
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成7466伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001208,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7006808
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成8532伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001209,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7006809
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成9599伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001210,
+    "matrixSkill": 10001,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7006810
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围3名敌人造成10665伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001301,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      6
+    ],
+    "beSkill": [
+      7007101
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成1067伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001302,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      12
+    ],
+    "beSkill": [
+      7007102
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成2133伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001303,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7007103
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成3200伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001304,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7007104
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成4266伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001305,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7007105
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成5333伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001306,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7007106
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成6399伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001307,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      42
+    ],
+    "beSkill": [
+      7007107
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成7466伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001308,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7007108
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成8532伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001309,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7007109
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成9599伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001310,
+    "matrixSkill": 10001,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7007110
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围4名敌人造成10665伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001401,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      6
+    ],
+    "beSkill": [
+      7007201
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成1067伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001402,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      12
+    ],
+    "beSkill": [
+      7007202
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成2133伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001403,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7007203
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成3200伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001404,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7007204
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成4266伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001405,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7007205
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成5333伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001406,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7007206
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成6399伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001407,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      42
+    ],
+    "beSkill": [
+      7007207
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成7466伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001408,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7007208
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成8532伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001409,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000011,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7007209
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成9599伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10001410,
+    "matrixSkill": 10001,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7007210
+    ],
+    "icon": "zhenfaSkill_01",
+    "desName": "天绝阵",
+    "desIntro": "每隔一段时间对周围6名敌人造成10665伤害(会受敌方防御影响降低)，概率造成麻痹",
+    "useLevel": 0
+  },
+  {
+    "id": 10002201,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      6
+    ],
+    "beSkill": [
+      7007701
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成288伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002202,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      12
+    ],
+    "beSkill": [
+      7007702
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成576伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002203,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7007703
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成864伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002204,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7007704
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成1152伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002205,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7007705
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成1440伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002206,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7007706
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成1728伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002207,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      42
+    ],
+    "beSkill": [
+      7007707
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成2016伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002208,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7007708
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成2304伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002209,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7007709
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成2592伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002210,
+    "matrixSkill": 10002,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7007710
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机3名目标释放地烈火，造成2880伤害，且造成灼烧，每秒造成10%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002301,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      6
+    ],
+    "beSkill": [
+      7007801
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成288伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002302,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      12
+    ],
+    "beSkill": [
+      7007802
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成576伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002303,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7007803
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成864伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002304,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7007804
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成1152伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002305,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7007805
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成1440伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002306,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7007806
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成1728伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002307,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      42
+    ],
+    "beSkill": [
+      7007807
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成2016伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002308,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7007808
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成2304伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002309,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7007809
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成2592伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002310,
+    "matrixSkill": 10002,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7007810
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机4名目标释放地烈火，造成2880伤害，且造成灼烧，每秒造成15%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002401,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      6
+    ],
+    "beSkill": [
+      7007901
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成288伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002402,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      12
+    ],
+    "beSkill": [
+      7007902
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成576伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002403,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7007903
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成864伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002404,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7007904
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成1152伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002405,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7007905
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成1440伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002406,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7007906
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成1728伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002407,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      42
+    ],
+    "beSkill": [
+      7007907
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成2016伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002408,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7007908
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成2304伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002409,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000021,
+        38
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7007909
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成2592伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10002410,
+    "matrixSkill": 10002,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7007910
+    ],
+    "icon": "zhenfaSkill_02",
+    "desName": "地烈阵",
+    "desIntro": "每隔一段时间在自身周围随机5名目标释放地烈火，造成2880伤害，且造成灼烧，每秒造成20%攻击伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10003201,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      8
+    ],
+    "beSkill": [
+      7009101
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成365伤害(伤害会受敌方防御影响降低)，命中造成防御下降9，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003202,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      16
+    ],
+    "beSkill": [
+      7009102
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成730伤害(伤害会受敌方防御影响降低)，命中造成防御下降18，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003203,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7009103
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成1095伤害(伤害会受敌方防御影响降低)，命中造成防御下降27，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003204,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      32
+    ],
+    "beSkill": [
+      7009104
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成1459伤害(伤害会受敌方防御影响降低)，命中造成防御下降36，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003205,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      40
+    ],
+    "beSkill": [
+      7009105
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成1824伤害(伤害会受敌方防御影响降低)，命中造成防御下降46，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003206,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7009106
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成2189伤害(伤害会受敌方防御影响降低)，命中造成防御下降55，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003207,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      56
+    ],
+    "beSkill": [
+      7009107
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成2554伤害(伤害会受敌方防御影响降低)，命中造成防御下降64，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003208,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      64
+    ],
+    "beSkill": [
+      7009108
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成2919伤害(伤害会受敌方防御影响降低)，命中造成防御下降73，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003209,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      72
+    ],
+    "beSkill": [
+      7009109
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成3284伤害(伤害会受敌方防御影响降低)，命中造成防御下降82，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003210,
+    "matrixSkill": 10003,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7009110
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出4道风，每道造成3648伤害(伤害会受敌方防御影响降低)，命中造成防御下降91，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003301,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      8
+    ],
+    "beSkill": [
+      7009201
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成365伤害(伤害会受敌方防御影响降低)，命中造成防御下降14，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003302,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      16
+    ],
+    "beSkill": [
+      7009202
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成730伤害(伤害会受敌方防御影响降低)，命中造成防御下降27，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003303,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7009203
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成1095伤害(伤害会受敌方防御影响降低)，命中造成防御下降41，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003304,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      32
+    ],
+    "beSkill": [
+      7009204
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成1459伤害(伤害会受敌方防御影响降低)，命中造成防御下降55，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003305,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      40
+    ],
+    "beSkill": [
+      7009205
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成1824伤害(伤害会受敌方防御影响降低)，命中造成防御下降68，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003306,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7009206
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成2189伤害(伤害会受敌方防御影响降低)，命中造成防御下降82，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003307,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      56
+    ],
+    "beSkill": [
+      7009207
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成2554伤害(伤害会受敌方防御影响降低)，命中造成防御下降96，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003308,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      64
+    ],
+    "beSkill": [
+      7009208
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成2919伤害(伤害会受敌方防御影响降低)，命中造成防御下降109，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003309,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      72
+    ],
+    "beSkill": [
+      7009209
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成3284伤害(伤害会受敌方防御影响降低)，命中造成防御下降123，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003310,
+    "matrixSkill": 10003,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7009210
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出6道风，每道造成3648伤害(伤害会受敌方防御影响降低)，命中造成防御下降137，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003401,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      8
+    ],
+    "beSkill": [
+      7009301
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成365伤害(伤害会受敌方防御影响降低)，命中造成防御下降18，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003402,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      16
+    ],
+    "beSkill": [
+      7009302
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成730伤害(伤害会受敌方防御影响降低)，命中造成防御下降36，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003403,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      24
+    ],
+    "beSkill": [
+      7009303
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成1095伤害(伤害会受敌方防御影响降低)，命中造成防御下降55，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003404,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      32
+    ],
+    "beSkill": [
+      7009304
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成1459伤害(伤害会受敌方防御影响降低)，命中造成防御下降73，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003405,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      40
+    ],
+    "beSkill": [
+      7009305
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成1824伤害(伤害会受敌方防御影响降低)，命中造成防御下降91，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003406,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      48
+    ],
+    "beSkill": [
+      7009306
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成2189伤害(伤害会受敌方防御影响降低)，命中造成防御下降109，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003407,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      56
+    ],
+    "beSkill": [
+      7009307
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成2554伤害(伤害会受敌方防御影响降低)，命中造成防御下降128，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003408,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      64
+    ],
+    "beSkill": [
+      7009308
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成2919伤害(伤害会受敌方防御影响降低)，命中造成防御下降146，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003409,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000031,
+        64
+      ]
+    ],
+    "upLimit": [
+      1,
+      72
+    ],
+    "beSkill": [
+      7009309
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成3284伤害(伤害会受敌方防御影响降低)，命中造成防御下降164，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10003410,
+    "matrixSkill": 10003,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7009310
+    ],
+    "icon": "zhenfaSkill_03",
+    "desName": "风吼阵",
+    "desIntro": "每隔一段时间散发出8道风，每道造成3648伤害(伤害会受敌方防御影响降低)，命中造成防御下降182，持续10秒",
+    "useLevel": 0
+  },
+  {
+    "id": 10004201,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      9
+    ],
+    "beSkill": [
+      7031101
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成697伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004202,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7031102
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成1394伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004203,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      27
+    ],
+    "beSkill": [
+      7031103
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成2091伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004204,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7031104
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成2788伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004205,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      45
+    ],
+    "beSkill": [
+      7031105
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成3485伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004206,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7031106
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成4182伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004207,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      63
+    ],
+    "beSkill": [
+      7031107
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成4879伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004208,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      72
+    ],
+    "beSkill": [
+      7031108
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成5577伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004209,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      81
+    ],
+    "beSkill": [
+      7031109
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成6274伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004210,
+    "matrixSkill": 10004,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7031110
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成6971伤害(伤害会受敌方防御影响降低)，且造成15%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004301,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      9
+    ],
+    "beSkill": [
+      7031201
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成697伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004302,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7031202
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成1394伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004303,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      27
+    ],
+    "beSkill": [
+      7031203
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成2091伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004304,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7031204
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成2788伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004305,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      45
+    ],
+    "beSkill": [
+      7031205
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成3485伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004306,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7031206
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成4182伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004307,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      63
+    ],
+    "beSkill": [
+      7031207
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成4879伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004308,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      72
+    ],
+    "beSkill": [
+      7031208
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成5577伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004309,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      81
+    ],
+    "beSkill": [
+      7031209
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成6274伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004310,
+    "matrixSkill": 10004,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7031210
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成6971伤害(伤害会受敌方防御影响降低)，且造成22.5%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004401,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      9
+    ],
+    "beSkill": [
+      7031301
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成697伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004402,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      18
+    ],
+    "beSkill": [
+      7031302
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成1394伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004403,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      27
+    ],
+    "beSkill": [
+      7031303
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成2091伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004404,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      36
+    ],
+    "beSkill": [
+      7031304
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成2788伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004405,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      45
+    ],
+    "beSkill": [
+      7031305
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成3485伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004406,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      54
+    ],
+    "beSkill": [
+      7031306
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成4182伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004407,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      63
+    ],
+    "beSkill": [
+      7031307
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成4879伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004408,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      72
+    ],
+    "beSkill": [
+      7031308
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成5577伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004409,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000041,
+        77
+      ]
+    ],
+    "upLimit": [
+      1,
+      81
+    ],
+    "beSkill": [
+      7031309
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成6274伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10004410,
+    "matrixSkill": 10004,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7031310
+    ],
+    "icon": "zhenfaSkill_04",
+    "desName": "寒冰阵",
+    "desIntro": "每隔一段时间在自身周围展开冰域，每秒造成6971伤害(伤害会受敌方防御影响降低)，且造成30%减速与跳跃力",
+    "useLevel": 0
+  },
+  {
+    "id": 10005201,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      10
+    ],
+    "beSkill": [
+      7034101
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成692伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005202,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      20
+    ],
+    "beSkill": [
+      7034102
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成1383伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005203,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7034103
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成2075伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005204,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      40
+    ],
+    "beSkill": [
+      7034104
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成2767伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005205,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      50
+    ],
+    "beSkill": [
+      7034105
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成3458伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005206,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      60
+    ],
+    "beSkill": [
+      7034106
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成4150伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005207,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      70
+    ],
+    "beSkill": [
+      7034107
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成4841伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005208,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      80
+    ],
+    "beSkill": [
+      7034108
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成5533伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005209,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      90
+    ],
+    "beSkill": [
+      7034109
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成6225伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005210,
+    "matrixSkill": 10005,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7034110
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射6次，每次造成6916伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005301,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      10
+    ],
+    "beSkill": [
+      7034201
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成692伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005302,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      20
+    ],
+    "beSkill": [
+      7034202
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成1383伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005303,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7034203
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成2075伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005304,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      40
+    ],
+    "beSkill": [
+      7034204
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成2767伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005305,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      50
+    ],
+    "beSkill": [
+      7034205
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成3458伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005306,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      60
+    ],
+    "beSkill": [
+      7034206
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成4150伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005307,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      70
+    ],
+    "beSkill": [
+      7034207
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成4841伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005308,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      80
+    ],
+    "beSkill": [
+      7034208
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成5533伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005309,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      90
+    ],
+    "beSkill": [
+      7034209
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成6225伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005310,
+    "matrixSkill": 10005,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7034210
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射9次，每次造成6916伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005401,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      10
+    ],
+    "beSkill": [
+      7034301
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成692伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005402,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      20
+    ],
+    "beSkill": [
+      7034302
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成1383伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005403,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7034303
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成2075伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005404,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      40
+    ],
+    "beSkill": [
+      7034304
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成2767伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005405,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      50
+    ],
+    "beSkill": [
+      7034305
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成3458伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005406,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      60
+    ],
+    "beSkill": [
+      7034306
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成4150伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005407,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      70
+    ],
+    "beSkill": [
+      7034307
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成4841伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005408,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      80
+    ],
+    "beSkill": [
+      7034308
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成5533伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005409,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      90
+    ],
+    "beSkill": [
+      7034309
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成6225伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005410,
+    "matrixSkill": 10005,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7034310
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射12次，每次造成6916伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005501,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 1,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      10
+    ],
+    "beSkill": [
+      7034401
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成692伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005502,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 2,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      20
+    ],
+    "beSkill": [
+      7034402
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成1383伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005503,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 3,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7034403
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成2075伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005504,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 4,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      40
+    ],
+    "beSkill": [
+      7034404
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成2767伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005505,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 5,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      50
+    ],
+    "beSkill": [
+      7034405
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成3458伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005506,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 6,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      60
+    ],
+    "beSkill": [
+      7034406
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成4150伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005507,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 7,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      70
+    ],
+    "beSkill": [
+      7034407
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成4841伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005508,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 8,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      80
+    ],
+    "beSkill": [
+      7034408
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成5533伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005509,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 9,
+    "nextCost": [
+      [
+        200000051,
+        91
+      ]
+    ],
+    "upLimit": [
+      1,
+      90
+    ],
+    "beSkill": [
+      7034409
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成6225伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10005510,
+    "matrixSkill": 10005,
+    "quality": 5,
+    "level": 10,
+    "beSkill": [
+      7034410
+    ],
+    "icon": "zhenfaSkill_05",
+    "desName": "金光阵",
+    "desIntro": "每隔一段时间从自身发射一道光束，可弹射16次，每次造成6916伤害(伤害会受敌方防御影响降低)",
+    "useLevel": 0
+  },
+  {
+    "id": 10006201,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      13
+    ],
+    "beSkill": [
+      7043801
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006202,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      26
+    ],
+    "beSkill": [
+      7043802
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006203,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      39
+    ],
+    "beSkill": [
+      7043803
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006204,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      52
+    ],
+    "beSkill": [
+      7043804
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006205,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      65
+    ],
+    "beSkill": [
+      7043805
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006206,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      78
+    ],
+    "beSkill": [
+      7043806
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006207,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      91
+    ],
+    "beSkill": [
+      7043807
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006208,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      104
+    ],
+    "beSkill": [
+      7043808
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006209,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      117
+    ],
+    "beSkill": [
+      7043809
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006210,
+    "matrixSkill": 10006,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7043810
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放2个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续10次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006301,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      13
+    ],
+    "beSkill": [
+      7043901
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006302,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      26
+    ],
+    "beSkill": [
+      7043902
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006303,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      39
+    ],
+    "beSkill": [
+      7043903
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006304,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      52
+    ],
+    "beSkill": [
+      7043904
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006305,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      65
+    ],
+    "beSkill": [
+      7043905
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006306,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      78
+    ],
+    "beSkill": [
+      7043906
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006307,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      91
+    ],
+    "beSkill": [
+      7043907
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006308,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      104
+    ],
+    "beSkill": [
+      7043908
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006309,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      117
+    ],
+    "beSkill": [
+      7043909
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006310,
+    "matrixSkill": 10006,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7043910
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放3个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续12次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006401,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      13
+    ],
+    "beSkill": [
+      7044001
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006402,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      26
+    ],
+    "beSkill": [
+      7044002
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006403,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      39
+    ],
+    "beSkill": [
+      7044003
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006404,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      52
+    ],
+    "beSkill": [
+      7044004
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006405,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      65
+    ],
+    "beSkill": [
+      7044005
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006406,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      78
+    ],
+    "beSkill": [
+      7044006
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006407,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      91
+    ],
+    "beSkill": [
+      7044007
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006408,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      104
+    ],
+    "beSkill": [
+      7044008
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006409,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      117
+    ],
+    "beSkill": [
+      7044009
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006410,
+    "matrixSkill": 10006,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7044010
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放4个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续16次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006501,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 1,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      13
+    ],
+    "beSkill": [
+      7044101
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006502,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 2,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      26
+    ],
+    "beSkill": [
+      7044102
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006503,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 3,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      39
+    ],
+    "beSkill": [
+      7044103
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006504,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 4,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      52
+    ],
+    "beSkill": [
+      7044104
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006505,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 5,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      65
+    ],
+    "beSkill": [
+      7044105
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006506,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 6,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      78
+    ],
+    "beSkill": [
+      7044106
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006507,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 7,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      91
+    ],
+    "beSkill": [
+      7044107
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006508,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 8,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      104
+    ],
+    "beSkill": [
+      7044108
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006509,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 9,
+    "nextCost": [
+      [
+        200000061,
+        106
+      ]
+    ],
+    "upLimit": [
+      1,
+      117
+    ],
+    "beSkill": [
+      7044109
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10006510,
+    "matrixSkill": 10006,
+    "quality": 5,
+    "level": 10,
+    "beSkill": [
+      7044110
+    ],
+    "icon": "zhenfaSkill_06",
+    "desName": "化血阵",
+    "desIntro": "每间隔一段时间，释放5个黑砂旋转环绕自己，对周围触碰的敌人造成【流血】，持续20次攻击或达到最大时间消失。",
+    "useLevel": 0
+  },
+  {
+    "id": 10007201,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      15
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007202,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007203,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      45
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007204,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      60
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007205,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      75
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007206,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      90
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007207,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      105
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007208,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      120
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007209,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      135
+    ],
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007210,
+    "matrixSkill": 10007,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7053301
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007301,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      15
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007302,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007303,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      45
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007304,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      60
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007305,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      75
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007306,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      90
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007307,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      105
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007308,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      120
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007309,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      135
+    ],
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007310,
+    "matrixSkill": 10007,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7053401
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007401,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      15
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007402,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007403,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      45
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007404,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      60
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007405,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      75
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007406,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      90
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007407,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      105
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007408,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      120
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007409,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      135
+    ],
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007410,
+    "matrixSkill": 10007,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7053501
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007501,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 1,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      15
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007502,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 2,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      30
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007503,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 3,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      45
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007504,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 4,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      60
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007505,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 5,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      75
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007506,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 6,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      90
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007507,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 7,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      105
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007508,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 8,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      120
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007509,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 9,
+    "nextCost": [
+      [
+        200000071,
+        115
+      ]
+    ],
+    "upLimit": [
+      1,
+      135
+    ],
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10007510,
+    "matrixSkill": 10007,
+    "quality": 5,
+    "level": 10,
+    "beSkill": [
+      7053601
+    ],
+    "icon": "zhenfaSkill_07",
+    "desName": "烈焰阵",
+    "desIntro": "每间隔一段时间，对自身周围随机数个目标进行火石砸击，落地延迟后进行二段火焰冲击，且造成【灼烧】",
+    "useLevel": 1
+  },
+  {
+    "id": 10008201,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      17
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008202,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      34
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008203,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      51
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008204,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      68
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008205,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      85
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008206,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      102
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008207,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      119
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008208,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      136
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008209,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      157
+    ],
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008210,
+    "matrixSkill": 10008,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7063001
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远2名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008301,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      17
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008302,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      34
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008303,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      51
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008304,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      68
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008305,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      85
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008306,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      102
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008307,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      119
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008308,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      136
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008309,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      157
+    ],
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008310,
+    "matrixSkill": 10008,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7063002
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远3名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008401,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      17
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008402,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      34
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008403,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      51
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008404,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      68
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008405,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      85
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008406,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      102
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008407,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      119
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008408,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      136
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008409,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      157
+    ],
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008410,
+    "matrixSkill": 10008,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7063003
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远4名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008501,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 1,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      17
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008502,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 2,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      34
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008503,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 3,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      51
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008504,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 4,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      68
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008505,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 5,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      85
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008506,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 6,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      102
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008507,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 7,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      119
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008508,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 8,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      136
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008509,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 9,
+    "nextCost": [
+      [
+        200000081,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      157
+    ],
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10008510,
+    "matrixSkill": 10008,
+    "quality": 5,
+    "level": 10,
+    "beSkill": [
+      7063004
+    ],
+    "icon": "zhenfaSkill_08",
+    "desName": "落魂阵",
+    "desIntro": "累积受到一定攻击时，震开周围敌人，并范围内锁定最远6名敌人给予【虚弱】持续10秒和短暂【沉默】，触发后重新充能。",
+    "useLevel": 1
+  },
+  {
+    "id": 10009201,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      19
+    ],
+    "beSkill": [
+      7070301
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009202,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      38
+    ],
+    "beSkill": [
+      7070302
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009203,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      57
+    ],
+    "beSkill": [
+      7070303
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009204,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      76
+    ],
+    "beSkill": [
+      7070304
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009205,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      95
+    ],
+    "beSkill": [
+      7070305
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009206,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      114
+    ],
+    "beSkill": [
+      7070306
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009207,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      133
+    ],
+    "beSkill": [
+      7070307
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009208,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      152
+    ],
+    "beSkill": [
+      7070308
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009209,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      171
+    ],
+    "beSkill": [
+      7070309
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009210,
+    "matrixSkill": 10009,
+    "quality": 2,
+    "level": 10,
+    "beSkill": [
+      7070310
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009301,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      19
+    ],
+    "beSkill": [
+      7070401
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009302,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      38
+    ],
+    "beSkill": [
+      7070402
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009303,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      57
+    ],
+    "beSkill": [
+      7070403
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009304,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      76
+    ],
+    "beSkill": [
+      7070404
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009305,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      95
+    ],
+    "beSkill": [
+      7070405
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009306,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      114
+    ],
+    "beSkill": [
+      7070406
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009307,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      133
+    ],
+    "beSkill": [
+      7070407
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009308,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      152
+    ],
+    "beSkill": [
+      7070408
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009309,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      171
+    ],
+    "beSkill": [
+      7070409
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009310,
+    "matrixSkill": 10009,
+    "quality": 3,
+    "level": 10,
+    "beSkill": [
+      7070410
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009401,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      19
+    ],
+    "beSkill": [
+      7070501
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009402,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      38
+    ],
+    "beSkill": [
+      7070502
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009403,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      57
+    ],
+    "beSkill": [
+      7070503
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009404,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      76
+    ],
+    "beSkill": [
+      7070504
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009405,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      95
+    ],
+    "beSkill": [
+      7070505
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009406,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      114
+    ],
+    "beSkill": [
+      7070506
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009407,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      133
+    ],
+    "beSkill": [
+      7070507
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009408,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      152
+    ],
+    "beSkill": [
+      7070508
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009409,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      171
+    ],
+    "beSkill": [
+      7070509
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009410,
+    "matrixSkill": 10009,
+    "quality": 4,
+    "level": 10,
+    "beSkill": [
+      7070510
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009501,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 1,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      19
+    ],
+    "beSkill": [
+      7070601
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009502,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 2,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      38
+    ],
+    "beSkill": [
+      7070602
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009503,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 3,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      57
+    ],
+    "beSkill": [
+      7070603
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009504,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 4,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      76
+    ],
+    "beSkill": [
+      7070604
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009505,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 5,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      95
+    ],
+    "beSkill": [
+      7070605
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009506,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 6,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      114
+    ],
+    "beSkill": [
+      7070606
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009507,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 7,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      133
+    ],
+    "beSkill": [
+      7070607
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009508,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 8,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      152
+    ],
+    "beSkill": [
+      7070608
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009509,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 9,
+    "nextCost": [
+      [
+        200000091,
+        125
+      ]
+    ],
+    "upLimit": [
+      1,
+      171
+    ],
+    "beSkill": [
+      7070609
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  },
+  {
+    "id": 10009510,
+    "matrixSkill": 10009,
+    "quality": 5,
+    "level": 10,
+    "beSkill": [
+      7070610
+    ],
+    "icon": "zhenfaSkill_09",
+    "desName": "红水阵",
+    "desIntro": "生成一颗跟随自身的血球，血球会吸收附近所有单位造成的伤害进行自我充能，充能满时且自身损失的生命值大于等于【血球治疗量】和【回血属性自然恢复量】的总和时，血球则会破裂【治疗自身】并给予自身【回血强化】持续数秒，触发后待冷却结束将重新充能",
+    "useLevel": 0
+  }
+]

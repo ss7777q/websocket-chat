@@ -1,0 +1,183 @@
+[
+  {
+    "id": 20107101,
+    "name": "醒狮",
+    "group": 20107101,
+    "order": 1,
+    "label": "shishi",
+    "icon": "nianshou_1_xingshi",
+    "file": "2061001-nianshou-1",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201071
+  },
+  {
+    "id": 20107201,
+    "name": "醒狮",
+    "group": 20107101,
+    "order": 1,
+    "label": "shishi",
+    "icon": "nianshou_2_xingshi",
+    "file": "2061002-nianshou_max-1",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201072
+  },
+  {
+    "id": 20108201,
+    "name": "醒狮",
+    "group": 20107101,
+    "order": 1,
+    "label": "shishi",
+    "icon": "nianshou_4_xingshi",
+    "file": "2062601-yihuanianshou_max-1",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201076
+  },
+  {
+    "id": 20109101,
+    "name": "单身狗的愤怒",
+    "group": 20109101,
+    "order": 1,
+    "label": "shishi",
+    "icon": "wangwang_1_danshengou",
+    "file": "2061101-wangwang-1",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201091
+  },
+  {
+    "id": 20109102,
+    "name": "圣诞老汪汪",
+    "group": 20109102,
+    "order": 2,
+    "label": "shishi",
+    "icon": "wangwang_1_shengdan",
+    "file": "2061101-wangwang-2",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201091
+  },
+  {
+    "id": 20109103,
+    "name": "萌虎闹新春",
+    "group": 20109103,
+    "order": 3,
+    "label": "shishi",
+    "icon": "wangwang_1_hunian",
+    "file": "2061101-wangwang-3",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201091
+  },
+  {
+    "id": 20109104,
+    "name": "哈士汪",
+    "group": 20109104,
+    "order": 4,
+    "label": "shishi",
+    "icon": "wangwang_1_hashiqi",
+    "file": "2061101-wangwang-4",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201091
+  },
+  {
+    "id": 20109105,
+    "name": "喵喵汪",
+    "group": 20109105,
+    "order": 5,
+    "label": "shishi",
+    "new": 0,
+    "icon": "wangwang_1_miaomiao",
+    "file": "2061101-wangwang-5",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201091
+  },
+  {
+    "id": 20109201,
+    "name": "单身狗的愤怒",
+    "group": 20109101,
+    "order": 1,
+    "label": "shishi",
+    "icon": "wangwang_2_danshengou",
+    "file": "2061102-wangwang_max-1",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201092
+  },
+  {
+    "id": 20109202,
+    "name": "圣诞老汪汪",
+    "group": 20109102,
+    "order": 2,
+    "label": "shishi",
+    "icon": "wangwang_2_shengdan",
+    "file": "2061102-wangwang_max-2",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201092
+  },
+  {
+    "id": 20109203,
+    "name": "萌虎闹新春",
+    "group": 20109103,
+    "order": 3,
+    "label": "shishi",
+    "icon": "wangwang_2_hunian",
+    "file": "2061102-wangwang_max-3",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201092
+  },
+  {
+    "id": 20109204,
+    "name": "哈士汪",
+    "group": 20109104,
+    "order": 4,
+    "label": "shishi",
+    "icon": "wangwang_2_hashiqi",
+    "file": "2061102-wangwang_max-4",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201092
+  },
+  {
+    "id": 20109205,
+    "name": "喵喵汪",
+    "group": 20109105,
+    "order": 5,
+    "label": "shishi",
+    "new": 0,
+    "icon": "wangwang_2_miaomiao",
+    "file": "2061102-wangwang_max-5",
+    "spd": 360,
+    "open": 1,
+    "rideId": 201092
+  },
+  {
+    "id": 20117201,
+    "name": "暗狱幽火",
+    "group": 20117201,
+    "order": 1,
+    "label": "chuanshuo",
+    "new": 1,
+    "icon": "pixiu_4_heipixiu",
+    "viewType": {
+      "bulletFile": 1
+    },
+    "file": "2062904-pixie_max-1",
+    "bulletFile": {
+      "2062904-pixie_texiao": "2062904-pixie_texiao-1"
+    },
+    "buffEffectId": {
+      "683": 686,
+      "697": 698
+    },
+    "spd": 360,
+    "open": 1,
+    "rideId": 201704
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10001401,
+    "itemId": 200111401,
+    "attribute": [
+      "atk",
+      "hitVal"
+    ],
+    "growth": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 10001402,
+    "itemId": 200112401,
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "growth": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 10001403,
+    "itemId": 200113401,
+    "attribute": [
+      "hp",
+      "dodge"
+    ],
+    "growth": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 10001404,
+    "itemId": 200114401,
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "growth": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 10001405,
+    "itemId": 200115401,
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "growth": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 10001406,
+    "itemId": 200116401,
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "growth": [
+      0.5,
+      0.5
+    ]
+  }
+]

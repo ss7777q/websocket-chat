@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "maintenance": 0,
+    "kickOut": 0,
+    "version": "1.0.0",
+    "loginedLimit": 10000,
+    "versionIos": "1.0.0",
+    "bigVersionIos": "1.0.0"
+  }
+]

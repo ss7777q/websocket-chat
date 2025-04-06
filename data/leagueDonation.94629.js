@@ -1,0 +1,1 @@
+var tmp=[["id","item","exp","money","donation","startTimes","evetyDayTimes","upperLimitTimes"],[1,[3,1e3],10,20,10,1,1,5],[2,[2,300],15,30,15,1,1,5],[3,[1,500],25,50,25]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.leagueDonation=tmp);

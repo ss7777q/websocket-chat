@@ -1,0 +1,2180 @@
+[
+  {
+    "id": 1,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "buff",
+    "effectValue": [
+      1000901
+    ],
+    "maxVal": 100,
+    "flagBg": "xueb01",
+    "flagType": 1,
+    "flag": "xueb02"
+  },
+  {
+    "id": 2,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "effectType": "buff",
+    "effectValue": [
+      35000301
+    ],
+    "maxVal": 1766,
+    "flagBg": "02-bingdong-hui",
+    "flagType": 1,
+    "flag": "02-bingdong"
+  },
+  {
+    "id": 3,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "vskill",
+    "effectValue": [
+      514010501
+    ],
+    "maxVal": 100,
+    "flagBg": "03-dushe-hui",
+    "flagType": 1,
+    "flag": "03-dushe",
+    "CdTime": 90
+  },
+  {
+    "id": 4,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "vskill",
+    "effectValue": [
+      611010601
+    ],
+    "maxVal": 100,
+    "flagBg": "04-bianchengwang-hui",
+    "flagType": 1,
+    "flag": "04-bianchengwang",
+    "CdTime": 900
+  },
+  {
+    "id": 5,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "buff",
+    "effectValue": [
+      26000501
+    ],
+    "maxVal": 100,
+    "flagBg": "05-zhizhu-hui",
+    "flagType": 1,
+    "flag": "05-zhizhu"
+  },
+  {
+    "id": 6,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "skill",
+    "effectValue": 715010401,
+    "subEndEffectType": "skill",
+    "subEndEffectValue": 715010402,
+    "maxVal": 100,
+    "flagBg": "06-leishen-hui",
+    "flagType": 1,
+    "viewPos": [
+      0,
+      190
+    ],
+    "flag": "06-leishen",
+    "CdTime": 450
+  },
+  {
+    "id": 7,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "buff",
+    "effectValue": [
+      114000601
+    ],
+    "maxVal": 100,
+    "flagBg": "07-mabi-hui",
+    "flagType": 1,
+    "flag": "07-mabi",
+    "CdTime": 150
+  },
+  {
+    "id": 8,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "buff",
+    "effectValue": [
+      3003001,
+      136000501
+    ],
+    "maxVal": 100,
+    "flagBg": "08-yunxuan-hui",
+    "flagType": 1,
+    "flag": "08-yunxuan",
+    "CdTime": 300
+  },
+  {
+    "id": 9,
+    "subUnit": 0.1,
+    "subSpd": 0.5,
+    "effectType": "buff",
+    "effectValue": [
+      35000301
+    ],
+    "maxVal": 100,
+    "flagBg": "02-bingdong-hui",
+    "flagType": 1,
+    "flag": "02-bingdong"
+  },
+  {
+    "id": 10,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "buff",
+    "effectValue": [
+      35000601
+    ],
+    "maxVal": 180,
+    "flagBg": "02-bingdong-hui",
+    "flagType": 1,
+    "flag": "02-bingdong"
+  },
+  {
+    "id": 11,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "buff",
+    "effectValue": [
+      134000201
+    ],
+    "maxVal": 100,
+    "flagBg": "11-zhuoxin-hui",
+    "flagType": 1,
+    "flag": "11-zhuoxin"
+  },
+  {
+    "id": 12,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "vskill",
+    "effectValue": [
+      817010501
+    ],
+    "maxVal": 3,
+    "flagBg": "81701-malingguan_buff",
+    "flagType": 3,
+    "CdTime": 300
+  },
+  {
+    "id": 13,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "vskill",
+    "effectValue": [
+      21602010303
+    ],
+    "maxVal": 1,
+    "flagType": 3,
+    "CdTime": 300
+  },
+  {
+    "id": 14,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "mCfgVskill",
+    "effectValue": [
+      {
+        "mID": 2170201,
+        "vSkillId": 21702010501
+      }
+    ],
+    "maxVal": 1,
+    "flagType": 3,
+    "CdTime": 30
+  },
+  {
+    "id": 15,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "mCfgVskill",
+    "effectValue": [
+      {
+        "mID": 2170201,
+        "vSkillId": 21702010601
+      }
+    ],
+    "maxVal": 1,
+    "flagType": 3,
+    "CdTime": 30
+  },
+  {
+    "id": 16,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "mCfgVskill",
+    "effectValue": [
+      {
+        "mID": 2170201,
+        "vSkillId": 21702010701
+      }
+    ],
+    "maxVal": 1,
+    "flagType": 3,
+    "CdTime": 30
+  },
+  {
+    "id": 17,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "vskill_buff",
+    "effectValue": {
+      "buff": [
+        163000101,
+        118000201
+      ],
+      "vskill": [
+        21316010501
+      ]
+    },
+    "maxVal": 100,
+    "flagBg": "17-wenyi-hui",
+    "flagType": 1,
+    "flag": "17-wenyi",
+    "CdTime": 300
+  },
+  {
+    "id": 18,
+    "subUnit": 0.1,
+    "subSpd": 0.2,
+    "effectType": "buff",
+    "effectValue": [
+      134000301
+    ],
+    "maxVal": 100,
+    "flagBg": "11-zhuoxin-hui",
+    "flagType": 1,
+    "flag": "11-zhuoxin"
+  },
+  {
+    "id": 19,
+    "subUnit": 0.1,
+    "subSpd": 0.5,
+    "effectType": "buff",
+    "effectValue": [
+      35000901
+    ],
+    "maxVal": 100,
+    "flagBg": "02-bingdong-hui",
+    "flagType": 1,
+    "flag": "02-bingdong"
+  },
+  {
+    "id": 20,
+    "subUnit": 0.1,
+    "subSpd": 0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      1013010002
+    ],
+    "maxVal": 200,
+    "flagBg": "12-yanbao-hui",
+    "flagType": 1,
+    "flag": "12-yanbao",
+    "CdTime": 90
+  },
+  {
+    "id": 21,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "vskill",
+    "effectValue": [
+      21604010601
+    ],
+    "maxVal": 5,
+    "flagBg": "19-shuangdong-hui",
+    "flagType": 1,
+    "flag": "19-shuangdong",
+    "CdTime": 165,
+    "isCount": 1
+  },
+  {
+    "id": 22,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "skill",
+    "effectValue": 1113010501,
+    "subEndEffectType": "skill",
+    "maxVal": 150,
+    "flagBg": "gaoyouqian",
+    "flagType": 1,
+    "flag": "gaoyouqian",
+    "CdTime": 210,
+    "defineRes": {
+      "bg": "b-barbg",
+      "bar": "B-progress",
+      "doBar": "B-progress",
+      "flagX": -66,
+      "barPos": [
+        -44,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "skill",
+    "subEndEffectType": "skill",
+    "maxVal": 10000,
+    "flagBg": "06-leishen-hui",
+    "flagType": 1,
+    "viewPos": [
+      0,
+      190
+    ],
+    "flag": "06-leishen",
+    "CdTime": 450
+  },
+  {
+    "id": 24,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "effectType": "buff",
+    "effectValue": [
+      35000301
+    ],
+    "maxVal": 450,
+    "flagBg": "02-bingdong-hui",
+    "flagType": 1,
+    "flag": "02-bingdong"
+  },
+  {
+    "id": 25,
+    "subUnit": 0.1,
+    "subSpd": 12,
+    "effectType": "vskill",
+    "effectValue": [
+      20613010602
+    ],
+    "maxVal": 12000,
+    "flagBg": "12-yanbao-hui",
+    "flagType": 1,
+    "flag": "12-yanbao",
+    "CdTime": 300
+  },
+  {
+    "id": 26,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "vskill",
+    "effectValue": [],
+    "maxVal": 100,
+    "flagType": 3,
+    "CdTime": 30
+  },
+  {
+    "id": 27,
+    "subUnit": 0.1,
+    "subSpd": 3,
+    "subCd": 18,
+    "effectType": "buff",
+    "effectValue": [
+      1026101
+    ],
+    "maxVal": 100,
+    "flagBg": "27-yuanhun_hui",
+    "flagType": 1,
+    "flag": "27-yuanhun",
+    "CdTime": 300
+  },
+  {
+    "id": 28,
+    "subUnit": 0.1,
+    "subSpd": 0.5,
+    "effectType": "buff",
+    "effectValue": [
+      3005201
+    ],
+    "maxVal": 100,
+    "flagType": 1,
+    "viewPos": [
+      0,
+      190
+    ],
+    "defineRes": {
+      "bg": "chongneng001",
+      "bar": "chongneng003",
+      "doBar": "chongneng002",
+      "barPos": [
+        -66,
+        0
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "subUnit": 0.1,
+    "subSpd": 0.2,
+    "subCd": 30,
+    "effectType": "buff",
+    "effectValue": [
+      136002701
+    ],
+    "maxVal": 100,
+    "flagBg": "28-guangyao_hui",
+    "flagType": 1,
+    "flag": "28-guangyao",
+    "CdTime": 300
+  },
+  {
+    "id": 30,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "effectType": "buff",
+    "effectValue": [
+      35001601
+    ],
+    "maxVal": 3000,
+    "flagBg": "02-bingdong-hui",
+    "flagType": 1,
+    "flag": "02-bingdong",
+    "CdTime": 60
+  },
+  {
+    "id": 31,
+    "subUnit": 0.1,
+    "subSpd": 0.2,
+    "subCd": 30,
+    "effectType": "vskill_buff",
+    "effectValue": {
+      "buff": [
+        148001701
+      ],
+      "vskill": [
+        1315010601
+      ]
+    },
+    "maxVal": 100,
+    "flagBg": "31-fengdu_hui",
+    "flagType": 1,
+    "flag": "31-fengdu",
+    "CdTime": 600
+  },
+  {
+    "id": 32,
+    "subUnit": 0.1,
+    "subSpd": 12,
+    "effectType": "vskill",
+    "effectValue": [
+      20613010622
+    ],
+    "maxVal": 12000,
+    "flagBg": "12-yanbao-hui",
+    "flagType": 1,
+    "flag": "12-yanbao",
+    "CdTime": 300
+  },
+  {
+    "id": 33,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "buff",
+    "effectValue": [
+      20002601
+    ],
+    "maxVal": 100,
+    "flagBg": "33-zhenjing-hui",
+    "flagType": 1,
+    "flag": "33-zhenjing",
+    "CdTime": 60
+  },
+  {
+    "id": 34,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      1316020601
+    ],
+    "maxVal": 150,
+    "flagBg": "xuewu",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "xuewu",
+    "CdTime": 210,
+    "defineRes": {
+      "bg": "xuewuchengnengd",
+      "bar": "xuewuchangneng",
+      "doBar": "xuewuchangneng",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "buff",
+    "effectValue": [
+      219000101,
+      220000101
+    ],
+    "maxVal": 100,
+    "flagBg": "34-zijin-hui",
+    "flagType": 1,
+    "flag": "34-zijin",
+    "CdTime": 150
+  },
+  {
+    "id": 36,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "skill",
+    "effectValue": [
+      1412010501
+    ],
+    "maxVal": 150,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "buff2",
+    "effectValue": {
+      "preBuff": 157000301,
+      "checkBuff": 2003701
+    },
+    "maxVal": 150,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "buff2",
+    "effectValue": {
+      "preBuff": 157000301,
+      "checkBuff": 2003701
+    },
+    "maxVal": 100,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "subUnit": 0.27,
+    "subSpd": -8.1,
+    "addDeal": {
+      "unitVal": 60,
+      "buffs": [
+        4041201,
+        143002201
+      ]
+    },
+    "addOnlyOne": 1,
+    "effectType": "vskill",
+    "effectValue": [
+      21322010801
+    ],
+    "maxVal": 2700,
+    "flagBg": "xirang02_hui",
+    "flagType": 1,
+    "flag": "xirang02",
+    "CdTime": 450,
+    "inherit": 1
+  },
+  {
+    "id": 40,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "buff",
+    "effectValue": [
+      26002701
+    ],
+    "maxVal": 100,
+    "flagBg": "35-shufu_hui",
+    "flagType": 1,
+    "flag": "35-shufu "
+  },
+  {
+    "id": 41,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      1512020401
+    ],
+    "maxVal": 150,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      80001010501
+    ],
+    "maxVal": 150,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "buff",
+    "effectValue": [
+      26002901
+    ],
+    "maxVal": 100,
+    "flagBg": "43-dingshen-hui",
+    "flagType": 1,
+    "flag": "43-dingshen",
+    "CdTime": 90
+  },
+  {
+    "id": 44,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      1514010501
+    ],
+    "maxVal": 150,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "vskill",
+    "effectValue": [
+      80005010402
+    ],
+    "maxVal": 200,
+    "flagBg": "45-dicangxiushui-hui",
+    "flagType": 1,
+    "flag": "45-dicangxiushui",
+    "CdTime": 150
+  },
+  {
+    "id": 46,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "skill",
+    "effectValue": [
+      21607010401
+    ],
+    "maxVal": 250,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 210,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "skill",
+    "effectValue": [
+      80006010500
+    ],
+    "maxVal": 250,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 450,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      1611010501
+    ],
+    "maxVal": 100,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 225,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      1616011001
+    ],
+    "maxVal": 150,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      30210010701
+    ],
+    "maxVal": 50,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 300,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "skill",
+    "effectValue": [
+      1617010501
+    ],
+    "maxVal": 200,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 195,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      10294010301
+    ],
+    "maxVal": 100,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 3,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      80010010402
+    ],
+    "maxVal": 100,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "buff",
+    "effectValue": [
+      23003701,
+      124000401
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      1712010501
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 120,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      1713010501
+    ],
+    "maxVal": 200,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 300,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "vskill",
+    "effectValue": [
+      1716010301
+    ],
+    "maxVal": 200,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 300,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "buff",
+    "effectValue": [
+      29004901,
+      36001401
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "subCd": 15,
+    "effectType": "buff",
+    "effectValue": [
+      199000801
+    ],
+    "maxVal": 100,
+    "flagBg": "59-shuimian-hui",
+    "flagType": 1,
+    "flag": "59-shuimian",
+    "CdTime": 90
+  },
+  {
+    "id": 60,
+    "subUnit": 0.1,
+    "subSpd": -0.1,
+    "effectType": "vSkillValue",
+    "effectValue": [
+      80012010301
+    ],
+    "subEndEffectType": "endVSkill",
+    "maxVal": 50,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    },
+    "otherData": {
+      "doValSubValue": 0.4
+    }
+  },
+  {
+    "id": 61,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "effectType": "buff",
+    "effectValue": [
+      262000101
+    ],
+    "maxVal": 1766,
+    "flagBg": "60-yinlei-hui",
+    "flagType": 1,
+    "flag": "60-yinlei"
+  },
+  {
+    "id": 62,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "effectType": "buff3",
+    "effectValue": {
+      "buffs": [
+        5009601,
+        6010301
+      ],
+      "sourceBuffs": [
+        5009501,
+        6010201
+      ]
+    },
+    "maxVal": 1962,
+    "flagBg": "61-tanlan-hui",
+    "flagType": 1,
+    "flag": "61-tanlan",
+    "CdTime": 1
+  },
+  {
+    "id": 63,
+    "subUnit": 0.1,
+    "subSpd": 0.5,
+    "effectType": "vskill2",
+    "effectValue": {
+      "skillIds": [
+        1717010402
+      ],
+      "limitUid": 1,
+      "expectFather": true
+    },
+    "maxVal": 300,
+    "flagBg": "62-tengman-hui",
+    "flagType": 1,
+    "flag": "62-tengman",
+    "CdTime": 210
+  },
+  {
+    "id": 64,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "skill",
+    "effectValue": [
+      1717010501
+    ],
+    "maxVal": 200,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 195,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "vskill",
+    "effectValue": [
+      20415020502
+    ],
+    "maxVal": 1800,
+    "flagBg": "63-mingshuichongji-hui",
+    "flagType": 1,
+    "flag": "63-mingshuichongji",
+    "CdTime": 1
+  },
+  {
+    "id": 66,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      21608010501
+    ],
+    "maxVal": 450,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      80014010301
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "effectType": "vskill",
+    "effectValue": [
+      96104011001
+    ],
+    "maxVal": 100,
+    "flagBg": "04-bianchengwang-hui",
+    "flagType": 1,
+    "flag": "04-bianchengwang",
+    "CdTime": 900
+  },
+  {
+    "id": 69,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "skill",
+    "effectValue": 96105010801,
+    "subEndEffectType": "skill",
+    "subEndEffectValue": 96105010802,
+    "maxVal": 100,
+    "flagBg": "06-leishen-hui",
+    "flagType": 1,
+    "viewPos": [
+      0,
+      190
+    ],
+    "flag": "06-leishen",
+    "CdTime": 450
+  },
+  {
+    "id": 70,
+    "subUnit": 0.1,
+    "subSpd": 40,
+    "subCd": 30,
+    "effectType": "vskill",
+    "effectValue": [
+      1813010304
+    ],
+    "maxVal": 400,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 30
+  },
+  {
+    "id": 71,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "vskill",
+    "effectValue": [
+      96108010901
+    ],
+    "maxVal": 3,
+    "flagBg": "81701-malingguan_buff",
+    "flagType": 3,
+    "CdTime": 300
+  },
+  {
+    "id": 72,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      1815010501
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "buff",
+    "effectValue": [
+      16006401
+    ],
+    "maxVal": 300,
+    "flagBg": "64-beimin-hui",
+    "flagType": 1,
+    "flag": "64-beimin"
+  },
+  {
+    "id": 74,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "vskillWithDoValCount",
+    "effectValue": {
+      "skillIds": [
+        [
+          1817010501
+        ],
+        [
+          1817010502
+        ],
+        [
+          1817010503
+        ],
+        [
+          1817010504
+        ],
+        [
+          1817010505
+        ],
+        [
+          1817010506
+        ],
+        [
+          1817010507
+        ],
+        [
+          1817010508
+        ]
+      ]
+    },
+    "maxVal": 140,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    },
+    "otherData": {
+      "maxDoValCount": 8
+    }
+  },
+  {
+    "id": 75,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "vskillWithDoValCount",
+    "effectValue": {
+      "skillIds": [
+        [
+          20628010601
+        ],
+        [
+          20628010602
+        ],
+        [
+          20628010603
+        ]
+      ]
+    },
+    "maxVal": 80,
+    "flagBg": "lingdang",
+    "flagType": 1,
+    "flag": "empty",
+    "CdTime": 300,
+    "defineRes": {
+      "bg": "b-barbg",
+      "bar": "B-progress",
+      "doBar": "B-progress",
+      "flagX": -68,
+      "barPos": [
+        -44,
+        -1
+      ],
+      "showCd": true
+    },
+    "otherData": {
+      "maxDoValCount": 999999,
+      "lsnDoVal": {
+        "hurt": true,
+        "hit": true
+      }
+    }
+  },
+  {
+    "id": 76,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "skill",
+    "effectValue": [
+      1819010501
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 195,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "subUnit": 0.1,
+    "subSpd": -0.5,
+    "effectType": "vskill",
+    "effectValue": [
+      80001010501
+    ],
+    "maxVal": 500,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "effectType": "buff",
+    "effectValue": [
+      35002901
+    ],
+    "maxVal": 1766,
+    "flagBg": "02-bingdong-hui",
+    "flagType": 1,
+    "flag": "02-bingdong"
+  },
+  {
+    "id": 79,
+    "groupId": 79,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "addOnlyOne": 1,
+    "effectType": "buff",
+    "effectValue": [
+      5011401
+    ],
+    "subEndEffectType": "clearAddBuffs",
+    "maxVal": 900,
+    "flagBg": "65-chanrao",
+    "flagType": 1,
+    "flag": "65-chanrao",
+    "defineRes": {
+      "bar": "jdt002",
+      "doBar": "jdt002"
+    },
+    "inherit": 2,
+    "otherData": {
+      "frameSubPer": 0.0003704
+    }
+  },
+  {
+    "id": 80,
+    "groupId": 79,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "addOnlyOne": 1,
+    "effectType": "buff",
+    "effectValue": [
+      5011501
+    ],
+    "subEndEffectType": "clearAddBuffs",
+    "maxVal": 900,
+    "flagBg": "65-chanrao",
+    "flagType": 1,
+    "flag": "65-chanrao",
+    "defineRes": {
+      "bar": "jdt002",
+      "doBar": "jdt002"
+    },
+    "inherit": 2,
+    "otherData": {
+      "frameSubPer": 0.0003704
+    }
+  },
+  {
+    "id": 81,
+    "groupId": 79,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "addOnlyOne": 1,
+    "effectType": "buff",
+    "effectValue": [
+      5011601
+    ],
+    "subEndEffectType": "clearAddBuffs",
+    "maxVal": 900,
+    "flagBg": "65-chanrao",
+    "flagType": 1,
+    "flag": "65-chanrao",
+    "defineRes": {
+      "bar": "jdt002",
+      "doBar": "jdt002"
+    },
+    "inherit": 2,
+    "otherData": {
+      "frameSubPer": 0.0003704
+    }
+  },
+  {
+    "id": 82,
+    "groupId": 79,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "addOnlyOne": 1,
+    "effectType": "buff",
+    "effectValue": [
+      5011701
+    ],
+    "subEndEffectType": "clearAddBuffs",
+    "maxVal": 900,
+    "flagBg": "65-chanrao",
+    "flagType": 1,
+    "flag": "65-chanrao",
+    "defineRes": {
+      "bar": "jdt002",
+      "doBar": "jdt002"
+    },
+    "inherit": 2,
+    "otherData": {
+      "frameSubPer": 0.0003704
+    }
+  },
+  {
+    "id": 83,
+    "groupId": 79,
+    "subUnit": 0.1,
+    "subSpd": 1,
+    "addOnlyOne": 1,
+    "effectType": "buff",
+    "effectValue": [
+      5011801
+    ],
+    "subEndEffectType": "clearAddBuffs",
+    "maxVal": 900,
+    "flagBg": "65-chanrao",
+    "flagType": 1,
+    "flag": "65-chanrao",
+    "defineRes": {
+      "bar": "jdt002",
+      "doBar": "jdt002"
+    },
+    "inherit": 2,
+    "otherData": {
+      "frameSubPer": 0.0003704
+    }
+  },
+  {
+    "id": 84,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "vskillWithDoValCount",
+    "effectValue": {
+      "skillIds": [
+        [
+          20628010611
+        ],
+        [
+          20628010612
+        ],
+        [
+          20628010613
+        ]
+      ]
+    },
+    "maxVal": 80,
+    "flagBg": "lingdang",
+    "flagType": 1,
+    "flag": "empty",
+    "CdTime": 300,
+    "defineRes": {
+      "bg": "b-barbg",
+      "bar": "B-progress",
+      "doBar": "B-progress",
+      "flagX": -68,
+      "barPos": [
+        -44,
+        -1
+      ],
+      "showCd": true
+    },
+    "otherData": {
+      "maxDoValCount": 999999,
+      "lsnDoVal": {
+        "hurt": true,
+        "hit": true
+      }
+    }
+  },
+  {
+    "id": 85,
+    "subUnit": 0.1,
+    "subSpd": 0.5,
+    "effectType": "buff",
+    "effectValue": [
+      1054001
+    ],
+    "maxVal": 100,
+    "flagBg": "66-zhuoshao-hui",
+    "flagType": 1,
+    "flag": "66-zhuoshao"
+  },
+  {
+    "id": 86,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "buff3",
+    "effectValue": {
+      "buffs": [
+        283000101
+      ]
+    },
+    "maxVal": 609,
+    "flagBg": "67-ruodian-hui",
+    "flagType": 1,
+    "flag": "67-ruodian",
+    "CdTime": 1
+  },
+  {
+    "id": 87,
+    "subUnit": 0.1,
+    "subSpd": 0,
+    "subCd": 33,
+    "effectType": "vskill",
+    "effectValue": [
+      1914010501
+    ],
+    "maxVal": 200,
+    "flagBg": "68-zhuoshao-hui",
+    "flagType": 1,
+    "flag": "68-zhuoshao",
+    "CdTime": 90,
+    "inherit": 1
+  },
+  {
+    "id": 88,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      30240010401
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "subUnit": 0.1,
+    "subSpd": 40,
+    "subCd": 30,
+    "effectType": "buff",
+    "effectValue": [
+      3006101
+    ],
+    "maxVal": 700,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 30
+  },
+  {
+    "id": 90,
+    "subUnit": 0.1,
+    "subSpd": -0.4,
+    "effectType": "skill",
+    "effectValue": [
+      1916010601
+    ],
+    "maxVal": 200,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 370,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "subUnit": 0.1,
+    "subSpd": 0.1,
+    "subCd": 30,
+    "effectType": "buff",
+    "effectValue": [
+      20006001
+    ],
+    "maxVal": 100,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 150
+  },
+  {
+    "id": 92,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      10298010501
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 300,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "subUnit": 0.1,
+    "subSpd": 6,
+    "subCd": 6,
+    "effectType": "buff",
+    "effectValue": [
+      245000201,
+      272000201
+    ],
+    "maxVal": 300,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 150,
+    "otherData": {
+      "flushSource": true
+    }
+  },
+  {
+    "id": 94,
+    "subUnit": 0.1,
+    "subSpd": 6,
+    "subCd": 6,
+    "effectType": "buff",
+    "effectValue": [
+      245000301,
+      272000301
+    ],
+    "maxVal": 300,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 150,
+    "otherData": {
+      "flushSource": true
+    }
+  },
+  {
+    "id": 95,
+    "subUnit": 0.1,
+    "subSpd": 6,
+    "subCd": 6,
+    "effectType": "buff",
+    "effectValue": [
+      245000401,
+      272000401
+    ],
+    "maxVal": 300,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 150,
+    "otherData": {
+      "flushSource": true
+    }
+  },
+  {
+    "id": 96,
+    "subUnit": 0.1,
+    "subSpd": 6,
+    "subCd": 6,
+    "effectType": "buff",
+    "effectValue": [
+      245000501,
+      272000501
+    ],
+    "maxVal": 300,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 150,
+    "otherData": {
+      "flushSource": true
+    }
+  },
+  {
+    "id": 97,
+    "subUnit": 0.1,
+    "subSpd": 6,
+    "subCd": 6,
+    "effectType": "buff",
+    "effectValue": [
+      245000601,
+      272000601
+    ],
+    "maxVal": 300,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 150,
+    "otherData": {
+      "flushSource": true
+    }
+  },
+  {
+    "id": 98,
+    "subUnit": 0.1,
+    "subSpd": 0,
+    "subCd": 30,
+    "effectType": "buff",
+    "effectValue": [
+      114003201
+    ],
+    "maxVal": 100,
+    "flagBg": "flag1",
+    "flagType": 1,
+    "flag": "flag1",
+    "CdTime": 150
+  },
+  {
+    "id": 99,
+    "subUnit": 0.1,
+    "subSpd": -3,
+    "effectType": "vskill2",
+    "effectValue": {
+      "sourceIsMe": true,
+      "skillIds": [
+        21338010301
+      ]
+    },
+    "maxVal": 600,
+    "flagBg": "69-yuannian-hui",
+    "flagType": 1,
+    "viewPos": [
+      0,
+      135
+    ],
+    "flag": "69-yuannian",
+    "CdTime": 300,
+    "inherit": 2,
+    "otherData": {
+      "dealFrame": 1350,
+      "deadRemove": true
+    }
+  },
+  {
+    "id": 100,
+    "subUnit": 0.1,
+    "subSpd": -3,
+    "effectType": "vskill2",
+    "effectValue": {
+      "sourceIsMe": true,
+      "skillIds": [
+        21338010401
+      ]
+    },
+    "maxVal": 600,
+    "flagBg": "69-yuannian-hui",
+    "flagType": 1,
+    "viewPos": [
+      0,
+      135
+    ],
+    "flag": "69-yuannian",
+    "CdTime": 300,
+    "inherit": 2,
+    "otherData": {
+      "dealFrame": 1350,
+      "deadRemove": true
+    }
+  },
+  {
+    "id": 101,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      80018010401
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      80019010401
+    ],
+    "maxVal": 300,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 150,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "effectType": "skill",
+    "effectValue": [
+      21609010501
+    ],
+    "maxVal": 450,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "subUnit": 0.1,
+    "subSpd": -3,
+    "effectType": "vskill",
+    "effectValue": [
+      2011010501
+    ],
+    "maxVal": 900,
+    "flagBg": "valueFlag_icon",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "valueFlag_icon",
+    "CdTime": 300,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "subUnit": 0,
+    "subSpd": 0,
+    "effectType": "vskill",
+    "effectValue": [
+      97102010401
+    ],
+    "maxVal": 6000,
+    "flagBg": "70-qoshiruhong-hui",
+    "flagType": 1,
+    "flag": "70-qoshiruhong",
+    "CdTime": 1
+  },
+  {
+    "id": 106,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "addOnlyOne": 1,
+    "effectType": "skill",
+    "effectValue": [
+      30250010601
+    ],
+    "maxVal": 200,
+    "flagBg": "71-bailian",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "71-bailian",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "addOnlyOne": 1,
+    "effectType": "skill",
+    "effectValue": [
+      30250010701
+    ],
+    "maxVal": 200,
+    "flagBg": "72-jinlian",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "72-jinlian",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "subUnit": 0.1,
+    "subSpd": -1,
+    "addOnlyOne": 1,
+    "effectType": "skill",
+    "effectValue": [
+      30250010601
+    ],
+    "maxVal": 200,
+    "flagBg": "71-bailian",
+    "flagType": 1,
+    "viewPos": 1,
+    "flag": "71-bailian",
+    "CdTime": 1,
+    "defineRes": {
+      "bg": "valueFlag_dikuang",
+      "bar": "valueFlag_chongneng1",
+      "doBar": "valueFlag_chongneng1",
+      "flagX": -155,
+      "barPos": [
+        -148,
+        -1
+      ]
+    }
+  }
+]

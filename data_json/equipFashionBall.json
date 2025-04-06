@@ -1,0 +1,3089 @@
+[
+  {
+    "id": 0,
+    "rank": 0,
+    "level": 0,
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 1,
+    "rank": 0,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 2,
+    "rank": 0,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 3,
+    "rank": 0,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 4,
+    "rank": 0,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 5,
+    "rank": 0,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 6,
+    "rank": 0,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 7,
+    "rank": 0,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 8,
+    "rank": 0,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 9,
+    "rank": 0,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 10,
+    "rank": 0,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 11,
+    "rank": 0,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.13
+    },
+    "upResources": [
+      6,
+      4
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 12,
+    "rank": 0,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.13
+    },
+    "upResources": [
+      2,
+      600
+    ],
+    "upLevelLimits": 50,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 13,
+    "rank": 1,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.13,
+      "hp": 0.13,
+      "mp": 0.13,
+      "def": 0.13,
+      "healMp": 0.13,
+      "healHp": 0.13,
+      "hitVal": 0.13,
+      "dodge": 0.13,
+      "crit": 0.13,
+      "tenacity": 0.13,
+      "lucky": 0.13,
+      "guardian": 0.13
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 14,
+    "rank": 1,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 15,
+    "rank": 1,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 16,
+    "rank": 1,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 17,
+    "rank": 1,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 18,
+    "rank": 1,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 19,
+    "rank": 1,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 20,
+    "rank": 1,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 21,
+    "rank": 1,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 22,
+    "rank": 1,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 23,
+    "rank": 1,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 24,
+    "rank": 1,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.16
+    },
+    "upResources": [
+      6,
+      6
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 25,
+    "rank": 1,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.16
+    },
+    "upResources": [
+      2,
+      900
+    ],
+    "upLevelLimits": 60,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 26,
+    "rank": 2,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.16,
+      "hp": 0.16,
+      "mp": 0.16,
+      "def": 0.16,
+      "healMp": 0.16,
+      "healHp": 0.16,
+      "hitVal": 0.16,
+      "dodge": 0.16,
+      "crit": 0.16,
+      "tenacity": 0.16,
+      "lucky": 0.16,
+      "guardian": 0.16
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 27,
+    "rank": 2,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 28,
+    "rank": 2,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 29,
+    "rank": 2,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 30,
+    "rank": 2,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 31,
+    "rank": 2,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 32,
+    "rank": 2,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 33,
+    "rank": 2,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 34,
+    "rank": 2,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 35,
+    "rank": 2,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 36,
+    "rank": 2,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 37,
+    "rank": 2,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.21
+    },
+    "upResources": [
+      6,
+      8
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 38,
+    "rank": 2,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.21
+    },
+    "upResources": [
+      2,
+      1200
+    ],
+    "upLevelLimits": 70,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 39,
+    "rank": 3,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.21,
+      "hp": 0.21,
+      "mp": 0.21,
+      "def": 0.21,
+      "healMp": 0.21,
+      "healHp": 0.21,
+      "hitVal": 0.21,
+      "dodge": 0.21,
+      "crit": 0.21,
+      "tenacity": 0.21,
+      "lucky": 0.21,
+      "guardian": 0.21
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 40,
+    "rank": 3,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 41,
+    "rank": 3,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 42,
+    "rank": 3,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 43,
+    "rank": 3,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 44,
+    "rank": 3,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 45,
+    "rank": 3,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 46,
+    "rank": 3,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 47,
+    "rank": 3,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 48,
+    "rank": 3,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 49,
+    "rank": 3,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 50,
+    "rank": 3,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.26
+    },
+    "upResources": [
+      6,
+      16
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 51,
+    "rank": 3,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.26
+    },
+    "upResources": [
+      2,
+      1800
+    ],
+    "upLevelLimits": 80,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 52,
+    "rank": 4,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.26,
+      "hp": 0.26,
+      "mp": 0.26,
+      "def": 0.26,
+      "healMp": 0.26,
+      "healHp": 0.26,
+      "hitVal": 0.26,
+      "dodge": 0.26,
+      "crit": 0.26,
+      "tenacity": 0.26,
+      "lucky": 0.26,
+      "guardian": 0.26
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 53,
+    "rank": 4,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 54,
+    "rank": 4,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 55,
+    "rank": 4,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 56,
+    "rank": 4,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 57,
+    "rank": 4,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 58,
+    "rank": 4,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 59,
+    "rank": 4,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 60,
+    "rank": 4,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 61,
+    "rank": 4,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 62,
+    "rank": 4,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 63,
+    "rank": 4,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.33
+    },
+    "upResources": [
+      6,
+      24
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 64,
+    "rank": 4,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.33
+    },
+    "upResources": [
+      2,
+      2700
+    ],
+    "upLevelLimits": 90,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 65,
+    "rank": 5,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.33,
+      "hp": 0.33,
+      "mp": 0.33,
+      "def": 0.33,
+      "healMp": 0.33,
+      "healHp": 0.33,
+      "hitVal": 0.33,
+      "dodge": 0.33,
+      "crit": 0.33,
+      "tenacity": 0.33,
+      "lucky": 0.33,
+      "guardian": 0.33
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 66,
+    "rank": 5,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 67,
+    "rank": 5,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 68,
+    "rank": 5,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 69,
+    "rank": 5,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 70,
+    "rank": 5,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 71,
+    "rank": 5,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 72,
+    "rank": 5,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 73,
+    "rank": 5,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 74,
+    "rank": 5,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 75,
+    "rank": 5,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 76,
+    "rank": 5,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.41
+    },
+    "upResources": [
+      6,
+      32
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 77,
+    "rank": 5,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.41
+    },
+    "upResources": [
+      2,
+      3900
+    ],
+    "upLevelLimits": 100,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 78,
+    "rank": 6,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.41,
+      "hp": 0.41,
+      "mp": 0.41,
+      "def": 0.41,
+      "healMp": 0.41,
+      "healHp": 0.41,
+      "hitVal": 0.41,
+      "dodge": 0.41,
+      "crit": 0.41,
+      "tenacity": 0.41,
+      "lucky": 0.41,
+      "guardian": 0.41
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 79,
+    "rank": 6,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 80,
+    "rank": 6,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 81,
+    "rank": 6,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 82,
+    "rank": 6,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 83,
+    "rank": 6,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 84,
+    "rank": 6,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 85,
+    "rank": 6,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 86,
+    "rank": 6,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 87,
+    "rank": 6,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 88,
+    "rank": 6,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 89,
+    "rank": 6,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.52
+    },
+    "upResources": [
+      6,
+      40
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 90,
+    "rank": 6,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.52
+    },
+    "upResources": [
+      2,
+      5400
+    ],
+    "upLevelLimits": 110,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 91,
+    "rank": 7,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.52,
+      "hp": 0.52,
+      "mp": 0.52,
+      "def": 0.52,
+      "healMp": 0.52,
+      "healHp": 0.52,
+      "hitVal": 0.52,
+      "dodge": 0.52,
+      "crit": 0.52,
+      "tenacity": 0.52,
+      "lucky": 0.52,
+      "guardian": 0.52
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 92,
+    "rank": 7,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 93,
+    "rank": 7,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 94,
+    "rank": 7,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 95,
+    "rank": 7,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 96,
+    "rank": 7,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 97,
+    "rank": 7,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 98,
+    "rank": 7,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 99,
+    "rank": 7,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 100,
+    "rank": 7,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 101,
+    "rank": 7,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 102,
+    "rank": 7,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.65
+    },
+    "upResources": [
+      6,
+      44
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 103,
+    "rank": 7,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.65
+    },
+    "upResources": [
+      2,
+      7200
+    ],
+    "upLevelLimits": 120,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 104,
+    "rank": 8,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.65,
+      "hp": 0.65,
+      "mp": 0.65,
+      "def": 0.65,
+      "healMp": 0.65,
+      "healHp": 0.65,
+      "hitVal": 0.65,
+      "dodge": 0.65,
+      "crit": 0.65,
+      "tenacity": 0.65,
+      "lucky": 0.65,
+      "guardian": 0.65
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 105,
+    "rank": 8,
+    "level": 1,
+    "attributeValue": {
+      "atk": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 106,
+    "rank": 8,
+    "level": 2,
+    "attributeValue": {
+      "hp": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 107,
+    "rank": 8,
+    "level": 3,
+    "attributeValue": {
+      "mp": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 108,
+    "rank": 8,
+    "level": 4,
+    "attributeValue": {
+      "def": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 109,
+    "rank": 8,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 110,
+    "rank": 8,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 111,
+    "rank": 8,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 112,
+    "rank": 8,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 113,
+    "rank": 8,
+    "level": 9,
+    "attributeValue": {
+      "crit": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 114,
+    "rank": 8,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 115,
+    "rank": 8,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 0.83
+    },
+    "upResources": [
+      6,
+      48
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 116,
+    "rank": 8,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 0.83
+    },
+    "upResources": [
+      2,
+      9300
+    ],
+    "upLevelLimits": 130,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 117,
+    "rank": 9,
+    "level": 0,
+    "attributeValue": {
+      "atk": 0.83,
+      "hp": 0.83,
+      "mp": 0.83,
+      "def": 0.83,
+      "healMp": 0.83,
+      "healHp": 0.83,
+      "hitVal": 0.83,
+      "dodge": 0.83,
+      "crit": 0.83,
+      "tenacity": 0.83,
+      "lucky": 0.83,
+      "guardian": 0.83
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 118,
+    "rank": 9,
+    "level": 1,
+    "attributeValue": {
+      "atk": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 119,
+    "rank": 9,
+    "level": 2,
+    "attributeValue": {
+      "hp": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 120,
+    "rank": 9,
+    "level": 3,
+    "attributeValue": {
+      "mp": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 121,
+    "rank": 9,
+    "level": 4,
+    "attributeValue": {
+      "def": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 122,
+    "rank": 9,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 123,
+    "rank": 9,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 124,
+    "rank": 9,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 125,
+    "rank": 9,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 126,
+    "rank": 9,
+    "level": 9,
+    "attributeValue": {
+      "crit": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 127,
+    "rank": 9,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 128,
+    "rank": 9,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 1.04
+    },
+    "upResources": [
+      6,
+      52
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 129,
+    "rank": 9,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 1.04
+    },
+    "upResources": [
+      2,
+      11700
+    ],
+    "upLevelLimits": 140,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 130,
+    "rank": 10,
+    "level": 0,
+    "attributeValue": {
+      "atk": 1.04,
+      "hp": 1.04,
+      "mp": 1.04,
+      "def": 1.04,
+      "healMp": 1.04,
+      "healHp": 1.04,
+      "hitVal": 1.04,
+      "dodge": 1.04,
+      "crit": 1.04,
+      "tenacity": 1.04,
+      "lucky": 1.04,
+      "guardian": 1.04
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 131,
+    "rank": 10,
+    "level": 1,
+    "attributeValue": {
+      "atk": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 132,
+    "rank": 10,
+    "level": 2,
+    "attributeValue": {
+      "hp": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 133,
+    "rank": 10,
+    "level": 3,
+    "attributeValue": {
+      "mp": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 134,
+    "rank": 10,
+    "level": 4,
+    "attributeValue": {
+      "def": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 135,
+    "rank": 10,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 136,
+    "rank": 10,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 137,
+    "rank": 10,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 138,
+    "rank": 10,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 139,
+    "rank": 10,
+    "level": 9,
+    "attributeValue": {
+      "crit": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 140,
+    "rank": 10,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 141,
+    "rank": 10,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 1.31
+    },
+    "upResources": [
+      6,
+      56
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 142,
+    "rank": 10,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 1.31
+    },
+    "upResources": [
+      2,
+      14400
+    ],
+    "upLevelLimits": 150,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 143,
+    "rank": 11,
+    "level": 0,
+    "attributeValue": {
+      "atk": 1.31,
+      "hp": 1.31,
+      "mp": 1.31,
+      "def": 1.31,
+      "healMp": 1.31,
+      "healHp": 1.31,
+      "hitVal": 1.31,
+      "dodge": 1.31,
+      "crit": 1.31,
+      "tenacity": 1.31,
+      "lucky": 1.31,
+      "guardian": 1.31
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 144,
+    "rank": 11,
+    "level": 1,
+    "attributeValue": {
+      "atk": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 145,
+    "rank": 11,
+    "level": 2,
+    "attributeValue": {
+      "hp": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 146,
+    "rank": 11,
+    "level": 3,
+    "attributeValue": {
+      "mp": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 147,
+    "rank": 11,
+    "level": 4,
+    "attributeValue": {
+      "def": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 148,
+    "rank": 11,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 149,
+    "rank": 11,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 150,
+    "rank": 11,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 151,
+    "rank": 11,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 152,
+    "rank": 11,
+    "level": 9,
+    "attributeValue": {
+      "crit": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 153,
+    "rank": 11,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 154,
+    "rank": 11,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 1.65
+    },
+    "upResources": [
+      6,
+      60
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 155,
+    "rank": 11,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 1.65
+    },
+    "upResources": [
+      2,
+      17400
+    ],
+    "upLevelLimits": 160,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 156,
+    "rank": 12,
+    "level": 0,
+    "attributeValue": {
+      "atk": 1.65,
+      "hp": 1.65,
+      "mp": 1.65,
+      "def": 1.65,
+      "healMp": 1.65,
+      "healHp": 1.65,
+      "hitVal": 1.65,
+      "dodge": 1.65,
+      "crit": 1.65,
+      "tenacity": 1.65,
+      "lucky": 1.65,
+      "guardian": 1.65
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 157,
+    "rank": 12,
+    "level": 1,
+    "attributeValue": {
+      "atk": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 158,
+    "rank": 12,
+    "level": 2,
+    "attributeValue": {
+      "hp": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 159,
+    "rank": 12,
+    "level": 3,
+    "attributeValue": {
+      "mp": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 160,
+    "rank": 12,
+    "level": 4,
+    "attributeValue": {
+      "def": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 161,
+    "rank": 12,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 162,
+    "rank": 12,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 163,
+    "rank": 12,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 164,
+    "rank": 12,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 165,
+    "rank": 12,
+    "level": 9,
+    "attributeValue": {
+      "crit": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 166,
+    "rank": 12,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 167,
+    "rank": 12,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 1.7
+    },
+    "upResources": [
+      6,
+      64
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 168,
+    "rank": 12,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 1.7
+    },
+    "upResources": [
+      2,
+      20700
+    ],
+    "upLevelLimits": 170,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 169,
+    "rank": 13,
+    "level": 0,
+    "attributeValue": {
+      "atk": 1.7,
+      "hp": 1.7,
+      "mp": 1.7,
+      "def": 1.7,
+      "healMp": 1.7,
+      "healHp": 1.7,
+      "hitVal": 1.7,
+      "dodge": 1.7,
+      "crit": 1.7,
+      "tenacity": 1.7,
+      "lucky": 1.7,
+      "guardian": 1.7
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 170,
+    "rank": 13,
+    "level": 1,
+    "attributeValue": {
+      "atk": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 171,
+    "rank": 13,
+    "level": 2,
+    "attributeValue": {
+      "hp": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 172,
+    "rank": 13,
+    "level": 3,
+    "attributeValue": {
+      "mp": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 173,
+    "rank": 13,
+    "level": 4,
+    "attributeValue": {
+      "def": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 174,
+    "rank": 13,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 175,
+    "rank": 13,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 176,
+    "rank": 13,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 177,
+    "rank": 13,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 178,
+    "rank": 13,
+    "level": 9,
+    "attributeValue": {
+      "crit": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 179,
+    "rank": 13,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 180,
+    "rank": 13,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 1.75
+    },
+    "upResources": [
+      6,
+      68
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 181,
+    "rank": 13,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 1.75
+    },
+    "upResources": [
+      2,
+      24300
+    ],
+    "upLevelLimits": 180,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 182,
+    "rank": 14,
+    "level": 0,
+    "attributeValue": {
+      "atk": 1.75,
+      "hp": 1.75,
+      "mp": 1.75,
+      "def": 1.75,
+      "healMp": 1.75,
+      "healHp": 1.75,
+      "hitVal": 1.75,
+      "dodge": 1.75,
+      "crit": 1.75,
+      "tenacity": 1.75,
+      "lucky": 1.75,
+      "guardian": 1.75
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 183,
+    "rank": 14,
+    "level": 1,
+    "attributeValue": {
+      "atk": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 184,
+    "rank": 14,
+    "level": 2,
+    "attributeValue": {
+      "hp": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 185,
+    "rank": 14,
+    "level": 3,
+    "attributeValue": {
+      "mp": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 186,
+    "rank": 14,
+    "level": 4,
+    "attributeValue": {
+      "def": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 187,
+    "rank": 14,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 188,
+    "rank": 14,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 189,
+    "rank": 14,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 190,
+    "rank": 14,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 191,
+    "rank": 14,
+    "level": 9,
+    "attributeValue": {
+      "crit": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 192,
+    "rank": 14,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 193,
+    "rank": 14,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 1.8
+    },
+    "upResources": [
+      6,
+      72
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 194,
+    "rank": 14,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 1.8
+    },
+    "upResources": [
+      2,
+      28200
+    ],
+    "upLevelLimits": 190,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 195,
+    "rank": 15,
+    "level": 0,
+    "attributeValue": {
+      "atk": 1.8,
+      "hp": 1.8,
+      "mp": 1.8,
+      "def": 1.8,
+      "healMp": 1.8,
+      "healHp": 1.8,
+      "hitVal": 1.8,
+      "dodge": 1.8,
+      "crit": 1.8,
+      "tenacity": 1.8,
+      "lucky": 1.8,
+      "guardian": 1.8
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 196,
+    "rank": 15,
+    "level": 1,
+    "attributeValue": {
+      "atk": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 197,
+    "rank": 15,
+    "level": 2,
+    "attributeValue": {
+      "hp": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 198,
+    "rank": 15,
+    "level": 3,
+    "attributeValue": {
+      "mp": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 199,
+    "rank": 15,
+    "level": 4,
+    "attributeValue": {
+      "def": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 200,
+    "rank": 15,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 201,
+    "rank": 15,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 202,
+    "rank": 15,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 203,
+    "rank": 15,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 204,
+    "rank": 15,
+    "level": 9,
+    "attributeValue": {
+      "crit": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 205,
+    "rank": 15,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 206,
+    "rank": 15,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 2.15
+    },
+    "upResources": [
+      6,
+      76
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 207,
+    "rank": 15,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 2.15
+    },
+    "upResources": [
+      2,
+      32400
+    ],
+    "upLevelLimits": 200,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 208,
+    "rank": 16,
+    "level": 0,
+    "attributeValue": {
+      "atk": 2.15,
+      "hp": 2.15,
+      "mp": 2.15,
+      "def": 2.15,
+      "healMp": 2.15,
+      "healHp": 2.15,
+      "hitVal": 2.15,
+      "dodge": 2.15,
+      "crit": 2.15,
+      "tenacity": 2.15,
+      "lucky": 2.15,
+      "guardian": 2.15
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 209,
+    "rank": 16,
+    "level": 1,
+    "attributeValue": {
+      "atk": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 210,
+    "rank": 16,
+    "level": 2,
+    "attributeValue": {
+      "hp": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 211,
+    "rank": 16,
+    "level": 3,
+    "attributeValue": {
+      "mp": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 212,
+    "rank": 16,
+    "level": 4,
+    "attributeValue": {
+      "def": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 213,
+    "rank": 16,
+    "level": 5,
+    "attributeValue": {
+      "healMp": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 214,
+    "rank": 16,
+    "level": 6,
+    "attributeValue": {
+      "healHp": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 215,
+    "rank": 16,
+    "level": 7,
+    "attributeValue": {
+      "hitVal": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 216,
+    "rank": 16,
+    "level": 8,
+    "attributeValue": {
+      "dodge": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 217,
+    "rank": 16,
+    "level": 9,
+    "attributeValue": {
+      "crit": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 218,
+    "rank": 16,
+    "level": 10,
+    "attributeValue": {
+      "tenacity": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 219,
+    "rank": 16,
+    "level": 11,
+    "attributeValue": {
+      "lucky": 2.33
+    },
+    "upResources": [
+      6,
+      80
+    ],
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 220,
+    "rank": 16,
+    "level": 12,
+    "attributeValue": {
+      "guardian": 2.33
+    },
+    "upResources": [
+      2,
+      36900
+    ],
+    "upLevelLimits": 210,
+    "resourceId": "wukong_shuzhi"
+  },
+  {
+    "id": 221,
+    "rank": 17,
+    "level": 0,
+    "attributeValue": {
+      "atk": 2.33,
+      "hp": 2.33,
+      "mp": 2.33,
+      "def": 2.33,
+      "healMp": 2.33,
+      "healHp": 2.33,
+      "hitVal": 2.33,
+      "dodge": 2.33,
+      "crit": 2.33,
+      "tenacity": 2.33,
+      "lucky": 2.33,
+      "guardian": 2.33
+    },
+    "upResources": [
+      6,
+      84
+    ],
+    "resourceId": "wukong_shuzhi"
+  }
+]

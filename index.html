@@ -26,9 +26,9 @@
             <button class="tab-button" data-tab="wingbag">翅膀</button>
             <button class="tab-button" data-tab="pet">宠物</button>
             <button class="tab-button" data-tab="ride">坐骑</button>
-            <button class="tab-button" data-tab="meridians">经脉</button>
-            <button class="tab-button" data-tab="galaxy">星系</button>
-            <button class="tab-button" data-tab="reputation">声望</button>
+            <button class="tab-button" data-tab="meridians">外丹</button>
+            <button class="tab-button" data-tab="galaxy">星核</button>
+            <button class="tab-button" data-tab="reputation">信誉</button>
             <button class="tab-button" data-tab="arena">竞技场</button>
         </div>
         
@@ -67,7 +67,7 @@
                 <!-- 坐骑信息将在这里显示 -->
             </div>
             <div id="meridians" class="tab-pane">
-                <!-- 经脉信息将在这里显示 -->
+                <!-- 外丹信息将在这里显示 -->
             </div>
             <div id="galaxy" class="tab-pane">
                 <!-- 星系信息将在这里显示 -->
@@ -87,7 +87,16 @@
         </div>
     </div>
     
-    <script src="dataProcessing.js"></script>
-    <script src="main.js"></script>
+    <!-- 先加载数据文件 -->
+    <script src="data/title.e2bcc.js"></script>
+    <script src="data/project.0ee26.js"></script>
+    <script src="data/equip.0c04e.js"></script>
+    <script src="data/skill.4d1b3.js"></script>
+    <!-- 再加载工具库 -->
+    <script src="translations.js"></script>
+    <script src="translationManager.js"></script>
+    <!-- 最后加载主程序 -->
+    <script type="module" src="dataApi.js"></script>
+    <script type="module" src="main.js"></script>
 </body>
 </html>

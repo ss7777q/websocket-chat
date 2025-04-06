@@ -1,0 +1,146 @@
+[
+  {
+    "id": 210651,
+    "rideEquipId": 210651,
+    "name": "旋龟护盔",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210652,
+    "rideEquipId": 210652,
+    "name": "旋龟护甲",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210653,
+    "rideEquipId": 210653,
+    "name": "旋龟爪套",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210654,
+    "rideEquipId": 210654,
+    "name": "旋龟战靴",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210751,
+    "rideEquipId": 210751,
+    "name": "地狼护盔",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210752,
+    "rideEquipId": 210752,
+    "name": "地狼护甲",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210753,
+    "rideEquipId": 210753,
+    "name": "地狼爪套",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210754,
+    "rideEquipId": 210754,
+    "name": "地狼战靴",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210851,
+    "rideEquipId": 210851,
+    "name": "毕方护盔",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210852,
+    "rideEquipId": 210852,
+    "name": "毕方护甲",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210853,
+    "rideEquipId": 210853,
+    "name": "毕方爪套",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210854,
+    "rideEquipId": 210854,
+    "name": "毕方战靴",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210951,
+    "rideEquipId": 210951,
+    "name": "钩蛇护盔",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210952,
+    "rideEquipId": 210952,
+    "name": "钩蛇护甲",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210953,
+    "rideEquipId": 210953,
+    "name": "钩蛇爪套",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 210954,
+    "rideEquipId": 210954,
+    "name": "钩蛇战靴",
+    "attributeValue": [
+      0.5,
+      0.5
+    ]
+  }
+]

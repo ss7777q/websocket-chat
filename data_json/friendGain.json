@@ -1,0 +1,510 @@
+[
+  {
+    "id": 1,
+    "name": "噩梦关卡战斗",
+    "type": 1,
+    "value": 6,
+    "friendValue": 5
+  },
+  {
+    "id": 2,
+    "name": "幻境关卡战斗",
+    "type": 1,
+    "value": 2,
+    "friendValue": 15
+  },
+  {
+    "id": 3,
+    "name": "神魔战场战斗",
+    "type": 1,
+    "value": 13,
+    "friendValue": 6
+  },
+  {
+    "id": 4,
+    "name": "守护昆仑",
+    "type": 1,
+    "value": 23,
+    "friendValue": 10
+  },
+  {
+    "id": 5,
+    "name": "天神乱斗",
+    "type": 1,
+    "value": 29,
+    "friendValue": 3
+  },
+  {
+    "id": 6,
+    "name": "天机灵域·和平房",
+    "type": 1,
+    "value": 101,
+    "friendValue": 0
+  },
+  {
+    "id": 7,
+    "name": "天机灵域·自由房",
+    "type": 1,
+    "value": 102,
+    "friendValue": 0
+  },
+  {
+    "id": 8,
+    "name": "讨伐凶兽",
+    "type": 1,
+    "value": 33,
+    "friendValue": 5
+  },
+  {
+    "id": 5000001,
+    "name": "天涯比邻",
+    "type": 2,
+    "value": 5000001,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "海内存知己，天涯若比邻。不辞山路远，踏雪也相过。时间为证，岁月为名，过眼年华，动人幽意。相逢几番春换，晚岁当为邻舍翁。",
+    "limit": 1,
+    "effectsName": "tianyabilin",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200007,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200007,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000002,
+    "name": "花好月圆",
+    "type": 2,
+    "value": 5000002,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "海上生明月，天涯共此时。但愿人长久，千里共婵娟。花好时节，愿得年年，常见秋月，月照我还。平分秋色一轮满，长伴云衢千里明。",
+    "limit": 1,
+    "effectsName": "huahaoyueyuan",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200008,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200008,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000003,
+    "name": "万事胜意",
+    "type": 3,
+    "value": 5000003,
+    "friendValue": 200,
+    "goodFriendValue": 200,
+    "limit": 1,
+    "effectsName": "wanshishengyi",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200009,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200009,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000004,
+    "name": "南瓜奇妙夜",
+    "type": 2,
+    "value": 5000004,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "南瓜咧开嘴角，城堡外传来敲门声。想和你一起过万圣节，做你心里最甜的捣蛋鬼。",
+    "limit": 1,
+    "effectsName": "nanguaqimiaoye",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200010,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200010,
+          30
+        ],
+        [
+          200021,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000005,
+    "name": "虎年大吉",
+    "type": 2,
+    "value": 5000005,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "龙骧虎步，如虎添翼，鸿运当头，诸事顺利",
+    "limit": 1,
+    "effectsName": "huniandaji",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200011,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200011,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000006,
+    "name": "新年快乐",
+    "type": 3,
+    "value": 5000006,
+    "friendValue": 200,
+    "goodFriendValue": 200,
+    "limit": 1,
+    "effectsName": "xinniankuaile",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200012,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200012,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000007,
+    "name": "11周年烟花",
+    "type": 2,
+    "value": 5000007,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "11载良辰美景，都是举世无双的好时光，期许未来，与你继续一同造梦",
+    "limit": 1,
+    "effectsName": "11zhouniankuaile",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200014,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200014,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000008,
+    "name": "大展宏兔",
+    "type": 2,
+    "value": 5000008,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "玉兔呈祥，大展宏图，鸿运当头，万事如意",
+    "limit": 1,
+    "effectsName": "dazhanhongtu",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200016,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200016,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000009,
+    "name": "真心玫瑰",
+    "type": 2,
+    "value": 5000009,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "情不知所起，一往而深，情谊长存，慕意浓烈，真心永恒。",
+    "limit": 1,
+    "effectsName": "zhenxinmeigui",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200017,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200017,
+          30
+        ]
+      ]
+    },
+    "playCounts": [
+      {
+        "wait": 1,
+        "addX": 0,
+        "addY": 0
+      },
+      {
+        "wait": 500,
+        "addX": -300,
+        "addY": -200
+      },
+      {
+        "wait": 500,
+        "addX": 300,
+        "addY": -200
+      },
+      {
+        "wait": 500,
+        "addX": -300,
+        "addY": 200
+      },
+      {
+        "wait": 500,
+        "addX": 300,
+        "addY": 200
+      },
+      {
+        "wait": 1000,
+        "addX": 500,
+        "addY": 400
+      },
+      {
+        "wait": 1000,
+        "addX": 500,
+        "addY": -400
+      },
+      {
+        "wait": 1000,
+        "addX": 700,
+        "addY": 0
+      },
+      {
+        "wait": 1000,
+        "addX": 0,
+        "addY": 300
+      },
+      {
+        "wait": 1000,
+        "addX": -500,
+        "addY": 400
+      },
+      {
+        "wait": 1000,
+        "addX": -500,
+        "addY": -400
+      },
+      {
+        "wait": 1000,
+        "addX": -700,
+        "addY": 0
+      },
+      {
+        "wait": 1000,
+        "addX": 0,
+        "addY": -500
+      },
+      {
+        "wait": 2000,
+        "addX": 0,
+        "addY": 0
+      }
+    ]
+  },
+  {
+    "id": 5000010,
+    "name": "龙行大运",
+    "type": 2,
+    "value": 5000010,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "龙年行大运，祥瑞照门庭。",
+    "limit": 1,
+    "effectsName": "longnianyanhua",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200022,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200022,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000011,
+    "name": "汪汪大笑",
+    "type": 2,
+    "value": 5000011,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "汪汪汪，旺旺旺，汪汪汪旺旺，旺旺旺汪汪。",
+    "limit": 1,
+    "effectsName": "wangwangdaxiao",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200023,
+          30
+        ],
+        [
+          200024,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200023,
+          30
+        ],
+        [
+          200024,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5000012,
+    "name": "蛇运亨通",
+    "type": 2,
+    "value": 5000012,
+    "friendValue": 500,
+    "goodFriendValue": 500,
+    "text": "福蛇迎春，灵蛇献瑞，吉星高照，金玉满堂。",
+    "limit": 1,
+    "effectsName": "shenianyanhua",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200026,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200026,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5100001,
+    "name": "鸢尾",
+    "type": 4,
+    "value": 5100001,
+    "friendValue": 20,
+    "goodFriendValue": 20
+  },
+  {
+    "id": 5100002,
+    "name": "榴莲月饼",
+    "type": 4,
+    "value": 5100002,
+    "friendValue": 50,
+    "goodFriendValue": 50
+  },
+  {
+    "id": 5100003,
+    "name": "玫瑰花",
+    "type": 4,
+    "value": 5100003,
+    "friendValue": 20,
+    "goodFriendValue": 20
+  },
+  {
+    "id": 5100004,
+    "name": "愚人逗趣",
+    "type": 3,
+    "value": 5100004,
+    "friendValue": 41,
+    "goodFriendValue": 41,
+    "text": "这个愚人节你就是小丑",
+    "limit": 1,
+    "effectsName": "xiaochou",
+    "buffInfo": {
+      "selfBuffs": [
+        [
+          200020,
+          30
+        ]
+      ],
+      "friendBuffs": [
+        [
+          200019,
+          30
+        ],
+        [
+          200018,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 5200001,
+    "name": "万圣糖果",
+    "type": 5,
+    "value": 5200001,
+    "friendValue": 0,
+    "limit": 1,
+    "buffInfo": {
+      "friendBuffs": [
+        [
+          501001,
+          10,
+          1440
+        ]
+      ]
+    }
+  }
+]

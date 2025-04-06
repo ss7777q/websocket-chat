@@ -1,4 +1,4 @@
-const publicHost = "7644-111-16-245-236.ngrok-free.app";
+const publicHost = "7ab5-111-16-245-153.ngrok-free.app";
 
 const ws = new WebSocket(`wss://${publicHost}/client`);
 const resultsDiv = document.getElementById('results');

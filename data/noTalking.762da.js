@@ -1,0 +1,1 @@
+var tmp=[["id","reportNumber","time"],[20,9999,86400],[25,9999,86400],[30,9999,86400],[35,9999,86400],[40,9999,86400],[50,9999,86400],[60,9999,86400],[70,9999,86400],[80,9999,86400],[90,9999,86400],[1e3,9999,86400]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.noTalking=tmp);

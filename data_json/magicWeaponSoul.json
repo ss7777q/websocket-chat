@@ -1,0 +1,7247 @@
+[
+  {
+    "id": 141002001,
+    "type": 1,
+    "quality": 2,
+    "name": "20级太阳01",
+    "group": 101,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      9,
+      3
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 141002002,
+    "type": 1,
+    "quality": 2,
+    "name": "20级太阳02",
+    "group": 102,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      8,
+      4
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 141002003,
+    "type": 1,
+    "quality": 2,
+    "name": "20级太阳03",
+    "group": 103,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      7,
+      5
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 141002004,
+    "type": 1,
+    "quality": 2,
+    "name": "20级太阳04",
+    "group": 104,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      6,
+      6
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 141002005,
+    "type": 1,
+    "quality": 2,
+    "name": "20级太阳05",
+    "group": 105,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      5,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 141002006,
+    "type": 1,
+    "quality": 2,
+    "name": "20级太阳06",
+    "group": 106,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      4,
+      8
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 141002007,
+    "type": 1,
+    "quality": 2,
+    "name": "20级太阳07",
+    "group": 107,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      3,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 141005001,
+    "type": 1,
+    "quality": 2,
+    "name": "50级太阳01",
+    "group": 101,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      11,
+      4
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 141005002,
+    "type": 1,
+    "quality": 2,
+    "name": "50级太阳02",
+    "group": 102,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      10,
+      5
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 141005003,
+    "type": 1,
+    "quality": 2,
+    "name": "50级太阳03",
+    "group": 103,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      9,
+      6
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 141005004,
+    "type": 1,
+    "quality": 2,
+    "name": "50级太阳04",
+    "group": 104,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      8,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 141005005,
+    "type": 1,
+    "quality": 2,
+    "name": "50级太阳05",
+    "group": 105,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      6,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 141005006,
+    "type": 1,
+    "quality": 2,
+    "name": "50级太阳06",
+    "group": 106,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      5,
+      10
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 141005007,
+    "type": 1,
+    "quality": 2,
+    "name": "50级太阳07",
+    "group": 107,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      4,
+      11
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 141008001,
+    "type": 1,
+    "quality": 2,
+    "name": "80级太阳01",
+    "group": 101,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      20,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 141008002,
+    "type": 1,
+    "quality": 2,
+    "name": "80级太阳02",
+    "group": 102,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      18,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 141008003,
+    "type": 1,
+    "quality": 2,
+    "name": "80级太阳03",
+    "group": 103,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      16,
+      11
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 141008004,
+    "type": 1,
+    "quality": 2,
+    "name": "80级太阳04",
+    "group": 104,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      14,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 141008005,
+    "type": 1,
+    "quality": 2,
+    "name": "80级太阳05",
+    "group": 105,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      11,
+      16
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 141008006,
+    "type": 1,
+    "quality": 2,
+    "name": "80级太阳06",
+    "group": 106,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      9,
+      18
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 141008007,
+    "type": 1,
+    "quality": 2,
+    "name": "80级太阳07",
+    "group": 107,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      7,
+      20
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 141009001,
+    "type": 1,
+    "quality": 2,
+    "name": "90级太阳01",
+    "group": 101,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      31,
+      10
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 141009002,
+    "type": 1,
+    "quality": 2,
+    "name": "90级太阳02",
+    "group": 102,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      28,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 141009003,
+    "type": 1,
+    "quality": 2,
+    "name": "90级太阳03",
+    "group": 103,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      24,
+      17
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 141009004,
+    "type": 1,
+    "quality": 2,
+    "name": "90级太阳04",
+    "group": 104,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      21,
+      20
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 141009005,
+    "type": 1,
+    "quality": 2,
+    "name": "90级太阳05",
+    "group": 105,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      17,
+      24
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 141009006,
+    "type": 1,
+    "quality": 2,
+    "name": "90级太阳06",
+    "group": 106,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      13,
+      28
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 141009007,
+    "type": 1,
+    "quality": 2,
+    "name": "90级太阳07",
+    "group": 107,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      10,
+      31
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 141010001,
+    "type": 1,
+    "quality": 3,
+    "name": "100级太阳01",
+    "group": 101,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      40,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 141010002,
+    "type": 1,
+    "quality": 3,
+    "name": "100级太阳02",
+    "group": 102,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      35,
+      18
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 141010003,
+    "type": 1,
+    "quality": 3,
+    "name": "100级太阳03",
+    "group": 103,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      31,
+      22
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 141010004,
+    "type": 1,
+    "quality": 3,
+    "name": "100级太阳04",
+    "group": 104,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      27,
+      26
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 141010005,
+    "type": 1,
+    "quality": 3,
+    "name": "100级太阳05",
+    "group": 105,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      22,
+      31
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 141010006,
+    "type": 1,
+    "quality": 3,
+    "name": "100级太阳06",
+    "group": 106,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      18,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 141010007,
+    "type": 1,
+    "quality": 3,
+    "name": "100级太阳07",
+    "group": 107,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      13,
+      40
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 141011001,
+    "type": 1,
+    "quality": 3,
+    "name": "110级太阳01",
+    "group": 101,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      50,
+      16
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 141011002,
+    "type": 1,
+    "quality": 3,
+    "name": "110级太阳02",
+    "group": 102,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      44,
+      22
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 141011003,
+    "type": 1,
+    "quality": 3,
+    "name": "110级太阳03",
+    "group": 103,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      39,
+      27
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 141011004,
+    "type": 1,
+    "quality": 3,
+    "name": "110级太阳04",
+    "group": 104,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      33,
+      33
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 141011005,
+    "type": 1,
+    "quality": 3,
+    "name": "110级太阳05",
+    "group": 105,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      27,
+      39
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 141011006,
+    "type": 1,
+    "quality": 3,
+    "name": "110级太阳06",
+    "group": 106,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      22,
+      44
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 141011007,
+    "type": 1,
+    "quality": 3,
+    "name": "110级太阳07",
+    "group": 107,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      16,
+      50
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 141012001,
+    "type": 1,
+    "quality": 3,
+    "name": "120级太阳01",
+    "group": 101,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      63,
+      21
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 141012002,
+    "type": 1,
+    "quality": 3,
+    "name": "120级太阳02",
+    "group": 102,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      56,
+      28
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 141012003,
+    "type": 1,
+    "quality": 3,
+    "name": "120级太阳03",
+    "group": 103,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      49,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 141012004,
+    "type": 1,
+    "quality": 4,
+    "name": "120级太阳04",
+    "group": 104,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      42,
+      42
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 141012005,
+    "type": 1,
+    "quality": 4,
+    "name": "120级太阳05",
+    "group": 105,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      35,
+      49
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 141012006,
+    "type": 1,
+    "quality": 4,
+    "name": "120级太阳06",
+    "group": 106,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      28,
+      56
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 141012007,
+    "type": 1,
+    "quality": 4,
+    "name": "120级太阳07",
+    "group": 107,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      21,
+      63
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 141013001,
+    "type": 1,
+    "quality": 4,
+    "name": "130级太阳01",
+    "group": 101,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      79,
+      26
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 141013002,
+    "type": 1,
+    "quality": 4,
+    "name": "130级太阳02",
+    "group": 102,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      70,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 141013003,
+    "type": 1,
+    "quality": 4,
+    "name": "130级太阳03",
+    "group": 103,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      62,
+      43
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 141013004,
+    "type": 1,
+    "quality": 4,
+    "name": "130级太阳04",
+    "group": 104,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      53,
+      52
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 141013005,
+    "type": 1,
+    "quality": 4,
+    "name": "130级太阳05",
+    "group": 105,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      43,
+      62
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 141013006,
+    "type": 1,
+    "quality": 4,
+    "name": "130级太阳06",
+    "group": 106,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      35,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 141013007,
+    "type": 1,
+    "quality": 4,
+    "name": "130级太阳07",
+    "group": 107,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      26,
+      79
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 141014001,
+    "type": 1,
+    "quality": 4,
+    "name": "140级太阳01",
+    "group": 101,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      100,
+      33
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 141014002,
+    "type": 1,
+    "quality": 4,
+    "name": "140级太阳02",
+    "group": 102,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      89,
+      44
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 141014003,
+    "type": 1,
+    "quality": 4,
+    "name": "140级太阳03",
+    "group": 103,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      78,
+      55
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 141014004,
+    "type": 1,
+    "quality": 4,
+    "name": "140级太阳04",
+    "group": 104,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      67,
+      66
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 141014005,
+    "type": 1,
+    "quality": 4,
+    "name": "140级太阳05",
+    "group": 105,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      55,
+      78
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 141014006,
+    "type": 1,
+    "quality": 4,
+    "name": "140级太阳06",
+    "group": 106,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      44,
+      89
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 141014007,
+    "type": 1,
+    "quality": 4,
+    "name": "140级太阳07",
+    "group": 107,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      33,
+      100
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 141015001,
+    "type": 1,
+    "quality": 4,
+    "name": "150级太阳01",
+    "group": 101,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      126,
+      42
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 141015002,
+    "type": 1,
+    "quality": 4,
+    "name": "150级太阳02",
+    "group": 102,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      112,
+      56
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 141015003,
+    "type": 1,
+    "quality": 4,
+    "name": "150级太阳03",
+    "group": 103,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      98,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 141015004,
+    "type": 1,
+    "quality": 4,
+    "name": "150级太阳04",
+    "group": 104,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      84,
+      84
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 141015005,
+    "type": 1,
+    "quality": 4,
+    "name": "150级太阳05",
+    "group": 105,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      70,
+      98
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 141015006,
+    "type": 1,
+    "quality": 4,
+    "name": "150级太阳06",
+    "group": 106,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      56,
+      112
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 141015007,
+    "type": 1,
+    "quality": 4,
+    "name": "150级太阳07",
+    "group": 107,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      42,
+      126
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 141016001,
+    "type": 1,
+    "quality": 5,
+    "name": "160级太阳01",
+    "group": 101,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      146,
+      48
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 141016002,
+    "type": 1,
+    "quality": 5,
+    "name": "160级太阳02",
+    "group": 102,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      130,
+      64
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 141016003,
+    "type": 1,
+    "quality": 5,
+    "name": "160级太阳03",
+    "group": 103,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      113,
+      81
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 141016004,
+    "type": 1,
+    "quality": 5,
+    "name": "160级太阳04",
+    "group": 104,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      97,
+      97
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 141016005,
+    "type": 1,
+    "quality": 5,
+    "name": "160级太阳05",
+    "group": 105,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      81,
+      113
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 141016006,
+    "type": 1,
+    "quality": 5,
+    "name": "160级太阳06",
+    "group": 106,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      64,
+      130
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 141016007,
+    "type": 1,
+    "quality": 5,
+    "name": "160级太阳07",
+    "group": 107,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      48,
+      146
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 141017001,
+    "type": 1,
+    "quality": 5,
+    "name": "170级太阳01",
+    "group": 101,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      158,
+      52
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 141017002,
+    "type": 1,
+    "quality": 5,
+    "name": "170级太阳02",
+    "group": 102,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      140,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 141017003,
+    "type": 1,
+    "quality": 5,
+    "name": "170级太阳03",
+    "group": 103,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      122,
+      88
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 141017004,
+    "type": 1,
+    "quality": 5,
+    "name": "170级太阳04",
+    "group": 104,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      105,
+      105
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 141017005,
+    "type": 1,
+    "quality": 5,
+    "name": "170级太阳05",
+    "group": 105,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      88,
+      122
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 141017006,
+    "type": 1,
+    "quality": 5,
+    "name": "170级太阳06",
+    "group": 106,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      70,
+      140
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 141017007,
+    "type": 1,
+    "quality": 5,
+    "name": "170级太阳07",
+    "group": 107,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      52,
+      158
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 141018001,
+    "type": 1,
+    "quality": 5,
+    "name": "180级太阳01",
+    "group": 101,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      172,
+      58
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 141018002,
+    "type": 1,
+    "quality": 5,
+    "name": "180级太阳02",
+    "group": 102,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      153,
+      77
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 141018003,
+    "type": 1,
+    "quality": 5,
+    "name": "180级太阳03",
+    "group": 103,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      134,
+      96
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 141018004,
+    "type": 1,
+    "quality": 5,
+    "name": "180级太阳04",
+    "group": 104,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      115,
+      115
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 141018005,
+    "type": 1,
+    "quality": 5,
+    "name": "180级太阳05",
+    "group": 105,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      96,
+      134
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 141018006,
+    "type": 1,
+    "quality": 5,
+    "name": "180级太阳06",
+    "group": 106,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      77,
+      153
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 141018007,
+    "type": 1,
+    "quality": 5,
+    "name": "180级太阳07",
+    "group": 107,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      58,
+      172
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 141019001,
+    "type": 1,
+    "quality": 5,
+    "name": "190级太阳01",
+    "group": 101,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      188,
+      62
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 141019002,
+    "type": 1,
+    "quality": 5,
+    "name": "190级太阳02",
+    "group": 102,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      166,
+      84
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 141019003,
+    "type": 1,
+    "quality": 5,
+    "name": "190级太阳03",
+    "group": 103,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      146,
+      104
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 141019004,
+    "type": 1,
+    "quality": 5,
+    "name": "190级太阳04",
+    "group": 104,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      125,
+      125
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 141019005,
+    "type": 1,
+    "quality": 5,
+    "name": "190级太阳05",
+    "group": 105,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      104,
+      146
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 141019006,
+    "type": 1,
+    "quality": 5,
+    "name": "190级太阳06",
+    "group": 106,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      84,
+      166
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 141019007,
+    "type": 1,
+    "quality": 5,
+    "name": "190级太阳07",
+    "group": 107,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      62,
+      188
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 141020001,
+    "type": 1,
+    "quality": 5,
+    "name": "200级太阳01",
+    "group": 101,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      205,
+      68
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 141020002,
+    "type": 1,
+    "quality": 5,
+    "name": "200级太阳02",
+    "group": 102,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      182,
+      91
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 141020003,
+    "type": 1,
+    "quality": 5,
+    "name": "200级太阳03",
+    "group": 103,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      159,
+      114
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 141020004,
+    "type": 1,
+    "quality": 5,
+    "name": "200级太阳04",
+    "group": 104,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      136,
+      137
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 141020005,
+    "type": 1,
+    "quality": 5,
+    "name": "200级太阳05",
+    "group": 105,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      114,
+      159
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 141020006,
+    "type": 1,
+    "quality": 5,
+    "name": "200级太阳06",
+    "group": 106,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      91,
+      182
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 141020007,
+    "type": 1,
+    "quality": 5,
+    "name": "200级太阳07",
+    "group": 107,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      68,
+      205
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 142002001,
+    "type": 2,
+    "quality": 2,
+    "name": "20级太阴01",
+    "group": 201,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      9,
+      3
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 142002002,
+    "type": 2,
+    "quality": 2,
+    "name": "20级太阴02",
+    "group": 202,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      8,
+      4
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 142002003,
+    "type": 2,
+    "quality": 2,
+    "name": "20级太阴03",
+    "group": 203,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      7,
+      5
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 142002004,
+    "type": 2,
+    "quality": 2,
+    "name": "20级太阴04",
+    "group": 204,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      6,
+      6
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 142002005,
+    "type": 2,
+    "quality": 2,
+    "name": "20级太阴05",
+    "group": 205,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      5,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 142002006,
+    "type": 2,
+    "quality": 2,
+    "name": "20级太阴06",
+    "group": 206,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      4,
+      8
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 142002007,
+    "type": 2,
+    "quality": 2,
+    "name": "20级太阴07",
+    "group": 207,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      3,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 142005001,
+    "type": 2,
+    "quality": 2,
+    "name": "50级太阴01",
+    "group": 201,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      11,
+      4
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 142005002,
+    "type": 2,
+    "quality": 2,
+    "name": "50级太阴02",
+    "group": 202,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      10,
+      5
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 142005003,
+    "type": 2,
+    "quality": 2,
+    "name": "50级太阴03",
+    "group": 203,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      9,
+      6
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 142005004,
+    "type": 2,
+    "quality": 2,
+    "name": "50级太阴04",
+    "group": 204,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      8,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 142005005,
+    "type": 2,
+    "quality": 2,
+    "name": "50级太阴05",
+    "group": 205,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      6,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 142005006,
+    "type": 2,
+    "quality": 2,
+    "name": "50级太阴06",
+    "group": 206,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      5,
+      10
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 142005007,
+    "type": 2,
+    "quality": 2,
+    "name": "50级太阴07",
+    "group": 207,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      4,
+      11
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 142008001,
+    "type": 2,
+    "quality": 2,
+    "name": "80级太阴01",
+    "group": 201,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      20,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 142008002,
+    "type": 2,
+    "quality": 2,
+    "name": "80级太阴02",
+    "group": 202,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      18,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 142008003,
+    "type": 2,
+    "quality": 2,
+    "name": "80级太阴03",
+    "group": 203,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      16,
+      11
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 142008004,
+    "type": 2,
+    "quality": 2,
+    "name": "80级太阴04",
+    "group": 204,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      14,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 142008005,
+    "type": 2,
+    "quality": 2,
+    "name": "80级太阴05",
+    "group": 205,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      11,
+      16
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 142008006,
+    "type": 2,
+    "quality": 2,
+    "name": "80级太阴06",
+    "group": 206,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      9,
+      18
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 142008007,
+    "type": 2,
+    "quality": 2,
+    "name": "80级太阴07",
+    "group": 207,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      7,
+      20
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 142009001,
+    "type": 2,
+    "quality": 2,
+    "name": "90级太阴01",
+    "group": 201,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      31,
+      10
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 142009002,
+    "type": 2,
+    "quality": 2,
+    "name": "90级太阴02",
+    "group": 202,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      28,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 142009003,
+    "type": 2,
+    "quality": 2,
+    "name": "90级太阴03",
+    "group": 203,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      24,
+      17
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 142009004,
+    "type": 2,
+    "quality": 2,
+    "name": "90级太阴04",
+    "group": 204,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      21,
+      20
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 142009005,
+    "type": 2,
+    "quality": 2,
+    "name": "90级太阴05",
+    "group": 205,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      17,
+      24
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 142009006,
+    "type": 2,
+    "quality": 2,
+    "name": "90级太阴06",
+    "group": 206,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      13,
+      28
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 142009007,
+    "type": 2,
+    "quality": 2,
+    "name": "90级太阴07",
+    "group": 207,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      10,
+      31
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 142010001,
+    "type": 2,
+    "quality": 3,
+    "name": "100级太阴01",
+    "group": 201,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      40,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 142010002,
+    "type": 2,
+    "quality": 3,
+    "name": "100级太阴02",
+    "group": 202,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      35,
+      18
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 142010003,
+    "type": 2,
+    "quality": 3,
+    "name": "100级太阴03",
+    "group": 203,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      31,
+      22
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 142010004,
+    "type": 2,
+    "quality": 3,
+    "name": "100级太阴04",
+    "group": 204,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      27,
+      26
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 142010005,
+    "type": 2,
+    "quality": 3,
+    "name": "100级太阴05",
+    "group": 205,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      22,
+      31
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 142010006,
+    "type": 2,
+    "quality": 3,
+    "name": "100级太阴06",
+    "group": 206,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      18,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 142010007,
+    "type": 2,
+    "quality": 3,
+    "name": "100级太阴07",
+    "group": 207,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      13,
+      40
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 142011001,
+    "type": 2,
+    "quality": 3,
+    "name": "110级太阴01",
+    "group": 201,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      50,
+      16
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 142011002,
+    "type": 2,
+    "quality": 3,
+    "name": "110级太阴02",
+    "group": 202,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      44,
+      22
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 142011003,
+    "type": 2,
+    "quality": 3,
+    "name": "110级太阴03",
+    "group": 203,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      39,
+      27
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 142011004,
+    "type": 2,
+    "quality": 3,
+    "name": "110级太阴04",
+    "group": 204,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      33,
+      33
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 142011005,
+    "type": 2,
+    "quality": 3,
+    "name": "110级太阴05",
+    "group": 205,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      27,
+      39
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 142011006,
+    "type": 2,
+    "quality": 3,
+    "name": "110级太阴06",
+    "group": 206,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      22,
+      44
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 142011007,
+    "type": 2,
+    "quality": 3,
+    "name": "110级太阴07",
+    "group": 207,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      16,
+      50
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 142012001,
+    "type": 2,
+    "quality": 3,
+    "name": "120级太阴01",
+    "group": 201,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      63,
+      21
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 142012002,
+    "type": 2,
+    "quality": 3,
+    "name": "120级太阴02",
+    "group": 202,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      56,
+      28
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 142012003,
+    "type": 2,
+    "quality": 3,
+    "name": "120级太阴03",
+    "group": 203,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      49,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 142012004,
+    "type": 2,
+    "quality": 4,
+    "name": "120级太阴04",
+    "group": 204,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      42,
+      42
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 142012005,
+    "type": 2,
+    "quality": 4,
+    "name": "120级太阴05",
+    "group": 205,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      35,
+      49
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 142012006,
+    "type": 2,
+    "quality": 4,
+    "name": "120级太阴06",
+    "group": 206,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      28,
+      56
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 142012007,
+    "type": 2,
+    "quality": 4,
+    "name": "120级太阴07",
+    "group": 207,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      21,
+      63
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 142013001,
+    "type": 2,
+    "quality": 4,
+    "name": "130级太阴01",
+    "group": 201,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      79,
+      26
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 142013002,
+    "type": 2,
+    "quality": 4,
+    "name": "130级太阴02",
+    "group": 202,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      70,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 142013003,
+    "type": 2,
+    "quality": 4,
+    "name": "130级太阴03",
+    "group": 203,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      62,
+      43
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 142013004,
+    "type": 2,
+    "quality": 4,
+    "name": "130级太阴04",
+    "group": 204,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      53,
+      52
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 142013005,
+    "type": 2,
+    "quality": 4,
+    "name": "130级太阴05",
+    "group": 205,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      43,
+      62
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 142013006,
+    "type": 2,
+    "quality": 4,
+    "name": "130级太阴06",
+    "group": 206,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      35,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 142013007,
+    "type": 2,
+    "quality": 4,
+    "name": "130级太阴07",
+    "group": 207,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      26,
+      79
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 142014001,
+    "type": 2,
+    "quality": 4,
+    "name": "140级太阴01",
+    "group": 201,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      100,
+      33
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 142014002,
+    "type": 2,
+    "quality": 4,
+    "name": "140级太阴02",
+    "group": 202,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      89,
+      44
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 142014003,
+    "type": 2,
+    "quality": 4,
+    "name": "140级太阴03",
+    "group": 203,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      78,
+      55
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 142014004,
+    "type": 2,
+    "quality": 4,
+    "name": "140级太阴04",
+    "group": 204,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      67,
+      66
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 142014005,
+    "type": 2,
+    "quality": 4,
+    "name": "140级太阴05",
+    "group": 205,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      55,
+      78
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 142014006,
+    "type": 2,
+    "quality": 4,
+    "name": "140级太阴06",
+    "group": 206,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      44,
+      89
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 142014007,
+    "type": 2,
+    "quality": 4,
+    "name": "140级太阴07",
+    "group": 207,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      33,
+      100
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 142015001,
+    "type": 2,
+    "quality": 4,
+    "name": "150级太阴01",
+    "group": 201,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      126,
+      42
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 142015002,
+    "type": 2,
+    "quality": 4,
+    "name": "150级太阴02",
+    "group": 202,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      112,
+      56
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 142015003,
+    "type": 2,
+    "quality": 4,
+    "name": "150级太阴03",
+    "group": 203,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      98,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 142015004,
+    "type": 2,
+    "quality": 4,
+    "name": "150级太阴04",
+    "group": 204,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      84,
+      84
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 142015005,
+    "type": 2,
+    "quality": 4,
+    "name": "150级太阴05",
+    "group": 205,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      70,
+      98
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 142015006,
+    "type": 2,
+    "quality": 4,
+    "name": "150级太阴06",
+    "group": 206,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      56,
+      112
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 142015007,
+    "type": 2,
+    "quality": 4,
+    "name": "150级太阴07",
+    "group": 207,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      42,
+      126
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 142016001,
+    "type": 2,
+    "quality": 5,
+    "name": "160级太阴01",
+    "group": 201,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      146,
+      48
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 142016002,
+    "type": 2,
+    "quality": 5,
+    "name": "160级太阴02",
+    "group": 202,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      130,
+      64
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 142016003,
+    "type": 2,
+    "quality": 5,
+    "name": "160级太阴03",
+    "group": 203,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      113,
+      81
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 142016004,
+    "type": 2,
+    "quality": 5,
+    "name": "160级太阴04",
+    "group": 204,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      97,
+      97
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 142016005,
+    "type": 2,
+    "quality": 5,
+    "name": "160级太阴05",
+    "group": 205,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      81,
+      113
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 142016006,
+    "type": 2,
+    "quality": 5,
+    "name": "160级太阴06",
+    "group": 206,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      64,
+      130
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 142016007,
+    "type": 2,
+    "quality": 5,
+    "name": "160级太阴07",
+    "group": 207,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      48,
+      146
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 142017001,
+    "type": 2,
+    "quality": 5,
+    "name": "170级太阴01",
+    "group": 201,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      158,
+      52
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 142017002,
+    "type": 2,
+    "quality": 5,
+    "name": "170级太阴02",
+    "group": 202,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      140,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 142017003,
+    "type": 2,
+    "quality": 5,
+    "name": "170级太阴03",
+    "group": 203,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      122,
+      88
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 142017004,
+    "type": 2,
+    "quality": 5,
+    "name": "170级太阴04",
+    "group": 204,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      105,
+      105
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 142017005,
+    "type": 2,
+    "quality": 5,
+    "name": "170级太阴05",
+    "group": 205,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      88,
+      122
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 142017006,
+    "type": 2,
+    "quality": 5,
+    "name": "170级太阴06",
+    "group": 206,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      70,
+      140
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 142017007,
+    "type": 2,
+    "quality": 5,
+    "name": "170级太阴07",
+    "group": 207,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      52,
+      158
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 142018001,
+    "type": 2,
+    "quality": 5,
+    "name": "180级太阴01",
+    "group": 201,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      172,
+      58
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 142018002,
+    "type": 2,
+    "quality": 5,
+    "name": "180级太阴02",
+    "group": 202,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      153,
+      77
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 142018003,
+    "type": 2,
+    "quality": 5,
+    "name": "180级太阴03",
+    "group": 203,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      134,
+      96
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 142018004,
+    "type": 2,
+    "quality": 5,
+    "name": "180级太阴04",
+    "group": 204,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      115,
+      115
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 142018005,
+    "type": 2,
+    "quality": 5,
+    "name": "180级太阴05",
+    "group": 205,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      96,
+      134
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 142018006,
+    "type": 2,
+    "quality": 5,
+    "name": "180级太阴06",
+    "group": 206,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      77,
+      153
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 142018007,
+    "type": 2,
+    "quality": 5,
+    "name": "180级太阴07",
+    "group": 207,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      58,
+      172
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 142019001,
+    "type": 2,
+    "quality": 5,
+    "name": "190级太阴01",
+    "group": 201,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      188,
+      62
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 142019002,
+    "type": 2,
+    "quality": 5,
+    "name": "190级太阴02",
+    "group": 202,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      166,
+      84
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 142019003,
+    "type": 2,
+    "quality": 5,
+    "name": "190级太阴03",
+    "group": 203,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      146,
+      104
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 142019004,
+    "type": 2,
+    "quality": 5,
+    "name": "190级太阴04",
+    "group": 204,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      125,
+      125
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 142019005,
+    "type": 2,
+    "quality": 5,
+    "name": "190级太阴05",
+    "group": 205,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      104,
+      146
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 142019006,
+    "type": 2,
+    "quality": 5,
+    "name": "190级太阴06",
+    "group": 206,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      84,
+      166
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 142019007,
+    "type": 2,
+    "quality": 5,
+    "name": "190级太阴07",
+    "group": 207,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      62,
+      188
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 142020001,
+    "type": 2,
+    "quality": 5,
+    "name": "200级太阴01",
+    "group": 201,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      205,
+      68
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 142020002,
+    "type": 2,
+    "quality": 5,
+    "name": "200级太阴02",
+    "group": 202,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      182,
+      91
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 142020003,
+    "type": 2,
+    "quality": 5,
+    "name": "200级太阴03",
+    "group": 203,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      159,
+      114
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 142020004,
+    "type": 2,
+    "quality": 5,
+    "name": "200级太阴04",
+    "group": 204,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      136,
+      137
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 142020005,
+    "type": 2,
+    "quality": 5,
+    "name": "200级太阴05",
+    "group": 205,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      114,
+      159
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 142020006,
+    "type": 2,
+    "quality": 5,
+    "name": "200级太阴06",
+    "group": 206,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      91,
+      182
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 142020007,
+    "type": 2,
+    "quality": 5,
+    "name": "200级太阴07",
+    "group": 207,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      68,
+      205
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 143002001,
+    "type": 3,
+    "quality": 2,
+    "name": "20级混元01",
+    "group": 301,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      9,
+      3
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 143002002,
+    "type": 3,
+    "quality": 2,
+    "name": "20级混元02",
+    "group": 302,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      8,
+      4
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 143002003,
+    "type": 3,
+    "quality": 2,
+    "name": "20级混元03",
+    "group": 303,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      7,
+      5
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 143002004,
+    "type": 3,
+    "quality": 2,
+    "name": "20级混元04",
+    "group": 304,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      6,
+      6
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 143002005,
+    "type": 3,
+    "quality": 2,
+    "name": "20级混元05",
+    "group": 305,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      5,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 143002006,
+    "type": 3,
+    "quality": 2,
+    "name": "20级混元06",
+    "group": 306,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      4,
+      8
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 143002007,
+    "type": 3,
+    "quality": 2,
+    "name": "20级混元07",
+    "group": 307,
+    "level": 1,
+    "strength": 20,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      3,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 143005001,
+    "type": 3,
+    "quality": 2,
+    "name": "50级混元01",
+    "group": 301,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      11,
+      4
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 143005002,
+    "type": 3,
+    "quality": 2,
+    "name": "50级混元02",
+    "group": 302,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      10,
+      5
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 143005003,
+    "type": 3,
+    "quality": 2,
+    "name": "50级混元03",
+    "group": 303,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      9,
+      6
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 143005004,
+    "type": 3,
+    "quality": 2,
+    "name": "50级混元04",
+    "group": 304,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      8,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 143005005,
+    "type": 3,
+    "quality": 2,
+    "name": "50级混元05",
+    "group": 305,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      6,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 143005006,
+    "type": 3,
+    "quality": 2,
+    "name": "50级混元06",
+    "group": 306,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      5,
+      10
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 143005007,
+    "type": 3,
+    "quality": 2,
+    "name": "50级混元07",
+    "group": 307,
+    "level": 2,
+    "strength": 50,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      4,
+      11
+    ],
+    "sellCost": [
+      [
+        3,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 143008001,
+    "type": 3,
+    "quality": 2,
+    "name": "80级混元01",
+    "group": 301,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      20,
+      7
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 143008002,
+    "type": 3,
+    "quality": 2,
+    "name": "80级混元02",
+    "group": 302,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      18,
+      9
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 143008003,
+    "type": 3,
+    "quality": 2,
+    "name": "80级混元03",
+    "group": 303,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      16,
+      11
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 143008004,
+    "type": 3,
+    "quality": 2,
+    "name": "80级混元04",
+    "group": 304,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      14,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 143008005,
+    "type": 3,
+    "quality": 2,
+    "name": "80级混元05",
+    "group": 305,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      11,
+      16
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 143008006,
+    "type": 3,
+    "quality": 2,
+    "name": "80级混元06",
+    "group": 306,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      9,
+      18
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 143008007,
+    "type": 3,
+    "quality": 2,
+    "name": "80级混元07",
+    "group": 307,
+    "level": 3,
+    "strength": 80,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      7,
+      20
+    ],
+    "sellCost": [
+      [
+        3,
+        1110
+      ]
+    ]
+  },
+  {
+    "id": 143009001,
+    "type": 3,
+    "quality": 2,
+    "name": "90级混元01",
+    "group": 301,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      31,
+      10
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 143009002,
+    "type": 3,
+    "quality": 2,
+    "name": "90级混元02",
+    "group": 302,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      28,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 143009003,
+    "type": 3,
+    "quality": 2,
+    "name": "90级混元03",
+    "group": 303,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      24,
+      17
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 143009004,
+    "type": 3,
+    "quality": 2,
+    "name": "90级混元04",
+    "group": 304,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      21,
+      20
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 143009005,
+    "type": 3,
+    "quality": 2,
+    "name": "90级混元05",
+    "group": 305,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      17,
+      24
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 143009006,
+    "type": 3,
+    "quality": 2,
+    "name": "90级混元06",
+    "group": 306,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      13,
+      28
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 143009007,
+    "type": 3,
+    "quality": 2,
+    "name": "90级混元07",
+    "group": 307,
+    "level": 4,
+    "strength": 90,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      10,
+      31
+    ],
+    "sellCost": [
+      [
+        3,
+        1670
+      ]
+    ]
+  },
+  {
+    "id": 143010001,
+    "type": 3,
+    "quality": 3,
+    "name": "100级混元01",
+    "group": 301,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      40,
+      13
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 143010002,
+    "type": 3,
+    "quality": 3,
+    "name": "100级混元02",
+    "group": 302,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      35,
+      18
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 143010003,
+    "type": 3,
+    "quality": 3,
+    "name": "100级混元03",
+    "group": 303,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      31,
+      22
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 143010004,
+    "type": 3,
+    "quality": 3,
+    "name": "100级混元04",
+    "group": 304,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      27,
+      26
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 143010005,
+    "type": 3,
+    "quality": 3,
+    "name": "100级混元05",
+    "group": 305,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      22,
+      31
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 143010006,
+    "type": 3,
+    "quality": 3,
+    "name": "100级混元06",
+    "group": 306,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      18,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 143010007,
+    "type": 3,
+    "quality": 3,
+    "name": "100级混元07",
+    "group": 307,
+    "level": 5,
+    "strength": 100,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      13,
+      40
+    ],
+    "sellCost": [
+      [
+        3,
+        2460
+      ]
+    ]
+  },
+  {
+    "id": 143011001,
+    "type": 3,
+    "quality": 3,
+    "name": "110级混元01",
+    "group": 301,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      50,
+      16
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 143011002,
+    "type": 3,
+    "quality": 3,
+    "name": "110级混元02",
+    "group": 302,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      44,
+      22
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 143011003,
+    "type": 3,
+    "quality": 3,
+    "name": "110级混元03",
+    "group": 303,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      39,
+      27
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 143011004,
+    "type": 3,
+    "quality": 3,
+    "name": "110级混元04",
+    "group": 304,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      33,
+      33
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 143011005,
+    "type": 3,
+    "quality": 3,
+    "name": "110级混元05",
+    "group": 305,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      27,
+      39
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 143011006,
+    "type": 3,
+    "quality": 3,
+    "name": "110级混元06",
+    "group": 306,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      22,
+      44
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 143011007,
+    "type": 3,
+    "quality": 3,
+    "name": "110级混元07",
+    "group": 307,
+    "level": 6,
+    "strength": 110,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      16,
+      50
+    ],
+    "sellCost": [
+      [
+        3,
+        3320
+      ]
+    ]
+  },
+  {
+    "id": 143012001,
+    "type": 3,
+    "quality": 3,
+    "name": "120级混元01",
+    "group": 301,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      63,
+      21
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 143012002,
+    "type": 3,
+    "quality": 3,
+    "name": "120级混元02",
+    "group": 302,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      56,
+      28
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 143012003,
+    "type": 3,
+    "quality": 3,
+    "name": "120级混元03",
+    "group": 303,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      49,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 143012004,
+    "type": 3,
+    "quality": 4,
+    "name": "120级混元04",
+    "group": 304,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      42,
+      42
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 143012005,
+    "type": 3,
+    "quality": 4,
+    "name": "120级混元05",
+    "group": 305,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      35,
+      49
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 143012006,
+    "type": 3,
+    "quality": 4,
+    "name": "120级混元06",
+    "group": 306,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      28,
+      56
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 143012007,
+    "type": 3,
+    "quality": 4,
+    "name": "120级混元07",
+    "group": 307,
+    "level": 7,
+    "strength": 120,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      21,
+      63
+    ],
+    "sellCost": [
+      [
+        3,
+        4460
+      ]
+    ]
+  },
+  {
+    "id": 143013001,
+    "type": 3,
+    "quality": 4,
+    "name": "130级混元01",
+    "group": 301,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      79,
+      26
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 143013002,
+    "type": 3,
+    "quality": 4,
+    "name": "130级混元02",
+    "group": 302,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      70,
+      35
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 143013003,
+    "type": 3,
+    "quality": 4,
+    "name": "130级混元03",
+    "group": 303,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      62,
+      43
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 143013004,
+    "type": 3,
+    "quality": 4,
+    "name": "130级混元04",
+    "group": 304,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      53,
+      52
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 143013005,
+    "type": 3,
+    "quality": 4,
+    "name": "130级混元05",
+    "group": 305,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      43,
+      62
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 143013006,
+    "type": 3,
+    "quality": 4,
+    "name": "130级混元06",
+    "group": 306,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      35,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 143013007,
+    "type": 3,
+    "quality": 4,
+    "name": "130级混元07",
+    "group": 307,
+    "level": 8,
+    "strength": 130,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      26,
+      79
+    ],
+    "sellCost": [
+      [
+        3,
+        5970
+      ]
+    ]
+  },
+  {
+    "id": 143014001,
+    "type": 3,
+    "quality": 4,
+    "name": "140级混元01",
+    "group": 301,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      100,
+      33
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 143014002,
+    "type": 3,
+    "quality": 4,
+    "name": "140级混元02",
+    "group": 302,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      89,
+      44
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 143014003,
+    "type": 3,
+    "quality": 4,
+    "name": "140级混元03",
+    "group": 303,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      78,
+      55
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 143014004,
+    "type": 3,
+    "quality": 4,
+    "name": "140级混元04",
+    "group": 304,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      67,
+      66
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 143014005,
+    "type": 3,
+    "quality": 4,
+    "name": "140级混元05",
+    "group": 305,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      55,
+      78
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 143014006,
+    "type": 3,
+    "quality": 4,
+    "name": "140级混元06",
+    "group": 306,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      44,
+      89
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 143014007,
+    "type": 3,
+    "quality": 4,
+    "name": "140级混元07",
+    "group": 307,
+    "level": 9,
+    "strength": 140,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      33,
+      100
+    ],
+    "sellCost": [
+      [
+        3,
+        7970
+      ]
+    ]
+  },
+  {
+    "id": 143015001,
+    "type": 3,
+    "quality": 4,
+    "name": "150级混元01",
+    "group": 301,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      126,
+      42
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 143015002,
+    "type": 3,
+    "quality": 4,
+    "name": "150级混元02",
+    "group": 302,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      112,
+      56
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 143015003,
+    "type": 3,
+    "quality": 4,
+    "name": "150级混元03",
+    "group": 303,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      98,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 143015004,
+    "type": 3,
+    "quality": 4,
+    "name": "150级混元04",
+    "group": 304,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      84,
+      84
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 143015005,
+    "type": 3,
+    "quality": 4,
+    "name": "150级混元05",
+    "group": 305,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      70,
+      98
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 143015006,
+    "type": 3,
+    "quality": 4,
+    "name": "150级混元06",
+    "group": 306,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      56,
+      112
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 143015007,
+    "type": 3,
+    "quality": 4,
+    "name": "150级混元07",
+    "group": 307,
+    "level": 10,
+    "strength": 150,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      42,
+      126
+    ],
+    "sellCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 143016001,
+    "type": 3,
+    "quality": 5,
+    "name": "160级混元01",
+    "group": 301,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      146,
+      48
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 143016002,
+    "type": 3,
+    "quality": 5,
+    "name": "160级混元02",
+    "group": 302,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      130,
+      64
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 143016003,
+    "type": 3,
+    "quality": 5,
+    "name": "160级混元03",
+    "group": 303,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      113,
+      81
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 143016004,
+    "type": 3,
+    "quality": 5,
+    "name": "160级混元04",
+    "group": 304,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      97,
+      97
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 143016005,
+    "type": 3,
+    "quality": 5,
+    "name": "160级混元05",
+    "group": 305,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      81,
+      113
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 143016006,
+    "type": 3,
+    "quality": 5,
+    "name": "160级混元06",
+    "group": 306,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      64,
+      130
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 143016007,
+    "type": 3,
+    "quality": 5,
+    "name": "160级混元07",
+    "group": 307,
+    "level": 11,
+    "strength": 160,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      48,
+      146
+    ],
+    "sellCost": [
+      [
+        3,
+        14100
+      ]
+    ]
+  },
+  {
+    "id": 143017001,
+    "type": 3,
+    "quality": 5,
+    "name": "170级混元01",
+    "group": 301,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      158,
+      52
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 143017002,
+    "type": 3,
+    "quality": 5,
+    "name": "170级混元02",
+    "group": 302,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      140,
+      70
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 143017003,
+    "type": 3,
+    "quality": 5,
+    "name": "170级混元03",
+    "group": 303,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      122,
+      88
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 143017004,
+    "type": 3,
+    "quality": 5,
+    "name": "170级混元04",
+    "group": 304,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      105,
+      105
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 143017005,
+    "type": 3,
+    "quality": 5,
+    "name": "170级混元05",
+    "group": 305,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      88,
+      122
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 143017006,
+    "type": 3,
+    "quality": 5,
+    "name": "170级混元06",
+    "group": 306,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      70,
+      140
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 143017007,
+    "type": 3,
+    "quality": 5,
+    "name": "170级混元07",
+    "group": 307,
+    "level": 12,
+    "strength": 170,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      52,
+      158
+    ],
+    "sellCost": [
+      [
+        3,
+        18600
+      ]
+    ]
+  },
+  {
+    "id": 143018001,
+    "type": 3,
+    "quality": 5,
+    "name": "180级混元01",
+    "group": 301,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      172,
+      58
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 143018002,
+    "type": 3,
+    "quality": 5,
+    "name": "180级混元02",
+    "group": 302,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      153,
+      77
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 143018003,
+    "type": 3,
+    "quality": 5,
+    "name": "180级混元03",
+    "group": 303,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      134,
+      96
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 143018004,
+    "type": 3,
+    "quality": 5,
+    "name": "180级混元04",
+    "group": 304,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      115,
+      115
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 143018005,
+    "type": 3,
+    "quality": 5,
+    "name": "180级混元05",
+    "group": 305,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      96,
+      134
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 143018006,
+    "type": 3,
+    "quality": 5,
+    "name": "180级混元06",
+    "group": 306,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      77,
+      153
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 143018007,
+    "type": 3,
+    "quality": 5,
+    "name": "180级混元07",
+    "group": 307,
+    "level": 13,
+    "strength": 180,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      58,
+      172
+    ],
+    "sellCost": [
+      [
+        3,
+        24500
+      ]
+    ]
+  },
+  {
+    "id": 143019001,
+    "type": 3,
+    "quality": 5,
+    "name": "190级混元01",
+    "group": 301,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      188,
+      62
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 143019002,
+    "type": 3,
+    "quality": 5,
+    "name": "190级混元02",
+    "group": 302,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      166,
+      84
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 143019003,
+    "type": 3,
+    "quality": 5,
+    "name": "190级混元03",
+    "group": 303,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      146,
+      104
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 143019004,
+    "type": 3,
+    "quality": 5,
+    "name": "190级混元04",
+    "group": 304,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      125,
+      125
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 143019005,
+    "type": 3,
+    "quality": 5,
+    "name": "190级混元05",
+    "group": 305,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      104,
+      146
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 143019006,
+    "type": 3,
+    "quality": 5,
+    "name": "190级混元06",
+    "group": 306,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      84,
+      166
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 143019007,
+    "type": 3,
+    "quality": 5,
+    "name": "190级混元07",
+    "group": 307,
+    "level": 14,
+    "strength": 190,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      62,
+      188
+    ],
+    "sellCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 143020001,
+    "type": 3,
+    "quality": 5,
+    "name": "200级混元01",
+    "group": 301,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      205,
+      68
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 143020002,
+    "type": 3,
+    "quality": 5,
+    "name": "200级混元02",
+    "group": 302,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      182,
+      91
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 143020003,
+    "type": 3,
+    "quality": 5,
+    "name": "200级混元03",
+    "group": 303,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      159,
+      114
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 143020004,
+    "type": 3,
+    "quality": 5,
+    "name": "200级混元04",
+    "group": 304,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      136,
+      137
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 143020005,
+    "type": 3,
+    "quality": 5,
+    "name": "200级混元05",
+    "group": 305,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      114,
+      159
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 143020006,
+    "type": 3,
+    "quality": 5,
+    "name": "200级混元06",
+    "group": 306,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      91,
+      182
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  },
+  {
+    "id": 143020007,
+    "type": 3,
+    "quality": 5,
+    "name": "200级混元07",
+    "group": 307,
+    "level": 15,
+    "strength": 200,
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      68,
+      205
+    ],
+    "sellCost": [
+      [
+        3,
+        42500
+      ]
+    ]
+  }
+]

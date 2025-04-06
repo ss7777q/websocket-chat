@@ -1,0 +1,4725 @@
+[
+  {
+    "id": 1,
+    "floor": 1,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000001
+      ],
+      [
+        190000011
+      ],
+      [
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 1,
+    "skillNum": 1,
+    "skillLevel": 1,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.29,
+    "equip": {},
+    "equipPercent": 0.8,
+    "equipUpgrade": 1,
+    "equipLevel": 0,
+    "affixPercent": 0.8,
+    "potentialNum": 1,
+    "potentialLevel": 1,
+    "physique": 1,
+    "dropShow": [
+      210101,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3010101
+    ],
+    "power": 3600
+  },
+  {
+    "id": 2,
+    "floor": 1,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000001
+      ],
+      [
+        190000011
+      ],
+      [
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 2,
+    "skillNum": 1,
+    "skillLevel": 1,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.31,
+    "equip": {
+      "head": 210101
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 2,
+    "equipLevel": 0,
+    "affixPercent": 0.83,
+    "potentialNum": 1,
+    "potentialLevel": 1,
+    "physique": 1,
+    "dropShow": [
+      210102,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3010201
+    ],
+    "power": 5900
+  },
+  {
+    "id": 3,
+    "floor": 1,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000001
+      ],
+      [
+        190000011
+      ],
+      [
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 4,
+    "skillNum": 1,
+    "skillLevel": 1,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.33,
+    "equip": {
+      "head": 210101,
+      "armor": 210102
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 4,
+    "equipLevel": 0,
+    "affixPercent": 0.86,
+    "potentialNum": 1,
+    "potentialLevel": 1,
+    "physique": 1,
+    "dropShow": [
+      210103,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3010301
+    ],
+    "power": 9200
+  },
+  {
+    "id": 4,
+    "floor": 1,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000001
+      ],
+      [
+        190000011
+      ],
+      [
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 6,
+    "skillNum": 1,
+    "skillLevel": 1,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.35,
+    "equip": {
+      "head": 210101,
+      "armor": 210102,
+      "hand": 210103
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 6,
+    "equipLevel": 0,
+    "affixPercent": 0.9,
+    "potentialNum": 1,
+    "potentialLevel": 1,
+    "physique": 1,
+    "dropShow": [
+      210104,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3010401
+    ],
+    "power": 13300
+  },
+  {
+    "id": 5,
+    "floor": 2,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000001,
+        190000011
+      ],
+      [
+        190000011,
+        190000021
+      ],
+      [
+        190000001,
+        190000021
+      ],
+      [
+        190000001,
+        190000001
+      ],
+      [
+        190000011,
+        190000011
+      ],
+      [
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 10,
+    "skillNum": 1,
+    "skillLevel": 2,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.37,
+    "equip": {
+      "head": 210101,
+      "armor": 210102,
+      "hand": 210103,
+      "foot": 210104
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 10,
+    "equipLevel": 10,
+    "affixPercent": 0.8,
+    "potentialNum": 2,
+    "potentialLevel": 2,
+    "physique": 2,
+    "dropShow": [
+      210201,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3020101
+    ],
+    "power": 38600
+  },
+  {
+    "id": 6,
+    "floor": 2,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000001,
+        190000011
+      ],
+      [
+        190000011,
+        190000021
+      ],
+      [
+        190000001,
+        190000021
+      ],
+      [
+        190000001,
+        190000001
+      ],
+      [
+        190000011,
+        190000011
+      ],
+      [
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 12,
+    "skillNum": 1,
+    "skillLevel": 2,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.39,
+    "equip": {
+      "head": 210201,
+      "armor": 210102,
+      "hand": 210103,
+      "foot": 210104
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 12,
+    "equipLevel": 10,
+    "affixPercent": 0.83,
+    "potentialNum": 2,
+    "potentialLevel": 2,
+    "physique": 2,
+    "dropShow": [
+      210202,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3020201
+    ],
+    "power": 44400
+  },
+  {
+    "id": 7,
+    "floor": 2,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000001,
+        190000011
+      ],
+      [
+        190000011,
+        190000021
+      ],
+      [
+        190000001,
+        190000021
+      ],
+      [
+        190000001,
+        190000001
+      ],
+      [
+        190000011,
+        190000011
+      ],
+      [
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 14,
+    "skillNum": 1,
+    "skillLevel": 3,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.41,
+    "equip": {
+      "head": 210201,
+      "armor": 210202,
+      "hand": 210103,
+      "foot": 210104
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 14,
+    "equipLevel": 10,
+    "affixPercent": 0.86,
+    "potentialNum": 2,
+    "potentialLevel": 2,
+    "physique": 2,
+    "dropShow": [
+      210203,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3020301
+    ],
+    "power": 50500
+  },
+  {
+    "id": 8,
+    "floor": 2,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000001,
+        190000011
+      ],
+      [
+        190000011,
+        190000021
+      ],
+      [
+        190000001,
+        190000021
+      ],
+      [
+        190000001,
+        190000001
+      ],
+      [
+        190000011,
+        190000011
+      ],
+      [
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 16,
+    "skillNum": 1,
+    "skillLevel": 3,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.43,
+    "equip": {
+      "head": 210201,
+      "armor": 210202,
+      "hand": 210203,
+      "foot": 210104
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 16,
+    "equipLevel": 10,
+    "affixPercent": 0.9,
+    "potentialNum": 2,
+    "potentialLevel": 2,
+    "physique": 2,
+    "dropShow": [
+      210204,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3020401
+    ],
+    "power": 57300
+  },
+  {
+    "id": 9,
+    "floor": 3,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000001,
+        190000001,
+        190000001
+      ],
+      [
+        190000001,
+        190000001,
+        190000011
+      ],
+      [
+        190000001,
+        190000001,
+        190000021
+      ],
+      [
+        190000001,
+        190000011,
+        190000001
+      ],
+      [
+        190000001,
+        190000011,
+        190000011
+      ],
+      [
+        190000001,
+        190000011,
+        190000021
+      ],
+      [
+        190000001,
+        190000021,
+        190000001
+      ],
+      [
+        190000001,
+        190000021,
+        190000011
+      ],
+      [
+        190000001,
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 20,
+    "skillNum": 2,
+    "skillLevel": 4,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.45,
+    "equip": {
+      "head": 210201,
+      "armor": 210202,
+      "hand": 210203,
+      "foot": 210204
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 20,
+    "equipLevel": 20,
+    "affixPercent": 0.8,
+    "potentialNum": 3,
+    "potentialLevel": 3,
+    "physique": 3,
+    "dropShow": [
+      210301,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3030101
+    ],
+    "power": 101000
+  },
+  {
+    "id": 10,
+    "floor": 3,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000011,
+        190000001,
+        190000001
+      ],
+      [
+        190000011,
+        190000001,
+        190000011
+      ],
+      [
+        190000011,
+        190000001,
+        190000021
+      ],
+      [
+        190000011,
+        190000011,
+        190000001
+      ],
+      [
+        190000011,
+        190000011,
+        190000011
+      ],
+      [
+        190000011,
+        190000011,
+        190000021
+      ],
+      [
+        190000011,
+        190000021,
+        190000001
+      ],
+      [
+        190000011,
+        190000021,
+        190000011
+      ],
+      [
+        190000011,
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 22,
+    "skillNum": 2,
+    "skillLevel": 4,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.47,
+    "equip": {
+      "head": 210301,
+      "armor": 210202,
+      "hand": 210203,
+      "foot": 210204
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 22,
+    "equipLevel": 20,
+    "affixPercent": 0.83,
+    "potentialNum": 3,
+    "potentialLevel": 3,
+    "physique": 3,
+    "dropShow": [
+      210302,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3030201
+    ],
+    "power": 116000
+  },
+  {
+    "id": 11,
+    "floor": 3,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000021,
+        190000001,
+        190000001
+      ],
+      [
+        190000021,
+        190000001,
+        190000011
+      ],
+      [
+        190000021,
+        190000001,
+        190000021
+      ],
+      [
+        190000021,
+        190000011,
+        190000001
+      ],
+      [
+        190000021,
+        190000011,
+        190000011
+      ],
+      [
+        190000021,
+        190000011,
+        190000021
+      ],
+      [
+        190000021,
+        190000021,
+        190000001
+      ],
+      [
+        190000021,
+        190000021,
+        190000011
+      ],
+      [
+        190000021,
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 24,
+    "skillNum": 2,
+    "skillLevel": 5,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.49,
+    "equip": {
+      "head": 210301,
+      "armor": 210302,
+      "hand": 210203,
+      "foot": 210204
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 24,
+    "equipLevel": 20,
+    "affixPercent": 0.86,
+    "potentialNum": 3,
+    "potentialLevel": 3,
+    "physique": 3,
+    "dropShow": [
+      210303,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3030301
+    ],
+    "power": 130000
+  },
+  {
+    "id": 12,
+    "floor": 3,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000001,
+        190000001,
+        190000001
+      ],
+      [
+        190000001,
+        190000011,
+        190000011
+      ],
+      [
+        190000001,
+        190000021,
+        190000021
+      ],
+      [
+        190000011,
+        190000011,
+        190000011
+      ],
+      [
+        190000011,
+        190000021,
+        190000021
+      ],
+      [
+        190000011,
+        190000021,
+        190000021
+      ],
+      [
+        190000021,
+        190000021,
+        190000021
+      ],
+      [
+        190000021,
+        190000001,
+        190000001
+      ],
+      [
+        190000021,
+        190000011,
+        190000011
+      ]
+    ],
+    "star": 1,
+    "level": 26,
+    "skillNum": 2,
+    "skillLevel": 5,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.51,
+    "equip": {
+      "head": 210301,
+      "armor": 210302,
+      "hand": 210303,
+      "foot": 210204
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 26,
+    "equipLevel": 20,
+    "affixPercent": 0.9,
+    "potentialNum": 3,
+    "potentialLevel": 3,
+    "physique": 3,
+    "dropShow": [
+      210304,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3030401
+    ],
+    "power": 147000
+  },
+  {
+    "id": 13,
+    "floor": 4,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000001,
+        190000001,
+        190000001
+      ],
+      [
+        190000001,
+        190000001,
+        190000011
+      ],
+      [
+        190000001,
+        190000001,
+        190000021
+      ],
+      [
+        190000001,
+        190000011,
+        190000001
+      ],
+      [
+        190000001,
+        190000011,
+        190000011
+      ],
+      [
+        190000001,
+        190000011,
+        190000021
+      ],
+      [
+        190000001,
+        190000021,
+        190000001
+      ],
+      [
+        190000001,
+        190000021,
+        190000011
+      ],
+      [
+        190000001,
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 30,
+    "skillNum": 2,
+    "skillLevel": 6,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.53,
+    "equip": {
+      "head": 210301,
+      "armor": 210302,
+      "hand": 210303,
+      "foot": 210304
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 30,
+    "equipLevel": 30,
+    "affixPercent": 0.8,
+    "potentialNum": 4,
+    "potentialLevel": 4,
+    "physique": 4,
+    "dropShow": [
+      210401,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3040101
+    ],
+    "power": 165000
+  },
+  {
+    "id": 14,
+    "floor": 4,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000011,
+        190000001,
+        190000001
+      ],
+      [
+        190000011,
+        190000001,
+        190000011
+      ],
+      [
+        190000011,
+        190000001,
+        190000021
+      ],
+      [
+        190000011,
+        190000011,
+        190000001
+      ],
+      [
+        190000011,
+        190000011,
+        190000011
+      ],
+      [
+        190000011,
+        190000011,
+        190000021
+      ],
+      [
+        190000011,
+        190000021,
+        190000001
+      ],
+      [
+        190000011,
+        190000021,
+        190000011
+      ],
+      [
+        190000011,
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 32,
+    "skillNum": 2,
+    "skillLevel": 6,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.55,
+    "equip": {
+      "head": 210401,
+      "armor": 210302,
+      "hand": 210303,
+      "foot": 210304
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 32,
+    "equipLevel": 30,
+    "affixPercent": 0.83,
+    "potentialNum": 4,
+    "potentialLevel": 4,
+    "physique": 4,
+    "dropShow": [
+      210402,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3040201
+    ],
+    "power": 183000
+  },
+  {
+    "id": 15,
+    "floor": 4,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000021,
+        190000001,
+        190000001
+      ],
+      [
+        190000021,
+        190000001,
+        190000011
+      ],
+      [
+        190000021,
+        190000001,
+        190000021
+      ],
+      [
+        190000021,
+        190000011,
+        190000001
+      ],
+      [
+        190000021,
+        190000011,
+        190000011
+      ],
+      [
+        190000021,
+        190000011,
+        190000021
+      ],
+      [
+        190000021,
+        190000021,
+        190000001
+      ],
+      [
+        190000021,
+        190000021,
+        190000011
+      ],
+      [
+        190000021,
+        190000021,
+        190000021
+      ]
+    ],
+    "star": 1,
+    "level": 34,
+    "skillNum": 2,
+    "skillLevel": 7,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.57,
+    "equip": {
+      "head": 210401,
+      "armor": 210402,
+      "hand": 210303,
+      "foot": 210304
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 35,
+    "equipLevel": 30,
+    "affixPercent": 0.86,
+    "potentialNum": 4,
+    "potentialLevel": 4,
+    "physique": 4,
+    "dropShow": [
+      210403,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3040301
+    ],
+    "power": 205000
+  },
+  {
+    "id": 16,
+    "floor": 4,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000001,
+        190000001,
+        190000001
+      ],
+      [
+        190000001,
+        190000011,
+        190000011
+      ],
+      [
+        190000001,
+        190000021,
+        190000021
+      ],
+      [
+        190000011,
+        190000011,
+        190000011
+      ],
+      [
+        190000011,
+        190000021,
+        190000021
+      ],
+      [
+        190000011,
+        190000021,
+        190000021
+      ],
+      [
+        190000021,
+        190000021,
+        190000021
+      ],
+      [
+        190000021,
+        190000001,
+        190000001
+      ],
+      [
+        190000021,
+        190000011,
+        190000011
+      ]
+    ],
+    "star": 1,
+    "level": 36,
+    "skillNum": 2,
+    "skillLevel": 7,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.59,
+    "equip": {
+      "head": 210401,
+      "armor": 210402,
+      "hand": 210403,
+      "foot": 210304
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 38,
+    "equipLevel": 30,
+    "affixPercent": 0.9,
+    "potentialNum": 4,
+    "potentialLevel": 4,
+    "physique": 4,
+    "dropShow": [
+      210404,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3040401
+    ],
+    "power": 229000
+  },
+  {
+    "id": 17,
+    "floor": 5,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000002,
+        190000012,
+        190000012
+      ],
+      [
+        190000002,
+        190000012,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 40,
+    "skillNum": 3,
+    "skillLevel": 8,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.61,
+    "equip": {
+      "head": 210401,
+      "armor": 210402,
+      "hand": 210403,
+      "foot": 210404
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 40,
+    "equipLevel": 40,
+    "affixPercent": 0.8,
+    "potentialNum": 5,
+    "potentialLevel": 5,
+    "physique": 5,
+    "dropShow": [
+      210501,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3050101
+    ],
+    "power": 239000
+  },
+  {
+    "id": 18,
+    "floor": 5,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000012,
+        190000012,
+        190000012
+      ],
+      [
+        190000012,
+        190000002,
+        190000012
+      ],
+      [
+        190000012,
+        190000012,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 42,
+    "skillNum": 3,
+    "skillLevel": 8,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.63,
+    "equip": {
+      "head": 210501,
+      "armor": 210402,
+      "hand": 210403,
+      "foot": 210404
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 43,
+    "equipLevel": 40,
+    "affixPercent": 0.83,
+    "potentialNum": 5,
+    "potentialLevel": 5,
+    "physique": 5,
+    "dropShow": [
+      210502,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3050201
+    ],
+    "power": 260000
+  },
+  {
+    "id": 19,
+    "floor": 5,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000012,
+        190000002,
+        190000002
+      ],
+      [
+        190000002,
+        190000022,
+        190000012
+      ],
+      [
+        190000012,
+        190000022,
+        190000002
+      ],
+      [
+        190000002,
+        190000012,
+        190000022
+      ]
+    ],
+    "star": 1,
+    "level": 44,
+    "skillNum": 3,
+    "skillLevel": 9,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.65,
+    "equip": {
+      "head": 210501,
+      "armor": 210502,
+      "hand": 210403,
+      "foot": 210404
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 46,
+    "equipLevel": 40,
+    "affixPercent": 0.86,
+    "potentialNum": 5,
+    "potentialLevel": 5,
+    "physique": 5,
+    "dropShow": [
+      210503,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3050301
+    ],
+    "power": 283000
+  },
+  {
+    "id": 20,
+    "floor": 5,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000012,
+        190000012,
+        190000022
+      ],
+      [
+        190000012,
+        190000022,
+        190000022
+      ],
+      [
+        190000012,
+        190000012,
+        190000002
+      ],
+      [
+        190000012,
+        190000002,
+        190000022
+      ],
+      [
+        190000002,
+        190000022,
+        190000022
+      ]
+    ],
+    "star": 1,
+    "level": 46,
+    "skillNum": 3,
+    "skillLevel": 9,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.67,
+    "equip": {
+      "head": 210501,
+      "armor": 210502,
+      "hand": 210503,
+      "foot": 210404
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 49,
+    "equipLevel": 40,
+    "affixPercent": 0.9,
+    "potentialNum": 5,
+    "potentialLevel": 5,
+    "physique": 5,
+    "dropShow": [
+      210504,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3050401
+    ],
+    "power": 309000
+  },
+  {
+    "id": 21,
+    "floor": 6,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000002,
+        190000002,
+        190000012
+      ],
+      [
+        190000002,
+        190000012,
+        190000012
+      ]
+    ],
+    "star": 1,
+    "level": 50,
+    "skillNum": 3,
+    "skillLevel": 10,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.69,
+    "equip": {
+      "head": 210501,
+      "armor": 210502,
+      "hand": 210503,
+      "foot": 210504
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 50,
+    "equipLevel": 50,
+    "affixPercent": 0.8,
+    "potentialNum": 6,
+    "potentialLevel": 6,
+    "physique": 6,
+    "dropShow": [
+      210601,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3060101
+    ],
+    "power": 318000
+  },
+  {
+    "id": 22,
+    "floor": 6,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000012,
+        190000002,
+        190000012
+      ],
+      [
+        190000012,
+        190000012,
+        190000012
+      ],
+      [
+        190000012,
+        190000002,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 52,
+    "skillNum": 3,
+    "skillLevel": 10,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.71,
+    "equip": {
+      "head": 210601,
+      "armor": 210502,
+      "hand": 210503,
+      "foot": 210504
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 53,
+    "equipLevel": 50,
+    "affixPercent": 0.83,
+    "potentialNum": 6,
+    "potentialLevel": 6,
+    "physique": 6,
+    "dropShow": [
+      210602,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3060201
+    ],
+    "power": 352000
+  },
+  {
+    "id": 23,
+    "floor": 6,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000012,
+        190000012,
+        190000002
+      ],
+      [
+        190000012,
+        190000002,
+        190000022
+      ],
+      [
+        190000002,
+        190000012,
+        190000012
+      ],
+      [
+        190000002,
+        190000022,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 54,
+    "skillNum": 3,
+    "skillLevel": 11,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.73,
+    "equip": {
+      "head": 210601,
+      "armor": 210602,
+      "hand": 210503,
+      "foot": 210504
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 56,
+    "equipLevel": 50,
+    "affixPercent": 0.86,
+    "potentialNum": 6,
+    "potentialLevel": 6,
+    "physique": 6,
+    "dropShow": [
+      210603,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3060301
+    ],
+    "power": 390000
+  },
+  {
+    "id": 24,
+    "floor": 6,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000012,
+        190000022,
+        190000002
+      ],
+      [
+        190000002,
+        190000002,
+        190000002
+      ],
+      [
+        190000012,
+        190000012,
+        190000022
+      ],
+      [
+        190000002,
+        190000022,
+        190000022
+      ],
+      [
+        190000012,
+        190000022,
+        190000022
+      ]
+    ],
+    "star": 1,
+    "level": 56,
+    "skillNum": 3,
+    "skillLevel": 11,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210601,
+      "armor": 210602,
+      "hand": 210603,
+      "foot": 210504
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 59,
+    "equipLevel": 50,
+    "affixPercent": 0.9,
+    "potentialNum": 6,
+    "potentialLevel": 6,
+    "physique": 6,
+    "dropShow": [
+      210604,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3060401
+    ],
+    "power": 433000
+  },
+  {
+    "id": 25,
+    "floor": 7,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000002,
+        190000002,
+        190000012
+      ],
+      [
+        190000042,
+        190000012,
+        190000012
+      ]
+    ],
+    "star": 1,
+    "level": 60,
+    "skillNum": 3,
+    "skillLevel": 12,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210601,
+      "armor": 210602,
+      "hand": 210603,
+      "foot": 210604
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 60,
+    "equipLevel": 60,
+    "affixPercent": 0.8,
+    "potentialNum": 7,
+    "potentialLevel": 7,
+    "physique": 7,
+    "dropShow": [
+      210701,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3070101
+    ],
+    "power": 460000
+  },
+  {
+    "id": 26,
+    "floor": 7,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000012,
+        190000012,
+        190000002
+      ],
+      [
+        190000012,
+        190000002,
+        190000042
+      ],
+      [
+        190000012,
+        190000012,
+        190000042
+      ]
+    ],
+    "star": 1,
+    "level": 62,
+    "skillNum": 3,
+    "skillLevel": 12,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210701,
+      "armor": 210602,
+      "hand": 210603,
+      "foot": 210604
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 63,
+    "equipLevel": 60,
+    "affixPercent": 0.83,
+    "potentialNum": 7,
+    "potentialLevel": 7,
+    "physique": 7,
+    "dropShow": [
+      210702,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3070201
+    ],
+    "power": 485000
+  },
+  {
+    "id": 27,
+    "floor": 7,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000002,
+        190000042,
+        190000012
+      ],
+      [
+        190000002,
+        190000022,
+        190000002
+      ],
+      [
+        190000012,
+        190000012,
+        190000022
+      ],
+      [
+        190000012,
+        190000042,
+        190000022
+      ]
+    ],
+    "star": 1,
+    "level": 64,
+    "skillNum": 3,
+    "skillLevel": 13,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210701,
+      "armor": 210702,
+      "hand": 210603,
+      "foot": 210604
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 66,
+    "equipLevel": 60,
+    "affixPercent": 0.86,
+    "potentialNum": 7,
+    "potentialLevel": 7,
+    "physique": 7,
+    "dropShow": [
+      210703,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3070301
+    ],
+    "power": 520000
+  },
+  {
+    "id": 28,
+    "floor": 7,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000002,
+        190000002,
+        190000002
+      ],
+      [
+        190000012,
+        190000002,
+        190000022
+      ],
+      [
+        190000012,
+        190000022,
+        190000002
+      ],
+      [
+        190000012,
+        190000042,
+        190000002
+      ],
+      [
+        190000002,
+        190000012,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 66,
+    "skillNum": 3,
+    "skillLevel": 13,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210701,
+      "armor": 210702,
+      "hand": 210703,
+      "foot": 210604
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 69,
+    "equipLevel": 60,
+    "affixPercent": 0.9,
+    "potentialNum": 7,
+    "potentialLevel": 7,
+    "physique": 7,
+    "dropShow": [
+      210704,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3070401
+    ],
+    "power": 550000
+  },
+  {
+    "id": 29,
+    "floor": 8,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000002,
+        190000012,
+        190000022
+      ],
+      [
+        190000022,
+        190000052,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 70,
+    "skillNum": 3,
+    "skillLevel": 14,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210701,
+      "armor": 210702,
+      "hand": 210703,
+      "foot": 210704
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 70,
+    "equipLevel": 70,
+    "affixPercent": 0.8,
+    "potentialNum": 8,
+    "potentialLevel": 8,
+    "physique": 8,
+    "dropShow": [
+      210801,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3080101
+    ],
+    "power": 580000
+  },
+  {
+    "id": 30,
+    "floor": 8,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000012,
+        190000052,
+        190000002
+      ],
+      [
+        190000052,
+        190000022,
+        190000002
+      ],
+      [
+        190000012,
+        190000022,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 72,
+    "skillNum": 3,
+    "skillLevel": 14,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210801,
+      "armor": 210702,
+      "hand": 210703,
+      "foot": 210704
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 73,
+    "equipLevel": 70,
+    "affixPercent": 0.83,
+    "potentialNum": 8,
+    "potentialLevel": 8,
+    "physique": 8,
+    "dropShow": [
+      210802,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3080201
+    ],
+    "power": 610000
+  },
+  {
+    "id": 31,
+    "floor": 8,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000052,
+        190000042,
+        190000022
+      ],
+      [
+        190000002,
+        190000022,
+        190000042
+      ],
+      [
+        190000012,
+        190000052,
+        190000042
+      ],
+      [
+        190000052,
+        190000002,
+        190000022
+      ]
+    ],
+    "star": 1,
+    "level": 74,
+    "skillNum": 3,
+    "skillLevel": 15,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210801,
+      "armor": 210802,
+      "hand": 210703,
+      "foot": 210704
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 76,
+    "equipLevel": 70,
+    "affixPercent": 0.86,
+    "potentialNum": 8,
+    "potentialLevel": 8,
+    "physique": 8,
+    "dropShow": [
+      210803,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3080301
+    ],
+    "power": 650000
+  },
+  {
+    "id": 32,
+    "floor": 8,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000012,
+        190000052,
+        190000042
+      ],
+      [
+        190000002,
+        190000052,
+        190000042
+      ],
+      [
+        190000022,
+        190000052,
+        190000042
+      ],
+      [
+        190000052,
+        190000002,
+        190000042
+      ],
+      [
+        190000052,
+        190000022,
+        190000042
+      ]
+    ],
+    "star": 1,
+    "level": 76,
+    "skillNum": 3,
+    "skillLevel": 15,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210801,
+      "armor": 210802,
+      "hand": 210803,
+      "foot": 210704
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 79,
+    "equipLevel": 70,
+    "affixPercent": 0.9,
+    "potentialNum": 8,
+    "potentialLevel": 8,
+    "physique": 8,
+    "dropShow": [
+      210804,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3080401
+    ],
+    "power": 680000
+  },
+  {
+    "id": 33,
+    "floor": 9,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000062,
+        190000012,
+        190000022
+      ],
+      [
+        190000022,
+        190000052,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 80,
+    "skillNum": 3,
+    "skillLevel": 16,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210801,
+      "armor": 210802,
+      "hand": 210803,
+      "foot": 210804
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 80,
+    "equipLevel": 80,
+    "affixPercent": 0.8,
+    "potentialNum": 9,
+    "potentialLevel": 9,
+    "physique": 9,
+    "dropShow": [
+      210901,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3090101
+    ],
+    "power": 740000
+  },
+  {
+    "id": 34,
+    "floor": 9,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000062,
+        190000022,
+        190000002
+      ],
+      [
+        190000052,
+        190000002,
+        190000002
+      ],
+      [
+        190000052,
+        190000062,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 82,
+    "skillNum": 3,
+    "skillLevel": 17,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210901,
+      "armor": 210802,
+      "hand": 210803,
+      "foot": 210804
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 83,
+    "equipLevel": 80,
+    "affixPercent": 0.83,
+    "potentialNum": 9,
+    "potentialLevel": 9,
+    "physique": 9,
+    "dropShow": [
+      210902,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3090201
+    ],
+    "power": 780000
+  },
+  {
+    "id": 35,
+    "floor": 9,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000052,
+        190000002,
+        190000002
+      ],
+      [
+        190000062,
+        190000022,
+        190000002
+      ],
+      [
+        190000052,
+        190000042,
+        190000002
+      ],
+      [
+        190000062,
+        190000002,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 84,
+    "skillNum": 3,
+    "skillLevel": 17,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210901,
+      "armor": 210902,
+      "hand": 210803,
+      "foot": 210804
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 86,
+    "equipLevel": 80,
+    "affixPercent": 0.86,
+    "potentialNum": 9,
+    "potentialLevel": 9,
+    "physique": 9,
+    "dropShow": [
+      210903,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3090301
+    ],
+    "power": 820000
+  },
+  {
+    "id": 36,
+    "floor": 9,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000062,
+        190000002,
+        190000042
+      ],
+      [
+        190000052,
+        190000042,
+        190000022
+      ],
+      [
+        190000052,
+        190000002,
+        190000022
+      ],
+      [
+        190000052,
+        190000062,
+        190000042
+      ],
+      [
+        190000062,
+        190000022,
+        190000042
+      ]
+    ],
+    "star": 1,
+    "level": 86,
+    "skillNum": 3,
+    "skillLevel": 18,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210901,
+      "armor": 210902,
+      "hand": 210903,
+      "foot": 210804
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 89,
+    "equipLevel": 80,
+    "affixPercent": 0.9,
+    "potentialNum": 9,
+    "potentialLevel": 9,
+    "physique": 9,
+    "dropShow": [
+      210904,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3090401
+    ],
+    "power": 870000
+  },
+  {
+    "id": 37,
+    "floor": 10,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000012,
+        190000002,
+        190000072
+      ],
+      [
+        190000052,
+        190000022,
+        190000002
+      ]
+    ],
+    "star": 1,
+    "level": 90,
+    "skillNum": 3,
+    "skillLevel": 19,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 210901,
+      "armor": 210902,
+      "hand": 210903,
+      "foot": 210904
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 90,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 10,
+    "physique": 10,
+    "dropShow": [
+      211001,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3100101
+    ],
+    "power": 910000
+  },
+  {
+    "id": 38,
+    "floor": 10,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000002,
+        190000002,
+        190000002
+      ],
+      [
+        190000062,
+        190000072,
+        190000002
+      ],
+      [
+        190000002,
+        190000002,
+        190000072
+      ]
+    ],
+    "star": 1,
+    "level": 92,
+    "skillNum": 3,
+    "skillLevel": 20,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211001,
+      "armor": 210902,
+      "hand": 210903,
+      "foot": 210904
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 93,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 10,
+    "physique": 10,
+    "dropShow": [
+      211002,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3100201
+    ],
+    "power": 941000
+  },
+  {
+    "id": 39,
+    "floor": 10,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000062,
+        190000042,
+        190000022
+      ],
+      [
+        190000052,
+        190000002,
+        190000002
+      ],
+      [
+        190000062,
+        190000022,
+        190000042
+      ],
+      [
+        190000052,
+        190000042,
+        190000042
+      ]
+    ],
+    "star": 1,
+    "level": 94,
+    "skillNum": 3,
+    "skillLevel": 20,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211001,
+      "armor": 211002,
+      "hand": 210903,
+      "foot": 210904
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 96,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 10,
+    "physique": 10,
+    "dropShow": [
+      211003,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3100301
+    ],
+    "power": 992000
+  },
+  {
+    "id": 40,
+    "floor": 10,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000062,
+        190000002,
+        190000022
+      ],
+      [
+        190000052,
+        190000072,
+        190000042
+      ],
+      [
+        190000062,
+        190000042,
+        190000042
+      ],
+      [
+        190000062,
+        190000002,
+        190000042
+      ],
+      [
+        190000052,
+        190000042,
+        190000042
+      ]
+    ],
+    "star": 1,
+    "level": 96,
+    "skillNum": 3,
+    "skillLevel": 21,
+    "skillPassive": [
+      0,
+      0
+    ],
+    "skillSp": [
+      0,
+      0
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211001,
+      "armor": 211002,
+      "hand": 211003,
+      "foot": 210904
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 99,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 10,
+    "physique": 10,
+    "dropShow": [
+      211004,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3100401
+    ],
+    "power": 1050000
+  },
+  {
+    "id": 41,
+    "floor": 11,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000073,
+        190000003,
+        190000023
+      ],
+      [
+        190000013,
+        190000053,
+        190000003
+      ]
+    ],
+    "star": 1,
+    "level": 100,
+    "skillNum": 3,
+    "skillLevel": 22,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      22
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211001,
+      "armor": 211002,
+      "hand": 211003,
+      "foot": 211004
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 100,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 11,
+    "physique": 10,
+    "dropShow": [
+      211101,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3110101
+    ],
+    "power": 1115000
+  },
+  {
+    "id": 42,
+    "floor": 11,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000003,
+        190000013,
+        190000073
+      ],
+      [
+        190000063,
+        190000003,
+        190000023
+      ],
+      [
+        190000003,
+        190000073,
+        190000023
+      ]
+    ],
+    "star": 1,
+    "level": 102,
+    "skillNum": 3,
+    "skillLevel": 22,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      22
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211101,
+      "armor": 211002,
+      "hand": 211003,
+      "foot": 211004
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 103,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 11,
+    "physique": 10,
+    "dropShow": [
+      211102,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3110201
+    ],
+    "power": 1175000
+  },
+  {
+    "id": 43,
+    "floor": 11,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000043
+      ],
+      [
+        190000053,
+        190000043,
+        190000003
+      ],
+      [
+        190000013,
+        190000043,
+        190000023
+      ],
+      [
+        190000063,
+        190000043,
+        190000073
+      ]
+    ],
+    "star": 1,
+    "level": 104,
+    "skillNum": 3,
+    "skillLevel": 23,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      23
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211101,
+      "armor": 211102,
+      "hand": 211003,
+      "foot": 211004
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 106,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 11,
+    "physique": 10,
+    "dropShow": [
+      211103,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3110301
+    ],
+    "power": 1250000
+  },
+  {
+    "id": 44,
+    "floor": 11,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000073,
+        190000053,
+        190000043
+      ],
+      [
+        190000053,
+        190000073,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000003
+      ],
+      [
+        190000063,
+        190000043,
+        190000073
+      ],
+      [
+        190000053,
+        190000023,
+        190000043
+      ]
+    ],
+    "star": 1,
+    "level": 106,
+    "skillNum": 3,
+    "skillLevel": 23,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      23
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211101,
+      "armor": 211102,
+      "hand": 211103,
+      "foot": 211004
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 109,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 11,
+    "physique": 10,
+    "dropShow": [
+      211104,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3110401
+    ],
+    "power": 1320000
+  },
+  {
+    "id": 45,
+    "floor": 12,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000003,
+        190000013,
+        190000073
+      ],
+      [
+        190000073,
+        190000003,
+        190000003
+      ]
+    ],
+    "star": 4,
+    "level": 110,
+    "skillNum": 3,
+    "skillLevel": 24,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      24
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211101,
+      "armor": 211102,
+      "hand": 211103,
+      "foot": 211104
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 100,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 12,
+    "physique": 10,
+    "dropShow": [
+      211201,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3120101
+    ],
+    "power": 1375000
+  },
+  {
+    "id": 46,
+    "floor": 12,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000053,
+        190000063,
+        190000003
+      ],
+      [
+        190000063,
+        190000003,
+        190000073
+      ],
+      [
+        190000013,
+        190000003,
+        190000003
+      ]
+    ],
+    "star": 4,
+    "level": 112,
+    "skillNum": 3,
+    "skillLevel": 24,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      24
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211201,
+      "armor": 211102,
+      "hand": 211103,
+      "foot": 211104
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 103,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 12,
+    "physique": 10,
+    "dropShow": [
+      211202,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3120201
+    ],
+    "power": 1460000
+  },
+  {
+    "id": 47,
+    "floor": 12,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000063,
+        190000073,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000073
+      ],
+      [
+        190000053,
+        190000003,
+        190000043
+      ],
+      [
+        190000053,
+        190000043,
+        190000003
+      ]
+    ],
+    "star": 4,
+    "level": 114,
+    "skillNum": 3,
+    "skillLevel": 25,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      25
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211201,
+      "armor": 211202,
+      "hand": 211103,
+      "foot": 211104
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 106,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 12,
+    "physique": 10,
+    "dropShow": [
+      211203,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3120301
+    ],
+    "power": 1545000
+  },
+  {
+    "id": 48,
+    "floor": 12,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000023
+      ],
+      [
+        190000063,
+        190000003,
+        190000043
+      ],
+      [
+        190000063,
+        190000003,
+        190000073
+      ],
+      [
+        190000053,
+        190000073,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000023
+      ]
+    ],
+    "star": 4,
+    "level": 116,
+    "skillNum": 3,
+    "skillLevel": 25,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      25
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211201,
+      "armor": 211202,
+      "hand": 211203,
+      "foot": 211104
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 109,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 12,
+    "physique": 10,
+    "dropShow": [
+      211204,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3120401
+    ],
+    "power": 1645000
+  },
+  {
+    "id": 49,
+    "floor": 13,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000023,
+        190000003,
+        190000073
+      ],
+      [
+        190000073,
+        190000063,
+        190000003
+      ]
+    ],
+    "star": 4,
+    "level": 120,
+    "skillNum": 3,
+    "skillLevel": 26,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      26
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211201,
+      "armor": 211202,
+      "hand": 211203,
+      "foot": 211204
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 110,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 13,
+    "physique": 10,
+    "dropShow": [
+      211301,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3130101
+    ],
+    "power": 1700000
+  },
+  {
+    "id": 50,
+    "floor": 13,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000023
+      ],
+      [
+        190000013,
+        190000063,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ]
+    ],
+    "star": 4,
+    "level": 122,
+    "skillNum": 3,
+    "skillLevel": 26,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      26
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211301,
+      "armor": 211202,
+      "hand": 211203,
+      "foot": 211204
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 113,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 13,
+    "physique": 10,
+    "dropShow": [
+      211302,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3130201
+    ],
+    "power": 1810000
+  },
+  {
+    "id": 51,
+    "floor": 13,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000003
+      ],
+      [
+        190000053,
+        190000043,
+        190000073
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ],
+      [
+        190000063,
+        190000043,
+        190000003
+      ]
+    ],
+    "star": 4,
+    "level": 124,
+    "skillNum": 3,
+    "skillLevel": 27,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      27
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211301,
+      "armor": 211302,
+      "hand": 211203,
+      "foot": 211204
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 116,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 13,
+    "physique": 10,
+    "dropShow": [
+      211303,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3130301
+    ],
+    "power": 1920000
+  },
+  {
+    "id": 52,
+    "floor": 13,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000063,
+        190000003,
+        190000043
+      ],
+      [
+        190000053,
+        190000073,
+        190000073
+      ],
+      [
+        190000063,
+        190000043,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000073
+      ],
+      [
+        190000063,
+        190000073,
+        190000043
+      ]
+    ],
+    "star": 4,
+    "level": 126,
+    "skillNum": 3,
+    "skillLevel": 27,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      27
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211301,
+      "armor": 211302,
+      "hand": 211303,
+      "foot": 211204
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 119,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 13,
+    "physique": 10,
+    "dropShow": [
+      211304,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3130401
+    ],
+    "power": 2055000
+  },
+  {
+    "id": 53,
+    "floor": 14,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000013,
+        190000003,
+        190000073
+      ],
+      [
+        190000073,
+        190000053,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 130,
+    "skillNum": 3,
+    "skillLevel": 28,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      28
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211301,
+      "armor": 211302,
+      "hand": 211303,
+      "foot": 211304
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 120,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 13,
+    "physique": 10,
+    "dropShow": [
+      211401,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3140101
+    ],
+    "power": 2114000
+  },
+  {
+    "id": 54,
+    "floor": 14,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000053,
+        190000063,
+        190000073
+      ],
+      [
+        190000063,
+        190000003,
+        190000073
+      ],
+      [
+        190000013,
+        190000063,
+        190000073
+      ]
+    ],
+    "star": 5,
+    "level": 132,
+    "skillNum": 3,
+    "skillLevel": 28,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      28
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211401,
+      "armor": 211302,
+      "hand": 211303,
+      "foot": 211304
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 123,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 13,
+    "physique": 10,
+    "dropShow": [
+      211402,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3140201
+    ],
+    "power": 2254000
+  },
+  {
+    "id": 55,
+    "floor": 14,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000053,
+        190000023,
+        190000073
+      ],
+      [
+        190000053,
+        190000043,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000043
+      ]
+    ],
+    "star": 5,
+    "level": 134,
+    "skillNum": 3,
+    "skillLevel": 29,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      29
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211401,
+      "armor": 211402,
+      "hand": 211303,
+      "foot": 211304
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 126,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 13,
+    "physique": 10,
+    "dropShow": [
+      211403,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3140301
+    ],
+    "power": 2400000
+  },
+  {
+    "id": 56,
+    "floor": 14,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000073,
+        190000003,
+        190000043
+      ],
+      [
+        190000053,
+        190000043,
+        190000073
+      ],
+      [
+        190000053,
+        190000003,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000043
+      ],
+      [
+        190000063,
+        190000003,
+        190000073
+      ]
+    ],
+    "star": 5,
+    "level": 136,
+    "skillNum": 3,
+    "skillLevel": 29,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      29
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211401,
+      "armor": 211402,
+      "hand": 211403,
+      "foot": 211304
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 129,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 13,
+    "physique": 10,
+    "dropShow": [
+      211404,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3140401
+    ],
+    "power": 2570000
+  },
+  {
+    "id": 57,
+    "floor": 15,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000023,
+        190000003,
+        190000073
+      ],
+      [
+        190000073,
+        190000063,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 140,
+    "skillNum": 3,
+    "skillLevel": 30,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      30
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211401,
+      "armor": 211402,
+      "hand": 211403,
+      "foot": 211404
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 140,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 14,
+    "physique": 10,
+    "dropShow": [
+      211501,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3150101
+    ],
+    "power": 2740000
+  },
+  {
+    "id": 58,
+    "floor": 15,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000023
+      ],
+      [
+        190000013,
+        190000063,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 142,
+    "skillNum": 3,
+    "skillLevel": 30,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      30
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211501,
+      "armor": 211402,
+      "hand": 211403,
+      "foot": 211404
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 142,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 14,
+    "physique": 10,
+    "dropShow": [
+      211502,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3150201
+    ],
+    "power": 2896000
+  },
+  {
+    "id": 59,
+    "floor": 15,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000003
+      ],
+      [
+        190000053,
+        190000043,
+        190000073
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ],
+      [
+        190000063,
+        190000043,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 144,
+    "skillNum": 3,
+    "skillLevel": 31,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      31
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211501,
+      "armor": 211502,
+      "hand": 211403,
+      "foot": 211404
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 144,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 14,
+    "physique": 10,
+    "dropShow": [
+      211503,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3150301
+    ],
+    "power": 3059000
+  },
+  {
+    "id": 60,
+    "floor": 15,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000063,
+        190000003,
+        190000043
+      ],
+      [
+        190000053,
+        190000073,
+        190000073
+      ],
+      [
+        190000063,
+        190000043,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000073
+      ],
+      [
+        190000063,
+        190000073,
+        190000043
+      ]
+    ],
+    "star": 5,
+    "level": 146,
+    "skillNum": 3,
+    "skillLevel": 31,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      31
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211501,
+      "armor": 211502,
+      "hand": 211503,
+      "foot": 211404
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 146,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 14,
+    "physique": 10,
+    "dropShow": [
+      211504,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3150401
+    ],
+    "power": 3251000
+  },
+  {
+    "id": 61,
+    "floor": 16,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000013,
+        190000003,
+        190000073
+      ],
+      [
+        190000073,
+        190000053,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 150,
+    "skillNum": 3,
+    "skillLevel": 32,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      32
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211501,
+      "armor": 211502,
+      "hand": 211503,
+      "foot": 211504
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 150,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 15,
+    "physique": 10,
+    "dropShow": [
+      211601,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3160101
+    ],
+    "power": 3425000
+  },
+  {
+    "id": 62,
+    "floor": 16,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000053,
+        190000063,
+        190000073
+      ],
+      [
+        190000063,
+        190000003,
+        190000073
+      ],
+      [
+        190000013,
+        190000063,
+        190000073
+      ]
+    ],
+    "star": 5,
+    "level": 152,
+    "skillNum": 3,
+    "skillLevel": 32,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      32
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211601,
+      "armor": 211502,
+      "hand": 211503,
+      "foot": 211504
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 152,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 15,
+    "physique": 10,
+    "dropShow": [
+      211602,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3160201
+    ],
+    "power": 3617000
+  },
+  {
+    "id": 63,
+    "floor": 16,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000053,
+        190000023,
+        190000073
+      ],
+      [
+        190000053,
+        190000043,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000043
+      ]
+    ],
+    "star": 5,
+    "level": 154,
+    "skillNum": 3,
+    "skillLevel": 33,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      33
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211601,
+      "armor": 211602,
+      "hand": 211503,
+      "foot": 211504
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 154,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 15,
+    "physique": 10,
+    "dropShow": [
+      211603,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3160301
+    ],
+    "power": 3814000
+  },
+  {
+    "id": 64,
+    "floor": 16,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000073,
+        190000003,
+        190000043
+      ],
+      [
+        190000053,
+        190000043,
+        190000073
+      ],
+      [
+        190000053,
+        190000003,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000043
+      ],
+      [
+        190000063,
+        190000003,
+        190000073
+      ]
+    ],
+    "star": 5,
+    "level": 156,
+    "skillNum": 3,
+    "skillLevel": 33,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      33
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211601,
+      "armor": 211602,
+      "hand": 211603,
+      "foot": 211504
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 156,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 15,
+    "physique": 10,
+    "dropShow": [
+      211604,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3160401
+    ],
+    "power": 4043000
+  },
+  {
+    "id": 65,
+    "floor": 17,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000023,
+        190000003,
+        190000073
+      ],
+      [
+        190000073,
+        190000063,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 160,
+    "skillNum": 3,
+    "skillLevel": 34,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      34
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211601,
+      "armor": 211602,
+      "hand": 211603,
+      "foot": 211604
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 160,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 16,
+    "physique": 10,
+    "dropShow": [
+      211701,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3170101
+    ],
+    "power": 4206000
+  },
+  {
+    "id": 66,
+    "floor": 17,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000023
+      ],
+      [
+        190000013,
+        190000063,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 162,
+    "skillNum": 3,
+    "skillLevel": 34,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      34
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211701,
+      "armor": 211602,
+      "hand": 211603,
+      "foot": 211604
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 162,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 16,
+    "physique": 10,
+    "dropShow": [
+      211702,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3170201
+    ],
+    "power": 4424000
+  },
+  {
+    "id": 67,
+    "floor": 17,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000003
+      ],
+      [
+        190000053,
+        190000043,
+        190000073
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ],
+      [
+        190000063,
+        190000043,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 164,
+    "skillNum": 3,
+    "skillLevel": 35,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      35
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211701,
+      "armor": 211702,
+      "hand": 211603,
+      "foot": 211604
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 164,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 16,
+    "physique": 10,
+    "dropShow": [
+      211703,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3170301
+    ],
+    "power": 4649000
+  },
+  {
+    "id": 68,
+    "floor": 17,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000063,
+        190000003,
+        190000043
+      ],
+      [
+        190000053,
+        190000073,
+        190000073
+      ],
+      [
+        190000063,
+        190000043,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000073
+      ],
+      [
+        190000063,
+        190000073,
+        190000043
+      ]
+    ],
+    "star": 5,
+    "level": 166,
+    "skillNum": 3,
+    "skillLevel": 35,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      35
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211701,
+      "armor": 211702,
+      "hand": 211703,
+      "foot": 211604
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 166,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 16,
+    "physique": 10,
+    "dropShow": [
+      211704,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3170401
+    ],
+    "power": 4911000
+  },
+  {
+    "id": 69,
+    "floor": 18,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000013,
+        190000003,
+        190000073
+      ],
+      [
+        190000073,
+        190000053,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 170,
+    "skillNum": 3,
+    "skillLevel": 36,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      36
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211701,
+      "armor": 211702,
+      "hand": 211703,
+      "foot": 211704
+    },
+    "equipPercent": 0.8,
+    "equipUpgrade": 170,
+    "equipLevel": 90,
+    "affixPercent": 0.8,
+    "potentialNum": 10,
+    "potentialLevel": 17,
+    "physique": 10,
+    "dropShow": [
+      211801,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3180101
+    ],
+    "power": 5056000
+  },
+  {
+    "id": 70,
+    "floor": 18,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000053,
+        190000063,
+        190000073
+      ],
+      [
+        190000063,
+        190000003,
+        190000073
+      ],
+      [
+        190000013,
+        190000063,
+        190000073
+      ]
+    ],
+    "star": 5,
+    "level": 172,
+    "skillNum": 3,
+    "skillLevel": 36,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      36
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211801,
+      "armor": 211702,
+      "hand": 211703,
+      "foot": 211704
+    },
+    "equipPercent": 0.83,
+    "equipUpgrade": 172,
+    "equipLevel": 90,
+    "affixPercent": 0.83,
+    "potentialNum": 10,
+    "potentialLevel": 17,
+    "physique": 10,
+    "dropShow": [
+      211802,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3180201
+    ],
+    "power": 5304000
+  },
+  {
+    "id": 71,
+    "floor": 18,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000053,
+        190000023,
+        190000073
+      ],
+      [
+        190000053,
+        190000043,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000043
+      ]
+    ],
+    "star": 5,
+    "level": 174,
+    "skillNum": 3,
+    "skillLevel": 37,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      37
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211801,
+      "armor": 211802,
+      "hand": 211703,
+      "foot": 211704
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 174,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 17,
+    "physique": 10,
+    "dropShow": [
+      211803,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3180301
+    ],
+    "power": 5558000
+  },
+  {
+    "id": 72,
+    "floor": 18,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000073,
+        190000003,
+        190000043
+      ],
+      [
+        190000053,
+        190000043,
+        190000073
+      ],
+      [
+        190000053,
+        190000003,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000043
+      ],
+      [
+        190000063,
+        190000003,
+        190000073
+      ]
+    ],
+    "star": 5,
+    "level": 176,
+    "skillNum": 3,
+    "skillLevel": 37,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      37
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211801,
+      "armor": 211802,
+      "hand": 211803,
+      "foot": 211704
+    },
+    "equipPercent": 0.9,
+    "equipUpgrade": 176,
+    "equipLevel": 90,
+    "affixPercent": 0.9,
+    "potentialNum": 10,
+    "potentialLevel": 17,
+    "physique": 10,
+    "dropShow": [
+      211804,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3180401
+    ],
+    "power": 5856000
+  },
+  {
+    "id": 73,
+    "floor": 19,
+    "stage": 1,
+    "guardPet": [
+      [
+        190000023,
+        190000003,
+        190000073
+      ],
+      [
+        190000073,
+        190000063,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 180,
+    "skillNum": 3,
+    "skillLevel": 38,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      38
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211801,
+      "armor": 211802,
+      "hand": 211803,
+      "foot": 211804
+    },
+    "equipPercent": 0.86,
+    "equipUpgrade": 180,
+    "equipLevel": 90,
+    "affixPercent": 0.86,
+    "potentialNum": 10,
+    "potentialLevel": 18,
+    "physique": 10,
+    "dropShow": [
+      211901,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3190101
+    ],
+    "power": 6033000
+  },
+  {
+    "id": 74,
+    "floor": 19,
+    "stage": 2,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000023
+      ],
+      [
+        190000013,
+        190000063,
+        190000003
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 182,
+    "skillNum": 3,
+    "skillLevel": 38,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      38
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211901,
+      "armor": 211802,
+      "hand": 211803,
+      "foot": 211804
+    },
+    "equipPercent": 0.88,
+    "equipUpgrade": 182,
+    "equipLevel": 90,
+    "affixPercent": 0.88,
+    "potentialNum": 10,
+    "potentialLevel": 18,
+    "physique": 10,
+    "dropShow": [
+      211902,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3190201
+    ],
+    "power": 6426000
+  },
+  {
+    "id": 75,
+    "floor": 19,
+    "stage": 3,
+    "guardPet": [
+      [
+        190000053,
+        190000073,
+        190000003
+      ],
+      [
+        190000053,
+        190000043,
+        190000073
+      ],
+      [
+        190000063,
+        190000073,
+        190000003
+      ],
+      [
+        190000063,
+        190000043,
+        190000003
+      ]
+    ],
+    "star": 5,
+    "level": 184,
+    "skillNum": 3,
+    "skillLevel": 39,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      39
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211901,
+      "armor": 211902,
+      "hand": 211803,
+      "foot": 211804
+    },
+    "equipPercent": 0.91,
+    "equipUpgrade": 184,
+    "equipLevel": 90,
+    "affixPercent": 0.91,
+    "potentialNum": 10,
+    "potentialLevel": 18,
+    "physique": 10,
+    "dropShow": [
+      211903,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3190301
+    ],
+    "power": 6628000
+  },
+  {
+    "id": 76,
+    "floor": 19,
+    "stage": 4,
+    "guardPet": [
+      [
+        190000063,
+        190000003,
+        190000043
+      ],
+      [
+        190000053,
+        190000073,
+        190000073
+      ],
+      [
+        190000063,
+        190000043,
+        190000043
+      ],
+      [
+        190000063,
+        190000043,
+        190000073
+      ],
+      [
+        190000063,
+        190000073,
+        190000043
+      ]
+    ],
+    "star": 5,
+    "level": 186,
+    "skillNum": 3,
+    "skillLevel": 39,
+    "skillPassive": [
+      1,
+      1
+    ],
+    "skillSp": [
+      1,
+      39
+    ],
+    "quality": 0.75,
+    "equip": {
+      "head": 211901,
+      "armor": 211902,
+      "hand": 211903,
+      "foot": 211804
+    },
+    "equipPercent": 0.96,
+    "equipUpgrade": 186,
+    "equipLevel": 90,
+    "affixPercent": 0.96,
+    "potentialNum": 10,
+    "potentialLevel": 18,
+    "physique": 10,
+    "dropShow": [
+      211904,
+      11300
+    ],
+    "dropIds": [
+      3000001,
+      3190401
+    ],
+    "power": 6871000
+  }
+]

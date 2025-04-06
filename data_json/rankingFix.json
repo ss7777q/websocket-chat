@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "rankingStage": 0.0816,
+    "rankingData": 0.017
+  },
+  {
+    "id": 2,
+    "rankingStage": 0.1837,
+    "rankingData": 0.012
+  },
+  {
+    "id": 3,
+    "rankingStage": 0.2857,
+    "rankingData": 0.016
+  },
+  {
+    "id": 4,
+    "rankingStage": 0.3878,
+    "rankingData": 0.024
+  },
+  {
+    "id": 5,
+    "rankingStage": 0.4898,
+    "rankingData": 0.0381
+  },
+  {
+    "id": 6,
+    "rankingStage": 0.5918,
+    "rankingData": 0.0675
+  },
+  {
+    "id": 7,
+    "rankingStage": 0.6939,
+    "rankingData": 0.1181
+  },
+  {
+    "id": 8,
+    "rankingStage": 0.7959,
+    "rankingData": 0.1782
+  },
+  {
+    "id": 9,
+    "rankingStage": 0.898,
+    "rankingData": 0.2783
+  },
+  {
+    "id": 10,
+    "rankingStage": 1,
+    "rankingData": 0.2508
+  }
+]

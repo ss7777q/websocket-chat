@@ -1,0 +1,97 @@
+[
+  {
+    "id": 100101,
+    "magicWeaponId": 1001,
+    "name": "枯叶灵",
+    "showFile": "kuyeling",
+    "cost": [
+      [
+        191004,
+        1
+      ]
+    ],
+    "icon": "kuyeling",
+    "file": "2030101-kuyeling",
+    "bulletFile": {
+      "2030101-jiushishenglian_texiao": "2030101-kuyeling_texiao"
+    },
+    "buffEffectId": {
+      "18": 434
+    }
+  },
+  {
+    "id": 100102,
+    "magicWeaponId": 1001,
+    "name": "千年蟠桃",
+    "showFile": "qiannianpantao",
+    "cost": [
+      [
+        191012,
+        1
+      ]
+    ],
+    "icon": "qiannianpantao",
+    "file": "2030101-qiannianpantao",
+    "bulletFile": {
+      "2030101-jiushishenglian_texiao": "2030101-qiannianpantao_texiao"
+    },
+    "buffEffectId": {
+      "18": 681
+    }
+  },
+  {
+    "id": 400101,
+    "magicWeaponId": 4001,
+    "name": "风火滑板",
+    "showFile": "tainshafeiban",
+    "cost": [
+      [
+        191003,
+        1
+      ]
+    ],
+    "icon": "tianshafeiban",
+    "file": "2030401-tianshafeiban",
+    "bulletFile": {
+      "2030401-tianshagujian_texiao": "2030401-tianshafeiban_texiao"
+    }
+  },
+  {
+    "id": 600101,
+    "magicWeaponId": 6001,
+    "name": "鲸鱼伞",
+    "showFile": "jingyusan",
+    "cost": [
+      [
+        191010,
+        1
+      ]
+    ],
+    "icon": "jingyusan",
+    "file": "2030601-jingyusan",
+    "bulletFile": {
+      "2030601-luochayaosan_texiao": "2030601-jingyusan_texiao"
+    },
+    "buffEffectId": {
+      "28": 650,
+      "80002": 80798
+    }
+  },
+  {
+    "id": 1700101,
+    "magicWeaponId": 17001,
+    "name": "雄狮铁卫",
+    "showFile": "shizidun",
+    "cost": [
+      [
+        191011,
+        1
+      ]
+    ],
+    "icon": "xiongshitiewei",
+    "file": "2031901-shizihudun",
+    "bulletFile": {
+      "2031901-lingaodunjia_texiao": "2031901-shizihudun_texiao"
+    }
+  }
+]

@@ -1,0 +1,898 @@
+[
+  {
+    "id": 1,
+    "name": "青龙组·壹",
+    "index": 1,
+    "rankA": 1,
+    "rankB": 256
+  },
+  {
+    "id": 2,
+    "name": "青龙组·壹",
+    "index": 1,
+    "rankA": 65,
+    "rankB": 192
+  },
+  {
+    "id": 3,
+    "name": "青龙组·壹",
+    "index": 1,
+    "rankA": 81,
+    "rankB": 176
+  },
+  {
+    "id": 4,
+    "name": "青龙组·壹",
+    "index": 1,
+    "rankA": 33,
+    "rankB": 224
+  },
+  {
+    "id": 5,
+    "name": "青龙组·壹",
+    "index": 1,
+    "rankA": 49,
+    "rankB": 208
+  },
+  {
+    "id": 6,
+    "name": "青龙组·壹",
+    "index": 1,
+    "rankA": 97,
+    "rankB": 160
+  },
+  {
+    "id": 7,
+    "name": "青龙组·壹",
+    "index": 1,
+    "rankA": 113,
+    "rankB": 144
+  },
+  {
+    "id": 8,
+    "name": "青龙组·壹",
+    "index": 1,
+    "rankA": 17,
+    "rankB": 240
+  },
+  {
+    "id": 9,
+    "name": "青龙组·贰",
+    "index": 2,
+    "rankA": 5,
+    "rankB": 252
+  },
+  {
+    "id": 10,
+    "name": "青龙组·贰",
+    "index": 2,
+    "rankA": 69,
+    "rankB": 188
+  },
+  {
+    "id": 11,
+    "name": "青龙组·贰",
+    "index": 2,
+    "rankA": 101,
+    "rankB": 156
+  },
+  {
+    "id": 12,
+    "name": "青龙组·贰",
+    "index": 2,
+    "rankA": 37,
+    "rankB": 220
+  },
+  {
+    "id": 13,
+    "name": "青龙组·贰",
+    "index": 2,
+    "rankA": 53,
+    "rankB": 204
+  },
+  {
+    "id": 14,
+    "name": "青龙组·贰",
+    "index": 2,
+    "rankA": 117,
+    "rankB": 140
+  },
+  {
+    "id": 15,
+    "name": "青龙组·贰",
+    "index": 2,
+    "rankA": 85,
+    "rankB": 172
+  },
+  {
+    "id": 16,
+    "name": "青龙组·贰",
+    "index": 2,
+    "rankA": 21,
+    "rankB": 236
+  },
+  {
+    "id": 17,
+    "name": "青龙组·叁",
+    "index": 3,
+    "rankA": 9,
+    "rankB": 248
+  },
+  {
+    "id": 18,
+    "name": "青龙组·叁",
+    "index": 3,
+    "rankA": 73,
+    "rankB": 184
+  },
+  {
+    "id": 19,
+    "name": "青龙组·叁",
+    "index": 3,
+    "rankA": 105,
+    "rankB": 152
+  },
+  {
+    "id": 20,
+    "name": "青龙组·叁",
+    "index": 3,
+    "rankA": 41,
+    "rankB": 216
+  },
+  {
+    "id": 21,
+    "name": "青龙组·叁",
+    "index": 3,
+    "rankA": 57,
+    "rankB": 200
+  },
+  {
+    "id": 22,
+    "name": "青龙组·叁",
+    "index": 3,
+    "rankA": 121,
+    "rankB": 136
+  },
+  {
+    "id": 23,
+    "name": "青龙组·叁",
+    "index": 3,
+    "rankA": 89,
+    "rankB": 168
+  },
+  {
+    "id": 24,
+    "name": "青龙组·叁",
+    "index": 3,
+    "rankA": 25,
+    "rankB": 232
+  },
+  {
+    "id": 25,
+    "name": "青龙组·肆",
+    "index": 4,
+    "rankA": 13,
+    "rankB": 244
+  },
+  {
+    "id": 26,
+    "name": "青龙组·肆",
+    "index": 4,
+    "rankA": 77,
+    "rankB": 180
+  },
+  {
+    "id": 27,
+    "name": "青龙组·肆",
+    "index": 4,
+    "rankA": 109,
+    "rankB": 148
+  },
+  {
+    "id": 28,
+    "name": "青龙组·肆",
+    "index": 4,
+    "rankA": 45,
+    "rankB": 212
+  },
+  {
+    "id": 29,
+    "name": "青龙组·肆",
+    "index": 4,
+    "rankA": 61,
+    "rankB": 196
+  },
+  {
+    "id": 30,
+    "name": "青龙组·肆",
+    "index": 4,
+    "rankA": 125,
+    "rankB": 132
+  },
+  {
+    "id": 31,
+    "name": "青龙组·肆",
+    "index": 4,
+    "rankA": 93,
+    "rankB": 164
+  },
+  {
+    "id": 32,
+    "name": "青龙组·肆",
+    "index": 4,
+    "rankA": 29,
+    "rankB": 228
+  },
+  {
+    "id": 33,
+    "name": "白虎组·壹",
+    "index": 5,
+    "rankA": 4,
+    "rankB": 253
+  },
+  {
+    "id": 34,
+    "name": "白虎组·壹",
+    "index": 5,
+    "rankA": 68,
+    "rankB": 189
+  },
+  {
+    "id": 35,
+    "name": "白虎组·壹",
+    "index": 5,
+    "rankA": 100,
+    "rankB": 157
+  },
+  {
+    "id": 36,
+    "name": "白虎组·壹",
+    "index": 5,
+    "rankA": 36,
+    "rankB": 221
+  },
+  {
+    "id": 37,
+    "name": "白虎组·壹",
+    "index": 5,
+    "rankA": 52,
+    "rankB": 205
+  },
+  {
+    "id": 38,
+    "name": "白虎组·壹",
+    "index": 5,
+    "rankA": 116,
+    "rankB": 141
+  },
+  {
+    "id": 39,
+    "name": "白虎组·壹",
+    "index": 5,
+    "rankA": 84,
+    "rankB": 173
+  },
+  {
+    "id": 40,
+    "name": "白虎组·壹",
+    "index": 5,
+    "rankA": 20,
+    "rankB": 237
+  },
+  {
+    "id": 41,
+    "name": "白虎组·贰",
+    "index": 6,
+    "rankA": 8,
+    "rankB": 249
+  },
+  {
+    "id": 42,
+    "name": "白虎组·贰",
+    "index": 6,
+    "rankA": 72,
+    "rankB": 185
+  },
+  {
+    "id": 43,
+    "name": "白虎组·贰",
+    "index": 6,
+    "rankA": 104,
+    "rankB": 153
+  },
+  {
+    "id": 44,
+    "name": "白虎组·贰",
+    "index": 6,
+    "rankA": 40,
+    "rankB": 217
+  },
+  {
+    "id": 45,
+    "name": "白虎组·贰",
+    "index": 6,
+    "rankA": 56,
+    "rankB": 201
+  },
+  {
+    "id": 46,
+    "name": "白虎组·贰",
+    "index": 6,
+    "rankA": 120,
+    "rankB": 137
+  },
+  {
+    "id": 47,
+    "name": "白虎组·贰",
+    "index": 6,
+    "rankA": 88,
+    "rankB": 169
+  },
+  {
+    "id": 48,
+    "name": "白虎组·贰",
+    "index": 6,
+    "rankA": 24,
+    "rankB": 233
+  },
+  {
+    "id": 49,
+    "name": "白虎组·叁",
+    "index": 7,
+    "rankA": 12,
+    "rankB": 245
+  },
+  {
+    "id": 50,
+    "name": "白虎组·叁",
+    "index": 7,
+    "rankA": 92,
+    "rankB": 165
+  },
+  {
+    "id": 51,
+    "name": "白虎组·叁",
+    "index": 7,
+    "rankA": 108,
+    "rankB": 149
+  },
+  {
+    "id": 52,
+    "name": "白虎组·叁",
+    "index": 7,
+    "rankA": 44,
+    "rankB": 213
+  },
+  {
+    "id": 53,
+    "name": "白虎组·叁",
+    "index": 7,
+    "rankA": 60,
+    "rankB": 197
+  },
+  {
+    "id": 54,
+    "name": "白虎组·叁",
+    "index": 7,
+    "rankA": 124,
+    "rankB": 133
+  },
+  {
+    "id": 55,
+    "name": "白虎组·叁",
+    "index": 7,
+    "rankA": 76,
+    "rankB": 181
+  },
+  {
+    "id": 56,
+    "name": "白虎组·叁",
+    "index": 7,
+    "rankA": 28,
+    "rankB": 229
+  },
+  {
+    "id": 57,
+    "name": "白虎组·肆",
+    "index": 8,
+    "rankA": 16,
+    "rankB": 241
+  },
+  {
+    "id": 58,
+    "name": "白虎组·肆",
+    "index": 8,
+    "rankA": 80,
+    "rankB": 177
+  },
+  {
+    "id": 59,
+    "name": "白虎组·肆",
+    "index": 8,
+    "rankA": 112,
+    "rankB": 145
+  },
+  {
+    "id": 60,
+    "name": "白虎组·肆",
+    "index": 8,
+    "rankA": 48,
+    "rankB": 209
+  },
+  {
+    "id": 61,
+    "name": "白虎组·肆",
+    "index": 8,
+    "rankA": 64,
+    "rankB": 193
+  },
+  {
+    "id": 62,
+    "name": "白虎组·肆",
+    "index": 8,
+    "rankA": 128,
+    "rankB": 129
+  },
+  {
+    "id": 63,
+    "name": "白虎组·肆",
+    "index": 8,
+    "rankA": 96,
+    "rankB": 161
+  },
+  {
+    "id": 64,
+    "name": "白虎组·肆",
+    "index": 8,
+    "rankA": 32,
+    "rankB": 225
+  },
+  {
+    "id": 65,
+    "name": "朱雀组·壹",
+    "index": 9,
+    "rankA": 2,
+    "rankB": 255
+  },
+  {
+    "id": 66,
+    "name": "朱雀组·壹",
+    "index": 9,
+    "rankA": 66,
+    "rankB": 191
+  },
+  {
+    "id": 67,
+    "name": "朱雀组·壹",
+    "index": 9,
+    "rankA": 98,
+    "rankB": 159
+  },
+  {
+    "id": 68,
+    "name": "朱雀组·壹",
+    "index": 9,
+    "rankA": 34,
+    "rankB": 223
+  },
+  {
+    "id": 69,
+    "name": "朱雀组·壹",
+    "index": 9,
+    "rankA": 50,
+    "rankB": 207
+  },
+  {
+    "id": 70,
+    "name": "朱雀组·壹",
+    "index": 9,
+    "rankA": 114,
+    "rankB": 143
+  },
+  {
+    "id": 71,
+    "name": "朱雀组·壹",
+    "index": 9,
+    "rankA": 82,
+    "rankB": 175
+  },
+  {
+    "id": 72,
+    "name": "朱雀组·壹",
+    "index": 9,
+    "rankA": 18,
+    "rankB": 239
+  },
+  {
+    "id": 73,
+    "name": "朱雀组·贰",
+    "index": 10,
+    "rankA": 6,
+    "rankB": 251
+  },
+  {
+    "id": 74,
+    "name": "朱雀组·贰",
+    "index": 10,
+    "rankA": 70,
+    "rankB": 187
+  },
+  {
+    "id": 75,
+    "name": "朱雀组·贰",
+    "index": 10,
+    "rankA": 102,
+    "rankB": 155
+  },
+  {
+    "id": 76,
+    "name": "朱雀组·贰",
+    "index": 10,
+    "rankA": 38,
+    "rankB": 219
+  },
+  {
+    "id": 77,
+    "name": "朱雀组·贰",
+    "index": 10,
+    "rankA": 54,
+    "rankB": 203
+  },
+  {
+    "id": 78,
+    "name": "朱雀组·贰",
+    "index": 10,
+    "rankA": 118,
+    "rankB": 139
+  },
+  {
+    "id": 79,
+    "name": "朱雀组·贰",
+    "index": 10,
+    "rankA": 86,
+    "rankB": 171
+  },
+  {
+    "id": 80,
+    "name": "朱雀组·贰",
+    "index": 10,
+    "rankA": 22,
+    "rankB": 235
+  },
+  {
+    "id": 81,
+    "name": "朱雀组·叁",
+    "index": 11,
+    "rankA": 10,
+    "rankB": 247
+  },
+  {
+    "id": 82,
+    "name": "朱雀组·叁",
+    "index": 11,
+    "rankA": 74,
+    "rankB": 183
+  },
+  {
+    "id": 83,
+    "name": "朱雀组·叁",
+    "index": 11,
+    "rankA": 106,
+    "rankB": 151
+  },
+  {
+    "id": 84,
+    "name": "朱雀组·叁",
+    "index": 11,
+    "rankA": 42,
+    "rankB": 215
+  },
+  {
+    "id": 85,
+    "name": "朱雀组·叁",
+    "index": 11,
+    "rankA": 58,
+    "rankB": 199
+  },
+  {
+    "id": 86,
+    "name": "朱雀组·叁",
+    "index": 11,
+    "rankA": 122,
+    "rankB": 135
+  },
+  {
+    "id": 87,
+    "name": "朱雀组·叁",
+    "index": 11,
+    "rankA": 90,
+    "rankB": 167
+  },
+  {
+    "id": 88,
+    "name": "朱雀组·叁",
+    "index": 11,
+    "rankA": 26,
+    "rankB": 231
+  },
+  {
+    "id": 89,
+    "name": "朱雀组·肆",
+    "index": 12,
+    "rankA": 14,
+    "rankB": 243
+  },
+  {
+    "id": 90,
+    "name": "朱雀组·肆",
+    "index": 12,
+    "rankA": 78,
+    "rankB": 179
+  },
+  {
+    "id": 91,
+    "name": "朱雀组·肆",
+    "index": 12,
+    "rankA": 110,
+    "rankB": 147
+  },
+  {
+    "id": 92,
+    "name": "朱雀组·肆",
+    "index": 12,
+    "rankA": 46,
+    "rankB": 211
+  },
+  {
+    "id": 93,
+    "name": "朱雀组·肆",
+    "index": 12,
+    "rankA": 62,
+    "rankB": 195
+  },
+  {
+    "id": 94,
+    "name": "朱雀组·肆",
+    "index": 12,
+    "rankA": 126,
+    "rankB": 131
+  },
+  {
+    "id": 95,
+    "name": "朱雀组·肆",
+    "index": 12,
+    "rankA": 94,
+    "rankB": 163
+  },
+  {
+    "id": 96,
+    "name": "朱雀组·肆",
+    "index": 12,
+    "rankA": 30,
+    "rankB": 227
+  },
+  {
+    "id": 97,
+    "name": "玄武组·壹",
+    "index": 13,
+    "rankA": 3,
+    "rankB": 254
+  },
+  {
+    "id": 98,
+    "name": "玄武组·壹",
+    "index": 13,
+    "rankA": 67,
+    "rankB": 190
+  },
+  {
+    "id": 99,
+    "name": "玄武组·壹",
+    "index": 13,
+    "rankA": 99,
+    "rankB": 158
+  },
+  {
+    "id": 100,
+    "name": "玄武组·壹",
+    "index": 13,
+    "rankA": 35,
+    "rankB": 222
+  },
+  {
+    "id": 101,
+    "name": "玄武组·壹",
+    "index": 13,
+    "rankA": 51,
+    "rankB": 206
+  },
+  {
+    "id": 102,
+    "name": "玄武组·壹",
+    "index": 13,
+    "rankA": 115,
+    "rankB": 142
+  },
+  {
+    "id": 103,
+    "name": "玄武组·壹",
+    "index": 13,
+    "rankA": 83,
+    "rankB": 174
+  },
+  {
+    "id": 104,
+    "name": "玄武组·壹",
+    "index": 13,
+    "rankA": 19,
+    "rankB": 238
+  },
+  {
+    "id": 105,
+    "name": "玄武组·贰",
+    "index": 14,
+    "rankA": 7,
+    "rankB": 250
+  },
+  {
+    "id": 106,
+    "name": "玄武组·贰",
+    "index": 14,
+    "rankA": 71,
+    "rankB": 186
+  },
+  {
+    "id": 107,
+    "name": "玄武组·贰",
+    "index": 14,
+    "rankA": 103,
+    "rankB": 154
+  },
+  {
+    "id": 108,
+    "name": "玄武组·贰",
+    "index": 14,
+    "rankA": 39,
+    "rankB": 218
+  },
+  {
+    "id": 109,
+    "name": "玄武组·贰",
+    "index": 14,
+    "rankA": 55,
+    "rankB": 202
+  },
+  {
+    "id": 110,
+    "name": "玄武组·贰",
+    "index": 14,
+    "rankA": 119,
+    "rankB": 138
+  },
+  {
+    "id": 111,
+    "name": "玄武组·贰",
+    "index": 14,
+    "rankA": 87,
+    "rankB": 170
+  },
+  {
+    "id": 112,
+    "name": "玄武组·贰",
+    "index": 14,
+    "rankA": 23,
+    "rankB": 234
+  },
+  {
+    "id": 113,
+    "name": "玄武组·叁",
+    "index": 15,
+    "rankA": 11,
+    "rankB": 246
+  },
+  {
+    "id": 114,
+    "name": "玄武组·叁",
+    "index": 15,
+    "rankA": 75,
+    "rankB": 182
+  },
+  {
+    "id": 115,
+    "name": "玄武组·叁",
+    "index": 15,
+    "rankA": 107,
+    "rankB": 150
+  },
+  {
+    "id": 116,
+    "name": "玄武组·叁",
+    "index": 15,
+    "rankA": 43,
+    "rankB": 214
+  },
+  {
+    "id": 117,
+    "name": "玄武组·叁",
+    "index": 15,
+    "rankA": 59,
+    "rankB": 198
+  },
+  {
+    "id": 118,
+    "name": "玄武组·叁",
+    "index": 15,
+    "rankA": 123,
+    "rankB": 134
+  },
+  {
+    "id": 119,
+    "name": "玄武组·叁",
+    "index": 15,
+    "rankA": 91,
+    "rankB": 166
+  },
+  {
+    "id": 120,
+    "name": "玄武组·叁",
+    "index": 15,
+    "rankA": 27,
+    "rankB": 230
+  },
+  {
+    "id": 121,
+    "name": "玄武组·肆",
+    "index": 16,
+    "rankA": 15,
+    "rankB": 242
+  },
+  {
+    "id": 122,
+    "name": "玄武组·肆",
+    "index": 16,
+    "rankA": 79,
+    "rankB": 178
+  },
+  {
+    "id": 123,
+    "name": "玄武组·肆",
+    "index": 16,
+    "rankA": 111,
+    "rankB": 146
+  },
+  {
+    "id": 124,
+    "name": "玄武组·肆",
+    "index": 16,
+    "rankA": 47,
+    "rankB": 210
+  },
+  {
+    "id": 125,
+    "name": "玄武组·肆",
+    "index": 16,
+    "rankA": 63,
+    "rankB": 194
+  },
+  {
+    "id": 126,
+    "name": "玄武组·肆",
+    "index": 16,
+    "rankA": 127,
+    "rankB": 130
+  },
+  {
+    "id": 127,
+    "name": "玄武组·肆",
+    "index": 16,
+    "rankA": 95,
+    "rankB": 162
+  },
+  {
+    "id": 128,
+    "name": "玄武组·肆",
+    "index": 16,
+    "rankA": 31,
+    "rankB": 226
+  }
+]

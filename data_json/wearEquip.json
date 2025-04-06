@@ -1,0 +1,1559 @@
+[
+  {
+    "id": 1,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "hair",
+      "eyes",
+      "bianzi_1",
+      "bianzi_2"
+    ],
+    "armor": [
+      "right_shoulderarmor_1",
+      "right_shoulderarmor_2",
+      "right_arm1",
+      "left_shoulderarmor_1",
+      "left_shoulderarmor_2",
+      "left_arm1",
+      "scarf",
+      "armor",
+      "zuotui",
+      "youtui"
+    ],
+    "hand": [
+      "right_hand",
+      "left_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3_1"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ]
+  },
+  {
+    "id": 2,
+    "weapon": [
+      "weapon",
+      "weapon1"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "eyes"
+    ],
+    "armor": [
+      "right_shoulderarmor_1",
+      "right_arm1",
+      "right_arm2",
+      "right_hand",
+      "armor",
+      "left_shoulderarmor_1",
+      "left_arm1",
+      "left_arm2",
+      "left_hand",
+      "right_arm2_2",
+      "right_shoulderarmor_2",
+      "left_shoulderarmor_2"
+    ],
+    "hand": [
+      "right_hand_1"
+    ],
+    "foot": [
+      "belt",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg",
+      "zuotui",
+      "youtui",
+      "crotch_1",
+      "crotch_2"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ]
+  },
+  {
+    "id": 3,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "eyes",
+      "ear_1",
+      "ear_2"
+    ],
+    "armor": [
+      "right_shoulderarmor_1",
+      "right_shoulderarmor_2",
+      "right_arm1",
+      "left_shoulderarmor_1",
+      "left_shoulderarmor_2",
+      "left_arm1",
+      "scarf",
+      "armor",
+      "zuotui",
+      "youtui"
+    ],
+    "hand": [
+      "right_hand",
+      "left_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3_1",
+      "huanshou"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ]
+  },
+  {
+    "id": 4,
+    "weapon": [
+      "weapon",
+      "weapon_1"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "yanjing_1",
+      "ear_1"
+    ],
+    "armor": [
+      "right_shoulderarmor_1",
+      "left_shoulderarmor_1",
+      "armor",
+      "scarf"
+    ],
+    "hand": [
+      "right_hand",
+      "right_arm1",
+      "right_arm2",
+      "left_hand",
+      "left_arm1",
+      "left_arm2"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "zuotui",
+      "youtui",
+      "right_leg",
+      "left_leg"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ]
+  },
+  {
+    "id": 5,
+    "weapon": [
+      "weapon",
+      "weapon_1",
+      "weapon_2"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "head_10",
+      "head_11",
+      "head_12",
+      "head_13",
+      "hair_1",
+      "hair_2",
+      "hair_3",
+      "hair_4",
+      "hair_5",
+      "hair_6"
+    ],
+    "armor": [
+      "right_shoulderarmor",
+      "left_shoulderarmor",
+      "armor",
+      "armor_1",
+      "right_shoulderarmor_2",
+      "right_shoulderarmor_2"
+    ],
+    "hand": [
+      "right_hand",
+      "right_arm1",
+      "right_arm2",
+      "left_hand",
+      "left_arm1",
+      "left_arm2"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "crotch_1",
+      "crotch_2",
+      "right_legarmor",
+      "left_legarmor",
+      "zuotui",
+      "zuotui_1",
+      "youtui",
+      "youtui_1"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ]
+  },
+  {
+    "id": 6,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "eyes"
+    ],
+    "armor": [
+      "armor",
+      "armor2",
+      "right_arm1",
+      "left_arm1",
+      "left_arm1_2",
+      "right_arm1_2"
+    ],
+    "hand": [
+      "right_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "crotch2",
+      "right_legarmor",
+      "left_legarmor",
+      "left_leg_1",
+      "zuotui",
+      "youtui",
+      "right_leg_1",
+      "right_leg_2",
+      "left_leg_1",
+      "left_leg_2"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ]
+  },
+  {
+    "id": 7,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "head_10",
+      "head_11",
+      "eyes"
+    ],
+    "armor": [
+      "armor",
+      "armor2",
+      "right_arm1",
+      "left_arm1"
+    ],
+    "hand": [
+      "right_arm2",
+      "right_arm2_1",
+      "right_arm2_2",
+      "right_arm3",
+      "right_arm3_1",
+      "right_hand",
+      "left_arm2",
+      "left_arm2_1",
+      "left_arm2_2",
+      "left_arm3",
+      "left_arm3_1",
+      "left_hand"
+    ],
+    "foot": [
+      "right_legarmor",
+      "right_legarmor1",
+      "left_legarmor",
+      "left_legarmor1",
+      "belt",
+      "crotch_1",
+      "crotch_2",
+      "crotch_3",
+      "right_leg_1",
+      "right_leg_2",
+      "right_leg_3",
+      "right_leg_4",
+      "left_leg_1",
+      "left_leg_2",
+      "left_leg_3",
+      "left_leg_4"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ]
+  },
+  {
+    "id": 101,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "hair",
+      "eyes",
+      "bianzi_1",
+      "bianzi_2"
+    ],
+    "clothes": [
+      "right_shoulderarmor_1",
+      "right_shoulderarmor_2",
+      "right_arm1",
+      "left_shoulderarmor_1",
+      "left_shoulderarmor_2",
+      "left_arm1",
+      "scarf",
+      "armor",
+      "right_hand",
+      "left_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3_1",
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg",
+      "zuotui",
+      "youtui",
+      "crotch_1"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 102,
+    "weapon": [
+      "weapon",
+      "weapon1"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "eyes"
+    ],
+    "clothes": [
+      "right_shoulderarmor_1",
+      "right_arm1",
+      "right_arm2",
+      "right_hand",
+      "armor",
+      "left_shoulderarmor_1",
+      "left_arm1",
+      "left_arm2",
+      "left_hand",
+      "right_hand_1",
+      "belt",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg",
+      "zuotui",
+      "youtui",
+      "crotch_1",
+      "crotch_2",
+      "right_arm2_2",
+      "right_shoulderarmor_2",
+      "left_shoulderarmor_2"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 103,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "eyes",
+      "ear_1",
+      "ear_2"
+    ],
+    "clothes": [
+      "right_shoulderarmor_1",
+      "right_shoulderarmor_2",
+      "right_arm1",
+      "left_shoulderarmor_1",
+      "left_shoulderarmor_2",
+      "left_arm1",
+      "scarf",
+      "armor",
+      "right_hand",
+      "left_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3_1",
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg",
+      "zuotui",
+      "youtui",
+      "huanshou",
+      "crotch_1"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 104,
+    "weapon": [
+      "weapon",
+      "weapon_1"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "yanjing_1",
+      "ear_1"
+    ],
+    "clothes": [
+      "right_shoulderarmor_1",
+      "left_shoulderarmor_1",
+      "armor",
+      "right_arm1",
+      "right_arm2",
+      "scarf",
+      "left_arm1",
+      "left_arm2",
+      "right_hand",
+      "left_hand",
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "zuotui",
+      "youtui",
+      "right_leg",
+      "left_leg",
+      "crotch_1",
+      "zuotui_1",
+      "youtui_1"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 105,
+    "weapon": [
+      "weapon",
+      "weapon_1",
+      "weapon_2"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "head_10",
+      "head_11",
+      "head_12",
+      "head_13",
+      "hair_1",
+      "hair_2",
+      "hair_3",
+      "hair_4",
+      "hair_5",
+      "hair_6"
+    ],
+    "clothes": [
+      "right_shoulderarmor",
+      "left_shoulderarmor",
+      "armor",
+      "armor_1",
+      "right_hand",
+      "right_arm1",
+      "right_arm2",
+      "left_hand",
+      "left_arm1",
+      "left_arm2",
+      "belt",
+      "crotch",
+      "crotch_1",
+      "crotch_2",
+      "right_legarmor",
+      "left_legarmor",
+      "zuotui",
+      "zuotui_1",
+      "youtui",
+      "youtui_1",
+      "right_shoulderarmor_2",
+      "right_shoulderarmor_2"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4",
+      "face_5",
+      "face_6",
+      "face_7"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 106,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "eyes"
+    ],
+    "clothes": [
+      "right_hand",
+      "right_arm1",
+      "right_arm2",
+      "right_arm3",
+      "left_arm1",
+      "left_arm2",
+      "left_arm3",
+      "belt",
+      "crotch",
+      "crotch2",
+      "right_legarmor",
+      "left_legarmor",
+      "left_leg_1",
+      "zuotui",
+      "youtui",
+      "right_leg_1",
+      "right_leg_2",
+      "left_leg_1",
+      "left_leg_2",
+      "armor",
+      "armor2",
+      "left_arm1_2",
+      "right_arm1_2"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4",
+      "face_5"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 107,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "head_10",
+      "head_11",
+      "eyes"
+    ],
+    "clothes": [
+      "right_legarmor",
+      "right_legarmor1",
+      "left_legarmor",
+      "left_legarmor1",
+      "armor",
+      "armor2",
+      "crotch_1",
+      "crotch_2",
+      "crotch_3",
+      "belt",
+      "right_arm1",
+      "left_arm1",
+      "right_arm2",
+      "right_arm2_1",
+      "right_arm2_2",
+      "right_arm3",
+      "right_arm3_1",
+      "right_hand",
+      "left_arm2",
+      "left_arm2_1",
+      "left_arm2_2",
+      "left_arm3",
+      "left_arm3_1",
+      "left_hand",
+      "right_leg_1",
+      "right_leg_2",
+      "right_leg_3",
+      "right_leg_4",
+      "left_leg_1",
+      "left_leg_2",
+      "left_leg_3",
+      "left_leg_4"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4",
+      "face_5"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 201,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "hair",
+      "eyes",
+      "bianzi_1",
+      "bianzi_2"
+    ],
+    "clothes": [
+      "right_shoulderarmor_1",
+      "right_shoulderarmor_2",
+      "right_arm1",
+      "left_shoulderarmor_1",
+      "left_shoulderarmor_2",
+      "left_arm1",
+      "scarf",
+      "armor",
+      "right_hand",
+      "left_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3_1",
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg",
+      "zuotui",
+      "youtui",
+      "crotch_1"
+    ],
+    "armor": [
+      "right_shoulderarmor_1",
+      "right_shoulderarmor_2",
+      "right_arm1",
+      "left_shoulderarmor_1",
+      "left_shoulderarmor_2",
+      "left_arm1",
+      "scarf",
+      "armor",
+      "zuotui",
+      "youtui"
+    ],
+    "hand": [
+      "right_hand",
+      "left_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3_1"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 202,
+    "weapon": [
+      "weapon",
+      "weapon1"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "eyes"
+    ],
+    "clothes": [
+      "right_shoulderarmor_1",
+      "right_arm1",
+      "right_arm2",
+      "right_hand",
+      "armor",
+      "left_shoulderarmor_1",
+      "left_arm1",
+      "left_arm2",
+      "left_hand",
+      "right_hand_1",
+      "belt",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg",
+      "zuotui",
+      "youtui",
+      "crotch_1",
+      "crotch_2",
+      "right_arm2_2",
+      "right_shoulderarmor_2",
+      "left_shoulderarmor_2"
+    ],
+    "armor": [
+      "right_shoulderarmor_1",
+      "right_arm1",
+      "right_arm2",
+      "right_hand",
+      "armor",
+      "left_shoulderarmor_1",
+      "left_arm1",
+      "left_arm2",
+      "left_hand",
+      "right_arm2_2",
+      "right_shoulderarmor_2",
+      "left_shoulderarmor_2"
+    ],
+    "hand": [
+      "right_hand_1"
+    ],
+    "foot": [
+      "belt",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg",
+      "zuotui",
+      "youtui",
+      "crotch_1",
+      "crotch_2"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 203,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "eyes",
+      "ear_1",
+      "ear_2"
+    ],
+    "clothes": [
+      "right_shoulderarmor_1",
+      "right_shoulderarmor_2",
+      "right_arm1",
+      "left_shoulderarmor_1",
+      "left_shoulderarmor_2",
+      "left_arm1",
+      "scarf",
+      "armor",
+      "right_hand",
+      "left_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3_1",
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg",
+      "zuotui",
+      "youtui",
+      "huanshou",
+      "crotch_1"
+    ],
+    "armor": [
+      "right_shoulderarmor_1",
+      "right_shoulderarmor_2",
+      "right_arm1",
+      "left_shoulderarmor_1",
+      "left_shoulderarmor_2",
+      "left_arm1",
+      "scarf",
+      "armor",
+      "zuotui",
+      "youtui"
+    ],
+    "hand": [
+      "right_hand",
+      "left_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3_1",
+      "huanshou"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "right_leg",
+      "left_leg"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 204,
+    "weapon": [
+      "weapon",
+      "weapon_1"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "yanjing_1",
+      "ear_1"
+    ],
+    "clothes": [
+      "right_shoulderarmor_1",
+      "left_shoulderarmor_1",
+      "armor",
+      "right_arm1",
+      "right_arm2",
+      "scarf",
+      "left_arm1",
+      "left_arm2",
+      "right_hand",
+      "left_hand",
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "zuotui",
+      "youtui",
+      "right_leg",
+      "left_leg",
+      "crotch_1",
+      "zuotui_1",
+      "youtui_1"
+    ],
+    "armor": [
+      "right_shoulderarmor_1",
+      "left_shoulderarmor_1",
+      "armor",
+      "scarf"
+    ],
+    "hand": [
+      "right_hand",
+      "right_arm1",
+      "right_arm2",
+      "left_hand",
+      "left_arm1",
+      "left_arm2"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "right_legarmor",
+      "left_legarmor",
+      "zuotui",
+      "youtui",
+      "right_leg",
+      "left_leg"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 205,
+    "weapon": [
+      "weapon",
+      "weapon_1",
+      "weapon_2"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "head_10",
+      "head_11",
+      "head_12",
+      "head_13",
+      "hair_1",
+      "hair_2",
+      "hair_3",
+      "hair_4",
+      "hair_5",
+      "hair_6"
+    ],
+    "clothes": [
+      "right_shoulderarmor",
+      "left_shoulderarmor",
+      "armor",
+      "armor_1",
+      "right_hand",
+      "right_arm1",
+      "right_arm2",
+      "left_hand",
+      "left_arm1",
+      "left_arm2",
+      "belt",
+      "crotch",
+      "crotch_1",
+      "crotch_2",
+      "right_legarmor",
+      "left_legarmor",
+      "zuotui",
+      "zuotui_1",
+      "youtui",
+      "youtui_1",
+      "right_shoulderarmor_2",
+      "right_shoulderarmor_2"
+    ],
+    "armor": [
+      "right_shoulderarmor",
+      "left_shoulderarmor",
+      "armor",
+      "armor_1",
+      "right_shoulderarmor_2",
+      "right_shoulderarmor_2"
+    ],
+    "hand": [
+      "right_hand",
+      "right_arm1",
+      "right_arm2",
+      "left_hand",
+      "left_arm1",
+      "left_arm2"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "crotch_1",
+      "crotch_2",
+      "right_legarmor",
+      "left_legarmor",
+      "zuotui",
+      "zuotui_1",
+      "youtui",
+      "youtui_1"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4",
+      "face_5",
+      "face_6",
+      "face_7"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 206,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "eyes"
+    ],
+    "clothes": [
+      "right_hand",
+      "right_arm1",
+      "right_arm2",
+      "right_arm3",
+      "left_arm1",
+      "left_arm2",
+      "left_arm3",
+      "belt",
+      "crotch",
+      "crotch2",
+      "right_legarmor",
+      "left_legarmor",
+      "left_leg_1",
+      "zuotui",
+      "youtui",
+      "right_leg_1",
+      "right_leg_2",
+      "left_leg_1",
+      "left_leg_2",
+      "armor",
+      "armor2",
+      "left_arm1_2",
+      "right_arm1_2"
+    ],
+    "armor": [
+      "armor",
+      "armor2",
+      "right_arm1",
+      "left_arm1",
+      "left_arm1_2",
+      "right_arm1_2"
+    ],
+    "hand": [
+      "right_hand",
+      "right_arm2",
+      "right_arm3",
+      "left_arm2",
+      "left_arm3"
+    ],
+    "foot": [
+      "belt",
+      "crotch",
+      "crotch2",
+      "right_legarmor",
+      "left_legarmor",
+      "left_leg_1",
+      "zuotui",
+      "youtui",
+      "right_leg_1",
+      "right_leg_2",
+      "left_leg_1",
+      "left_leg_2"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4",
+      "face_5"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  },
+  {
+    "id": 207,
+    "weapon": [
+      "weapon"
+    ],
+    "head": [
+      "head_1",
+      "head_2",
+      "head_3",
+      "head_4",
+      "head_5",
+      "head_6",
+      "head_7",
+      "head_8",
+      "head_9",
+      "head_10",
+      "head_11",
+      "eyes"
+    ],
+    "clothes": [
+      "right_legarmor",
+      "right_legarmor1",
+      "left_legarmor",
+      "left_legarmor1",
+      "armor",
+      "armor2",
+      "crotch_1",
+      "crotch_2",
+      "crotch_3",
+      "belt",
+      "right_arm1",
+      "left_arm1",
+      "right_arm2",
+      "right_arm2_1",
+      "right_arm2_2",
+      "right_arm3",
+      "right_arm3_1",
+      "right_hand",
+      "left_arm2",
+      "left_arm2_1",
+      "left_arm2_2",
+      "left_arm3",
+      "left_arm3_1",
+      "left_hand",
+      "right_leg_1",
+      "right_leg_2",
+      "right_leg_3",
+      "right_leg_4",
+      "left_leg_1",
+      "left_leg_2",
+      "left_leg_3",
+      "left_leg_4"
+    ],
+    "armor": [
+      "armor",
+      "armor2",
+      "right_arm1",
+      "left_arm1"
+    ],
+    "hand": [
+      "right_arm2",
+      "right_arm2_1",
+      "right_arm2_2",
+      "right_arm3",
+      "right_arm3_1",
+      "right_hand",
+      "left_arm2",
+      "left_arm2_1",
+      "left_arm2_2",
+      "left_arm3",
+      "left_arm3_1",
+      "left_hand"
+    ],
+    "foot": [
+      "right_legarmor",
+      "right_legarmor1",
+      "left_legarmor",
+      "left_legarmor1",
+      "belt",
+      "crotch_1",
+      "crotch_2",
+      "crotch_3",
+      "right_leg_1",
+      "right_leg_2",
+      "right_leg_3",
+      "right_leg_4",
+      "left_leg_1",
+      "left_leg_2",
+      "left_leg_3",
+      "left_leg_4"
+    ],
+    "jewelry": [],
+    "wing": [
+      "right_wing",
+      "left_wing"
+    ],
+    "face": [
+      "face_1",
+      "face_2",
+      "face_3",
+      "face_4",
+      "face_5"
+    ],
+    "matrix": [
+      "fazhen"
+    ],
+    "headEffect": [
+      "head_texiao1"
+    ],
+    "faceEffect": [
+      "face_texiao1"
+    ],
+    "clothesEffect": [
+      "armor_texiao1",
+      "armor_texiao2"
+    ]
+  }
+]

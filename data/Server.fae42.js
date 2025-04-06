@@ -1,0 +1,1 @@
+var tmp=[["id","serverId","type"],[1,1,"android"]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.Server=tmp);

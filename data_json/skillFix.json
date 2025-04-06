@@ -1,0 +1,1507 @@
+[
+  {
+    "id": 0,
+    "levelGap": 0,
+    "probabilityFix": 0
+  },
+  {
+    "id": 1,
+    "levelGap": 1,
+    "probabilityFix": 0.0467
+  },
+  {
+    "id": 2,
+    "levelGap": 2,
+    "probabilityFix": 0.0946
+  },
+  {
+    "id": 3,
+    "levelGap": 3,
+    "probabilityFix": 0.1435
+  },
+  {
+    "id": 4,
+    "levelGap": 4,
+    "probabilityFix": 0.1936
+  },
+  {
+    "id": 5,
+    "levelGap": 5,
+    "probabilityFix": 0.2449
+  },
+  {
+    "id": 6,
+    "levelGap": 6,
+    "probabilityFix": 0.2974
+  },
+  {
+    "id": 7,
+    "levelGap": 7,
+    "probabilityFix": 0.3511
+  },
+  {
+    "id": 8,
+    "levelGap": 8,
+    "probabilityFix": 0.4061
+  },
+  {
+    "id": 9,
+    "levelGap": 9,
+    "probabilityFix": 0.4623
+  },
+  {
+    "id": 10,
+    "levelGap": 10,
+    "probabilityFix": 0.5198
+  },
+  {
+    "id": 11,
+    "levelGap": 11,
+    "probabilityFix": 0.5787
+  },
+  {
+    "id": 12,
+    "levelGap": 12,
+    "probabilityFix": 0.639
+  },
+  {
+    "id": 13,
+    "levelGap": 13,
+    "probabilityFix": 0.7007
+  },
+  {
+    "id": 14,
+    "levelGap": 14,
+    "probabilityFix": 0.7638
+  },
+  {
+    "id": 15,
+    "levelGap": 15,
+    "probabilityFix": 0.8284
+  },
+  {
+    "id": 16,
+    "levelGap": 16,
+    "probabilityFix": 0.8945
+  },
+  {
+    "id": 17,
+    "levelGap": 17,
+    "probabilityFix": 0.9622
+  },
+  {
+    "id": 18,
+    "levelGap": 18,
+    "probabilityFix": 1.0314
+  },
+  {
+    "id": 19,
+    "levelGap": 19,
+    "probabilityFix": 1.1023
+  },
+  {
+    "id": 20,
+    "levelGap": 20,
+    "probabilityFix": 1.1748
+  },
+  {
+    "id": 21,
+    "levelGap": 21,
+    "probabilityFix": 1.249
+  },
+  {
+    "id": 22,
+    "levelGap": 22,
+    "probabilityFix": 1.325
+  },
+  {
+    "id": 23,
+    "levelGap": 23,
+    "probabilityFix": 1.4027
+  },
+  {
+    "id": 24,
+    "levelGap": 24,
+    "probabilityFix": 1.4822
+  },
+  {
+    "id": 25,
+    "levelGap": 25,
+    "probabilityFix": 1.5636
+  },
+  {
+    "id": 26,
+    "levelGap": 26,
+    "probabilityFix": 1.6469
+  },
+  {
+    "id": 27,
+    "levelGap": 27,
+    "probabilityFix": 1.7321
+  },
+  {
+    "id": 28,
+    "levelGap": 28,
+    "probabilityFix": 1.8194
+  },
+  {
+    "id": 29,
+    "levelGap": 29,
+    "probabilityFix": 1.9086
+  },
+  {
+    "id": 30,
+    "levelGap": 30,
+    "probabilityFix": 2
+  },
+  {
+    "id": 31,
+    "levelGap": 31,
+    "probabilityFix": 2.0935
+  },
+  {
+    "id": 32,
+    "levelGap": 32,
+    "probabilityFix": 2.1892
+  },
+  {
+    "id": 33,
+    "levelGap": 33,
+    "probabilityFix": 2.2871
+  },
+  {
+    "id": 34,
+    "levelGap": 34,
+    "probabilityFix": 2.3873
+  },
+  {
+    "id": 35,
+    "levelGap": 35,
+    "probabilityFix": 2.4898
+  },
+  {
+    "id": 36,
+    "levelGap": 36,
+    "probabilityFix": 2.5948
+  },
+  {
+    "id": 37,
+    "levelGap": 37,
+    "probabilityFix": 2.7022
+  },
+  {
+    "id": 38,
+    "levelGap": 38,
+    "probabilityFix": 2.8121
+  },
+  {
+    "id": 39,
+    "levelGap": 39,
+    "probabilityFix": 2.9246
+  },
+  {
+    "id": 40,
+    "levelGap": 40,
+    "probabilityFix": 3.0397
+  },
+  {
+    "id": 41,
+    "levelGap": 41,
+    "probabilityFix": 3.1575
+  },
+  {
+    "id": 42,
+    "levelGap": 42,
+    "probabilityFix": 3.278
+  },
+  {
+    "id": 43,
+    "levelGap": 43,
+    "probabilityFix": 3.4014
+  },
+  {
+    "id": 44,
+    "levelGap": 44,
+    "probabilityFix": 3.5277
+  },
+  {
+    "id": 45,
+    "levelGap": 45,
+    "probabilityFix": 3.6569
+  },
+  {
+    "id": 46,
+    "levelGap": 46,
+    "probabilityFix": 3.7891
+  },
+  {
+    "id": 47,
+    "levelGap": 47,
+    "probabilityFix": 3.9244
+  },
+  {
+    "id": 48,
+    "levelGap": 48,
+    "probabilityFix": 4.0629
+  },
+  {
+    "id": 49,
+    "levelGap": 49,
+    "probabilityFix": 4.2046
+  },
+  {
+    "id": 50,
+    "levelGap": 50,
+    "probabilityFix": 4.3496
+  },
+  {
+    "id": 51,
+    "levelGap": 51,
+    "probabilityFix": 4.498
+  },
+  {
+    "id": 52,
+    "levelGap": 52,
+    "probabilityFix": 4.6499
+  },
+  {
+    "id": 53,
+    "levelGap": 53,
+    "probabilityFix": 4.8053
+  },
+  {
+    "id": 54,
+    "levelGap": 54,
+    "probabilityFix": 4.9644
+  },
+  {
+    "id": 55,
+    "levelGap": 55,
+    "probabilityFix": 5.1272
+  },
+  {
+    "id": 56,
+    "levelGap": 56,
+    "probabilityFix": 5.2938
+  },
+  {
+    "id": 57,
+    "levelGap": 57,
+    "probabilityFix": 5.4643
+  },
+  {
+    "id": 58,
+    "levelGap": 58,
+    "probabilityFix": 5.6387
+  },
+  {
+    "id": 59,
+    "levelGap": 59,
+    "probabilityFix": 5.8173
+  },
+  {
+    "id": 60,
+    "levelGap": 60,
+    "probabilityFix": 6
+  },
+  {
+    "id": 61,
+    "levelGap": 61,
+    "probabilityFix": 6.187
+  },
+  {
+    "id": 62,
+    "levelGap": 62,
+    "probabilityFix": 6.3784
+  },
+  {
+    "id": 63,
+    "levelGap": 63,
+    "probabilityFix": 6.5742
+  },
+  {
+    "id": 64,
+    "levelGap": 64,
+    "probabilityFix": 6.7746
+  },
+  {
+    "id": 65,
+    "levelGap": 65,
+    "probabilityFix": 6.9797
+  },
+  {
+    "id": 66,
+    "levelGap": 66,
+    "probabilityFix": 7.1896
+  },
+  {
+    "id": 67,
+    "levelGap": 67,
+    "probabilityFix": 7.4044
+  },
+  {
+    "id": 68,
+    "levelGap": 68,
+    "probabilityFix": 7.6242
+  },
+  {
+    "id": 69,
+    "levelGap": 69,
+    "probabilityFix": 7.8492
+  },
+  {
+    "id": 70,
+    "levelGap": 70,
+    "probabilityFix": 8.0794
+  },
+  {
+    "id": 71,
+    "levelGap": 71,
+    "probabilityFix": 8.315
+  },
+  {
+    "id": 72,
+    "levelGap": 72,
+    "probabilityFix": 8.5561
+  },
+  {
+    "id": 73,
+    "levelGap": 73,
+    "probabilityFix": 8.8028
+  },
+  {
+    "id": 74,
+    "levelGap": 74,
+    "probabilityFix": 9.0553
+  },
+  {
+    "id": 75,
+    "levelGap": 75,
+    "probabilityFix": 9.3137
+  },
+  {
+    "id": 76,
+    "levelGap": 76,
+    "probabilityFix": 9.5782
+  },
+  {
+    "id": 77,
+    "levelGap": 77,
+    "probabilityFix": 9.8488
+  },
+  {
+    "id": 78,
+    "levelGap": 78,
+    "probabilityFix": 10.1257
+  },
+  {
+    "id": 79,
+    "levelGap": 79,
+    "probabilityFix": 10.4092
+  },
+  {
+    "id": 80,
+    "levelGap": 80,
+    "probabilityFix": 10.6992
+  },
+  {
+    "id": 81,
+    "levelGap": 81,
+    "probabilityFix": 10.996
+  },
+  {
+    "id": 82,
+    "levelGap": 82,
+    "probabilityFix": 11.2998
+  },
+  {
+    "id": 83,
+    "levelGap": 83,
+    "probabilityFix": 11.6107
+  },
+  {
+    "id": 84,
+    "levelGap": 84,
+    "probabilityFix": 11.9288
+  },
+  {
+    "id": 85,
+    "levelGap": 85,
+    "probabilityFix": 12.2544
+  },
+  {
+    "id": 86,
+    "levelGap": 86,
+    "probabilityFix": 12.5876
+  },
+  {
+    "id": 87,
+    "levelGap": 87,
+    "probabilityFix": 12.9285
+  },
+  {
+    "id": 88,
+    "levelGap": 88,
+    "probabilityFix": 13.2775
+  },
+  {
+    "id": 89,
+    "levelGap": 89,
+    "probabilityFix": 13.6346
+  },
+  {
+    "id": 90,
+    "levelGap": 90,
+    "probabilityFix": 14
+  },
+  {
+    "id": 91,
+    "levelGap": 91,
+    "probabilityFix": 14.374
+  },
+  {
+    "id": 92,
+    "levelGap": 92,
+    "probabilityFix": 14.7567
+  },
+  {
+    "id": 93,
+    "levelGap": 93,
+    "probabilityFix": 15.1484
+  },
+  {
+    "id": 94,
+    "levelGap": 94,
+    "probabilityFix": 15.5492
+  },
+  {
+    "id": 95,
+    "levelGap": 95,
+    "probabilityFix": 15.9594
+  },
+  {
+    "id": 96,
+    "levelGap": 96,
+    "probabilityFix": 16.3792
+  },
+  {
+    "id": 97,
+    "levelGap": 97,
+    "probabilityFix": 16.8088
+  },
+  {
+    "id": 98,
+    "levelGap": 98,
+    "probabilityFix": 17.2484
+  },
+  {
+    "id": 99,
+    "levelGap": 99,
+    "probabilityFix": 17.6983
+  },
+  {
+    "id": 100,
+    "levelGap": 100,
+    "probabilityFix": 18.1587
+  },
+  {
+    "id": 101,
+    "levelGap": 101,
+    "probabilityFix": 18.6299
+  },
+  {
+    "id": 102,
+    "levelGap": 102,
+    "probabilityFix": 19.1121
+  },
+  {
+    "id": 103,
+    "levelGap": 103,
+    "probabilityFix": 19.6056
+  },
+  {
+    "id": 104,
+    "levelGap": 104,
+    "probabilityFix": 20.1106
+  },
+  {
+    "id": 105,
+    "levelGap": 105,
+    "probabilityFix": 20.6274
+  },
+  {
+    "id": 106,
+    "levelGap": 106,
+    "probabilityFix": 21.1563
+  },
+  {
+    "id": 107,
+    "levelGap": 107,
+    "probabilityFix": 21.6976
+  },
+  {
+    "id": 108,
+    "levelGap": 108,
+    "probabilityFix": 22.2515
+  },
+  {
+    "id": 109,
+    "levelGap": 109,
+    "probabilityFix": 22.8183
+  },
+  {
+    "id": 110,
+    "levelGap": 110,
+    "probabilityFix": 23.3984
+  },
+  {
+    "id": 111,
+    "levelGap": 111,
+    "probabilityFix": 23.9921
+  },
+  {
+    "id": 112,
+    "levelGap": 112,
+    "probabilityFix": 24.5996
+  },
+  {
+    "id": 113,
+    "levelGap": 113,
+    "probabilityFix": 25.2213
+  },
+  {
+    "id": 114,
+    "levelGap": 114,
+    "probabilityFix": 25.8576
+  },
+  {
+    "id": 115,
+    "levelGap": 115,
+    "probabilityFix": 26.5088
+  },
+  {
+    "id": 116,
+    "levelGap": 116,
+    "probabilityFix": 27.1751
+  },
+  {
+    "id": 117,
+    "levelGap": 117,
+    "probabilityFix": 27.8571
+  },
+  {
+    "id": 118,
+    "levelGap": 118,
+    "probabilityFix": 28.5549
+  },
+  {
+    "id": 119,
+    "levelGap": 119,
+    "probabilityFix": 29.2691
+  },
+  {
+    "id": 120,
+    "levelGap": 120,
+    "probabilityFix": 30
+  },
+  {
+    "id": 121,
+    "levelGap": 121,
+    "probabilityFix": 30.748
+  },
+  {
+    "id": 122,
+    "levelGap": 122,
+    "probabilityFix": 31.5134
+  },
+  {
+    "id": 123,
+    "levelGap": 123,
+    "probabilityFix": 32.2968
+  },
+  {
+    "id": 124,
+    "levelGap": 124,
+    "probabilityFix": 33.0984
+  },
+  {
+    "id": 125,
+    "levelGap": 125,
+    "probabilityFix": 33.9188
+  },
+  {
+    "id": 126,
+    "levelGap": 126,
+    "probabilityFix": 34.7583
+  },
+  {
+    "id": 127,
+    "levelGap": 127,
+    "probabilityFix": 35.6175
+  },
+  {
+    "id": 128,
+    "levelGap": 128,
+    "probabilityFix": 36.4968
+  },
+  {
+    "id": 129,
+    "levelGap": 129,
+    "probabilityFix": 37.3966
+  },
+  {
+    "id": 130,
+    "levelGap": 130,
+    "probabilityFix": 38.3175
+  },
+  {
+    "id": 131,
+    "levelGap": 131,
+    "probabilityFix": 39.2598
+  },
+  {
+    "id": 132,
+    "levelGap": 132,
+    "probabilityFix": 40.2243
+  },
+  {
+    "id": 133,
+    "levelGap": 133,
+    "probabilityFix": 41.2112
+  },
+  {
+    "id": 134,
+    "levelGap": 134,
+    "probabilityFix": 42.2212
+  },
+  {
+    "id": 135,
+    "levelGap": 135,
+    "probabilityFix": 43.2548
+  },
+  {
+    "id": 136,
+    "levelGap": 136,
+    "probabilityFix": 44.3126
+  },
+  {
+    "id": 137,
+    "levelGap": 137,
+    "probabilityFix": 45.3951
+  },
+  {
+    "id": 138,
+    "levelGap": 138,
+    "probabilityFix": 46.5029
+  },
+  {
+    "id": 139,
+    "levelGap": 139,
+    "probabilityFix": 47.6366
+  },
+  {
+    "id": 140,
+    "levelGap": 140,
+    "probabilityFix": 48.7968
+  },
+  {
+    "id": 141,
+    "levelGap": 141,
+    "probabilityFix": 49.9842
+  },
+  {
+    "id": 142,
+    "levelGap": 142,
+    "probabilityFix": 51.1992
+  },
+  {
+    "id": 143,
+    "levelGap": 143,
+    "probabilityFix": 52.4427
+  },
+  {
+    "id": 144,
+    "levelGap": 144,
+    "probabilityFix": 53.7152
+  },
+  {
+    "id": 145,
+    "levelGap": 145,
+    "probabilityFix": 55.0175
+  },
+  {
+    "id": 146,
+    "levelGap": 146,
+    "probabilityFix": 56.3502
+  },
+  {
+    "id": 147,
+    "levelGap": 147,
+    "probabilityFix": 57.7141
+  },
+  {
+    "id": 148,
+    "levelGap": 148,
+    "probabilityFix": 59.1099
+  },
+  {
+    "id": 149,
+    "levelGap": 149,
+    "probabilityFix": 60.5382
+  },
+  {
+    "id": 150,
+    "levelGap": 150,
+    "probabilityFix": 62
+  },
+  {
+    "id": 151,
+    "levelGap": 151,
+    "probabilityFix": 63.4959
+  },
+  {
+    "id": 152,
+    "levelGap": 152,
+    "probabilityFix": 65.0268
+  },
+  {
+    "id": 153,
+    "levelGap": 153,
+    "probabilityFix": 66.5935
+  },
+  {
+    "id": 154,
+    "levelGap": 154,
+    "probabilityFix": 68.1968
+  },
+  {
+    "id": 155,
+    "levelGap": 155,
+    "probabilityFix": 69.8376
+  },
+  {
+    "id": 156,
+    "levelGap": 156,
+    "probabilityFix": 71.5167
+  },
+  {
+    "id": 157,
+    "levelGap": 157,
+    "probabilityFix": 73.2351
+  },
+  {
+    "id": 158,
+    "levelGap": 158,
+    "probabilityFix": 74.9936
+  },
+  {
+    "id": 159,
+    "levelGap": 159,
+    "probabilityFix": 76.7932
+  },
+  {
+    "id": 160,
+    "levelGap": 160,
+    "probabilityFix": 78.6349
+  },
+  {
+    "id": 161,
+    "levelGap": 161,
+    "probabilityFix": 80.5197
+  },
+  {
+    "id": 162,
+    "levelGap": 162,
+    "probabilityFix": 82.4485
+  },
+  {
+    "id": 163,
+    "levelGap": 163,
+    "probabilityFix": 84.4224
+  },
+  {
+    "id": 164,
+    "levelGap": 164,
+    "probabilityFix": 86.4424
+  },
+  {
+    "id": 165,
+    "levelGap": 165,
+    "probabilityFix": 88.5097
+  },
+  {
+    "id": 166,
+    "levelGap": 166,
+    "probabilityFix": 90.6252
+  },
+  {
+    "id": 167,
+    "levelGap": 167,
+    "probabilityFix": 92.7902
+  },
+  {
+    "id": 168,
+    "levelGap": 168,
+    "probabilityFix": 95.0059
+  },
+  {
+    "id": 169,
+    "levelGap": 169,
+    "probabilityFix": 97.2733
+  },
+  {
+    "id": 170,
+    "levelGap": 170,
+    "probabilityFix": 99.5937
+  },
+  {
+    "id": 171,
+    "levelGap": 171,
+    "probabilityFix": 101.9683
+  },
+  {
+    "id": 172,
+    "levelGap": 172,
+    "probabilityFix": 104.3985
+  },
+  {
+    "id": 173,
+    "levelGap": 173,
+    "probabilityFix": 106.8854
+  },
+  {
+    "id": 174,
+    "levelGap": 174,
+    "probabilityFix": 109.4305
+  },
+  {
+    "id": 175,
+    "levelGap": 175,
+    "probabilityFix": 112.035
+  },
+  {
+    "id": 176,
+    "levelGap": 176,
+    "probabilityFix": 114.7005
+  },
+  {
+    "id": 177,
+    "levelGap": 177,
+    "probabilityFix": 117.4282
+  },
+  {
+    "id": 178,
+    "levelGap": 178,
+    "probabilityFix": 120.2197
+  },
+  {
+    "id": 179,
+    "levelGap": 179,
+    "probabilityFix": 123.0765
+  },
+  {
+    "id": 180,
+    "levelGap": 180,
+    "probabilityFix": 126
+  },
+  {
+    "id": 181,
+    "levelGap": 181,
+    "probabilityFix": 128.9919
+  },
+  {
+    "id": 182,
+    "levelGap": 182,
+    "probabilityFix": 132.0536
+  },
+  {
+    "id": 183,
+    "levelGap": 183,
+    "probabilityFix": 135.187
+  },
+  {
+    "id": 184,
+    "levelGap": 184,
+    "probabilityFix": 138.3936
+  },
+  {
+    "id": 185,
+    "levelGap": 185,
+    "probabilityFix": 141.6751
+  },
+  {
+    "id": 186,
+    "levelGap": 186,
+    "probabilityFix": 145.0334
+  },
+  {
+    "id": 187,
+    "levelGap": 187,
+    "probabilityFix": 148.4701
+  },
+  {
+    "id": 188,
+    "levelGap": 188,
+    "probabilityFix": 151.9872
+  },
+  {
+    "id": 189,
+    "levelGap": 189,
+    "probabilityFix": 155.5865
+  },
+  {
+    "id": 190,
+    "levelGap": 190,
+    "probabilityFix": 159.2699
+  },
+  {
+    "id": 191,
+    "levelGap": 191,
+    "probabilityFix": 163.0394
+  },
+  {
+    "id": 192,
+    "levelGap": 192,
+    "probabilityFix": 166.897
+  },
+  {
+    "id": 193,
+    "levelGap": 193,
+    "probabilityFix": 170.8448
+  },
+  {
+    "id": 194,
+    "levelGap": 194,
+    "probabilityFix": 174.8848
+  },
+  {
+    "id": 195,
+    "levelGap": 195,
+    "probabilityFix": 179.0193
+  },
+  {
+    "id": 196,
+    "levelGap": 196,
+    "probabilityFix": 183.2505
+  },
+  {
+    "id": 197,
+    "levelGap": 197,
+    "probabilityFix": 187.5805
+  },
+  {
+    "id": 198,
+    "levelGap": 198,
+    "probabilityFix": 192.0117
+  },
+  {
+    "id": 199,
+    "levelGap": 199,
+    "probabilityFix": 196.5465
+  },
+  {
+    "id": 200,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 201,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 202,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 203,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 204,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 205,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 206,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 207,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 208,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 209,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 210,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 211,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 212,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 213,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 214,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 215,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 216,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 217,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 218,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 219,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 220,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 221,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 222,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 223,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 224,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 225,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 226,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 227,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 228,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 229,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 230,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 231,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 232,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 233,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 234,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 235,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 236,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 237,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 238,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 239,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 240,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 241,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 242,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 243,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 244,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 245,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 246,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 247,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 248,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 249,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 250,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 251,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 252,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 253,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 254,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 255,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 256,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 257,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 258,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 259,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 260,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 261,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 262,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 263,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 264,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 265,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 266,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 267,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 268,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 269,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 270,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 271,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 272,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 273,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 274,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 275,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 276,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 277,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 278,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 279,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 280,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 281,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 282,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 283,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 284,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 285,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 286,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 287,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 288,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 289,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 290,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 291,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 292,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 293,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 294,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 295,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 296,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 297,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 298,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 299,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  },
+  {
+    "id": 300,
+    "levelGap": 200,
+    "probabilityFix": 201.1873
+  }
+]

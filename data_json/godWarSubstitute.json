@@ -1,0 +1,159 @@
+[
+  {
+    "id": 101,
+    "name": "杨戬",
+    "group": 1,
+    "level": 1,
+    "monsterId": 8,
+    "avatarLookId": 100206,
+    "rideId": 241001,
+    "magicReplaceSkillId": 8001080,
+    "beSkill": [
+      8001091,
+      8001092,
+      8001093
+    ],
+    "useCost": [
+      4621,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 102,
+    "name": "杨戬",
+    "group": 1,
+    "level": 2,
+    "monsterId": 8,
+    "avatarLookId": 100206,
+    "rideId": 241001,
+    "magicReplaceSkillId": 8001080,
+    "beSkill": [
+      8001091,
+      8001092,
+      8001093
+    ],
+    "useCost": [
+      4622,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 103,
+    "name": "杨戬",
+    "group": 1,
+    "level": 3,
+    "monsterId": 8,
+    "avatarLookId": 100206,
+    "rideId": 241001,
+    "magicReplaceSkillId": 8001080,
+    "beSkill": [
+      8001091,
+      8001092,
+      8001093
+    ],
+    "useCost": [
+      4623,
+      1
+    ]
+  },
+  {
+    "id": 104,
+    "name": "杨戬",
+    "group": 1,
+    "level": 4,
+    "monsterId": 8,
+    "avatarLookId": 100206,
+    "rideId": 241001,
+    "magicReplaceSkillId": 8001080,
+    "beSkill": [
+      8001091,
+      8001092,
+      8001093
+    ],
+    "useCost": [
+      4624,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 105,
+    "name": "杨戬",
+    "group": 1,
+    "level": 5,
+    "monsterId": 8,
+    "avatarLookId": 100206,
+    "rideId": 241001,
+    "magicReplaceSkillId": 8001080,
+    "beSkill": [
+      8001091,
+      8001092,
+      8001093
+    ],
+    "useCost": [
+      4625,
+      1
+    ]
+  },
+  {
+    "id": 106,
+    "name": "杨戬",
+    "group": 1,
+    "level": 6,
+    "monsterId": 8,
+    "avatarLookId": 100206,
+    "rideId": 241001,
+    "magicReplaceSkillId": 8001080,
+    "beSkill": [
+      8001091,
+      8001092,
+      8001093
+    ],
+    "useCost": [
+      4626,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 107,
+    "name": "杨戬",
+    "group": 1,
+    "level": 7,
+    "monsterId": 8,
+    "avatarLookId": 100206,
+    "rideId": 241001,
+    "magicReplaceSkillId": 8001080,
+    "beSkill": [
+      8001091,
+      8001092,
+      8001093
+    ],
+    "useCost": [
+      4627,
+      1
+    ]
+  },
+  {
+    "id": 108,
+    "name": "杨戬",
+    "group": 1,
+    "level": 8,
+    "monsterId": 8,
+    "avatarLookId": 100206,
+    "rideId": 241001,
+    "magicReplaceSkillId": 8001080,
+    "beSkill": [
+      8001091,
+      8001092,
+      8001093
+    ],
+    "useCost": [
+      4628,
+      1
+    ],
+    "close": 1
+  }
+]

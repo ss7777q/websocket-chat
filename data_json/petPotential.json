@@ -1,0 +1,10898 @@
+[
+  {
+    "id": 1,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      90
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 2,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      140
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 3,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      190
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 4,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 5,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      302
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 6,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      381
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 7,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 8,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      538
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 9,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      593
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 10,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 11,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 12,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 13,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 14,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 15,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 16,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 17,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 18,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 19,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 20,
+    "potentialId": 7001001,
+    "name": "天生蛮力",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "攻击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      5112
+    ],
+    "icon": 7001001
+  },
+  {
+    "id": 21,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      1800
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 22,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      2800
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 23,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      3800
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 24,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      4800
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 25,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      6048
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 26,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      7620
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 27,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      9600
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 28,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      10751
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 29,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      11853
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 30,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      12800
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 31,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      16127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 32,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      20319
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 33,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      25600
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 34,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      32254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 35,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      40637
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 36,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      51200
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 37,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      64508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 38,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      78485
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 39,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      88647
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 40,
+    "potentialId": 7002001,
+    "name": "热血沸腾",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "生命提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      102239
+    ],
+    "icon": 7002001
+  },
+  {
+    "id": 41,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      30
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 42,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      47
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 43,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      63
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 44,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      80
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 45,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      101
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 46,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 47,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 48,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      179
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 49,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      198
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 50,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      213
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 51,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      269
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 52,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      339
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 53,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      427
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 54,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      538
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 55,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      677
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 56,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      853
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 57,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      1075
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 58,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      1308
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 59,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      1477
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 60,
+    "potentialId": 7003001,
+    "name": "钢筋铁骨",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      1704
+    ],
+    "icon": 7003001
+  },
+  {
+    "id": 61,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      100
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 62,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      156
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 63,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      211
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 64,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      267
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 65,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      336
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 66,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      423
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 67,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      533
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 68,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      597
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 69,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      658
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 70,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      711
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 71,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      896
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 72,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      1129
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 73,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      1422
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 74,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      1792
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 75,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      2258
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 76,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      2844
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 77,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      3584
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 78,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      4360
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 79,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      4925
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 80,
+    "potentialId": 7004001,
+    "name": "生生不息",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      5680
+    ],
+    "icon": 7004001
+  },
+  {
+    "id": 81,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      180
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 82,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 83,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      380
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 84,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 85,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      605
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 86,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      762
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 87,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 88,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      1075
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 89,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      1185
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 90,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 91,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 92,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 93,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 94,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 95,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      4064
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 96,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      5120
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 97,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      6451
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 98,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      7848
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 99,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      8865
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 100,
+    "potentialId": 7005001,
+    "name": "锐利之眼",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "命中提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      10224
+    ],
+    "icon": 7005001
+  },
+  {
+    "id": 101,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      180
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 102,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 103,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      380
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 104,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 105,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      605
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 106,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      762
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 107,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 108,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      1075
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 109,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      1185
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 110,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 111,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 112,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 113,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 114,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 115,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      4064
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 116,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      5120
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 117,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      6451
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 118,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      7848
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 119,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      8865
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 120,
+    "potentialId": 7006001,
+    "name": "矫捷之姿",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      10224
+    ],
+    "icon": 7006001
+  },
+  {
+    "id": 121,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      180
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 122,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 123,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      380
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 124,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 125,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      605
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 126,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      762
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 127,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 128,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      1075
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 129,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      1185
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 130,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 131,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 132,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 133,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 134,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 135,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      4064
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 136,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      5120
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 137,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      6451
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 138,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      7848
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 139,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      8865
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 140,
+    "potentialId": 7007001,
+    "name": "嗜血狂暴",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "暴击提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      10224
+    ],
+    "icon": 7007001
+  },
+  {
+    "id": 141,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      180
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 142,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 143,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      380
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 144,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 145,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      605
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 146,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      762
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 147,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 148,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      1075
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 149,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      1185
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 150,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 151,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 152,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 153,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 154,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 155,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      4064
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 156,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      5120
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 157,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      6451
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 158,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      7848
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 159,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      8865
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 160,
+    "potentialId": 7008001,
+    "name": "百折不挠",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      10224
+    ],
+    "icon": 7008001
+  },
+  {
+    "id": 161,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      180
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 162,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 163,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      380
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 164,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 165,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      605
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 166,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      762
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 167,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 168,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      1075
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 169,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      1185
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 170,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 171,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 172,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 173,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 174,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 175,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      4064
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 176,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      5120
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 177,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      6451
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 178,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      7848
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 179,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      8865
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 180,
+    "potentialId": 7009001,
+    "name": "天官赐福",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      10224
+    ],
+    "icon": 7009001
+  },
+  {
+    "id": 181,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      180
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 182,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 183,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      380
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 184,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 185,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      605
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 186,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      762
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 187,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 188,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      1075
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 189,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      1185
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 190,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 191,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 192,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 193,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 194,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 195,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      4064
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 196,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      5120
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 197,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      6451
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 198,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      7848
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 199,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      8865
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 200,
+    "potentialId": 7010001,
+    "name": "星芒庇佑",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      10224
+    ],
+    "icon": 7010001
+  },
+  {
+    "id": 201,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      90
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 202,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      140
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 203,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      190
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 204,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 205,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      302
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 206,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      381
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 207,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 208,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      538
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 209,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      593
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 210,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 211,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 212,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 213,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 214,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 215,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 216,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 217,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 218,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 219,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 220,
+    "potentialId": 7011001,
+    "name": "冲坚毁锐",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      5112
+    ],
+    "icon": 7011001
+  },
+  {
+    "id": 221,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      90
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 222,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      140
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 223,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      190
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 224,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 225,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      302
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 226,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      381
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 227,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 228,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      538
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 229,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      593
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 230,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 231,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 232,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 233,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 234,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 235,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 236,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 237,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 238,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 239,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 240,
+    "potentialId": 7012001,
+    "name": "铁壁铜墙",
+    "type": 1,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      5112
+    ],
+    "icon": 7012001
+  },
+  {
+    "id": 241,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      30,
+      10
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 242,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      47,
+      16
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 243,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      63,
+      21
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 244,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      80,
+      27
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 245,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      101,
+      34
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 246,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      127,
+      42
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 247,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      160,
+      53
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 248,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      202,
+      67
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 249,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      254,
+      85
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 250,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      320,
+      107
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 251,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      403,
+      134
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 252,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      508,
+      169
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 253,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      640,
+      213
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 254,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      806,
+      269
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 255,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      1016,
+      339
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 256,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      1280,
+      427
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 257,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      1613,
+      538
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 258,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      1962,
+      654
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 259,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      2216,
+      739
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 260,
+    "potentialId": 7013001,
+    "name": "攻守兼备",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "攻击提高&a&（根骨提升&A&）|防御提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      2556,
+      852
+    ],
+    "icon": 7013001
+  },
+  {
+    "id": 261,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      60,
+      60
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 262,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      93,
+      93
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 263,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      127,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 264,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      160,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 265,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      202,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 266,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      254,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 267,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      320,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 268,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      403,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 269,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      508,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 270,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      640,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 271,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      806,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 272,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      1016,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 273,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      1280,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 274,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      1613,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 275,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      2032,
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 276,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      2560,
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 277,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      3225,
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 278,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      3924,
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 279,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      4432,
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 280,
+    "potentialId": 7014001,
+    "name": "如影随行",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "命中提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hitVal",
+      "dodge"
+    ],
+    "attributeValue": [
+      5112,
+      5112
+    ],
+    "icon": 7014001
+  },
+  {
+    "id": 281,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      60,
+      60
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 282,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      93,
+      93
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 283,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      127,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 284,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      160,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 285,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      202,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 286,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      254,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 287,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      320,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 288,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      403,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 289,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      508,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 290,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      640,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 291,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      806,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 292,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      1016,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 293,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      1280,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 294,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      1613,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 295,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      2032,
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 296,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      2560,
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 297,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      3225,
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 298,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      3924,
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 299,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      4432,
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 300,
+    "potentialId": 7015001,
+    "name": "暴厉恣睢",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "暴击提高&a&（根骨提升&A&）|韧性提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "tenacity"
+    ],
+    "attributeValue": [
+      5112,
+      5112
+    ],
+    "icon": 7015001
+  },
+  {
+    "id": 301,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      60,
+      60
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 302,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      93,
+      93
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 303,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      127,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 304,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      160,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 305,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      202,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 306,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      254,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 307,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      320,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 308,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      403,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 309,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      508,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 310,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      640,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 311,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      806,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 312,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      1016,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 313,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      1280,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 314,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      1613,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 315,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      2032,
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 316,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      2560,
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 317,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      3225,
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 318,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      3924,
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 319,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      4432,
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 320,
+    "potentialId": 7016001,
+    "name": "福星高照",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "幸运提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "lucky",
+      "guardian"
+    ],
+    "attributeValue": [
+      5112,
+      5112
+    ],
+    "icon": 7016001
+  },
+  {
+    "id": 321,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      30,
+      30
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 322,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      47,
+      47
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 323,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      63,
+      63
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 324,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      80,
+      80
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 325,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      101,
+      101
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 326,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      127,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 327,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      160,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 328,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      202,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 329,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      254,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 330,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      320,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 331,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      403,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 332,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      508,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 333,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      640,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 334,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      806,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 335,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      1016,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 336,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      1280,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 337,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      1613,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 338,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      1962,
+      1962
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 339,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      2216,
+      2216
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 340,
+    "potentialId": 7017001,
+    "name": "贯颐备戟",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "穿透提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      2556,
+      2556
+    ],
+    "icon": 7017001
+  },
+  {
+    "id": 341,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      60,
+      60
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 342,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      93,
+      93
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 343,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      127,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 344,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      160,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 345,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      202,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 346,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      254,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 347,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      320,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 348,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      403,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 349,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      508,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 350,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      640,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 351,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      806,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 352,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      1016,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 353,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      1280,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 354,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      1613,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 355,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      2032,
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 356,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      2560,
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 357,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      3225,
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 358,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      3924,
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 359,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      4432,
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 360,
+    "potentialId": 7018001,
+    "name": "锐不可当",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "暴击提高&a&（根骨提升&A&）|幸运提高&a&（根骨提升&A&）",
+    "attribute": [
+      "crit",
+      "lucky"
+    ],
+    "attributeValue": [
+      5112,
+      5112
+    ],
+    "icon": 7018001
+  },
+  {
+    "id": 361,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      60,
+      60
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 362,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      93,
+      93
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 363,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      127,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 364,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      160,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 365,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      202,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 366,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      254,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 367,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      320,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 368,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      403,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 369,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      508,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 370,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      640,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 371,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      806,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 372,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      1016,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 373,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      1280,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 374,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      1613,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 375,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      2032,
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 376,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      2560,
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 377,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      3225,
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 378,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      3924,
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 379,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      4432,
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 380,
+    "potentialId": 7019001,
+    "name": "安如泰山",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "韧性提高&a&（根骨提升&A&）|守护提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "guardian"
+    ],
+    "attributeValue": [
+      5112,
+      5112
+    ],
+    "icon": 7019001
+  },
+  {
+    "id": 381,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      10,
+      30
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 382,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      16,
+      47
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 383,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      21,
+      63
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 384,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      27,
+      80
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 385,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      34,
+      101
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 386,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      42,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 387,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      53,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 388,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      67,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 389,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      85,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 390,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      107,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 391,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      134,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 392,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      169,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 393,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      213,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 394,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      269,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 395,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      339,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 396,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      427,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 397,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      538,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 398,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      654,
+      1962
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 399,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      739,
+      2216
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 400,
+    "potentialId": 7020001,
+    "name": "坚不可摧",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "防御提高&a&（根骨提升&A&）|减伤提高&a&（根骨提升&A&）",
+    "attribute": [
+      "def",
+      "protect"
+    ],
+    "attributeValue": [
+      852,
+      2556
+    ],
+    "icon": 7020001
+  },
+  {
+    "id": 401,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      600,
+      33
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 402,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      933,
+      52
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 403,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      1267,
+      70
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 404,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      1600,
+      89
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 405,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      2016,
+      112
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 406,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      2540,
+      141
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 407,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      3200,
+      178
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 408,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      4032,
+      224
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 409,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      5080,
+      282
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 410,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      6400,
+      356
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 411,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      8063,
+      448
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 412,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      10159,
+      564
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 413,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      12800,
+      711
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 414,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      16127,
+      896
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 415,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      20319,
+      1129
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 416,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      25600,
+      1422
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 417,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      32254,
+      1792
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 418,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      39242,
+      2180
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 419,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      44323,
+      2462
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 420,
+    "potentialId": 7021001,
+    "name": "身强体壮",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "生命提高&a&（根骨提升&A&）|回血提高&a&（根骨提升&A&）",
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      51120,
+      2840
+    ],
+    "icon": 7021001
+  },
+  {
+    "id": 421,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      30,
+      30
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 422,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      47,
+      47
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 423,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      63,
+      63
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 424,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      80,
+      80
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 425,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      101,
+      101
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 426,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      127,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 427,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      160,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 428,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      202,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 429,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      254,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 430,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      320,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 431,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      403,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 432,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      508,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 433,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      640,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 434,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      806,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 435,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      1016,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 436,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      1280,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 437,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      1613,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 438,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      1962,
+      1962
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 439,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      2216,
+      2216
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 440,
+    "potentialId": 7022001,
+    "name": "无坚不摧",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "攻击提高&a&（根骨提升&A&）|穿透提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "break"
+    ],
+    "attributeValue": [
+      2556,
+      2556
+    ],
+    "icon": 7022001
+  },
+  {
+    "id": 441,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      60,
+      60
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 442,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      93,
+      93
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 443,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      127,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 444,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      160,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 445,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      202,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 446,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      254,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 447,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      320,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 448,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      403,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 449,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      508,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 450,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      640,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 451,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      806,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 452,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      1016,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 453,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      1280,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 454,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      1613,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 455,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      2032,
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 456,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      2560,
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 457,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      3225,
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 458,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      3924,
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 459,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      4432,
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 460,
+    "potentialId": 7023001,
+    "name": "闪转腾挪",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "韧性提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "tenacity",
+      "dodge"
+    ],
+    "attributeValue": [
+      5112,
+      5112
+    ],
+    "icon": 7023001
+  },
+  {
+    "id": 461,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 1,
+    "levelLimit": 1,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      30,
+      60
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 462,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 2,
+    "levelLimit": 10,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      47,
+      93
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 463,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 3,
+    "levelLimit": 20,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      63,
+      127
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 464,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 4,
+    "levelLimit": 30,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      80,
+      160
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 465,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 5,
+    "levelLimit": 40,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      101,
+      202
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        2
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 466,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 6,
+    "levelLimit": 50,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      127,
+      254
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        3
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 467,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 7,
+    "levelLimit": 60,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      160,
+      320
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 468,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 8,
+    "levelLimit": 70,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      202,
+      403
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        4
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 469,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 9,
+    "levelLimit": 80,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      254,
+      508
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 470,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 10,
+    "levelLimit": 90,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      320,
+      640
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        5
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 471,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 11,
+    "levelLimit": 100,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      403,
+      806
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 472,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 12,
+    "levelLimit": 110,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      508,
+      1016
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 473,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 13,
+    "levelLimit": 120,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      640,
+      1280
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        6
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 474,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 14,
+    "levelLimit": 130,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      806,
+      1613
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 475,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 15,
+    "levelLimit": 140,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      1016,
+      2032
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 476,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 16,
+    "levelLimit": 150,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      1280,
+      2560
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        7
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 477,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 17,
+    "levelLimit": 160,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      1613,
+      3225
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 478,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 18,
+    "levelLimit": 170,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      1962,
+      3924
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 479,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 19,
+    "levelLimit": 180,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      2216,
+      4432
+    ],
+    "upgradeCost": [
+      [
+        11302,
+        8
+      ]
+    ],
+    "icon": 7024001
+  },
+  {
+    "id": 480,
+    "potentialId": 7024001,
+    "name": "瞬影神力",
+    "type": 2,
+    "level": 20,
+    "levelLimit": 190,
+    "desc": "攻击提高&a&（根骨提升&A&）|闪避提高&a&（根骨提升&A&）",
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      2556,
+      5112
+    ],
+    "icon": 7024001
+  }
+]

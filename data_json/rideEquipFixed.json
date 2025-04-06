@@ -1,0 +1,158 @@
+[
+  {
+    "id": 220501,
+    "rideEquipId": 220501,
+    "name": "黄金头具",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 220502,
+    "rideEquipId": 220502,
+    "name": "黄金鞍具",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 220503,
+    "rideEquipId": 220503,
+    "name": "黄金缰绳",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 220504,
+    "rideEquipId": 220504,
+    "name": "黄金蹄铁",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 22050102,
+    "rideEquipId": 220501,
+    "name": "黄金头具",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 22050202,
+    "rideEquipId": 220502,
+    "name": "黄金鞍具",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 22050302,
+    "rideEquipId": 220503,
+    "name": "黄金缰绳",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 22050402,
+    "rideEquipId": 220504,
+    "name": "黄金蹄铁",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 22061101,
+    "rideEquipId": 220611,
+    "name": "寒冰头具",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 22061201,
+    "rideEquipId": 220612,
+    "name": "寒冰鞍具",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 22061301,
+    "rideEquipId": 220613,
+    "name": "寒冰缰绳",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": 22061401,
+    "rideEquipId": 220614,
+    "name": "寒冰蹄铁",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "affixRandomValue": [
+      0.5,
+      0.5
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "value": "matrixCore",
+    "weekReward": 4,
+    "limitReward": 8,
+    "rewardType": "pve",
+    "rewardItem": 200001001
+  },
+  {
+    "id": 2,
+    "type": 2,
+    "value": [
+      200000013,
+      200000023,
+      200000033,
+      200000043,
+      200000053,
+      200000063,
+      200000073,
+      200000083,
+      200000093
+    ],
+    "weekReward": 48,
+    "limitReward": 96,
+    "rewardType": "pve",
+    "rewardItem": 200001003
+  },
+  {
+    "id": 3,
+    "type": 2,
+    "value": [
+      200000011,
+      200000021,
+      200000031,
+      200000041,
+      200000051,
+      200000061,
+      200000071,
+      200000081,
+      200000091
+    ],
+    "weekReward": 48,
+    "limitReward": 96,
+    "rewardType": "pve",
+    "rewardItem": 200001004
+  },
+  {
+    "id": 11,
+    "type": 2,
+    "value": [
+      4311
+    ],
+    "weekReward": 4,
+    "limitReward": 8,
+    "rewardType": "pve",
+    "rewardItem": 4311
+  },
+  {
+    "id": 101,
+    "type": 1,
+    "value": "matrixSoul",
+    "weekReward": 3,
+    "limitReward": 6,
+    "rewardType": "pvp",
+    "rewardItem": 200001005
+  },
+  {
+    "id": 102,
+    "type": 2,
+    "value": [
+      200000014,
+      200000024,
+      200000034,
+      200000044,
+      200000054,
+      200000064,
+      200000074,
+      200000084,
+      200000094
+    ],
+    "weekReward": 36,
+    "limitReward": 96,
+    "rewardType": "pvp",
+    "rewardItem": 200001007
+  }
+]

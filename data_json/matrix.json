@@ -1,0 +1,353 @@
+[
+  {
+    "id": 10001,
+    "name": "天绝阵",
+    "icon": "zhenfa10001",
+    "resource": "fazhen1",
+    "limitLv": 70,
+    "showLimit": [
+      [
+        1,
+        [
+          70
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200111201,
+      200112201,
+      200113201,
+      200114201
+    ],
+    "matrixCore": [
+      200111,
+      200112,
+      200113,
+      200114
+    ],
+    "matrixCoreSuit": 100011,
+    "matrixSoulIcon": [
+      200121201,
+      200122201,
+      200123201
+    ],
+    "matrixSoul": [
+      200121,
+      200122,
+      200123
+    ],
+    "matrixSoulSuit": 100012
+  },
+  {
+    "id": 10002,
+    "name": "地烈阵",
+    "icon": "zhenfa10002",
+    "resource": "fazhen5",
+    "limitLv": 80,
+    "showLimit": [
+      [
+        1,
+        [
+          80
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200211201,
+      200212201,
+      200213201,
+      200214201
+    ],
+    "matrixCore": [
+      200211,
+      200212,
+      200213,
+      200214
+    ],
+    "matrixCoreSuit": 100021,
+    "matrixSoulIcon": [
+      200221201,
+      200222201,
+      200223201
+    ],
+    "matrixSoul": [
+      200221,
+      200222,
+      200223
+    ],
+    "matrixSoulSuit": 100022
+  },
+  {
+    "id": 10003,
+    "name": "风吼阵",
+    "icon": "zhenfa10003",
+    "resource": "fazhen7",
+    "limitLv": 90,
+    "showLimit": [
+      [
+        1,
+        [
+          90
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200311201,
+      200312201,
+      200313201,
+      200314201
+    ],
+    "matrixCore": [
+      200311,
+      200312,
+      200313,
+      200314
+    ],
+    "matrixCoreSuit": 100031,
+    "matrixSoulIcon": [
+      200321201,
+      200322201,
+      200323201
+    ],
+    "matrixSoul": [
+      200321,
+      200322,
+      200323
+    ],
+    "matrixSoulSuit": 100032
+  },
+  {
+    "id": 10004,
+    "name": "寒冰阵",
+    "icon": "zhenfa10004",
+    "resource": "fazhen14",
+    "limitLv": 100,
+    "showLimit": [
+      [
+        1,
+        [
+          100
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200411201,
+      200412201,
+      200413201,
+      200414201
+    ],
+    "matrixCore": [
+      200411,
+      200412,
+      200413,
+      200414
+    ],
+    "matrixCoreSuit": 100041,
+    "matrixSoulIcon": [
+      200421201,
+      200422201,
+      200423201
+    ],
+    "matrixSoul": [
+      200421,
+      200422,
+      200423
+    ],
+    "matrixSoulSuit": 100042
+  },
+  {
+    "id": 10005,
+    "name": "金光阵",
+    "icon": "zhenfa10005",
+    "resource": "fazhen19",
+    "limitLv": 110,
+    "showLimit": [
+      [
+        1,
+        [
+          110
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200511201,
+      200512201,
+      200513201,
+      200514201
+    ],
+    "matrixCore": [
+      200511,
+      200512,
+      200513,
+      200514
+    ],
+    "matrixCoreSuit": 100051,
+    "matrixSoulIcon": [
+      200521201,
+      200522201,
+      200523201
+    ],
+    "matrixSoul": [
+      200521,
+      200522,
+      200523
+    ],
+    "matrixSoulSuit": 100052
+  },
+  {
+    "id": 10006,
+    "name": "化血阵",
+    "icon": "zhenfa10006",
+    "resource": "fazhen29",
+    "limitLv": 130,
+    "showLimit": [
+      [
+        1,
+        [
+          130
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200611201,
+      200612201,
+      200613201,
+      200614201
+    ],
+    "matrixCore": [
+      200611,
+      200612,
+      200613,
+      200614
+    ],
+    "matrixCoreSuit": 100061,
+    "matrixSoulIcon": [
+      200621201,
+      200622201,
+      200623201
+    ],
+    "matrixSoul": [
+      200621,
+      200622,
+      200623
+    ],
+    "matrixSoulSuit": 100062
+  },
+  {
+    "id": 10007,
+    "name": "烈焰阵",
+    "icon": "zhenfa10007",
+    "resource": "fazhen36",
+    "limitLv": 150,
+    "showLimit": [
+      [
+        1,
+        [
+          150
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200711201,
+      200712201,
+      200713201,
+      200714201
+    ],
+    "matrixCore": [
+      200711,
+      200712,
+      200713,
+      200714
+    ],
+    "matrixCoreSuit": 100071,
+    "matrixSoulIcon": [
+      200721201,
+      200722201,
+      200723201
+    ],
+    "matrixSoul": [
+      200721,
+      200722,
+      200723
+    ],
+    "matrixSoulSuit": 100072
+  },
+  {
+    "id": 10008,
+    "name": "落魂阵",
+    "icon": "zhenfa10008",
+    "resource": "fazhen44",
+    "limitLv": 170,
+    "showLimit": [
+      [
+        1,
+        [
+          170
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200811201,
+      200812201,
+      200813201,
+      200814201
+    ],
+    "matrixCore": [
+      200811,
+      200812,
+      200813,
+      200814
+    ],
+    "matrixCoreSuit": 100081,
+    "matrixSoulIcon": [
+      200821201,
+      200822201,
+      200823201
+    ],
+    "matrixSoul": [
+      200821,
+      200822,
+      200823
+    ],
+    "matrixSoulSuit": 100082
+  },
+  {
+    "id": 10009,
+    "name": "红水阵",
+    "icon": "zhenfa10009",
+    "resource": "fazhen49",
+    "limitLv": 190,
+    "showLimit": [
+      [
+        1,
+        [
+          190
+        ]
+      ]
+    ],
+    "matrixCoreIcon": [
+      200911201,
+      200912201,
+      200913201,
+      200914201
+    ],
+    "matrixCore": [
+      200911,
+      200912,
+      200913,
+      200914
+    ],
+    "matrixCoreSuit": 100091,
+    "matrixSoulIcon": [
+      200921201,
+      200922201,
+      200923201
+    ],
+    "matrixSoul": [
+      200921,
+      200922,
+      200923
+    ],
+    "matrixSoulSuit": 100092
+  }
+]

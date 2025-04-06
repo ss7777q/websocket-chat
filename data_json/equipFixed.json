@@ -1,0 +1,702 @@
+[
+  {
+    "id": 8010553,
+    "equipId": 8010553,
+    "name": "第五章悟空神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8010593,
+    "equipId": 8010593,
+    "name": "第五章悟空魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8010653,
+    "equipId": 8010653,
+    "name": "第六章悟空神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8010693,
+    "equipId": 8010693,
+    "name": "第六章悟空魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8010643,
+    "equipId": 8010643,
+    "name": "第六章悟空紫武",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8010753,
+    "equipId": 8010753,
+    "name": "第七章悟空神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8010793,
+    "equipId": 8010793,
+    "name": "第七章悟空魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8010853,
+    "equipId": 8010853,
+    "name": "混元悟空神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8010893,
+    "equipId": 8010893,
+    "name": "混元悟空魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8010953,
+    "equipId": 8010953,
+    "name": "紫金悟空神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8020553,
+    "equipId": 8020553,
+    "name": "第五章唐僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8020593,
+    "equipId": 8020593,
+    "name": "第五章唐僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8020653,
+    "equipId": 8020653,
+    "name": "第六章唐僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8020693,
+    "equipId": 8020693,
+    "name": "第六章唐僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8020643,
+    "equipId": 8020643,
+    "name": "第六章唐僧紫武",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8020753,
+    "equipId": 8020753,
+    "name": "第七章唐僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8020793,
+    "equipId": 8020793,
+    "name": "第七章唐僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8020853,
+    "equipId": 8020853,
+    "name": "混元唐僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8020893,
+    "equipId": 8020893,
+    "name": "混元唐僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8020953,
+    "equipId": 8020953,
+    "name": "紫金唐僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8030553,
+    "equipId": 8030553,
+    "name": "第五章八戒神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8030593,
+    "equipId": 8030593,
+    "name": "第五章八戒魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8030653,
+    "equipId": 8030653,
+    "name": "第六章八戒神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8030693,
+    "equipId": 8030693,
+    "name": "第六章八戒魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8030643,
+    "equipId": 8030643,
+    "name": "第六章八戒紫武",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8030753,
+    "equipId": 8030753,
+    "name": "第七章八戒神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8030793,
+    "equipId": 8030793,
+    "name": "第七章八戒魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8030853,
+    "equipId": 8030853,
+    "name": "混元八戒神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8030893,
+    "equipId": 8030893,
+    "name": "混元八戒魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8030953,
+    "equipId": 8030953,
+    "name": "紫金八戒魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8040553,
+    "equipId": 8040553,
+    "name": "第五章沙僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8040593,
+    "equipId": 8040593,
+    "name": "第五章沙僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8040653,
+    "equipId": 8040653,
+    "name": "第六章沙僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8040693,
+    "equipId": 8040693,
+    "name": "第六章沙僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8040643,
+    "equipId": 8040643,
+    "name": "第六章沙僧紫武",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8040753,
+    "equipId": 8040753,
+    "name": "第七章沙僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8040793,
+    "equipId": 8040793,
+    "name": "第七章沙僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8040853,
+    "equipId": 8040853,
+    "name": "混元沙僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8040893,
+    "equipId": 8040893,
+    "name": "混元沙僧魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8040953,
+    "equipId": 8040953,
+    "name": "紫金沙僧神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8050553,
+    "equipId": 8050553,
+    "name": "第五章敖雪神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8050593,
+    "equipId": 8050593,
+    "name": "第五章敖雪魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8050653,
+    "equipId": 8050653,
+    "name": "第六章敖雪神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8050693,
+    "equipId": 8050693,
+    "name": "第六章敖雪魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8050643,
+    "equipId": 8050643,
+    "name": "第六章敖雪紫武",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8050753,
+    "equipId": 8050753,
+    "name": "第七章敖雪神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8050793,
+    "equipId": 8050793,
+    "name": "第七章敖雪魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8050853,
+    "equipId": 8050853,
+    "name": "混元敖雪神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8050893,
+    "equipId": 8050893,
+    "name": "混元敖雪魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8050953,
+    "equipId": 8050953,
+    "name": "紫金敖雪神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8060553,
+    "equipId": 8060553,
+    "name": "第五章敖烈神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8060593,
+    "equipId": 8060593,
+    "name": "第五章敖烈魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8060653,
+    "equipId": 8060653,
+    "name": "第六章敖烈神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8060693,
+    "equipId": 8060693,
+    "name": "第六章敖烈魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8060643,
+    "equipId": 8060643,
+    "name": "第六章敖烈紫武",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8060753,
+    "equipId": 8060753,
+    "name": "第七章敖烈神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8060793,
+    "equipId": 8060793,
+    "name": "第七章敖烈魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8060853,
+    "equipId": 8060853,
+    "name": "混元敖烈神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8060893,
+    "equipId": 8060893,
+    "name": "混元敖烈魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8060953,
+    "equipId": 8060953,
+    "name": "紫金敖烈魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8070553,
+    "equipId": 8070553,
+    "name": "第五章萧嫣神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8070593,
+    "equipId": 8070593,
+    "name": "第五章萧嫣魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 3
+  },
+  {
+    "id": 8070653,
+    "equipId": 8070653,
+    "name": "第六章萧嫣神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8070693,
+    "equipId": 8070693,
+    "name": "第六章萧嫣魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8070643,
+    "equipId": 8070643,
+    "name": "第六章萧嫣紫武",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8070753,
+    "equipId": 8070753,
+    "name": "第七章萧嫣神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8070793,
+    "equipId": 8070793,
+    "name": "第七章萧嫣魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 4
+  },
+  {
+    "id": 8070853,
+    "equipId": 8070853,
+    "name": "混元萧嫣神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8070893,
+    "equipId": 8070893,
+    "name": "混元萧嫣魔化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  },
+  {
+    "id": 8070953,
+    "equipId": 8070953,
+    "name": "紫金萧嫣神化武器",
+    "attributeValue": [
+      0.5,
+      0.5
+    ],
+    "hole": 5
+  }
+]

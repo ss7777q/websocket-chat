@@ -1,0 +1,225 @@
+[
+  {
+    "id": 1001,
+    "name": "莲藕人",
+    "attribute": [
+      3,
+      3,
+      4,
+      3
+    ],
+    "specific": "中锋、射手、突破",
+    "skill": [
+      60004920501,
+      60004920301
+    ],
+    "monsterId": [
+      6000493,
+      6000492
+    ],
+    "desc": "少年成名，初登赛场就助天庭队2-0夺得造梦杯冠军，并个人荣膺造梦金球奖。",
+    "icon": "icon_lor",
+    "avatar": "avatar_lor",
+    "character": "character_lor",
+    "picture": "pic_lor"
+  },
+  {
+    "id": 1002,
+    "name": "孙悟空",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            5902,
+            1
+          ]
+        ]
+      ]
+    ],
+    "onceCost": [
+      6002,
+      1
+    ],
+    "attribute": [
+      3,
+      3,
+      4,
+      3
+    ],
+    "specific": "边锋、铲球、帽子戏法",
+    "skill": [
+      81001010301,
+      81001010401
+    ],
+    "monsterId": [
+      8100102,
+      8100101
+    ],
+    "desc": "天才型选手，半路转入足球队，训练一年后成为西游队主力前锋，并在两年内获得大满贯。",
+    "icon": "icon_swk",
+    "avatar": "avatar_swk",
+    "character": "character_swk",
+    "picture": "pic_swk"
+  },
+  {
+    "id": 1003,
+    "name": "铁扇公主",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            5903,
+            1
+          ]
+        ]
+      ]
+    ],
+    "onceCost": [
+      6003,
+      1
+    ],
+    "limitNum": 3,
+    "attribute": [
+      3,
+      2,
+      3,
+      3
+    ],
+    "specific": "门将、控球、施法",
+    "skill": [
+      81002010301,
+      81002010401
+    ],
+    "monsterId": [
+      8100202,
+      8100201
+    ],
+    "desc": "东胜神洲队职业选手，曾蝉联三届造梦杯冠军，被誉为足球界的大魔王。",
+    "icon": "icon_tsgz",
+    "avatar": "avatar_tsgz",
+    "character": "character_tsgz",
+    "picture": "pic_tsgz"
+  },
+  {
+    "id": 1004,
+    "name": "汪汪",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            5904,
+            1
+          ]
+        ]
+      ]
+    ],
+    "onceCost": [
+      6004,
+      1
+    ],
+    "limitNum": 3,
+    "attribute": [
+      2,
+      1,
+      5,
+      3
+    ],
+    "specific": "前锋、突破、群体恐惧",
+    "skill": [
+      81005010301,
+      81005010401
+    ],
+    "monsterId": [
+      8100511,
+      8100501
+    ],
+    "desc": "造梦汪汪队核心成员，其在职业生涯中的场上统治力无人能出其右。在球场上他擅于根据对手风格切换形态，并突然提速突破防线，攻破对方球门。",
+    "icon": "icon_ww",
+    "avatar": "avatar_ww",
+    "character": "character_ww",
+    "picture": "pic_ww"
+  },
+  {
+    "id": 1005,
+    "name": "一风",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            5905,
+            1
+          ]
+        ]
+      ]
+    ],
+    "onceCost": [
+      6005,
+      1
+    ],
+    "limitNum": 3,
+    "attribute": [
+      3,
+      2,
+      3,
+      3
+    ],
+    "specific": "中锋、限制干扰、群体控制",
+    "skill": [
+      81006010301,
+      81006010401
+    ],
+    "monsterId": [
+      8100602,
+      8100601
+    ],
+    "desc": "造梦汪汪队中锋球员，在青训赛中因出色的身体素质和进攻意识而入选职业联赛，在赛场擅于干扰对手的进攻与防守节奏，并从混乱的节奏中突破对方防线创造得分机会。",
+    "icon": "icon_yf",
+    "avatar": "avatar_yf",
+    "character": "character_yf",
+    "picture": "pic_yf"
+  },
+  {
+    "id": 1006,
+    "name": "宋帝王",
+    "limitType": [
+      [
+        12,
+        [
+          [
+            5906,
+            1
+          ]
+        ]
+      ]
+    ],
+    "onceCost": [
+      6006,
+      1
+    ],
+    "limitNum": 3,
+    "attribute": [
+      2,
+      1,
+      5,
+      5
+    ],
+    "specific": "突破、闪现、带球",
+    "skill": [
+      81003010301,
+      81003010401
+    ],
+    "monsterId": [
+      8100302,
+      8100301
+    ],
+    "desc": "黄泉地府队的后卫球员，丰富的经验让他能快速地判断形势，给出最佳的解决方案，尤其拿手绝技倒挂金钩，脚法出色、传送精准，时常能帮助队伍在危急时刻反守为攻。",
+    "icon": "icon_sdw",
+    "avatar": "avatar_sdw",
+    "character": "character_sdw",
+    "picture": "pic_sdw"
+  }
+]

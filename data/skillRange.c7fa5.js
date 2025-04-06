@@ -1,0 +1,1 @@
+var tmp=[["id","desName","Name","skillRange"],[81001010401,"三根毫毛","悟空-无双-三根毫毛",[-100,-50,250,250]],[81003010401,"倒挂金钩","宋帝王-无双-倒挂金钩",[-100,-50,250,250]]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.skillRange=tmp);

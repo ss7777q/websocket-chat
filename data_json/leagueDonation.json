@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "item": [
+      3,
+      1000
+    ],
+    "exp": 10,
+    "money": 20,
+    "donation": 10,
+    "startTimes": 1,
+    "evetyDayTimes": 1,
+    "upperLimitTimes": 5
+  },
+  {
+    "id": 2,
+    "item": [
+      2,
+      300
+    ],
+    "exp": 15,
+    "money": 30,
+    "donation": 15,
+    "startTimes": 1,
+    "evetyDayTimes": 1,
+    "upperLimitTimes": 5
+  },
+  {
+    "id": 3,
+    "item": [
+      1,
+      500
+    ],
+    "exp": 25,
+    "money": 50,
+    "donation": 25
+  }
+]

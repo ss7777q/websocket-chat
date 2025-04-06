@@ -215,12 +215,234 @@ button:hover {
 }
 
 /* 装备相关样式 */
+.equipment-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 15px;
+}
+
 .equipment-item {
-    background: #f8f9fa;
+    background-color: #f8f9fa;
+    border-radius: 8px;
     padding: 15px;
-    margin: 10px 0;
-    border-radius: 6px;
-    border-left: 4px solid #4a90e2;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid #dee2e6;
+    margin-bottom: 15px;
+}
+
+.equipment-item h4 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    color: #343a40;
+    font-size: 1.1em;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 8px;
+}
+
+.equipment-item p {
+    margin: 6px 0;
+    color: #495057;
+}
+
+.equip-attrs, 
+.equip-affix,
+.equip-stones {
+    margin: 12px 0;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-left: 3px solid #6c757d;
+}
+
+.equip-attrs {
+    border-left-color: #28a745; /* 绿色 */
+}
+
+.equip-affix {
+    border-left-color: #007bff; /* 蓝色 */
+}
+
+.equip-stones {
+    border-left-color: #f5a623; /* 黄色 */
+}
+
+.equip-attrs h5, 
+.equip-affix h5,
+.equip-stones h5 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    color: #495057;
+    font-size: 0.95em;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 5px;
+}
+
+.equip-time {
+    font-size: 0.85em;
+    color: #6c757d;
+    font-style: italic;
+    text-align: right;
+    margin-top: 10px;
+}
+
+/* 属性值样式 */
+.equip-attrs p span,
+.equip-affix p span,
+.equip-stones p span {
+    font-weight: bold;
+    color: #343a40;
+    min-width: 90px;
+    display: inline-block;
+}
+
+/* 错误消息样式 */
+.error-message {
+    color: #dc3545;
+    font-style: italic;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .equipment-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 装备品质颜色 - 简化版 */
+.equipment-item.quality-0 {
+    border-left-color: #9e9e9e; /* 白色品质 */
+}
+
+.equipment-item.quality-1 {
+    border-left-color: #4caf50; /* 绿色品质 */
+}
+
+.equipment-item.quality-2 {
+    border-left-color: #2196f3; /* 蓝色品质 */
+}
+
+.equipment-item.quality-3 {
+    border-left-color: #9c27b0; /* 紫色品质 */
+}
+
+.equipment-item.quality-4 {
+    border-left-color: #ff9800; /* 橙色品质 */
+}
+
+.equipment-item.quality-5 {
+    border-left-color: #f44336; /* 红色品质 */
+}
+
+/* 装备负面值样式 */
+.equipment-item p.negative {
+    color: #f44336 !important; /* 负面值显示为红色 */
+    font-weight: bold;
+}
+
+.equipment-item p.negative::after {
+    content: " ↓";
+}
+
+/* 强化装备品质显示 */
+.equipment-item .equip-basic-info p:nth-child(4) span {
+    color: #ff5722;
+    font-weight: bold;
+}
+
+/* 装备宝石增强显示 */
+.equip-stones {
+    background-color: #fffde7;
+}
+
+.equip-stones h5 {
+    color: #f57f17;
+}
+
+/* 装备锁定状态显示 */
+.equipment-item p.lock-status {
+    font-style: italic;
+}
+
+/* 装备孔数显示增强 */
+.equipment-item p.hole-count {
+    font-weight: bold;
+}
+
+/* 装备词缀等级显示增强 */
+.equipment-item p.affix-level {
+    font-weight: bold;
+    color: #7b1fa2;
+}
+
+/* 装备基本信息区域 */
+.equip-basic-info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 12px;
+    background-color: #f1f3f5;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.equip-basic-info p {
+    margin: 3px 0;
+}
+
+.equip-basic-info p span {
+    font-weight: bold;
+    color: #343a40;
+    min-width: 70px;
+    display: inline-block;
+}
+
+/* 宝石样式 */
+.equip-stones p {
+    margin: 4px 0;
+}
+
+/* 装备属性特殊效果 */
+.equip-attrs p[class*="atk"],
+.equip-affix p[class*="atk"] {
+    color: #e53935;
+}
+
+.equip-attrs p[class*="def"],
+.equip-affix p[class*="def"] {
+    color: #1e88e5;
+}
+
+.equip-attrs p[class*="hp"],
+.equip-affix p[class*="hp"] {
+    color: #43a047;
+}
+
+.equip-attrs p[class*="mp"],
+.equip-affix p[class*="mp"] {
+    color: #5e35b1;
+}
+
+.equip-attrs p[class*="crit"],
+.equip-affix p[class*="crit"] {
+    color: #f9a825;
+}
+
+.equip-attrs p[class*="dodge"],
+.equip-affix p[class*="dodge"] {
+    color: #00897b;
+}
+
+@media (max-width: 768px) {
+    .equip-basic-info {
+        grid-template-columns: 1fr;
+    }
+    
+    .equip-attrs p span,
+    .equip-affix p span,
+    .equip-stones p span {
+        min-width: 80px;
+    }
 }
 
 /* 内丹相关样式 */
@@ -371,7 +593,7 @@ button:hover {
     }
 }
 
-/* 经脉相关样式 */
+/* 外丹相关样式 */
 .meridians-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -625,4 +847,73 @@ p {
     .pet-equips .attributes p {
         font-size: 13px;
     }
+}
+
+/* 装备额外信息行样式 */
+.equip-extra-info {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed #dee2e6;
+    color: #6c757d;
+    font-size: 0.9em;
+    text-align: right;
+}
+
+.equip-extra-info span {
+    margin-right: 5px;
+}
+
+/* 技能名称样式 */
+.skill-name {
+    font-weight: bold;
+    color: #1a75ff;
+    font-size: 1.1em;
+}
+
+.skill-id {
+    color: #888;
+    font-size: 0.9em;
+    margin-left: 5px;
+}
+
+.skill-item {
+    background-color: #f9f9f9;
+    border-left: 4px solid #1a75ff;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.skill-item:hover {
+    background-color: #f0f5ff;
+    transition: background-color 0.3s;
+}
+
+.skill-page {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.skill-page h5 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    color: #333;
+}
+
+.skill-category {
+    margin-bottom: 20px;
+}
+
+.skill-category h4 {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #1a75ff;
 }

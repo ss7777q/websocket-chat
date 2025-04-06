@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1001001,
+    "type": 1,
+    "group": 1,
+    "sort": 1,
+    "question": "您的小学名字？",
+    "answer": 0
+  },
+  {
+    "id": 1001002,
+    "type": 1,
+    "group": 1,
+    "sort": 2,
+    "question": "您的中学名字？",
+    "answer": 0
+  },
+  {
+    "id": 1001003,
+    "type": 1,
+    "group": 1,
+    "sort": 3,
+    "question": "您最喜欢的电影名字？",
+    "answer": 0
+  },
+  {
+    "id": 1001004,
+    "type": 1,
+    "group": 1,
+    "sort": 4,
+    "question": "您最喜欢的歌曲名字？",
+    "answer": 0
+  },
+  {
+    "id": 1001005,
+    "type": 1,
+    "group": 1,
+    "sort": 5,
+    "question": "您最喜欢的游戏名字？",
+    "answer": 0
+  },
+  {
+    "id": 1002001,
+    "type": 1,
+    "group": 2,
+    "sort": 1,
+    "question": "您母亲的姓名？",
+    "answer": 0
+  },
+  {
+    "id": 1002002,
+    "type": 1,
+    "group": 2,
+    "sort": 2,
+    "question": "您父亲的姓名？",
+    "answer": 0
+  },
+  {
+    "id": 1002003,
+    "type": 1,
+    "group": 2,
+    "sort": 3,
+    "question": "您爱人的姓名？",
+    "answer": 0
+  },
+  {
+    "id": 1002004,
+    "type": 1,
+    "group": 2,
+    "sort": 4,
+    "question": "您最喜欢的城市？",
+    "answer": 0
+  },
+  {
+    "id": 1002005,
+    "type": 1,
+    "group": 2,
+    "sort": 5,
+    "question": "您的曾用名？",
+    "answer": 0
+  }
+]

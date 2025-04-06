@@ -1,0 +1,4322 @@
+[
+  {
+    "id": 10101,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10102,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10103,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10104,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10105,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10106,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10107,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10108,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10109,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10110,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10111,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10112,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10113,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10114,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10115,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10116,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10117,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10118,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10119,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10120,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10121,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10122,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10123,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10124,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10125,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10126,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10127,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10128,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10129,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10130,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10131,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10132,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10133,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10134,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10135,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10136,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10137,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10138,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10139,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10140,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10141,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10142,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10143,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10144,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10145,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10146,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10147,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10148,
+    "severalWeeks": 1,
+    "group": 1,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10201,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10202,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10203,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10204,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10205,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10206,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10207,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10208,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10209,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10210,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10211,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10212,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10213,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10214,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10215,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10216,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10217,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10218,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10219,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10220,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10221,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10222,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10223,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10224,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10225,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10226,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10227,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10228,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10229,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10230,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10231,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10232,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10233,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10234,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10235,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10236,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10237,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10238,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10239,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10240,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10241,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10242,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10243,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10244,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10245,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10246,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10247,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10248,
+    "severalWeeks": 1,
+    "group": 2,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10301,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10302,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10303,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10304,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10305,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10306,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10307,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10308,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10309,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10310,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10311,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10312,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10313,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10314,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10315,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10316,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10317,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10318,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10319,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10320,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10321,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10322,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10323,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10324,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10325,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10326,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10327,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10328,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10329,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10330,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10331,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10332,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10333,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10334,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10335,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10336,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10337,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10338,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10339,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10340,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10341,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10342,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10343,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10344,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10345,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10346,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10347,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10348,
+    "severalWeeks": 1,
+    "group": 3,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10401,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10402,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10403,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10404,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10405,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10406,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10407,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10408,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10409,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10410,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10411,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10412,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10413,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10414,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10415,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10416,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10417,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10418,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10419,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10420,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10421,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10422,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10423,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10424,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10425,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10426,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10427,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10428,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10429,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10430,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10431,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10432,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10433,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10434,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10435,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10436,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10437,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10438,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10439,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10440,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10441,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10442,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10443,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10444,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10445,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10446,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10447,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10448,
+    "severalWeeks": 1,
+    "group": 4,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10501,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10502,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10503,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10504,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10505,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10506,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10507,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10508,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10509,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10510,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10511,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10512,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10513,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10514,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10515,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10516,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10517,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10518,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10519,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10520,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10521,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10522,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10523,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10524,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10525,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10526,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10527,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10528,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10529,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10530,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10531,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10532,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10533,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10534,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10535,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10536,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10537,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10538,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10539,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10540,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10541,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10542,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10543,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10544,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10545,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10546,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10547,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10548,
+    "severalWeeks": 1,
+    "group": 5,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10601,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10602,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10603,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10604,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10605,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10606,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10607,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10608,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10609,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10610,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10611,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10612,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10613,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10614,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10615,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10616,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10617,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10618,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10619,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10620,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10621,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10622,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10623,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10624,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10625,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10626,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10627,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10628,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10629,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10630,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10631,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10632,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10633,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10634,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10635,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10636,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10637,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10638,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10639,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10640,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10641,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10642,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10643,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10644,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10645,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10646,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10647,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10648,
+    "severalWeeks": 1,
+    "group": 6,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10701,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10702,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10703,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10704,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10705,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10706,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10707,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10708,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10709,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10710,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10711,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10712,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10713,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10714,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10715,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10716,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10717,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10718,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10719,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10720,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10721,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10722,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10723,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10724,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10725,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10726,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10727,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10728,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10729,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10730,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10731,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10732,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10733,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10734,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10735,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10736,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10737,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10738,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10739,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10740,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10741,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10742,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10743,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10744,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10745,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10746,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10747,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10748,
+    "severalWeeks": 1,
+    "group": 7,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10801,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10802,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10803,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10804,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10805,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10806,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10807,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10808,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10809,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10810,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10811,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10812,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10813,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10814,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10815,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10816,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10817,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10818,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10819,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10820,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10821,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10822,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10823,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10824,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10825,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10826,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10827,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10828,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10829,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10830,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10831,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10832,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10833,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10834,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10835,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10836,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10837,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10838,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10839,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10840,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10841,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10842,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10843,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10844,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10845,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10846,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10847,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10848,
+    "severalWeeks": 2,
+    "group": 8,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10901,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10902,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10903,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10904,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10905,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10906,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10907,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10908,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10909,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10910,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10911,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10912,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10913,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10914,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10915,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10916,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10917,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10918,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10919,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10920,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10921,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10922,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10923,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10924,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10925,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10926,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10927,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10928,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10929,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10930,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10931,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10932,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10933,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10934,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 10935,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10936,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10937,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 10938,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10939,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10940,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10941,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10942,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10943,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 10944,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 10945,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 10946,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 10947,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 10948,
+    "severalWeeks": 2,
+    "group": 9,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 11001,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 0,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 11002,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 30,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 11003,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 60,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 11004,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 90,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 11005,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 120,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 11006,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 150,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 11007,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 180,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 11008,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 210,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 11009,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 240,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 11010,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 270,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 11011,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 300,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 11012,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 330,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 11013,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 360,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 11014,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 390,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 11015,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 420,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 11016,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 450,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 11017,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 480,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 11018,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 510,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 11019,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 540,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 11020,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 570,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 11021,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 600,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 11022,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 630,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 11023,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 660,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 11024,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 690,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 11025,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 720,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 11026,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 750,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 11027,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 780,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 11028,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 810,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 11029,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 840,
+    "dayOrNight": 1,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 11030,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 870,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 11031,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 900,
+    "dayOrNight": 0,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 11032,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 930,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 11033,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 960,
+    "dayOrNight": 1,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 11034,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 990,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 11035,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1020,
+    "dayOrNight": 0,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 11036,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1050,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 11037,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1080,
+    "dayOrNight": 1,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 11038,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1110,
+    "dayOrNight": 1,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  },
+  {
+    "id": 11039,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1140,
+    "dayOrNight": 0,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 11040,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1170,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 11041,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1200,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 11042,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1230,
+    "dayOrNight": 1,
+    "weatherID": 1001,
+    "remark": "晴天"
+  },
+  {
+    "id": 11043,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1260,
+    "dayOrNight": 0,
+    "weatherID": 1006,
+    "remark": "下雪"
+  },
+  {
+    "id": 11044,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1290,
+    "dayOrNight": 0,
+    "weatherID": 1007,
+    "remark": "大风"
+  },
+  {
+    "id": 11045,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1320,
+    "dayOrNight": 1,
+    "weatherID": 1005,
+    "remark": "沙尘"
+  },
+  {
+    "id": 11046,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1350,
+    "dayOrNight": 1,
+    "weatherID": 1002,
+    "remark": "下雨"
+  },
+  {
+    "id": 11047,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1380,
+    "dayOrNight": 0,
+    "weatherID": 1003,
+    "remark": "刮风"
+  },
+  {
+    "id": 11048,
+    "severalWeeks": 2,
+    "group": 10,
+    "time": 1410,
+    "dayOrNight": 0,
+    "weatherID": 1004,
+    "remark": "雷暴"
+  }
+]

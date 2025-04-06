@@ -1,0 +1,652 @@
+[
+  {
+    "id": 2000021001,
+    "activityId": 2000021,
+    "level": 1,
+    "exp": 0,
+    "godReward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        470023,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000021002,
+    "activityId": 2000021,
+    "level": 2,
+    "exp": 50,
+    "godReward": [
+      [
+        3271,
+        2
+      ]
+    ],
+    "specialReward": [
+      [
+        3271,
+        4
+      ]
+    ]
+  },
+  {
+    "id": 2000021003,
+    "activityId": 2000021,
+    "level": 3,
+    "exp": 150,
+    "godReward": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        470023,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000021004,
+    "activityId": 2000021,
+    "level": 4,
+    "exp": 350,
+    "godReward": [
+      [
+        3271,
+        4
+      ]
+    ],
+    "specialReward": [
+      [
+        3271,
+        8
+      ]
+    ]
+  },
+  {
+    "id": 2000021005,
+    "activityId": 2000021,
+    "level": 5,
+    "exp": 650,
+    "godReward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        470023,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000021006,
+    "activityId": 2000021,
+    "level": 6,
+    "exp": 1000,
+    "godReward": [
+      [
+        9000004,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        9000004,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 2000021007,
+    "activityId": 2000021,
+    "level": 7,
+    "exp": 1400,
+    "godReward": [
+      [
+        410054,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        410055,
+        2
+      ],
+      [
+        2,
+        1600
+      ]
+    ]
+  },
+  {
+    "id": 2000031001,
+    "activityId": 2000031,
+    "level": 1,
+    "exp": 0,
+    "godReward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        1030,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000031002,
+    "activityId": 2000031,
+    "level": 2,
+    "exp": 100,
+    "godReward": [
+      [
+        3292,
+        5
+      ]
+    ],
+    "specialReward": [
+      [
+        3292,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 2000031003,
+    "activityId": 2000031,
+    "level": 3,
+    "exp": 300,
+    "godReward": [
+      [
+        10300,
+        5
+      ]
+    ],
+    "specialReward": [
+      [
+        10300,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 2000031004,
+    "activityId": 2000031,
+    "level": 4,
+    "exp": 600,
+    "godReward": [
+      [
+        3292,
+        10
+      ]
+    ],
+    "specialReward": [
+      [
+        3292,
+        20
+      ]
+    ]
+  },
+  {
+    "id": 2000031005,
+    "activityId": 2000031,
+    "level": 5,
+    "exp": 1000,
+    "godReward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        409993,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000031006,
+    "activityId": 2000031,
+    "level": 6,
+    "exp": 1500,
+    "godReward": [
+      [
+        9000004,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        9000004,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 2000031007,
+    "activityId": 2000031,
+    "level": 7,
+    "exp": 1950,
+    "godReward": [
+      [
+        410054,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        410055,
+        1
+      ],
+      [
+        2,
+        1600
+      ]
+    ]
+  },
+  {
+    "id": 2000041001,
+    "activityId": "hitHamster",
+    "level": 1,
+    "exp": 0,
+    "godReward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        1030,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000041002,
+    "activityId": "hitHamster",
+    "level": 2,
+    "exp": 50,
+    "godReward": [
+      [
+        3322,
+        20
+      ]
+    ],
+    "specialReward": [
+      [
+        3322,
+        40
+      ]
+    ]
+  },
+  {
+    "id": 2000041003,
+    "activityId": "hitHamster",
+    "level": 3,
+    "exp": 150,
+    "godReward": [
+      [
+        10301,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        10300,
+        8
+      ]
+    ]
+  },
+  {
+    "id": 2000041004,
+    "activityId": "hitHamster",
+    "level": 4,
+    "exp": 300,
+    "godReward": [
+      [
+        3322,
+        40
+      ]
+    ],
+    "specialReward": [
+      [
+        3322,
+        80
+      ]
+    ]
+  },
+  {
+    "id": 2000041005,
+    "activityId": "hitHamster",
+    "level": 5,
+    "exp": 500,
+    "godReward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        409993,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000041006,
+    "activityId": "hitHamster",
+    "level": 6,
+    "exp": 750,
+    "godReward": [
+      [
+        9000004,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        9000004,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 2000041007,
+    "activityId": "hitHamster",
+    "level": 7,
+    "exp": 1050,
+    "godReward": [
+      [
+        410054,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        410055,
+        1
+      ],
+      [
+        2,
+        1600
+      ]
+    ]
+  },
+  {
+    "id": 2000051001,
+    "activityId": "valentineActivity",
+    "level": 1,
+    "exp": 0,
+    "godReward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        1030,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000051002,
+    "activityId": "valentineActivity",
+    "level": 2,
+    "exp": 50,
+    "godReward": [
+      [
+        3104,
+        2
+      ]
+    ],
+    "specialReward": [
+      [
+        3104,
+        4
+      ]
+    ]
+  },
+  {
+    "id": 2000051003,
+    "activityId": "valentineActivity",
+    "level": 3,
+    "exp": 150,
+    "godReward": [
+      [
+        10301,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        10300,
+        8
+      ]
+    ]
+  },
+  {
+    "id": 2000051004,
+    "activityId": "valentineActivity",
+    "level": 4,
+    "exp": 300,
+    "godReward": [
+      [
+        3104,
+        4
+      ]
+    ],
+    "specialReward": [
+      [
+        3104,
+        8
+      ]
+    ]
+  },
+  {
+    "id": 2000051005,
+    "activityId": "valentineActivity",
+    "level": 5,
+    "exp": 500,
+    "godReward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        409993,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000051006,
+    "activityId": "valentineActivity",
+    "level": 6,
+    "exp": 750,
+    "godReward": [
+      [
+        9000004,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        9000004,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 2000051007,
+    "activityId": "valentineActivity",
+    "level": 7,
+    "exp": 1050,
+    "godReward": [
+      [
+        470012,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        470012,
+        2
+      ],
+      [
+        2,
+        1600
+      ]
+    ]
+  },
+  {
+    "id": 2000022001,
+    "activityId": 2000022,
+    "level": 1,
+    "exp": 0,
+    "godReward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        470023,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000022002,
+    "activityId": 2000022,
+    "level": 2,
+    "exp": 50,
+    "godReward": [
+      [
+        3271,
+        2
+      ]
+    ],
+    "specialReward": [
+      [
+        3271,
+        4
+      ]
+    ]
+  },
+  {
+    "id": 2000022003,
+    "activityId": 2000022,
+    "level": 3,
+    "exp": 150,
+    "godReward": [
+      [
+        11302,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        470023,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000022004,
+    "activityId": 2000022,
+    "level": 4,
+    "exp": 350,
+    "godReward": [
+      [
+        3271,
+        4
+      ]
+    ],
+    "specialReward": [
+      [
+        3271,
+        8
+      ]
+    ]
+  },
+  {
+    "id": 2000022005,
+    "activityId": 2000022,
+    "level": 5,
+    "exp": 650,
+    "godReward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        470023,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 2000022006,
+    "activityId": 2000022,
+    "level": 6,
+    "exp": 1000,
+    "godReward": [
+      [
+        9000004,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        9000004,
+        2
+      ]
+    ]
+  },
+  {
+    "id": 2000022007,
+    "activityId": 2000022,
+    "level": 7,
+    "exp": 1400,
+    "godReward": [
+      [
+        410054,
+        1
+      ]
+    ],
+    "specialReward": [
+      [
+        410055,
+        1
+      ],
+      [
+        2,
+        1600
+      ]
+    ]
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "id": 10400101,
+    "godWeaponId": 104001,
+    "cost": [
+      [
+        191001,
+        1
+      ]
+    ],
+    "name": "黑白足球",
+    "showFile": "heibaizuqiu",
+    "new": 0,
+    "icon": "heibaizuqiu",
+    "file": "2031801-heibaizuqiu",
+    "bulletFile": {
+      "2031801-cuju_texiao": "2031801-heibaizuqiu_texiao"
+    },
+    "noShowBulletIcon": 1
+  },
+  {
+    "id": 10400102,
+    "godWeaponId": 104001,
+    "cost": [
+      [
+        191002,
+        1
+      ]
+    ],
+    "name": "超级足球",
+    "showFile": "chaojizuqiu",
+    "label": "shishi",
+    "new": 0,
+    "icon": "chaojizuqiu",
+    "file": "2031801-shijiebeizuqiu",
+    "bulletFile": {
+      "2031801-cuju_texiao": "2031801-shijiebeizuqiu_texiao"
+    }
+  },
+  {
+    "id": 10400103,
+    "godWeaponId": 104001,
+    "cost": [
+      [
+        191005,
+        1
+      ]
+    ],
+    "name": "龟灵足球",
+    "showFile": "guilingzuqiu",
+    "label": "shishi",
+    "new": 0,
+    "icon": "guilingzuqiu",
+    "file": "2031801-guike",
+    "bulletFile": {
+      "2031801-cuju_texiao": "2031801-guike_texiao"
+    }
+  },
+  {
+    "id": 10400104,
+    "godWeaponId": 104001,
+    "cost": [
+      [
+        191007,
+        1
+      ]
+    ],
+    "name": "晕晕足球",
+    "showFile": "yunyunzuqiu",
+    "label": "shishi",
+    "new": 0,
+    "icon": "yunyunzuqiu",
+    "file": "2031801-yun",
+    "bulletFile": {
+      "2031801-cuju_texiao": "2031801-yun_texiao"
+    },
+    "noShowBulletIcon": 1
+  },
+  {
+    "id": 10400105,
+    "godWeaponId": 104001,
+    "cost": [
+      [
+        191008,
+        1
+      ]
+    ],
+    "name": "雪球",
+    "showFile": "xueqiu",
+    "label": "shishi",
+    "new": 0,
+    "icon": "xueqiu",
+    "file": "2031801-xueqiu",
+    "bulletFile": {
+      "2031801-cuju_texiao": "2031801-xueqiu_texiao"
+    }
+  },
+  {
+    "id": 10400106,
+    "godWeaponId": 104001,
+    "cost": [
+      [
+        191009,
+        1
+      ]
+    ],
+    "name": "4周年黑金球",
+    "showFile": "heiqiu",
+    "label": "shishi",
+    "new": 0,
+    "icon": "tanxianwei",
+    "file": "2031801-tanxianwei",
+    "bulletFile": {
+      "2031801-cuju_texiao": "2031801-tanxianwei_texiao"
+    },
+    "noShowBulletIcon": 1
+  }
+]

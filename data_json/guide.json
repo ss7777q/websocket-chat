@@ -1,0 +1,907 @@
+[
+  {
+    "id": 10001,
+    "desc": "你总算醒过来了，\n快去花果山看看",
+    "partFirst": 1,
+    "nextId": 10002,
+    "emitType": [
+      "scene"
+    ],
+    "callFn": [
+      1,
+      1
+    ],
+    "tarNode": [
+      "stage1",
+      0
+    ],
+    "size": [
+      140,
+      140
+    ],
+    "addPos": [
+      -25,
+      10
+    ],
+    "arrow": [
+      "left",
+      145,
+      175
+    ]
+  },
+  {
+    "id": 10002,
+    "desc": "点此进入花果山，\n准备开战吧",
+    "delay": 0.2,
+    "callFn": [
+      2
+    ],
+    "tarNode": [
+      "levelTip",
+      "btn_enter"
+    ],
+    "size": [
+      140,
+      140
+    ],
+    "arrow": [
+      "right",
+      150,
+      175
+    ]
+  },
+  {
+    "id": 10111,
+    "desc": "快接了，完成后\n我会给你奖励的",
+    "partFirst": 1,
+    "emitType": [
+      "offerAReward"
+    ],
+    "callFn": [
+      23
+    ],
+    "tarNode": [
+      "OfferAReward",
+      "btnAccept",
+      0
+    ],
+    "size": [
+      160,
+      70
+    ],
+    "arrow": [
+      "left",
+      160,
+      175
+    ]
+  },
+  {
+    "id": 10132,
+    "desc": "去战胜他们吧，\n他们不是你对手",
+    "emitType": [
+      "luoHanTang"
+    ],
+    "callFn": [
+      18
+    ],
+    "tarNode": [
+      "arhatRoom",
+      "btnBattle"
+    ],
+    "size": [
+      140,
+      140
+    ],
+    "arrow": [
+      "bottom",
+      150,
+      75
+    ]
+  },
+  {
+    "id": 10151,
+    "desc": "这便是地煞葫芦了",
+    "partFirst": 1,
+    "nextId": 10152,
+    "emitType": [
+      "magicWeapon"
+    ],
+    "limit": [
+      "firstCompose",
+      2001
+    ],
+    "callFn": [
+      19
+    ],
+    "tarNode": [
+      "magicWeaponModule",
+      "magicItem",
+      2001
+    ],
+    "size": [
+      110,
+      110
+    ],
+    "addPos": [
+      0,
+      20
+    ],
+    "arrow": [
+      "left",
+      135,
+      175
+    ]
+  },
+  {
+    "id": 10152,
+    "desc": "用我送的材料合\n成地煞葫芦吧",
+    "callFn": [
+      20
+    ],
+    "tarNode": [
+      "magicWeaponModule",
+      "btn_compound"
+    ],
+    "size": [
+      140,
+      60
+    ],
+    "arrow": [
+      "right",
+      150,
+      175
+    ]
+  },
+  {
+    "id": 10171,
+    "desc": "已捕捉的宠物在\n这里，快看看",
+    "partFirst": 1,
+    "emitType": [
+      "scene",
+      "town"
+    ],
+    "limit": [
+      "petSpace"
+    ],
+    "callFn": [
+      15
+    ],
+    "tarNode": [
+      "btnPetSpace"
+    ],
+    "size": [
+      80,
+      80
+    ],
+    "arrow": [
+      "bottom",
+      120,
+      75
+    ]
+  },
+  {
+    "id": 10181,
+    "desc": "快去看看已经驯\n服的宠物吧",
+    "partFirst": 1,
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 5,
+    "callFn": [
+      8,
+      "btn_pet"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_spiritBeast"
+    ],
+    "size": [
+      90,
+      100
+    ],
+    "arrow": [
+      "bottom",
+      140,
+      75
+    ]
+  },
+  {
+    "id": 10182,
+    "desc": "让他出战与你并\n肩战斗吧",
+    "emitType": [
+      "petPanel"
+    ],
+    "callFn": [
+      47
+    ],
+    "tarNode": [
+      "petPanel",
+      "btnFight"
+    ],
+    "size": [
+      170,
+      70
+    ],
+    "arrow": [
+      "left",
+      165,
+      175
+    ]
+  },
+  {
+    "id": 10211,
+    "desc": "开始强化装备吧",
+    "partFirst": 1,
+    "emitType": [
+      "equipUpgrade"
+    ],
+    "limit": [
+      "firstOpen"
+    ],
+    "callFn": [
+      24
+    ],
+    "tarNode": [
+      "equipUpgrade",
+      "btn_upgrade"
+    ],
+    "size": [
+      170,
+      70
+    ],
+    "arrow": [
+      "right",
+      165,
+      175
+    ]
+  },
+  {
+    "id": 10271,
+    "desc": "三个相同宝石可\n以合成更高级",
+    "partFirst": 1,
+    "nextId": 10272,
+    "emitType": [
+      "stone2Synthesis"
+    ],
+    "limit": [
+      "firstOpen"
+    ],
+    "callFn": [
+      48
+    ],
+    "tarNode": [
+      "stone2Synthesis",
+      "canSynthesis"
+    ],
+    "size": [
+      100,
+      100
+    ],
+    "arrow": [
+      "left",
+      100,
+      90
+    ]
+  },
+  {
+    "id": 10272,
+    "desc": "点击合成更高级\n的宝石吧",
+    "callFn": [
+      49
+    ],
+    "tarNode": [
+      "stone2Synthesis",
+      "btnCompose"
+    ],
+    "size": [
+      170,
+      62
+    ],
+    "arrow": [
+      "left",
+      192,
+      175
+    ]
+  },
+  {
+    "id": 10281,
+    "desc": "时光之舟开启了\n去看看",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 32,
+    "callFn": [
+      8,
+      "btn_timeBoat"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_timeBoat"
+    ],
+    "size": [
+      90,
+      92
+    ],
+    "arrow": [
+      "top",
+      126,
+      75
+    ]
+  },
+  {
+    "id": 10301,
+    "desc": "从这里查看噩梦\n关卡",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "taskNpcChat"
+    ],
+    "delay": 0.6,
+    "limit": [
+      "btnAccept",
+      102002101
+    ],
+    "callFn": [
+      8,
+      "btn_stageChallenge"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_stageChallenge"
+    ],
+    "size": [
+      90,
+      92
+    ],
+    "arrow": [
+      "top",
+      126,
+      75
+    ]
+  },
+  {
+    "id": 10331,
+    "desc": "快点开锻造",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "taskNpcChat"
+    ],
+    "delay": 0.6,
+    "limit": [
+      "btnAccept",
+      102002061
+    ],
+    "callFn": [
+      8,
+      "btn_dz"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_dz"
+    ],
+    "size": [
+      90,
+      100
+    ],
+    "arrow": [
+      "bottom",
+      140,
+      75
+    ]
+  },
+  {
+    "id": 10332,
+    "desc": "点击打造标签页",
+    "emitType": [
+      "equipUpgrade"
+    ],
+    "callFn": [
+      31
+    ],
+    "tarNode": [
+      "equipUpgrade",
+      "btnMake"
+    ],
+    "size": [
+      110,
+      90
+    ],
+    "arrow": [
+      "left",
+      192,
+      175
+    ]
+  },
+  {
+    "id": 10351,
+    "desc": "宠物挑战开启了，\n快来看看",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true
+    },
+    "emitType": [
+      "taskNpcChat"
+    ],
+    "delay": 0.6,
+    "limit": [
+      "btnAccept",
+      102002071
+    ],
+    "callFn": [
+      8,
+      "btn_petTower"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_petTower"
+    ],
+    "size": [
+      90,
+      92
+    ],
+    "arrow": [
+      "top",
+      126,
+      75
+    ]
+  },
+  {
+    "id": 10361,
+    "desc": "想没想灵儿啊，\n去看看她",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 17,
+    "callFn": [
+      3,
+      102002081
+    ],
+    "tarNode": [
+      "taskTrack",
+      102002081
+    ],
+    "size": [
+      260,
+      70
+    ],
+    "addPos": [
+      8,
+      0
+    ],
+    "arrow": [
+      "left",
+      192,
+      175
+    ]
+  },
+  {
+    "id": 10371,
+    "desc": "宠物挑战有新的\n内容了",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true
+    },
+    "emitType": [
+      "taskNpcChat"
+    ],
+    "delay": 0.6,
+    "limit": [
+      "btnAccept",
+      102002081
+    ],
+    "callFn": [
+      8,
+      "btn_petTower"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_petTower"
+    ],
+    "size": [
+      90,
+      92
+    ],
+    "arrow": [
+      "top",
+      126,
+      75
+    ]
+  },
+  {
+    "id": 10381,
+    "desc": "联盟已开启",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 20,
+    "callFn": [
+      8,
+      "btn_social"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_social"
+    ],
+    "size": [
+      90,
+      100
+    ],
+    "arrow": [
+      "bottom",
+      140,
+      75
+    ]
+  },
+  {
+    "id": 10391,
+    "desc": "关卡挑战有新的\n内容了",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true
+    },
+    "emitType": [
+      "taskNpcChat"
+    ],
+    "delay": 0.6,
+    "limit": [
+      "btnAccept",
+      102002092
+    ],
+    "callFn": [
+      8,
+      "btn_stageChallenge"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_stageChallenge"
+    ],
+    "size": [
+      90,
+      92
+    ],
+    "arrow": [
+      "top",
+      126,
+      75
+    ]
+  },
+  {
+    "id": 10401,
+    "desc": "我在花果山等你，\n快来找我",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 14,
+    "callFn": [
+      3,
+      102002091
+    ],
+    "tarNode": [
+      "taskTrack",
+      102002091
+    ],
+    "size": [
+      260,
+      70
+    ],
+    "addPos": [
+      8,
+      0
+    ],
+    "arrow": [
+      "left",
+      192,
+      175
+    ]
+  },
+  {
+    "id": 10411,
+    "desc": "内丹已经开启",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true
+    },
+    "emitType": [
+      "taskNpcChat"
+    ],
+    "delay": 0.6,
+    "limit": [
+      "btnAccept",
+      102002091
+    ],
+    "callFn": [
+      8,
+      "btn_xf"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_xf"
+    ],
+    "size": [
+      90,
+      100
+    ],
+    "arrow": [
+      "bottom",
+      140,
+      75
+    ]
+  },
+  {
+    "id": 10431,
+    "desc": "仙位竞技场已经\n开启，快去看看",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 24,
+    "callFn": [
+      8,
+      "btn_arena"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_arena"
+    ],
+    "size": [
+      90,
+      92
+    ],
+    "arrow": [
+      "top",
+      126,
+      75
+    ]
+  },
+  {
+    "id": 10441,
+    "desc": "斗宠大会已经开\n启，快去看看",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 31,
+    "callFn": [
+      8,
+      "btn_arena"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_arena"
+    ],
+    "size": [
+      90,
+      92
+    ],
+    "arrow": [
+      "top",
+      126,
+      75
+    ]
+  },
+  {
+    "id": 10451,
+    "desc": "地藏菩萨找你有\n事情",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 35,
+    "callFn": [
+      3,
+      102002111
+    ],
+    "tarNode": [
+      "taskTrack",
+      102002111
+    ],
+    "size": [
+      260,
+      70
+    ],
+    "addPos": [
+      8,
+      0
+    ],
+    "arrow": [
+      "left",
+      192,
+      175
+    ]
+  },
+  {
+    "id": 10461,
+    "desc": "神魔战场封印已\n除，去闯荡一番",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true
+    },
+    "emitType": [
+      "taskNpcChat"
+    ],
+    "delay": 0.6,
+    "limit": [
+      "btnAccept",
+      102002111
+    ],
+    "callFn": [
+      8,
+      "btn_huntEntrance"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_huntEntrance"
+    ],
+    "size": [
+      90,
+      92
+    ],
+    "arrow": [
+      "top",
+      126,
+      75
+    ]
+  },
+  {
+    "id": 10471,
+    "desc": "化身神将参加战\n斗吧",
+    "partFirst": 1,
+    "emitType": [
+      "godWar"
+    ],
+    "limit": [
+      "firstOpen"
+    ],
+    "callFn": [
+      51
+    ],
+    "tarNode": [
+      "godWar",
+      "btnMatchHunter"
+    ],
+    "size": [
+      168,
+      162
+    ],
+    "arrow": [
+      "bottom",
+      140,
+      75
+    ]
+  },
+  {
+    "id": 10491,
+    "desc": "装备已经可以重\n铸了，快看看",
+    "partFirst": 1,
+    "restore": {
+      "allContractFuncNode": false,
+      "handlerActiveUI": true,
+      "closeAllPanel": true
+    },
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 36,
+    "callFn": [
+      8,
+      "btn_dz"
+    ],
+    "tarNode": [
+      "funcNode",
+      "btn_dz"
+    ],
+    "size": [
+      90,
+      100
+    ],
+    "arrow": [
+      "bottom",
+      140,
+      75
+    ]
+  },
+  {
+    "id": 10492,
+    "desc": "这里便是重铸的\n入口",
+    "emitType": [
+      "equipUpgrade"
+    ],
+    "callFn": [
+      52,
+      "click_btn_recast"
+    ],
+    "tarNode": [
+      "equipUpgrade",
+      "btn_recast"
+    ],
+    "size": [
+      110,
+      90
+    ],
+    "arrow": [
+      "left",
+      192,
+      175
+    ]
+  },
+  {
+    "id": 10501,
+    "desc": "重铸后的装备可\n以进行洗练",
+    "partFirst": 1,
+    "emitType": [
+      "sysFlyEnd"
+    ],
+    "limit": 37,
+    "callFn": [
+      53,
+      "onClickTap",
+      2
+    ],
+    "tarNode": [
+      "equipRecast",
+      "btn_baptize"
+    ],
+    "size": [
+      110,
+      90
+    ],
+    "arrow": [
+      "left",
+      192,
+      175
+    ]
+  }
+]

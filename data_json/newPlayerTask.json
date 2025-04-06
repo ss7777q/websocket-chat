@@ -1,0 +1,3085 @@
+[
+  {
+    "id": 30011001,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 20,
+    "target": 600,
+    "taskName": "任务1",
+    "targetText": "在线&a&分钟（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        15
+      ]
+    ]
+  },
+  {
+    "id": 30011002,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 20,
+    "target": 1800,
+    "taskName": "任务2",
+    "targetText": "在线&a&分钟（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        16
+      ]
+    ]
+  },
+  {
+    "id": 30011003,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 20,
+    "target": 3600,
+    "taskName": "任务3",
+    "targetText": "在线&a&分钟（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        17
+      ]
+    ]
+  },
+  {
+    "id": 30011004,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 21,
+    "target": 40,
+    "taskName": "任务4",
+    "targetText": "击杀主线怪物&a&只（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        18
+      ]
+    ]
+  },
+  {
+    "id": 30011005,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 21,
+    "target": 120,
+    "taskName": "任务5",
+    "targetText": "击杀主线怪物&a&只（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        19
+      ]
+    ]
+  },
+  {
+    "id": 30011006,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 21,
+    "target": 240,
+    "taskName": "任务6",
+    "targetText": "击杀主线怪物&a&只（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        20
+      ]
+    ]
+  },
+  {
+    "id": 30011007,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 24,
+    "target": [
+      1,
+      2
+    ],
+    "taskName": "任务7",
+    "targetText": "通关主线关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        21
+      ]
+    ]
+  },
+  {
+    "id": 30011008,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 24,
+    "target": [
+      1,
+      5
+    ],
+    "taskName": "任务8",
+    "targetText": "通关主线关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        22
+      ]
+    ]
+  },
+  {
+    "id": 30011009,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 24,
+    "target": [
+      1,
+      10
+    ],
+    "taskName": "任务9",
+    "targetText": "通关主线关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        23
+      ]
+    ]
+  },
+  {
+    "id": 30011010,
+    "activityId": 1000051,
+    "day": 1,
+    "targetType": 30,
+    "target": [
+      "wantedTasks",
+      1
+    ],
+    "taskName": "任务10",
+    "targetText": "完成悬赏任务&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        24
+      ]
+    ]
+  },
+  {
+    "id": 30012001,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 30,
+    "target": [
+      "wantedTasks",
+      2
+    ],
+    "taskName": "任务11",
+    "targetText": "完成悬赏任务&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        25
+      ]
+    ]
+  },
+  {
+    "id": 30012002,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 30,
+    "target": [
+      "wantedTasks",
+      3
+    ],
+    "taskName": "任务12",
+    "targetText": "完成悬赏任务&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        26
+      ]
+    ]
+  },
+  {
+    "id": 30012003,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 24,
+    "target": [
+      4,
+      1
+    ],
+    "taskName": "任务13",
+    "targetText": "挑战罗汉堂&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        27
+      ]
+    ]
+  },
+  {
+    "id": 30012004,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 24,
+    "target": [
+      4,
+      2
+    ],
+    "taskName": "任务14",
+    "targetText": "挑战罗汉堂&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        28
+      ]
+    ]
+  },
+  {
+    "id": 30012005,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 24,
+    "target": [
+      4,
+      3
+    ],
+    "taskName": "任务15",
+    "targetText": "挑战罗汉堂&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        29
+      ]
+    ]
+  },
+  {
+    "id": 30012006,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 23,
+    "target": [
+      10,
+      1
+    ],
+    "taskName": "任务16",
+    "targetText": "仙位竞技挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        30
+      ]
+    ]
+  },
+  {
+    "id": 30012007,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 23,
+    "target": [
+      10,
+      3
+    ],
+    "taskName": "任务17",
+    "targetText": "仙位竞技挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        31
+      ]
+    ]
+  },
+  {
+    "id": 30012008,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 23,
+    "target": [
+      10,
+      5
+    ],
+    "taskName": "任务18",
+    "targetText": "仙位竞技挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        32
+      ]
+    ]
+  },
+  {
+    "id": 30012009,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 24,
+    "target": [
+      1,
+      20
+    ],
+    "taskName": "任务19",
+    "targetText": "通关主线关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        33
+      ]
+    ]
+  },
+  {
+    "id": 30012010,
+    "activityId": 1000051,
+    "day": 2,
+    "targetType": 24,
+    "target": [
+      1,
+      40
+    ],
+    "taskName": "任务20",
+    "targetText": "通关主线关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        34
+      ]
+    ]
+  },
+  {
+    "id": 30013001,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 24,
+    "target": [
+      1,
+      80
+    ],
+    "taskName": "任务21",
+    "targetText": "通关主线关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        35
+      ]
+    ]
+  },
+  {
+    "id": 30013002,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 22,
+    "target": 1,
+    "taskName": "任务22",
+    "targetText": "洗炼法宝&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        36
+      ]
+    ]
+  },
+  {
+    "id": 30013003,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 22,
+    "target": 3,
+    "taskName": "任务23",
+    "targetText": "洗炼法宝&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        37
+      ]
+    ]
+  },
+  {
+    "id": 30013004,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 22,
+    "target": 6,
+    "taskName": "任务24",
+    "targetText": "洗炼法宝&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        38
+      ]
+    ]
+  },
+  {
+    "id": 30013005,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 26,
+    "target": [
+      "secret",
+      5
+    ],
+    "taskName": "任务25",
+    "targetText": "神秘商店购买&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        39
+      ]
+    ]
+  },
+  {
+    "id": 30013006,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 26,
+    "target": [
+      "secret",
+      15
+    ],
+    "taskName": "任务26",
+    "targetText": "神秘商店购买&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        40
+      ]
+    ]
+  },
+  {
+    "id": 30013007,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 26,
+    "target": [
+      "secret",
+      30
+    ],
+    "taskName": "任务27",
+    "targetText": "神秘商店购买&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        41
+      ]
+    ]
+  },
+  {
+    "id": 30013008,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 30,
+    "target": [
+      "wantedTasks",
+      6
+    ],
+    "taskName": "任务28",
+    "targetText": "完成悬赏任务&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        42
+      ]
+    ]
+  },
+  {
+    "id": 30013009,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 30,
+    "target": [
+      "wantedTasks",
+      12
+    ],
+    "taskName": "任务29",
+    "targetText": "完成悬赏任务&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        43
+      ]
+    ]
+  },
+  {
+    "id": 30013010,
+    "activityId": 1000051,
+    "day": 3,
+    "targetType": 30,
+    "target": [
+      "wantedTasks",
+      24
+    ],
+    "taskName": "任务30",
+    "targetText": "完成悬赏任务&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        44
+      ]
+    ]
+  },
+  {
+    "id": 30014001,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 29,
+    "target": [
+      "pet",
+      1
+    ],
+    "taskName": "任务31",
+    "targetText": "神兽森林抓捕&a&只宠物（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        45
+      ]
+    ]
+  },
+  {
+    "id": 30014002,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 29,
+    "target": [
+      "pet",
+      2
+    ],
+    "taskName": "任务32",
+    "targetText": "神兽森林抓捕&a&只宠物（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        46
+      ]
+    ]
+  },
+  {
+    "id": 30014003,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 29,
+    "target": [
+      "pet",
+      3
+    ],
+    "taskName": "任务33",
+    "targetText": "神兽森林抓捕&a&只宠物（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        47
+      ]
+    ]
+  },
+  {
+    "id": 30014004,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 23,
+    "target": [
+      10,
+      5
+    ],
+    "taskName": "任务34",
+    "targetText": "仙位竞技挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        48
+      ]
+    ]
+  },
+  {
+    "id": 30014005,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 23,
+    "target": [
+      10,
+      15
+    ],
+    "taskName": "任务35",
+    "targetText": "仙位竞技挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        49
+      ]
+    ]
+  },
+  {
+    "id": 30014006,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 23,
+    "target": [
+      10,
+      30
+    ],
+    "taskName": "任务36",
+    "targetText": "仙位竞技挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 30014007,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 27,
+    "target": 1,
+    "taskName": "任务37",
+    "targetText": "联盟捐献&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        51
+      ]
+    ]
+  },
+  {
+    "id": 30014008,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 27,
+    "target": 2,
+    "taskName": "任务38",
+    "targetText": "联盟捐献&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        52
+      ]
+    ]
+  },
+  {
+    "id": 30014009,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 27,
+    "target": 4,
+    "taskName": "任务39",
+    "targetText": "联盟捐献&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        53
+      ]
+    ]
+  },
+  {
+    "id": 30014010,
+    "activityId": 1000051,
+    "day": 4,
+    "targetType": 24,
+    "target": [
+      8,
+      4
+    ],
+    "taskName": "任务40",
+    "targetText": "万灵塔挑战胜利&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        54
+      ]
+    ]
+  },
+  {
+    "id": 30015001,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 24,
+    "target": [
+      8,
+      8
+    ],
+    "taskName": "任务41",
+    "targetText": "万灵塔挑战胜利&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        55
+      ]
+    ]
+  },
+  {
+    "id": 30015002,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 24,
+    "target": [
+      8,
+      16
+    ],
+    "taskName": "任务42",
+    "targetText": "万灵塔挑战胜利&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        56
+      ]
+    ]
+  },
+  {
+    "id": 30015003,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 24,
+    "target": [
+      4,
+      3
+    ],
+    "taskName": "任务43",
+    "targetText": "挑战罗汉堂&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        57
+      ]
+    ]
+  },
+  {
+    "id": 30015004,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 24,
+    "target": [
+      4,
+      6
+    ],
+    "taskName": "任务44",
+    "targetText": "挑战罗汉堂&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        58
+      ]
+    ]
+  },
+  {
+    "id": 30015005,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 24,
+    "target": [
+      4,
+      12
+    ],
+    "taskName": "任务45",
+    "targetText": "挑战罗汉堂&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        59
+      ]
+    ]
+  },
+  {
+    "id": 30015006,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 23,
+    "target": [
+      12,
+      5
+    ],
+    "taskName": "任务46",
+    "targetText": "斗宠大会挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 30015007,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 23,
+    "target": [
+      12,
+      15
+    ],
+    "taskName": "任务47",
+    "targetText": "斗宠大会挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        61
+      ]
+    ]
+  },
+  {
+    "id": 30015008,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 23,
+    "target": [
+      12,
+      30
+    ],
+    "taskName": "任务48",
+    "targetText": "斗宠大会挑战&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        62
+      ]
+    ]
+  },
+  {
+    "id": 30015009,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 24,
+    "target": [
+      10,
+      5
+    ],
+    "taskName": "任务49",
+    "targetText": "仙位竞技胜利&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        63
+      ]
+    ]
+  },
+  {
+    "id": 30015010,
+    "activityId": 1000051,
+    "day": 5,
+    "targetType": 24,
+    "target": [
+      10,
+      10
+    ],
+    "taskName": "任务50",
+    "targetText": "仙位竞技胜利&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        64
+      ]
+    ]
+  },
+  {
+    "id": 30016001,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 24,
+    "target": [
+      10,
+      20
+    ],
+    "taskName": "任务51",
+    "targetText": "仙位竞技胜利&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        65
+      ]
+    ]
+  },
+  {
+    "id": 30016002,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 24,
+    "target": [
+      6,
+      2
+    ],
+    "taskName": "任务52",
+    "targetText": "通关噩梦关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        66
+      ]
+    ]
+  },
+  {
+    "id": 30016003,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 24,
+    "target": [
+      6,
+      4
+    ],
+    "taskName": "任务53",
+    "targetText": "通关噩梦关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        67
+      ]
+    ]
+  },
+  {
+    "id": 30016004,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 24,
+    "target": [
+      6,
+      8
+    ],
+    "taskName": "任务54",
+    "targetText": "通关噩梦关卡&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        68
+      ]
+    ]
+  },
+  {
+    "id": 30016005,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 29,
+    "target": [
+      "ride",
+      1
+    ],
+    "taskName": "任务55",
+    "targetText": "关卡中捕捉坐骑&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        69
+      ]
+    ]
+  },
+  {
+    "id": 30016006,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 29,
+    "target": [
+      "ride",
+      2
+    ],
+    "taskName": "任务56",
+    "targetText": "关卡中捕捉坐骑&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        70
+      ]
+    ]
+  },
+  {
+    "id": 30016007,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 29,
+    "target": [
+      "ride",
+      3
+    ],
+    "taskName": "任务57",
+    "targetText": "关卡中捕捉坐骑&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        71
+      ]
+    ]
+  },
+  {
+    "id": 30016008,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 25,
+    "target": [
+      "stone",
+      3
+    ],
+    "taskName": "任务58",
+    "targetText": "宝石合成&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        72
+      ]
+    ]
+  },
+  {
+    "id": 30016009,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 25,
+    "target": [
+      "stone",
+      6
+    ],
+    "taskName": "任务59",
+    "targetText": "宝石合成&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        73
+      ]
+    ]
+  },
+  {
+    "id": 30016010,
+    "activityId": 1000051,
+    "day": 6,
+    "targetType": 25,
+    "target": [
+      "stone",
+      9
+    ],
+    "taskName": "任务60",
+    "targetText": "宝石合成&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        74
+      ]
+    ]
+  },
+  {
+    "id": 30017001,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 24,
+    "target": [
+      2,
+      1
+    ],
+    "taskName": "任务61",
+    "targetText": "通关幻境&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        75
+      ]
+    ]
+  },
+  {
+    "id": 30017002,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 24,
+    "target": [
+      2,
+      2
+    ],
+    "taskName": "任务62",
+    "targetText": "通关幻境&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        76
+      ]
+    ]
+  },
+  {
+    "id": 30017003,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 24,
+    "target": [
+      2,
+      4
+    ],
+    "taskName": "任务63",
+    "targetText": "通关幻境&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        77
+      ]
+    ]
+  },
+  {
+    "id": 30017004,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 25,
+    "target": [
+      "danqi",
+      3
+    ],
+    "taskName": "任务64",
+    "targetText": "炼制丹气&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        78
+      ]
+    ]
+  },
+  {
+    "id": 30017005,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 25,
+    "target": [
+      "danqi",
+      6
+    ],
+    "taskName": "任务65",
+    "targetText": "炼制丹气&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        79
+      ]
+    ]
+  },
+  {
+    "id": 30017006,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 25,
+    "target": [
+      "danqi",
+      9
+    ],
+    "taskName": "任务66",
+    "targetText": "炼制丹气&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        80
+      ]
+    ]
+  },
+  {
+    "id": 30017007,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 28,
+    "target": [
+      "plunder",
+      1
+    ],
+    "taskName": "任务67",
+    "targetText": "化身神将&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        81
+      ]
+    ]
+  },
+  {
+    "id": 30017008,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 28,
+    "target": [
+      "plunder",
+      2
+    ],
+    "taskName": "任务68",
+    "targetText": "化身神将&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        82
+      ]
+    ]
+  },
+  {
+    "id": 30017009,
+    "activityId": 1000051,
+    "day": 7,
+    "targetType": 28,
+    "target": [
+      "plunder",
+      4
+    ],
+    "taskName": "任务69",
+    "targetText": "化身神将&a&次（&C&/&c&)",
+    "reward": [
+      [
+        1002,
+        15
+      ],
+      [
+        1005,
+        83
+      ]
+    ]
+  },
+  {
+    "id": 30021001,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 24,
+    "target": [
+      7,
+      5
+    ],
+    "taskName": "悬赏任务（一）",
+    "targetText": "完成悬赏任务&a&次（&C&/&c&）",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 2,
+    "jumptarget": 9990106,
+    "sysId": 2
+  },
+  {
+    "id": 30021002,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 34,
+    "target": [
+      -1,
+      3
+    ],
+    "taskName": "技能等级提升（一）",
+    "targetText": "角色任意技能等级提升到&a&级",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "skill"
+    ]
+  },
+  {
+    "id": 30021003,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 48,
+    "target": [
+      [
+        "weapon",
+        "head",
+        "armor",
+        "hand",
+        "foot",
+        "jewelry"
+      ],
+      5
+    ],
+    "taskName": "装备强化（一）",
+    "targetText": "全身装备等级达到&a&级（已达成&C&/&c&件）",
+    "reward": [
+      [
+        3,
+        3000
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "equipUpgrade"
+    ],
+    "sysId": 6
+  },
+  {
+    "id": 30021004,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 1009,
+    "target": 1000,
+    "taskName": "修炼心法（一）",
+    "targetText": "修炼心法战力达到1000",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "xf"
+    ],
+    "sysId": 1
+  },
+  {
+    "id": 30021005,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 1,
+    "target": [
+      [
+        999020201,
+        1,
+        1
+      ]
+    ],
+    "taskName": "罗汉堂挑战（一）",
+    "targetText": "通关降龙罗汉堂",
+    "reward": [
+      [
+        409002,
+        2
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      4
+    ],
+    "sysId": 8
+  },
+  {
+    "id": 30021006,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 38,
+    "target": [
+      -1,
+      3
+    ],
+    "taskName": "法宝升级（一）",
+    "targetText": "任意法宝等级提升到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        409001,
+        2
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "magic"
+    ],
+    "sysId": 3
+  },
+  {
+    "id": 30021007,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 42,
+    "target": [
+      "stone",
+      3
+    ],
+    "taskName": "宝石镶嵌（一）",
+    "targetText": "全身装备镶嵌&a&颗宝石（&C&/&c&）",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "equipInlay"
+    ],
+    "sysId": 7
+  },
+  {
+    "id": 30021008,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 1,
+    "target": [
+      [
+        990101,
+        1,
+        1
+      ]
+    ],
+    "taskName": "噩梦挑战（一）",
+    "targetText": "通关噩梦·花果山",
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      6
+    ],
+    "sysId": 22
+  },
+  {
+    "id": 30021009,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 37,
+    "target": [
+      "pet",
+      1
+    ],
+    "taskName": "宠物收集（一）",
+    "targetText": "宠物数量达到&a&只（&C&/&c&）",
+    "reward": [
+      [
+        8980304,
+        5
+      ]
+    ],
+    "jumptype": 2,
+    "jumptarget": 9990103,
+    "sysId": 4
+  },
+  {
+    "id": 30021010,
+    "activityId": 1000052,
+    "day": 1,
+    "targetType": 4,
+    "target": 22,
+    "taskName": "等级提升（一）",
+    "targetText": "等级达到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 3
+  },
+  {
+    "id": 30022001,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 24,
+    "target": [
+      7,
+      10
+    ],
+    "taskName": "悬赏任务（二）",
+    "targetText": "完成悬赏任务&a&次（&C&/&c&）",
+    "reward": [
+      [
+        8980304,
+        5
+      ]
+    ],
+    "jumptype": 2,
+    "jumptarget": 9990106,
+    "sysId": 2
+  },
+  {
+    "id": 30022002,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 34,
+    "target": [
+      -1,
+      5
+    ],
+    "taskName": "技能等级提升（二）",
+    "targetText": "角色任意技能等级提升到&a&级",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "skill"
+    ]
+  },
+  {
+    "id": 30022003,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 48,
+    "target": [
+      [
+        "weapon",
+        "head",
+        "armor",
+        "hand",
+        "foot",
+        "jewelry"
+      ],
+      10
+    ],
+    "taskName": "装备强化（二）",
+    "targetText": "全身装备等级达到&a&级（已达成&C&/&c&件）",
+    "reward": [
+      [
+        3,
+        5000
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "equipUpgrade"
+    ],
+    "sysId": 6
+  },
+  {
+    "id": 30022004,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 1009,
+    "target": 2000,
+    "taskName": "修炼心法（二）",
+    "targetText": "修炼心法战力达到2000",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "xf"
+    ],
+    "sysId": 1
+  },
+  {
+    "id": 30022005,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 26,
+    "target": [
+      "secret",
+      5
+    ],
+    "taskName": "神秘商店",
+    "targetText": "在神秘商店购买&a&次（&C&/&c&）",
+    "reward": [
+      [
+        1005,
+        3
+      ]
+    ],
+    "jumptype": 2,
+    "jumptarget": 9990105,
+    "sysId": 13
+  },
+  {
+    "id": 30022006,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 38,
+    "target": [
+      -1,
+      5
+    ],
+    "taskName": "法宝升级（二）",
+    "targetText": "任意法宝等级提升到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        409002,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "magic"
+    ],
+    "sysId": 3
+  },
+  {
+    "id": 30022007,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 42,
+    "target": [
+      "stone",
+      5
+    ],
+    "taskName": "宝石镶嵌（二）",
+    "targetText": "全身装备镶嵌&a&颗宝石（&C&/&c&）",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "equipInlay"
+    ],
+    "sysId": 7
+  },
+  {
+    "id": 30022008,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 43,
+    "target": [
+      4,
+      [
+        -1
+      ]
+    ],
+    "taskName": "装备穿戴（一）",
+    "targetText": "穿戴任意一件紫色及以上品质装备",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "bag"
+    ]
+  },
+  {
+    "id": 30022009,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 1,
+    "target": [
+      [
+        999020301,
+        1,
+        1
+      ]
+    ],
+    "taskName": "罗汉堂挑战（二）",
+    "targetText": "通关看门罗汉堂",
+    "reward": [
+      [
+        409003,
+        2
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      4
+    ],
+    "sysId": 8
+  },
+  {
+    "id": 30022010,
+    "activityId": 1000052,
+    "day": 2,
+    "targetType": 4,
+    "target": 29,
+    "taskName": "等级提升（二）",
+    "targetText": "等级达到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        1102,
+        3
+      ]
+    ],
+    "jumptype": 3
+  },
+  {
+    "id": 30023001,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 11,
+    "target": 4001,
+    "taskName": "法宝合成（一）",
+    "targetText": "合成法宝天煞古剑",
+    "reward": [
+      [
+        8980404,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "magic"
+    ],
+    "sysId": 3
+  },
+  {
+    "id": 30023002,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 37,
+    "target": [
+      "pet",
+      3
+    ],
+    "taskName": "宠物收集（二）",
+    "targetText": "宠物数量达到&a&只（&C&/&c&）",
+    "reward": [
+      [
+        11101,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "pet"
+    ],
+    "sysId": 5
+  },
+  {
+    "id": 30023003,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 45,
+    "target": [
+      "pet",
+      5
+    ],
+    "taskName": "宠物技能等级提升",
+    "targetText": "宠物任意技能等级达到&a&级",
+    "reward": [
+      [
+        11300,
+        6
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "pet",
+      "skill"
+    ],
+    "sysId": 5
+  },
+  {
+    "id": 30023004,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 40,
+    "target": [
+      "hand",
+      "foot",
+      "head",
+      "armor"
+    ],
+    "taskName": "宠物装备穿戴",
+    "targetText": "穿戴齐一套宠物装备",
+    "reward": [
+      [
+        11401,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "pet",
+      "equip"
+    ],
+    "sysId": 5
+  },
+  {
+    "id": 30023005,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 44,
+    "target": 1,
+    "taskName": "宠物资质培养",
+    "targetText": "任意宠物资质培养一次",
+    "reward": [
+      [
+        1103,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "pet"
+    ],
+    "sysId": 5
+  },
+  {
+    "id": 30023006,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 1,
+    "target": [
+      [
+        990301,
+        1,
+        1
+      ]
+    ],
+    "taskName": "噩梦挑战（二）",
+    "targetText": "通关噩梦·牛魔谷",
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      6
+    ],
+    "sysId": 22
+  },
+  {
+    "id": 30023007,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 23,
+    "target": [
+      10,
+      5
+    ],
+    "taskName": "仙位竞技挑战（一）",
+    "targetText": "参与仙位竞技&a&次（&C&/&c&）",
+    "reward": [
+      [
+        17,
+        400
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "arena"
+    ],
+    "sysId": 24
+  },
+  {
+    "id": 30023008,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 48,
+    "target": [
+      [
+        "weapon",
+        "head",
+        "armor",
+        "hand",
+        "foot",
+        "jewelry"
+      ],
+      20
+    ],
+    "taskName": "装备强化（三）",
+    "targetText": "全身装备等级达到&a&级（已达成&C&/&c&件）",
+    "reward": [
+      [
+        1103,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "equipUpgrade"
+    ],
+    "sysId": 6
+  },
+  {
+    "id": 30023009,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 49,
+    "target": 2,
+    "taskName": "葬灵洞挑战（一）",
+    "targetText": "宠物通关葬灵洞到第&a&层（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "Tower_Hole",
+      2
+    ],
+    "sysId": 17
+  },
+  {
+    "id": 30023010,
+    "activityId": 1000052,
+    "day": 3,
+    "targetType": 4,
+    "target": 35,
+    "taskName": "等级提升（三）",
+    "targetText": "等级达到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        10
+      ]
+    ],
+    "jumptype": 3
+  },
+  {
+    "id": 30024001,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 23,
+    "target": [
+      10,
+      10
+    ],
+    "taskName": "仙位竞技挑战（二）",
+    "targetText": "参与仙位竞技&a&次（&C&/&c&）",
+    "reward": [
+      [
+        8980404,
+        9
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "arena"
+    ],
+    "sysId": 24
+  },
+  {
+    "id": 30024002,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 24,
+    "target": [
+      10,
+      6
+    ],
+    "taskName": "仙位竞技胜利",
+    "targetText": "仙位竞技获胜&a&次（&C&/&c&）",
+    "reward": [
+      [
+        8980404,
+        9
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "arena"
+    ],
+    "sysId": 24
+  },
+  {
+    "id": 30024003,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 6,
+    "target": 2,
+    "taskName": "万灵塔挑战（一）",
+    "targetText": "宠物通关万灵塔第二层任意一关",
+    "reward": [
+      [
+        1103,
+        9
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "Tower_Hole",
+      1
+    ],
+    "sysId": 9
+  },
+  {
+    "id": 30024004,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 39,
+    "target": [
+      -1,
+      2
+    ],
+    "taskName": "被动技能解锁",
+    "targetText": "解锁任意&a&个被动技能（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "skillPassivity"
+    ]
+  },
+  {
+    "id": 30024005,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 1,
+    "target": [
+      [
+        1001,
+        1,
+        1
+      ]
+    ],
+    "taskName": "幻境挑战",
+    "targetText": "通关幻境·白骨幻境",
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      2
+    ],
+    "sysId": 16
+  },
+  {
+    "id": 30024006,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 42,
+    "target": [
+      "danqi",
+      4
+    ],
+    "taskName": "丹气镶嵌",
+    "targetText": "镶嵌&a&颗丹气（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "neiDan"
+    ],
+    "sysId": 14
+  },
+  {
+    "id": 30024007,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 42,
+    "target": [
+      "danyuan",
+      2
+    ],
+    "taskName": "丹元镶嵌",
+    "targetText": "镶嵌&a&颗丹元（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "neiDan"
+    ],
+    "sysId": 14
+  },
+  {
+    "id": 30024008,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 41,
+    "target": 1000,
+    "taskName": "骑具战力提升",
+    "targetText": "提升骑具战力到1000",
+    "reward": [
+      [
+        1250,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "ride",
+      "equip"
+    ],
+    "sysId": 10
+  },
+  {
+    "id": 30024009,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 36,
+    "target": [
+      "pet",
+      40
+    ],
+    "taskName": "宠物等级提升",
+    "targetText": "任意宠物等级达到&a&级",
+    "reward": [
+      [
+        11300,
+        12
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "pet"
+    ],
+    "sysId": 5
+  },
+  {
+    "id": 30024010,
+    "activityId": 1000052,
+    "day": 4,
+    "targetType": 4,
+    "target": 40,
+    "taskName": "等级提升（四）",
+    "targetText": "等级达到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        10
+      ]
+    ],
+    "jumptype": 3
+  },
+  {
+    "id": 30025001,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 1,
+    "target": [
+      [
+        999020401,
+        1,
+        1
+      ]
+    ],
+    "taskName": "罗汉堂挑战（三）",
+    "targetText": "通关长眉罗汉堂",
+    "reward": [
+      [
+        409004,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      4
+    ],
+    "sysId": 8
+  },
+  {
+    "id": 30025002,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 11,
+    "target": 5001,
+    "taskName": "法宝合成（二）",
+    "targetText": "合成法宝白霜镜",
+    "reward": [
+      [
+        8980504,
+        17
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "magic"
+    ],
+    "sysId": 3
+  },
+  {
+    "id": 30025003,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 43,
+    "target": [
+      4,
+      [
+        "weapon",
+        "head",
+        "armor",
+        "hand",
+        "foot",
+        "jewelry"
+      ]
+    ],
+    "taskName": "装备穿戴（二）",
+    "targetText": "穿戴全身紫色及以上品质装备",
+    "reward": [
+      [
+        1103,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "bag"
+    ]
+  },
+  {
+    "id": 30025004,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 49,
+    "target": 3,
+    "taskName": "葬灵洞挑战（二）",
+    "targetText": "宠物通关葬灵洞到第&a&层（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        9
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "Tower_Hole",
+      2
+    ],
+    "sysId": 17
+  },
+  {
+    "id": 30025005,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 23,
+    "target": [
+      12,
+      5
+    ],
+    "taskName": "斗宠大会挑战（一）",
+    "targetText": "参加斗宠大会&a&次（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        9
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "arenaPetPanel"
+    ],
+    "sysId": 31
+  },
+  {
+    "id": 30025006,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 24,
+    "target": [
+      12,
+      3
+    ],
+    "taskName": "斗宠大会胜利（一）",
+    "targetText": "斗宠大会胜利&a&次（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        9
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "arenaPetPanel"
+    ],
+    "sysId": 31
+  },
+  {
+    "id": 30025007,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 6,
+    "target": 3,
+    "taskName": "万灵塔挑战（二）",
+    "targetText": "宠物通关万灵塔第三层任意一关",
+    "reward": [
+      [
+        11401,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "Tower_Hole",
+      1
+    ],
+    "sysId": 9
+  },
+  {
+    "id": 30025008,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 36,
+    "target": [
+      "ride",
+      40
+    ],
+    "taskName": "坐骑等级提升",
+    "targetText": "任意坐骑等级达到&a&级",
+    "reward": [
+      [
+        1250,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "ride"
+    ],
+    "sysId": 10
+  },
+  {
+    "id": 30025009,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 1,
+    "target": [
+      [
+        990501,
+        1,
+        1
+      ]
+    ],
+    "taskName": "噩梦挑战（三）",
+    "targetText": "通关噩梦·审判殿",
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      6
+    ],
+    "sysId": 22
+  },
+  {
+    "id": 30025010,
+    "activityId": 1000052,
+    "day": 5,
+    "targetType": 4,
+    "target": 44,
+    "taskName": "等级提升五",
+    "targetText": "等级达到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        18
+      ]
+    ],
+    "jumptype": 3
+  },
+  {
+    "id": 30026001,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 11,
+    "target": 6001,
+    "taskName": "法宝合成（三）",
+    "targetText": "合成法宝罗刹伞",
+    "reward": [
+      [
+        8980504,
+        17
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "magic"
+    ],
+    "sysId": 3
+  },
+  {
+    "id": 30026002,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 35,
+    "target": [
+      1,
+      1
+    ],
+    "taskName": "宠物进化",
+    "targetText": "任意宠物进化为成熟体",
+    "reward": [
+      [
+        11310,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "pet"
+    ],
+    "sysId": 5
+  },
+  {
+    "id": 30026003,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 49,
+    "target": 4,
+    "taskName": "葬灵洞挑战（三）",
+    "targetText": "宠物通关葬灵洞到第&a&层（&C&/&c&）",
+    "reward": [
+      [
+        11401,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "Tower_Hole",
+      2
+    ],
+    "sysId": 17
+  },
+  {
+    "id": 30026004,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 23,
+    "target": [
+      12,
+      10
+    ],
+    "taskName": "斗宠大会挑战（二）",
+    "targetText": "参加斗宠大会&a&次（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        9
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "arenaPetPanel"
+    ],
+    "sysId": 31
+  },
+  {
+    "id": 30026005,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 24,
+    "target": [
+      12,
+      6
+    ],
+    "taskName": "斗宠大会胜利（二）",
+    "targetText": "斗宠大会胜利&a&次（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        9
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "arenaPetPanel"
+    ],
+    "sysId": 31
+  },
+  {
+    "id": 30026006,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 45,
+    "target": [
+      "ride",
+      3
+    ],
+    "taskName": "坐骑技能等级提升",
+    "targetText": "任意坐骑技能等级达到&a&级",
+    "reward": [
+      [
+        1250,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "ride"
+    ],
+    "sysId": 10
+  },
+  {
+    "id": 30026007,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 28,
+    "target": [
+      "plunder",
+      2
+    ],
+    "taskName": "化身神将（一）",
+    "targetText": "神魔战场化身神将参战·&a&次（&C&/&c&）",
+    "reward": [
+      [
+        430101,
+        2
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "huntEntrance"
+    ],
+    "sysId": 35
+  },
+  {
+    "id": 30026008,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 28,
+    "target": [
+      "devil",
+      2
+    ],
+    "taskName": "化身魔王（一）",
+    "targetText": "神魔战场化身魔王参战·&a&次（&C&/&c&）",
+    "reward": [
+      [
+        430101,
+        2
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "huntEntrance"
+    ],
+    "sysId": 35
+  },
+  {
+    "id": 30026009,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 1,
+    "target": [
+      [
+        1002,
+        1,
+        1
+      ]
+    ],
+    "taskName": "幻境挑战（二）",
+    "targetText": "通关幻境·波月幻境",
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      2
+    ],
+    "sysId": 16
+  },
+  {
+    "id": 30026010,
+    "activityId": 1000052,
+    "day": 6,
+    "targetType": 4,
+    "target": 48,
+    "taskName": "等级提升（六）",
+    "targetText": "等级达到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        18
+      ]
+    ],
+    "jumptype": 3
+  },
+  {
+    "id": 30027001,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 46,
+    "target": [
+      -1,
+      1
+    ],
+    "taskName": "装备重铸",
+    "targetText": "任意装备重铸一次",
+    "reward": [
+      [
+        430101,
+        4
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "equipRecast",
+      1
+    ],
+    "sysId": 36
+  },
+  {
+    "id": 30027002,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 38,
+    "target": [
+      -1,
+      10
+    ],
+    "taskName": "法宝升级（三）",
+    "targetText": "任意法宝等级提升到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        15
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "magic"
+    ],
+    "sysId": 3
+  },
+  {
+    "id": 30027003,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 28,
+    "target": [
+      "plunder",
+      5
+    ],
+    "taskName": "化身神将（二）",
+    "targetText": "神魔战场化身神将参战·&a&次（&C&/&c&）",
+    "reward": [
+      [
+        430101,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "huntEntrance"
+    ],
+    "sysId": 35
+  },
+  {
+    "id": 30027004,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 28,
+    "target": [
+      "devil",
+      5
+    ],
+    "taskName": "化身魔王（二）",
+    "targetText": "神魔战场化身魔王参战·&a&次（&C&/&c&）",
+    "reward": [
+      [
+        430101,
+        5
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "huntEntrance"
+    ],
+    "sysId": 35
+  },
+  {
+    "id": 30027005,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 1,
+    "target": [
+      [
+        990601,
+        1,
+        1
+      ]
+    ],
+    "taskName": "噩梦挑战（四）",
+    "targetText": "通关噩梦·螺旋地狱",
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      6
+    ],
+    "sysId": 22
+  },
+  {
+    "id": 30027006,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 1,
+    "target": [
+      [
+        1003,
+        1,
+        1
+      ]
+    ],
+    "taskName": "幻境挑战（三）",
+    "targetText": "通关幻境·平顶幻境",
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "stageChallenge",
+      2
+    ],
+    "sysId": 16
+  },
+  {
+    "id": 30027007,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 35,
+    "target": [
+      1,
+      3
+    ],
+    "taskName": "宠物收集（三）",
+    "targetText": "拥有&a&只成熟体宠物（&C&/&c&）",
+    "reward": [
+      [
+        11401,
+        1
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "pet"
+    ],
+    "sysId": 5
+  },
+  {
+    "id": 30027008,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 47,
+    "target": [
+      "ride",
+      3,
+      1
+    ],
+    "taskName": "坐骑收集",
+    "targetText": "拥有三星坐骑",
+    "reward": [
+      [
+        1250,
+        3
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "ride"
+    ],
+    "sysId": 10
+  },
+  {
+    "id": 30027009,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 48,
+    "target": [
+      [
+        "weapon",
+        "head",
+        "armor",
+        "hand",
+        "foot",
+        "jewelry"
+      ],
+      50
+    ],
+    "taskName": "装备强化（四）",
+    "targetText": "全身装备等级达到&a&级（已达成&C&/&c&件）",
+    "reward": [
+      [
+        1103,
+        15
+      ]
+    ],
+    "jumptype": 1,
+    "jumptarget": [
+      "equipUpgrade"
+    ],
+    "sysId": 6
+  },
+  {
+    "id": 30027010,
+    "activityId": 1000052,
+    "day": 7,
+    "targetType": 4,
+    "target": 50,
+    "taskName": "等级提升（七）",
+    "targetText": "等级达到&a&级（&C&/&c&）",
+    "reward": [
+      [
+        1103,
+        30
+      ]
+    ],
+    "jumptype": 3
+  }
+]

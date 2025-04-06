@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "reputationlv": 1,
+    "reputationValue": [
+      90,
+      100
+    ],
+    "overBuff": 300001,
+    "talkCd": 10000,
+    "noSeekStage": [],
+    "noEntryStage": [],
+    "tips": "信誉度：%s\n上仙在组队玩法中表现优异"
+  },
+  {
+    "id": 2,
+    "reputationlv": 2,
+    "reputationValue": [
+      80,
+      89
+    ],
+    "overBuff": 300002,
+    "talkCd": 10000,
+    "noSeekStage": [],
+    "noEntryStage": [],
+    "tips": "信誉度：%s\n上仙在组队玩法中表现良好"
+  },
+  {
+    "id": 3,
+    "reputationlv": 3,
+    "reputationValue": [
+      50,
+      79
+    ],
+    "overBuff": 300003,
+    "talkCd": 120000,
+    "noSeekStage": [
+      2,
+      6,
+      13,
+      15,
+      18,
+      23,
+      29,
+      "plunder"
+    ],
+    "noEntryStage": [],
+    "tips": "信誉度：%s\n上仙在组队玩法中有不良表现被多次举报，现已无法匹配参加组队玩法。"
+  },
+  {
+    "id": 4,
+    "reputationlv": 4,
+    "reputationValue": [
+      10,
+      49
+    ],
+    "overBuff": 300004,
+    "talkCd": 300000,
+    "noSeekStage": [
+      2,
+      6,
+      13,
+      15,
+      18,
+      23,
+      29,
+      "plunder"
+    ],
+    "noEntryStage": [],
+    "tips": "信誉度：%s\n上仙在组队玩法中有不良表现被多次举报，现已无法匹配参加组队玩法。"
+  },
+  {
+    "id": 5,
+    "reputationlv": 5,
+    "reputationValue": [
+      0,
+      9
+    ],
+    "overBuff": 300005,
+    "talkCd": -1,
+    "noSeekStage": [],
+    "noEntryStage": [
+      2,
+      6,
+      12,
+      13,
+      15,
+      18,
+      23,
+      24,
+      25,
+      26,
+      29,
+      30,
+      33,
+      101,
+      "plunder",
+      "devil"
+    ],
+    "tips": "信誉度：%s\n上仙在组队玩法中有不良表现被多次举报，现已玩法参加组队玩法。"
+  }
+]

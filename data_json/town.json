@@ -1,0 +1,150 @@
+[
+  {
+    "id": 101,
+    "name": "花果山",
+    "map": "No_0-Town-1",
+    "music": "BGM_huaguoshan-Town-1",
+    "dialogueIds": [
+      [
+        90060,
+        90061,
+        90062
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 111,
+    "name": "幽魂镇",
+    "map": "No_0-Town-2",
+    "music": "BGM_difu-Town-1",
+    "dialogueIds": [
+      [
+        90060,
+        90061,
+        90062
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 121,
+    "name": "昆仑山",
+    "map": "No_0-Town-3",
+    "music": "BGM_tianting-Town-1",
+    "dialogueIds": [
+      [
+        90060,
+        90061,
+        90062
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 122,
+    "name": "昆仑山",
+    "map": "No_0-Town-3",
+    "music": "BGM_tianting-Town-1",
+    "dialogueIds": [
+      [
+        90060,
+        90061,
+        90062
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 131,
+    "name": "九霄神舟",
+    "map": "No_0-Town-1",
+    "music": "BGM_tianting-Town-1"
+  },
+  {
+    "id": 141,
+    "name": "须弥山",
+    "map": "No_0-Town-4",
+    "music": "BGM_nanzhanbuzhou-Town-1",
+    "dialogueIds": [
+      [
+        90060,
+        90061,
+        90062
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 301,
+    "name": "牛魔谷主城",
+    "map": "No_0-Town-1"
+  },
+  {
+    "id": 10001,
+    "name": "古神战场",
+    "music": "BGM_WorldBOSS-Select",
+    "hidePlayer": 1
+  },
+  {
+    "id": 10101,
+    "name": "世界boss破阵",
+    "map": "LeagueGarden_1",
+    "hidePlayer": 1
+  },
+  {
+    "id": 99999,
+    "name": "联盟领地",
+    "map": "LeagueGarden_1",
+    "hidePlayer": 1
+  },
+  {
+    "id": 99998,
+    "name": "联盟药园",
+    "map": "LeagueGarden_1",
+    "hidePlayer": 1
+  },
+  {
+    "id": 99997,
+    "name": "联盟BOSS真身",
+    "map": "League_Boss-room-2",
+    "hidePlayer": 1
+  },
+  {
+    "id": 103,
+    "name": "天街",
+    "map": "LeagueGarden_1"
+  },
+  {
+    "id": 999170001,
+    "name": "无量山-龙涎池",
+    "map": "league_dragonPool",
+    "hidePlayer": 1
+  },
+  {
+    "id": 999170002,
+    "name": "无量山-迷惘洞",
+    "map": "league_cave",
+    "hidePlayer": 1
+  }
+]

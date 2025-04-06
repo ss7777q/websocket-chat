@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "difficulty": 25,
+    "timeQTE": 8,
+    "long": 760,
+    "catchRange": 600,
+    "secondMove": 3,
+    "catchAdd": [
+      15,
+      60
+    ],
+    "struggleTime": [
+      1,
+      5
+    ],
+    "struggleAdd": [
+      0,
+      50
+    ]
+  },
+  {
+    "id": 2,
+    "difficulty": 50,
+    "timeQTE": 8,
+    "long": 760,
+    "catchRange": 600,
+    "secondMove": 4,
+    "catchAdd": [
+      15,
+      60
+    ],
+    "struggleTime": [
+      1,
+      3
+    ],
+    "struggleAdd": [
+      10,
+      50
+    ]
+  },
+  {
+    "id": 3,
+    "difficulty": 75,
+    "timeQTE": 8,
+    "long": 760,
+    "catchRange": 600,
+    "secondMove": 4,
+    "catchAdd": [
+      15,
+      60
+    ],
+    "struggleTime": [
+      1,
+      2
+    ],
+    "struggleAdd": [
+      20,
+      50
+    ]
+  },
+  {
+    "id": 4,
+    "difficulty": 100,
+    "timeQTE": 10,
+    "long": 760,
+    "catchRange": 475,
+    "secondMove": 4,
+    "catchAdd": [
+      15,
+      60
+    ],
+    "struggleTime": [
+      0.5,
+      2
+    ],
+    "struggleAdd": [
+      30,
+      50
+    ]
+  },
+  {
+    "id": 5,
+    "difficulty": 125,
+    "timeQTE": 10,
+    "long": 760,
+    "catchRange": 345,
+    "secondMove": 5,
+    "catchAdd": [
+      15,
+      60
+    ],
+    "struggleTime": [
+      0.5,
+      1
+    ],
+    "struggleAdd": [
+      35,
+      55
+    ]
+  },
+  {
+    "id": 6,
+    "difficulty": 150,
+    "timeQTE": 10,
+    "long": 760,
+    "catchRange": 345,
+    "secondMove": 6,
+    "catchAdd": [
+      10,
+      65
+    ],
+    "struggleTime": [
+      0.45,
+      0.9
+    ],
+    "struggleAdd": [
+      40,
+      60
+    ]
+  },
+  {
+    "id": 7,
+    "difficulty": 175,
+    "timeQTE": 10,
+    "long": 760,
+    "catchRange": 345,
+    "secondMove": 7,
+    "catchAdd": [
+      5,
+      70
+    ],
+    "struggleTime": [
+      0.3,
+      0.7
+    ],
+    "struggleAdd": [
+      45,
+      65
+    ]
+  }
+]

@@ -1,0 +1,1928 @@
+[
+  {
+    "id": 111,
+    "type": 1,
+    "starId": 1,
+    "name": "破军星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1001,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101,
+          9710201
+        ]
+      ],
+      "beskillId": [
+        51000001,
+        51000101,
+        51000201,
+        51000301,
+        51000601,
+        51000701,
+        51001001,
+        51001101,
+        51001401,
+        51001501,
+        51001801,
+        51001901,
+        51002801,
+        51002901,
+        51003001,
+        51003101,
+        51003201,
+        51003301,
+        51003401,
+        51003501,
+        51003601,
+        51003701,
+        51003801,
+        51003901,
+        51004001,
+        51004101,
+        51004201,
+        51004301,
+        51004401,
+        51004501,
+        51004601,
+        51004701,
+        51004801,
+        51004901,
+        51005001,
+        51005101,
+        51005201,
+        51005301,
+        51005401,
+        51005501,
+        51005601,
+        51005701,
+        51005801,
+        51005901,
+        51006001,
+        51006101
+      ],
+      "beskillNumber": 5
+    }
+  },
+  {
+    "id": 121,
+    "type": 1,
+    "starId": 2,
+    "name": "武曲星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1001,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101,
+          9710201
+        ]
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "type": 1,
+    "starId": 3,
+    "name": "廉贞星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1001,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101,
+          9710201
+        ]
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "type": 1,
+    "starId": 4,
+    "name": "文曲星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1001,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101,
+          9710201
+        ]
+      ]
+    }
+  },
+  {
+    "id": 151,
+    "type": 1,
+    "starId": 5,
+    "name": "禄存星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1001,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101,
+          9710201
+        ]
+      ]
+    }
+  },
+  {
+    "id": 161,
+    "type": 6,
+    "starId": 6,
+    "name": "巨门星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1001,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101,
+          9710201
+        ]
+      ]
+    }
+  },
+  {
+    "id": 171,
+    "type": 1,
+    "starId": 7,
+    "name": "贪狼星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1001,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101,
+          9710201
+        ]
+      ]
+    }
+  },
+  {
+    "id": 181,
+    "type": 1,
+    "starId": 8,
+    "name": "暗界星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1001,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101,
+          9710201
+        ]
+      ]
+    }
+  },
+  {
+    "id": 211,
+    "type": 2,
+    "starId": 1,
+    "name": "破军星卫·战",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1002,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 221,
+    "type": 2,
+    "starId": 2,
+    "name": "武曲星卫·战",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1002,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "type": 2,
+    "starId": 3,
+    "name": "廉贞星卫·战",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1002,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 241,
+    "type": 2,
+    "starId": 4,
+    "name": "文曲星卫·战",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1002,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 251,
+    "type": 2,
+    "starId": 5,
+    "name": "禄存星卫·战",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1002,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 261,
+    "type": 2,
+    "starId": 6,
+    "name": "巨门星卫·战",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1002,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "type": 2,
+    "starId": 7,
+    "name": "贪狼星卫·战",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1002,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "type": 2,
+    "starId": 8,
+    "name": "暗界星卫·战",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1002,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 311,
+    "type": 3,
+    "starId": 1,
+    "name": "破军星卫",
+    "icon": "xingwei02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1003,
+    "otherData": {
+      "stage": 999211003,
+      "monster": [
+        1,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 321,
+    "type": 3,
+    "starId": 2,
+    "name": "武曲星卫",
+    "icon": "xingwei02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1003,
+    "otherData": {
+      "stage": 999211003,
+      "monster": [
+        1,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 331,
+    "type": 3,
+    "starId": 3,
+    "name": "廉贞星卫",
+    "icon": "xingwei02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1003,
+    "otherData": {
+      "stage": 999211003,
+      "monster": [
+        1,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 341,
+    "type": 3,
+    "starId": 4,
+    "name": "文曲星卫",
+    "icon": "xingwei02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1003,
+    "otherData": {
+      "stage": 999211003,
+      "monster": [
+        1,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 351,
+    "type": 3,
+    "starId": 5,
+    "name": "禄存星卫",
+    "icon": "xingwei02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1003,
+    "otherData": {
+      "stage": 999211003,
+      "monster": [
+        1,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "type": 3,
+    "starId": 6,
+    "name": "巨门星卫",
+    "icon": "xingwei02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1003,
+    "otherData": {
+      "stage": 999211003,
+      "monster": [
+        1,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 371,
+    "type": 3,
+    "starId": 7,
+    "name": "贪狼星卫",
+    "icon": "xingwei02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1003,
+    "otherData": {
+      "stage": 999211003,
+      "monster": [
+        1,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 381,
+    "type": 3,
+    "starId": 8,
+    "name": "暗界星卫",
+    "icon": "xingwei02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1003,
+    "otherData": {
+      "stage": 999211003,
+      "monster": [
+        1,
+        [
+          9710001,
+          9710002,
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 411,
+    "type": 4,
+    "starId": 1,
+    "name": "破军宝箱·极",
+    "icon": "box01",
+    "effect": "zhuangbeidiaoluo_jin",
+    "rewardType": 2,
+    "rewardGroup": 1004
+  },
+  {
+    "id": 421,
+    "type": 4,
+    "starId": 2,
+    "name": "武曲宝箱·极",
+    "icon": "box01",
+    "effect": "zhuangbeidiaoluo_jin",
+    "rewardType": 2,
+    "rewardGroup": 1004
+  },
+  {
+    "id": 431,
+    "type": 4,
+    "starId": 3,
+    "name": "廉贞宝箱·极",
+    "icon": "box01",
+    "effect": "zhuangbeidiaoluo_jin",
+    "rewardType": 2,
+    "rewardGroup": 1004
+  },
+  {
+    "id": 441,
+    "type": 4,
+    "starId": 4,
+    "name": "文曲宝箱·极",
+    "icon": "box01",
+    "effect": "zhuangbeidiaoluo_jin",
+    "rewardType": 2,
+    "rewardGroup": 1004
+  },
+  {
+    "id": 451,
+    "type": 4,
+    "starId": 5,
+    "name": "禄存宝箱·极",
+    "icon": "box01",
+    "effect": "zhuangbeidiaoluo_jin",
+    "rewardType": 2,
+    "rewardGroup": 1004
+  },
+  {
+    "id": 461,
+    "type": 4,
+    "starId": 6,
+    "name": "巨门宝箱·极",
+    "icon": "box01",
+    "effect": "zhuangbeidiaoluo_jin",
+    "rewardType": 2,
+    "rewardGroup": 1004
+  },
+  {
+    "id": 471,
+    "type": 4,
+    "starId": 7,
+    "name": "贪狼宝箱·极",
+    "icon": "box01",
+    "effect": "zhuangbeidiaoluo_jin",
+    "rewardType": 2,
+    "rewardGroup": 1004
+  },
+  {
+    "id": 481,
+    "type": 4,
+    "starId": 8,
+    "name": "暗界宝箱·极",
+    "icon": "box01",
+    "effect": "zhuangbeidiaoluo_jin",
+    "rewardType": 2,
+    "rewardGroup": 1004
+  },
+  {
+    "id": 511,
+    "type": 5,
+    "starId": 1,
+    "name": "破军宝箱·佳",
+    "icon": "box02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 2,
+    "rewardGroup": 1005
+  },
+  {
+    "id": 521,
+    "type": 5,
+    "starId": 2,
+    "name": "武曲宝箱·佳",
+    "icon": "box02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 2,
+    "rewardGroup": 1005
+  },
+  {
+    "id": 531,
+    "type": 5,
+    "starId": 3,
+    "name": "廉贞宝箱·佳",
+    "icon": "box02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 2,
+    "rewardGroup": 1005
+  },
+  {
+    "id": 541,
+    "type": 5,
+    "starId": 4,
+    "name": "文曲宝箱·佳",
+    "icon": "box02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 2,
+    "rewardGroup": 1005
+  },
+  {
+    "id": 551,
+    "type": 5,
+    "starId": 5,
+    "name": "禄存宝箱·佳",
+    "icon": "box02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 2,
+    "rewardGroup": 1005
+  },
+  {
+    "id": 561,
+    "type": 5,
+    "starId": 6,
+    "name": "巨门宝箱·佳",
+    "icon": "box02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 2,
+    "rewardGroup": 1005
+  },
+  {
+    "id": 571,
+    "type": 5,
+    "starId": 7,
+    "name": "贪狼宝箱·佳",
+    "icon": "box02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 2,
+    "rewardGroup": 1005
+  },
+  {
+    "id": 581,
+    "type": 5,
+    "starId": 8,
+    "name": "暗界宝箱·佳",
+    "icon": "box02",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 2,
+    "rewardGroup": 1005
+  },
+  {
+    "id": 611,
+    "type": 6,
+    "starId": 1,
+    "name": "破军宝箱",
+    "icon": "box03",
+    "effect": "zhuangbeidiaoluo_lv",
+    "rewardType": 2,
+    "rewardGroup": 1006
+  },
+  {
+    "id": 621,
+    "type": 6,
+    "starId": 2,
+    "name": "武曲宝箱",
+    "icon": "box03",
+    "effect": "zhuangbeidiaoluo_lv",
+    "rewardType": 2,
+    "rewardGroup": 1006
+  },
+  {
+    "id": 631,
+    "type": 6,
+    "starId": 3,
+    "name": "廉贞宝箱",
+    "icon": "box03",
+    "effect": "zhuangbeidiaoluo_lv",
+    "rewardType": 2,
+    "rewardGroup": 1006
+  },
+  {
+    "id": 641,
+    "type": 6,
+    "starId": 4,
+    "name": "文曲宝箱",
+    "icon": "box03",
+    "effect": "zhuangbeidiaoluo_lv",
+    "rewardType": 2,
+    "rewardGroup": 1006
+  },
+  {
+    "id": 651,
+    "type": 6,
+    "starId": 5,
+    "name": "禄存宝箱",
+    "icon": "box03",
+    "effect": "zhuangbeidiaoluo_lv",
+    "rewardType": 2,
+    "rewardGroup": 1006
+  },
+  {
+    "id": 661,
+    "type": 6,
+    "starId": 6,
+    "name": "巨门宝箱",
+    "icon": "box03",
+    "effect": "zhuangbeidiaoluo_lv",
+    "rewardType": 2,
+    "rewardGroup": 1006
+  },
+  {
+    "id": 671,
+    "type": 6,
+    "starId": 7,
+    "name": "贪狼宝箱",
+    "icon": "box03",
+    "effect": "zhuangbeidiaoluo_lv",
+    "rewardType": 2,
+    "rewardGroup": 1006
+  },
+  {
+    "id": 681,
+    "type": 6,
+    "starId": 8,
+    "name": "暗界宝箱",
+    "icon": "box03",
+    "effect": "zhuangbeidiaoluo_lv",
+    "rewardType": 2,
+    "rewardGroup": 1006
+  },
+  {
+    "id": 711,
+    "type": 7,
+    "starId": 1,
+    "name": "破军救援",
+    "icon": "shijian107",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 2,
+    "rewardGroup": 1007,
+    "otherData": {
+      "dialogGroup": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          100,
+          100,
+          100,
+          1,
+          1,
+          1,
+          1,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "id": 721,
+    "type": 7,
+    "starId": 2,
+    "name": "武曲救援",
+    "icon": "shijian107",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 2,
+    "rewardGroup": 1007,
+    "otherData": {
+      "dialogGroup": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          100,
+          100,
+          100,
+          1,
+          1,
+          1,
+          1,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "id": 731,
+    "type": 7,
+    "starId": 3,
+    "name": "廉贞救援",
+    "icon": "shijian107",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 2,
+    "rewardGroup": 1007,
+    "otherData": {
+      "dialogGroup": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          100,
+          100,
+          100,
+          1,
+          1,
+          1,
+          1,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "id": 741,
+    "type": 7,
+    "starId": 4,
+    "name": "文曲救援",
+    "icon": "shijian107",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 2,
+    "rewardGroup": 1007,
+    "otherData": {
+      "dialogGroup": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          100,
+          100,
+          100,
+          1,
+          1,
+          1,
+          1,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "id": 751,
+    "type": 7,
+    "starId": 5,
+    "name": "禄存救援",
+    "icon": "shijian107",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 2,
+    "rewardGroup": 1007,
+    "otherData": {
+      "dialogGroup": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          100,
+          100,
+          100,
+          1,
+          1,
+          1,
+          1,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "id": 761,
+    "type": 7,
+    "starId": 6,
+    "name": "巨门救援",
+    "icon": "shijian107",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 2,
+    "rewardGroup": 1007,
+    "otherData": {
+      "dialogGroup": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          100,
+          100,
+          100,
+          1,
+          1,
+          1,
+          1,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "id": 771,
+    "type": 7,
+    "starId": 7,
+    "name": "贪狼救援",
+    "icon": "shijian107",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 2,
+    "rewardGroup": 1007,
+    "otherData": {
+      "dialogGroup": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          100,
+          100,
+          100,
+          1,
+          1,
+          1,
+          1,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "id": 781,
+    "type": 7,
+    "starId": 8,
+    "name": "暗界救援",
+    "icon": "shijian107",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 2,
+    "rewardGroup": 1007,
+    "otherData": {
+      "dialogGroup": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        [
+          100,
+          100,
+          100,
+          1,
+          1,
+          1,
+          1,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "id": 811,
+    "type": 8,
+    "starId": 1,
+    "name": "破军星战",
+    "icon": "shijian108",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1008,
+    "otherData": {
+      "shellTime": 10,
+      "hitScore": 10,
+      "route": [
+        1,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 821,
+    "type": 8,
+    "starId": 2,
+    "name": "武曲星战",
+    "icon": "shijian108",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1008,
+    "otherData": {
+      "shellTime": 10,
+      "hitScore": 10,
+      "route": [
+        1,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 831,
+    "type": 8,
+    "starId": 3,
+    "name": "廉贞星战",
+    "icon": "shijian108",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1008,
+    "otherData": {
+      "shellTime": 10,
+      "hitScore": 10,
+      "route": [
+        1,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 841,
+    "type": 8,
+    "starId": 4,
+    "name": "文曲星战",
+    "icon": "shijian108",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1008,
+    "otherData": {
+      "shellTime": 10,
+      "hitScore": 10,
+      "route": [
+        1,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 851,
+    "type": 8,
+    "starId": 5,
+    "name": "禄存星战",
+    "icon": "shijian108",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1008,
+    "otherData": {
+      "shellTime": 10,
+      "hitScore": 10,
+      "route": [
+        1,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 861,
+    "type": 8,
+    "starId": 6,
+    "name": "巨门星战",
+    "icon": "shijian108",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1008,
+    "otherData": {
+      "shellTime": 10,
+      "hitScore": 10,
+      "route": [
+        1,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 871,
+    "type": 8,
+    "starId": 7,
+    "name": "贪狼星战",
+    "icon": "shijian108",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1008,
+    "otherData": {
+      "shellTime": 10,
+      "hitScore": 10,
+      "route": [
+        1,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 881,
+    "type": 8,
+    "starId": 8,
+    "name": "暗界星战",
+    "icon": "shijian108",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1008,
+    "otherData": {
+      "shellTime": 10,
+      "hitScore": 10,
+      "route": [
+        1,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 911,
+    "type": 9,
+    "starId": 1,
+    "name": "破军巨矿",
+    "icon": "shijian109",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1009,
+    "otherData": {
+      "forgeTime": 7,
+      "exactScore": 20,
+      "deviationScore": 10,
+      "exactLength": [
+        100,
+        90,
+        80,
+        70,
+        50
+      ],
+      "allLength": 1000,
+      "hammerSpeed": 5,
+      "winScore": 100
+    }
+  },
+  {
+    "id": 921,
+    "type": 9,
+    "starId": 2,
+    "name": "武曲巨矿",
+    "icon": "shijian109",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1009,
+    "otherData": {
+      "forgeTime": 7,
+      "exactScore": 20,
+      "deviationScore": 10,
+      "exactLength": [
+        100,
+        90,
+        80,
+        70,
+        50
+      ],
+      "allLength": 1000,
+      "hammerSpeed": 5,
+      "winScore": 100
+    }
+  },
+  {
+    "id": 931,
+    "type": 9,
+    "starId": 3,
+    "name": "廉贞巨矿",
+    "icon": "shijian109",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1009,
+    "otherData": {
+      "forgeTime": 7,
+      "exactScore": 20,
+      "deviationScore": 10,
+      "exactLength": [
+        100,
+        90,
+        80,
+        70,
+        50
+      ],
+      "allLength": 1000,
+      "hammerSpeed": 5,
+      "winScore": 100
+    }
+  },
+  {
+    "id": 941,
+    "type": 9,
+    "starId": 4,
+    "name": "文曲巨矿",
+    "icon": "shijian109",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1009,
+    "otherData": {
+      "forgeTime": 7,
+      "exactScore": 20,
+      "deviationScore": 10,
+      "exactLength": [
+        100,
+        90,
+        80,
+        70,
+        50
+      ],
+      "allLength": 1000,
+      "hammerSpeed": 5,
+      "winScore": 100
+    }
+  },
+  {
+    "id": 951,
+    "type": 9,
+    "starId": 5,
+    "name": "禄存巨矿",
+    "icon": "shijian109",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1009,
+    "otherData": {
+      "forgeTime": 7,
+      "exactScore": 20,
+      "deviationScore": 10,
+      "exactLength": [
+        100,
+        90,
+        80,
+        70,
+        50
+      ],
+      "allLength": 1000,
+      "hammerSpeed": 5,
+      "winScore": 100
+    }
+  },
+  {
+    "id": 961,
+    "type": 9,
+    "starId": 6,
+    "name": "巨门巨矿",
+    "icon": "shijian109",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1009,
+    "otherData": {
+      "forgeTime": 7,
+      "exactScore": 20,
+      "deviationScore": 10,
+      "exactLength": [
+        100,
+        90,
+        80,
+        70,
+        50
+      ],
+      "allLength": 1000,
+      "hammerSpeed": 5,
+      "winScore": 100
+    }
+  },
+  {
+    "id": 971,
+    "type": 9,
+    "starId": 7,
+    "name": "贪狼巨矿",
+    "icon": "shijian109",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1009,
+    "otherData": {
+      "forgeTime": 7,
+      "exactScore": 20,
+      "deviationScore": 10,
+      "exactLength": [
+        100,
+        90,
+        80,
+        70,
+        50
+      ],
+      "allLength": 1000,
+      "hammerSpeed": 5,
+      "winScore": 100
+    }
+  },
+  {
+    "id": 981,
+    "type": 9,
+    "starId": 8,
+    "name": "暗界巨矿",
+    "icon": "shijian109",
+    "effect": "zhuangbeidiaoluo_zi",
+    "stageBg": "star101",
+    "rewardType": 4,
+    "rewardGroup": 1009,
+    "otherData": {
+      "forgeTime": 7,
+      "exactScore": 20,
+      "deviationScore": 10,
+      "exactLength": [
+        100,
+        90,
+        80,
+        70,
+        50
+      ],
+      "allLength": 1000,
+      "hammerSpeed": 5,
+      "winScore": 100
+    }
+  },
+  {
+    "id": 100011,
+    "type": 1000,
+    "starId": 1,
+    "name": "破军星君",
+    "icon": "xingjun01",
+    "effect": "zhuangbeidiaoluo_hong",
+    "rewardType": 3,
+    "rewardGroup": 1101,
+    "otherData": {
+      "stage": 999211001,
+      "monster": [
+        1,
+        [
+          9710301
+        ]
+      ],
+      "beskillId": [
+        51000001,
+        51000101,
+        51000201,
+        51000301,
+        51000601,
+        51000701,
+        51001001,
+        51001101,
+        51001401,
+        51001501,
+        51001801,
+        51001901,
+        51002801,
+        51002901,
+        51003001,
+        51003101,
+        51003201,
+        51003301,
+        51003401,
+        51003501,
+        51003601,
+        51003701,
+        51003801,
+        51003901,
+        51004001,
+        51004101,
+        51004201,
+        51004301,
+        51004401,
+        51004501,
+        51004601,
+        51004701,
+        51004801,
+        51004901,
+        51005001,
+        51005101,
+        51005201,
+        51005301,
+        51005401,
+        51005501,
+        51005601,
+        51005701,
+        51005801,
+        51005901,
+        51006001,
+        51006101
+      ],
+      "beskillNumber": 5
+    }
+  },
+  {
+    "id": 100012,
+    "type": 1000,
+    "starId": 1,
+    "name": "玄戈星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1102,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710101
+        ]
+      ],
+      "beskillId": [
+        51000001,
+        51000101,
+        51000201,
+        51000301,
+        51000601,
+        51000701,
+        51001001,
+        51001101,
+        51001401,
+        51001501,
+        51001801,
+        51001901,
+        51002801,
+        51002901,
+        51003001,
+        51003101,
+        51003201,
+        51003301,
+        51003401,
+        51003501,
+        51003601,
+        51003701,
+        51003801,
+        51003901,
+        51004001,
+        51004101,
+        51004201,
+        51004301,
+        51004401,
+        51004501,
+        51004601,
+        51004701,
+        51004801,
+        51004901,
+        51005001,
+        51005101,
+        51005201,
+        51005301,
+        51005401,
+        51005501,
+        51005601,
+        51005701,
+        51005801,
+        51005901,
+        51006001,
+        51006101
+      ],
+      "beskillNumber": 5
+    }
+  },
+  {
+    "id": 100013,
+    "type": 1000,
+    "starId": 1,
+    "name": "天枪星官",
+    "icon": "xingjiang01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1102,
+    "otherData": {
+      "stage": 999211002,
+      "monster": [
+        1,
+        [
+          9710201
+        ]
+      ],
+      "beskillId": [
+        51000001,
+        51000101,
+        51000201,
+        51000301,
+        51000601,
+        51000701,
+        51001001,
+        51001101,
+        51001401,
+        51001501,
+        51001801,
+        51001901,
+        51002801,
+        51002901,
+        51003001,
+        51003101,
+        51003201,
+        51003301,
+        51003401,
+        51003501,
+        51003601,
+        51003701,
+        51003801,
+        51003901,
+        51004001,
+        51004101,
+        51004201,
+        51004301,
+        51004401,
+        51004501,
+        51004601,
+        51004701,
+        51004801,
+        51004901,
+        51005001,
+        51005101,
+        51005201,
+        51005301,
+        51005401,
+        51005501,
+        51005601,
+        51005701,
+        51005801,
+        51005901,
+        51006001,
+        51006101
+      ],
+      "beskillNumber": 5
+    }
+  },
+  {
+    "id": 100014,
+    "type": 1000,
+    "starId": 1,
+    "name": "破军星卫",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1103,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710001,
+          9710002
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100015,
+    "type": 1000,
+    "starId": 1,
+    "name": "破军星卫",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1103,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710003,
+          9710004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100016,
+    "type": 1000,
+    "starId": 1,
+    "name": "破军星卫",
+    "icon": "xingwei01",
+    "effect": "zhuangbeidiaoluo_zi",
+    "rewardType": 1,
+    "rewardGroup": 1103,
+    "otherData": {
+      "stage": 999211004,
+      "monster": [
+        2,
+        [
+          9710002,
+          9710003
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100021,
+    "type": 1000,
+    "starId": 2,
+    "name": "破军星君",
+    "icon": "xingjun01",
+    "effect": "zhuangbeidiaoluo_hong",
+    "rewardType": 3,
+    "rewardGroup": 1101,
+    "otherData": {
+      "stage": 999211001,
+      "monster": [
+        1,
+        [
+          9710301
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100031,
+    "type": 1000,
+    "starId": 3,
+    "name": "破军星君",
+    "icon": "xingjun01",
+    "effect": "zhuangbeidiaoluo_hong",
+    "rewardType": 3,
+    "rewardGroup": 1101,
+    "otherData": {
+      "stage": 999211001,
+      "monster": [
+        1,
+        [
+          9710301
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100041,
+    "type": 1000,
+    "starId": 4,
+    "name": "破军星君",
+    "icon": "xingjun01",
+    "effect": "zhuangbeidiaoluo_hong",
+    "rewardType": 3,
+    "rewardGroup": 1101,
+    "otherData": {
+      "stage": 999211001,
+      "monster": [
+        1,
+        [
+          9710301
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100051,
+    "type": 1000,
+    "starId": 5,
+    "name": "破军星君",
+    "icon": "xingjun01",
+    "effect": "zhuangbeidiaoluo_hong",
+    "rewardType": 3,
+    "rewardGroup": 1101,
+    "otherData": {
+      "stage": 999211001,
+      "monster": [
+        1,
+        [
+          9710301
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100061,
+    "type": 1000,
+    "starId": 6,
+    "name": "破军星君",
+    "icon": "xingjun01",
+    "effect": "zhuangbeidiaoluo_hong",
+    "rewardType": 3,
+    "rewardGroup": 1101,
+    "otherData": {
+      "stage": 999211001,
+      "monster": [
+        1,
+        [
+          9710301
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100071,
+    "type": 1000,
+    "starId": 7,
+    "name": "破军星君",
+    "icon": "xingjun01",
+    "effect": "zhuangbeidiaoluo_hong",
+    "rewardType": 3,
+    "rewardGroup": 1101,
+    "otherData": {
+      "stage": 999211001,
+      "monster": [
+        1,
+        [
+          9710301
+        ]
+      ]
+    }
+  },
+  {
+    "id": 100081,
+    "type": 1000,
+    "starId": 8,
+    "name": "破军星君",
+    "icon": "xingjun01",
+    "effect": "zhuangbeidiaoluo_hong",
+    "rewardType": 3,
+    "rewardGroup": 1101,
+    "otherData": {
+      "stage": 999211001,
+      "monster": [
+        1,
+        [
+          9710301
+        ]
+      ]
+    }
+  }
+]

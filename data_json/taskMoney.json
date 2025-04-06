@@ -1,0 +1,2611 @@
+[
+  {
+    "id": 999030101,
+    "name": "追水果贼",
+    "desc": "水果贼从花果山盗走了大量水果，虽然花果山物产丰富。但是偷盗总是不对的，不能因为我有，你就要偷啊。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败水果贼</c></outline>",
+    "descLose": "与水果贼距离超过2000",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>追到并击败</c><color=#8c3aa3>水果贼</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 1,
+    "type": 1001,
+    "targetType": 1001,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999030101,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "zbsgz",
+    "jump": 999030101
+  },
+  {
+    "id": 999030201,
+    "name": "守卫铁匠",
+    "desc": "猴铁匠为了给小猴们打造一批装备前往深山采集矿石，群妖听到消息后纷纷前来阻止。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>保护猴铁匠</c></outline>",
+    "descLose": "猴铁匠被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>保护</c><color=#8c3aa3>铁匠</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴铁匠",
+    "level": 2,
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999030201,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "hwhtj",
+    "jump": 999030201
+  },
+  {
+    "id": 999030301,
+    "name": "押送黑熊",
+    "desc": "观音家的黑熊精总是往外面跑，每次抓到都要千里迢迢的押送回洛迦山，路途遥远还总有妖怪出来捣乱。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>成功押送黑熊精</c></outline>",
+    "descLose": "黑熊精逃走",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>押送</c><color=#cc30ff>黑熊精</color></outline>",
+    "detTargetType": 2,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "观音菩萨",
+    "level": 3,
+    "type": 1003,
+    "targetType": 1003,
+    "stageTarget": 999030301,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "hshxj",
+    "jump": 999030301
+  },
+  {
+    "id": 999030401,
+    "name": "采集药草",
+    "desc": "花果山小猴子们被群妖打伤了不少，需要采集些草药给猴长老制作成丹药，救治那些受伤的小猴。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>采集草药</c></outline>",
+    "descLose": "限时内未采集足够草药",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>采集</c><color=#cc30ff>草药</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 4,
+    "type": 1004,
+    "targetType": 1004,
+    "stageTarget": 999030401,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "cjcy",
+    "jump": 999030401
+  },
+  {
+    "id": 999030501,
+    "name": "搜查小贼",
+    "desc": "水果贼偷了水果不知道躲在哪里，无论如何也要将找到。这关乎到花果山的面子问题。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败水果贼</c></outline>",
+    "descLose": "限时内未击败水果贼",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>水果贼</color>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "type": 1005,
+    "targetType": 1005,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999030501,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "scsgz",
+    "jump": 999030501
+  },
+  {
+    "id": 999030601,
+    "name": "深山逃亡",
+    "desc": "花果山之魂幻化而成的巨猿可不是好惹的，从他手中逃脱已经是实力的一种证明了。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>逃出深山</c></outline>",
+    "descLose": "被大猩猩击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>逃出</c><color=#cc30ff>深山</color></outline>",
+    "detTargetType": 3,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 6,
+    "type": 1006,
+    "targetType": 1006,
+    "stageTarget": 999030601,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "ykdxx",
+    "jump": 999030601
+  },
+  {
+    "id": 999030701,
+    "name": "讨伐猪妖",
+    "desc": "一头不知从哪里来的猪妖在花果山横冲直撞，尽快将他降服，否则花果山就会一片狼藉了。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败猪妖</c></outline>",
+    "descLose": "被猪妖击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>猪妖</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "公治灵儿",
+    "level": 7,
+    "type": 1007,
+    "targetType": 1007,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999030701,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "tfzy",
+    "jump": 999030701
+  },
+  {
+    "id": 999030801,
+    "name": "追捕飞贼",
+    "desc": "飞贼又出来偷东西，追上去让他知道偷东西是要被打的。想要什么东西要靠自己的劳动而不是偷盗。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败飞贼</c></outline>",
+    "descLose": "与飞贼距离超过2000",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>飞贼</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        30201
+      ]
+    ],
+    "type": 1001,
+    "targetType": 1001,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999030801,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "zbfz",
+    "jump": 999030801
+  },
+  {
+    "id": 999030901,
+    "name": "守卫龙王",
+    "desc": "多灾多难的老龙王，又有很多水族妖怪要夺取他的龙珠了。赶紧去帮帮他吧，别让东海再出事端。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>守护龙王</c></outline>",
+    "descLose": "龙王被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>守护</c><color=#cc30ff>龙王</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "东海龙王",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        20501
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999030901,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "shlw",
+    "jump": 999030901
+  },
+  {
+    "id": 999031001,
+    "name": "护送商船",
+    "desc": "东海之乱后商船已经停运好久，此次再次起航需要上仙亲自护送，以免再出什么问题。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>护送商船</c></outline>",
+    "descLose": "商船被击毁",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>护送</c><color=#cc30ff>商船</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        20201
+      ]
+    ],
+    "type": 1003,
+    "targetType": 1003,
+    "stageTarget": 999031001,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "hssc",
+    "jump": 999031001
+  },
+  {
+    "id": 999031101,
+    "name": "采集水晶",
+    "desc": "猴铁匠研究了很多新装备需要大量的水晶试验，这取水晶之地如此凶险也只有上仙才能前往了。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>采集水晶</c></outline>",
+    "descLose": "限时内未采集足够水晶",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>采集</c><color=#cc30ff>水晶</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        30301
+      ]
+    ],
+    "type": 1004,
+    "targetType": 1004,
+    "stageTarget": 999031101,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "cjsj",
+    "jump": 999031101
+  },
+  {
+    "id": 999031201,
+    "name": "深海逃亡",
+    "desc": "深海中怪兽真的不少，这个鲨鱼不知道活了几千年还是不惹他的好。尽快摆脱鲨鱼的追击。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>逃出深海</c></outline>",
+    "descLose": "被鲨鱼击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>甩开</c><color=#cc30ff>大鲨鱼</color></outline>",
+    "detTargetType": 3,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "龟丞相",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        20301
+      ]
+    ],
+    "type": 1006,
+    "targetType": 1006,
+    "stageTarget": 999031201,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "sgtw",
+    "jump": 999031201
+  },
+  {
+    "id": 999031301,
+    "name": "讨伐巨蝠",
+    "desc": "巨蝠妖从蝙蝠洞中跑出来了，没想到当初蝙蝠洞漏了这么大一个怪物，赶紧消灭它以防不测。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败巨蝠</c></outline>",
+    "descLose": "被巨蝠击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>巨蝠妖</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        30401
+      ]
+    ],
+    "type": 1007,
+    "targetType": 1007,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999031301,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "tfjf",
+    "jump": 999031301
+  },
+  {
+    "id": 999031401,
+    "name": "守卫鬼门关",
+    "desc": "幽冥动荡，鬼门大开。无数怨鬼游灵欲要偷偷进入人间作恶，想办法阻止维护三界平衡。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>阻止鬼怪逃出鬼门关</c></outline>",
+    "descLose": "5只鬼怪逃出鬼门关",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>阻止鬼怪逃出</c><color=#8c3aa3>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴铁匠",
+    "level": 2,
+    "preTerm": [
+      [
+        2,
+        40101
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999031401,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "swgmg",
+    "jump": 999031401
+  },
+  {
+    "id": 999031501,
+    "name": "护送船夫",
+    "desc": "常在河中的摆渡人，因一股奇怪的力量跌落到忘川河中。请前往将其救起，继续为亡灵摆渡。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>成功护送船夫</c></outline>",
+    "descLose": "船夫死亡",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>护送</c><color=#cc30ff>船夫</color></outline>",
+    "detTargetType": 2,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "观音菩萨",
+    "level": 3,
+    "preTerm": [
+      [
+        2,
+        40601
+      ]
+    ],
+    "type": 1003,
+    "targetType": 1003,
+    "stageTarget": 999031501,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "hscf",
+    "jump": 999031501
+  },
+  {
+    "id": 999031601,
+    "name": "搜查思乡鬼",
+    "desc": "望乡台今日很多思乡鬼因思乡过重而错过投胎，在地府迷茫徘徊，需要前往将他们找到以求超度。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败思乡鬼</c></outline>",
+    "descLose": "限时内未击败思乡鬼",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>思乡鬼</color>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        40401
+      ]
+    ],
+    "type": 1005,
+    "targetType": 1005,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999031601,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "scsxg",
+    "jump": 999031601
+  },
+  {
+    "id": 999031701,
+    "name": "追捕水蛭",
+    "desc": "楚江王被击败后，其中一只水蛭趁隙脱离了楚江王的控制，想要逃往其他世界，必须将其抓到。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败水蛭</c></outline>",
+    "descLose": "与水蛭距离超过2000",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>追到并击败</c><color=#8c3aa3>水蛭</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 1,
+    "preTerm": [
+      [
+        2,
+        50201
+      ]
+    ],
+    "type": 1001,
+    "targetType": 1001,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999031701,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "zbsz",
+    "jump": 999031701
+  },
+  {
+    "id": 999031801,
+    "name": "采集毒菇",
+    "desc": "地府毒狱殿中生长了许多毒性极强的毒蘑菇，善以利用可以医治百病，高价收购！",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>采集毒蘑菇</c></outline>",
+    "descLose": "限时内未采集足够毒蘑菇",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>采集</c><color=#cc30ff>毒蘑菇</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 4,
+    "preTerm": [
+      [
+        2,
+        50401
+      ]
+    ],
+    "type": 1004,
+    "targetType": 1004,
+    "stageTarget": 999031801,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "cjdg",
+    "jump": 999031801
+  },
+  {
+    "id": 999031901,
+    "name": "搜查雾鸦",
+    "desc": "地府混乱起来后，雾鸦失去了约束开始在地府中肆意啄食亡灵，将他们铲除以免大量亡灵受难。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败雾鸦</c></outline>",
+    "descLose": "限时内未击败雾鸦",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>雾鸦</color>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        50301
+      ]
+    ],
+    "type": 1005,
+    "targetType": 1005,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999031901,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "scwy",
+    "jump": 999031901
+  },
+  {
+    "id": 999032001,
+    "name": "守卫魏征",
+    "desc": "四大判官之一的魏征陷入浮沉地狱中难以自拔，当此地府危难之际，决不能让魏征有难。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>保护魏征</c></outline>",
+    "descLose": "魏征被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>保护</c><color=#8c3aa3>魏征</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴铁匠",
+    "level": 2,
+    "preTerm": [
+      [
+        2,
+        60201
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999032001,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "swwz",
+    "jump": 999032001
+  },
+  {
+    "id": 999032101,
+    "name": "地狱逃亡",
+    "desc": "平等王战败后，幽冥蜈蚣失去控制，逃脱幽冥蜈蚣的追击，事后地藏王自会处理此怪。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>逃出地狱</c></outline>",
+    "descLose": "被大蜈蚣击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>逃出</c><color=#cc30ff>地狱</color></outline>",
+    "detTargetType": 3,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 6,
+    "preTerm": [
+      [
+        2,
+        60401
+      ]
+    ],
+    "type": 1006,
+    "targetType": 1006,
+    "stageTarget": 999032101,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "dytw",
+    "jump": 999032101
+  },
+  {
+    "id": 999032201,
+    "name": "守卫神火台",
+    "desc": "邪神不断派出手下，企图破坏太白金星正在修理的神火台。阻止他们，保证太白可以尽快的修理好神火台。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>保护神火台</c></outline>",
+    "descLose": "神火台被破坏",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>保护</c><color=#8c3aa3>神火台</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "太白金星",
+    "level": 2,
+    "preTerm": [
+      [
+        2,
+        70301
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999032201,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "swsht",
+    "jump": 999032201
+  },
+  {
+    "id": 999032301,
+    "name": "回收神火",
+    "desc": "修复神火台必须用神火为引，在太白金星的请求下前往收集神火。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>回收神火</c></outline>",
+    "descLose": "限时内未采集足够神火",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>回收</c><color=#cc30ff>神火</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "太白金星",
+    "level": 4,
+    "preTerm": [
+      [
+        2,
+        70301
+      ]
+    ],
+    "type": 1004,
+    "targetType": 1004,
+    "stageTarget": 999032301,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "hssh",
+    "jump": 999032301
+  },
+  {
+    "id": 999032401,
+    "name": "守护太白",
+    "desc": "太白金星被困云楼宫，立刻赶往云楼宫守护善良可爱的太白金星。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>守护太白金星</c></outline>",
+    "descLose": "太白金星被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>守护</c><color=#cc30ff>太白金星</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "太白金星",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        80501
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999032401,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "shtbjx",
+    "jump": 999032401
+  },
+  {
+    "id": 999032501,
+    "name": "采集花种",
+    "desc": "九天玄女说北天王殿长有一种神奇的花种可以加固昆仑虚先天大阵，请去收集一些回来。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>采集花种</c></outline>",
+    "descLose": "限时内未采集足够花种",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>采集</c><color=#cc30ff>花种</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 4,
+    "preTerm": [
+      [
+        2,
+        80301
+      ]
+    ],
+    "type": 1004,
+    "targetType": 1004,
+    "stageTarget": 999032501,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "cjhz",
+    "jump": 999031801
+  },
+  {
+    "id": 999032601,
+    "name": "协同作战",
+    "desc": "与托塔天王和天兵天将们一同战斗，抗击外敌",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>协同作战</c></outline>",
+    "descLose": "托塔天王被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>守护</c><color=#cc30ff>托塔天王</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "太白金星",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        90301
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999032601,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "xtzz",
+    "jump": 999032601
+  },
+  {
+    "id": 999032701,
+    "name": "护送彩云碧云",
+    "desc": "彩云、碧云的灵体飘散于地府中，请保护他们不被拦路的鬼怪伤害，成功送往地藏王菩萨处接受净化。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>成功护送彩云碧云</c></outline>",
+    "descLose": "彩云碧云被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>护送</c><color=#cc30ff>彩云碧云</color></outline>",
+    "detTargetType": 2,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "地藏王菩萨",
+    "level": 3,
+    "preTerm": [
+      [
+        2,
+        100101
+      ]
+    ],
+    "type": 1003,
+    "targetType": 1003,
+    "stageTarget": 999032701,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "hscyby",
+    "jump": 999032701
+  },
+  {
+    "id": 999032801,
+    "name": "解除封印",
+    "desc": "硫磺岛不时传来阵阵压抑的悲鸣，相传岛上存在古老封印，将封印全部解开，会有神奇的事情发生。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>解除封印</c></outline>",
+    "descLose": "限时内未解除4个封印",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>解除</c><color=#cc30ff>封印</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "太白金星",
+    "level": 4,
+    "preTerm": [
+      [
+        2,
+        100401
+      ]
+    ],
+    "type": 1004,
+    "targetType": 1004,
+    "stageTarget": 999032801,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "jcfy",
+    "jump": 999032801
+  },
+  {
+    "id": 999032901,
+    "name": "清除飞虫",
+    "desc": "瘟疫盘踞隐鳞渊，清除飞虫可以有效遏制瘟疫扩散。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>清除飞虫</c></outline>",
+    "descLose": "限时内未击败3只大飞虫",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>大飞虫</color>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        110401
+      ]
+    ],
+    "type": 1005,
+    "targetType": 1005,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999032901,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "qcfc",
+    "jump": 999032901
+  },
+  {
+    "id": 999033001,
+    "name": "讨伐甲虫",
+    "desc": "因被灭妖穿魂弩刺激，独角仙陷入了疯狂状态，战斗力剧增。快利用身边的道具，击败独角仙！",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败甲虫</c></outline>",
+    "descLose": "被甲虫击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>甲虫</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        110401
+      ]
+    ],
+    "type": 1007,
+    "targetType": 1007,
+    "stageTarget": 999033001,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "tfjc",
+    "jump": 999033001
+  },
+  {
+    "id": 999033101,
+    "name": "守护雯雯",
+    "desc": "雯雯想要重建蓬莱风光，却不料进入鬼雾泽时被一群蚂蚁围攻。快击败蚂蚁，保护雯雯！",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>保护雯雯</c></outline>",
+    "descLose": "雯雯被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>保护</c><color=#8c3aa3>雯雯</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        130501
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999033101,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "shww",
+    "jump": 999033101
+  },
+  {
+    "id": 999033201,
+    "name": "天宫逃亡",
+    "desc": "哮天犬被残留的黑气侵染进入狂暴失去控制，逃脱哮天犬的追击，事后真君自会处理此怪。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>逃出天宫</c></outline>",
+    "descLose": "被哮天犬击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>甩开</c><color=#cc30ff>哮天犬</color></outline>",
+    "detTargetType": 3,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "太白金星",
+    "level": 10,
+    "preTerm": [
+      [
+        2,
+        70101
+      ]
+    ],
+    "type": 1006,
+    "targetType": 1006,
+    "stageTarget": 999033201,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "tgtw",
+    "jump": 999033201
+  },
+  {
+    "id": 999033401,
+    "name": "踩音台",
+    "desc": "限定时间内踩对正确的音台",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>踩对音台</c></outline>",
+    "descLose": "时间到或被碧霄击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>踩对</c><color=#cc30ff>音台</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        110401
+      ]
+    ],
+    "type": 1007,
+    "targetType": 1007,
+    "stageTarget": 999033401,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "cyt",
+    "jump": 999033401
+  },
+  {
+    "id": 999033501,
+    "name": "指景寻宝",
+    "desc": "使用在物品栏中的指景灯改变重力，通过指景宫的复杂地形，抵达藏宝处寻到宝藏",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>抵达藏宝处</c></outline>",
+    "descLose": "未能寻到宝藏",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>抵达</c><color=#cc30ff>藏宝处</color></outline>",
+    "detTargetType": 4,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        140401
+      ]
+    ],
+    "type": 1008,
+    "targetType": 1008,
+    "stageTarget": 999033501,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "zjxb",
+    "jump": 999033501
+  },
+  {
+    "id": 999034001,
+    "name": "追捕熊山君",
+    "desc": "追击逃亡的熊山君，这次可别让他跑了！",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败熊山君</c></outline>",
+    "descLose": "未能追上熊山君",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>追到并击败</c><color=#8c3aa3>熊山君</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        160601
+      ]
+    ],
+    "type": 1001,
+    "targetType": 1001,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999034001,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "zbxpj",
+    "jump": 999034001
+  },
+  {
+    "id": 999034101,
+    "name": "守护亡魂",
+    "desc": "带着亡魂离开大理寺时，又遇到了许多狱卒拦路，保护亡魂不被伤害。",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>守护亡魂</c></outline>",
+    "descLose": "亡魂被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>守护</c><color=#8c3aa3>亡魂</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        160401
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999034101,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "shwh",
+    "jump": 999034101
+  },
+  {
+    "id": 999034201,
+    "name": "沉冤昭雪",
+    "desc": "大理寺卿之案另有隐情，为其沉冤昭雪后需要更换公告，却不想被少卿余党阻拦……",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>更换公告</c></outline>",
+    "descLose": "限时内未更换足够公告",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>更换</c><color=#cc30ff>公告</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        160501
+      ]
+    ],
+    "type": 1004,
+    "targetType": 1004,
+    "stageTarget": 999034201,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "cyzx",
+    "jump": 999034201
+  },
+  {
+    "id": 999034301,
+    "name": "联合作战",
+    "desc": "与正义狱卒一同战斗，抗击城内反贼",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败反贼</c></outline>",
+    "descLose": "正义狱卒被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>守护</c><color=#cc30ff>正义狱卒</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        160201
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999034301,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "lhzz",
+    "jump": 999034301
+  },
+  {
+    "id": 999035001,
+    "name": "采集如意果",
+    "desc": "生长在九华山中的如意果能让人随意变幻身形，只是山高云深凡人无法摘取，请上仙前往采集，必有重谢！",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>采集如意果</c></outline>",
+    "descLose": "限时内未采集足够如意果",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>采集</c><color=#cc30ff>如意果</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 4,
+    "preTerm": [
+      [
+        2,
+        170201
+      ]
+    ],
+    "type": 1004,
+    "targetType": 1004,
+    "stageTarget": 999035001,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "cjryg",
+    "jump": 999035001
+  },
+  {
+    "id": 999035101,
+    "name": "守护双溪寺",
+    "desc": "九华山中大量怪物突然进攻双溪寺，寺院日常守备难以应付，请上仙伸出援手！",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>守护双溪寺门</c></outline>",
+    "descLose": "寺门被破坏",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>守护</c><color=#8c3aa3>双溪寺</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        170301
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999035101,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "shsxs",
+    "jump": 999035101
+  },
+  {
+    "id": 999036001,
+    "name": "化解干戈",
+    "desc": "熊山君自未央宫逃走后，因听闻观音菩萨曾收留过一只黑熊精，便千里迢迢前来投奔，却不料被守山大神当成了闯入者……",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>阻止两熊互殴</c></outline>",
+    "descLose": "被对方击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>两只熊精</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        180601
+      ]
+    ],
+    "type": 1007,
+    "targetType": 1007,
+    "stageTarget": 999036001,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "hjgg",
+    "jump": 999036001
+  },
+  {
+    "id": 999036101,
+    "name": "护送金池",
+    "desc": "金池长老强行吸收水巫之力导致元气大伤，护送他去安全的地方疗养",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>成功护送金池长老</c></outline>",
+    "descLose": "金池长老被打倒",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>护送</c><color=#cc30ff>金池长老</color></outline>",
+    "detTargetType": 2,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        180101
+      ]
+    ],
+    "type": 1003,
+    "targetType": 1003,
+    "stageTarget": 999036101,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "hsjc",
+    "jump": 999036101
+  },
+  {
+    "id": 999036201,
+    "name": "逃离食人鳗",
+    "desc": "受水巫之力的影响，普陀山附近的水域中出现了一只巨大的变异食人鳗，为防止它惊扰附近的村民，请上仙将它引开",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>逃离食人鳗</c></outline>",
+    "descLose": "被食人鳗击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>逃离</c><color=#cc30ff>食人鳗</color></outline>",
+    "detTargetType": 3,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        180101
+      ]
+    ],
+    "type": 1006,
+    "targetType": 1006,
+    "stageTarget": 999036201,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "tlsrm",
+    "jump": 999036201
+  },
+  {
+    "id": 999036301,
+    "name": "水下据守",
+    "desc": "大量怪物企图通过水下旋涡进入附近的村庄中劫掠，去必经之路上阻击他们！",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>阻止怪物逃出</c></outline>",
+    "descLose": "5只怪物逃出",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>阻止</c><color=#cc30ff>怪物逃出</color></outline>",
+    "detTargetType": 1,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        180401
+      ]
+    ],
+    "type": 1002,
+    "targetType": 1002,
+    "stageTarget": 999036301,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "shptsl",
+    "jump": 999036301
+  },
+  {
+    "id": 999037101,
+    "name": "解救山猴",
+    "desc": "凌云抓捕了峨眉山上的猴子迫使它们效力，快去解救那些尚未屈服的猴子们",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>解救山猴</c></outline>",
+    "descLose": "限时内未解救5只山猴",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>解救</c><color=#cc30ff>山猴</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "猴长老",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        190101
+      ]
+    ],
+    "type": 1005,
+    "targetType": 1005,
+    "target": [
+      [
+        11101,
+        1
+      ]
+    ],
+    "stageTarget": 999037101,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "jjckh",
+    "jump": 999037101
+  },
+  {
+    "id": 999037201,
+    "name": "清理道观",
+    "desc": "一只巨大的熔石怪盘踞在道观深处，控制一具熔石怪的身体打败怪物，把道观夺回来",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>击败巨大熔石怪</c></outline>",
+    "descLose": "被怪物击败",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>击败</c><color=#cc30ff>巨大熔石怪</color></outline>",
+    "detTargetType": 0,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "太白金星",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        190301
+      ]
+    ],
+    "type": 1007,
+    "targetType": 1007,
+    "stageTarget": 999037201,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      0.8,
+      1.2,
+      1.2,
+      1.2,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "qldg",
+    "jump": 999037201
+  },
+  {
+    "id": 999037301,
+    "name": "云海探险",
+    "desc": "骑乘火绒雀通过怪物盘踞的天空，寻找云海深处的宝藏",
+    "descWin": "<outline color=#010101 width=1><color=#fff0cb>抵达藏宝处</c></outline>",
+    "descLose": "未能寻到宝藏",
+    "detTarget": "<outline color=#010101 width=1><color=#fffca1>抵达</c><color=#cc30ff>藏宝处</color></outline>",
+    "detTargetType": 4,
+    "colorChange": [
+      [
+        "<color=#fff0cb>",
+        "<color=#3e2b28>"
+      ],
+      [
+        "width=1",
+        "width=0"
+      ]
+    ],
+    "submitNpc": 9990106,
+    "issuer": "神秘商人",
+    "level": 5,
+    "preTerm": [
+      [
+        2,
+        190501
+      ]
+    ],
+    "type": 1006,
+    "targetType": 1006,
+    "stageTarget": 999037301,
+    "reward": [
+      "soul",
+      "exp",
+      "rideExp",
+      "petExp",
+      "strengthen"
+    ],
+    "rewardModulus": [
+      1.2,
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "starModulus": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weight": 1,
+    "icon": "yhtx",
+    "jump": 999037301
+  }
+]

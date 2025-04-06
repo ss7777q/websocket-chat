@@ -1,0 +1,838 @@
+[
+  {
+    "id": 101,
+    "type": 1,
+    "group": 101,
+    "parent": "chapt_bg",
+    "zIndex": 1,
+    "name": "btn_chapt"
+  },
+  {
+    "id": 102,
+    "type": 1,
+    "group": 102,
+    "parent": "changeCity",
+    "zIndex": 1,
+    "name": "btn_city"
+  },
+  {
+    "id": 1001,
+    "type": 1,
+    "group": 1001,
+    "parent": "bottom",
+    "zIndex": 1,
+    "name": "btn_bag"
+  },
+  {
+    "id": 1002,
+    "type": 1,
+    "group": 1002,
+    "parent": "bottom",
+    "zIndex": 2,
+    "name": "btn_dz"
+  },
+  {
+    "id": 1003,
+    "type": 1,
+    "group": 1003,
+    "parent": "bottom",
+    "zIndex": 3,
+    "name": "btn_skill"
+  },
+  {
+    "id": 1004,
+    "type": 1,
+    "group": 1004,
+    "parent": "bottom",
+    "zIndex": 4,
+    "name": "btn_xf"
+  },
+  {
+    "id": 1005,
+    "type": 1,
+    "group": 1006,
+    "parent": "bottom",
+    "zIndex": 5,
+    "name": "btn_magic"
+  },
+  {
+    "id": 1006,
+    "type": 1,
+    "group": 1005,
+    "parent": "bottom",
+    "zIndex": 6,
+    "name": "btn_neidan"
+  },
+  {
+    "id": 1007,
+    "type": 1,
+    "group": 1007,
+    "parent": "bottom",
+    "zIndex": 7,
+    "name": "btn_spiritBeast"
+  },
+  {
+    "id": 1008,
+    "type": 1,
+    "group": 1008,
+    "parent": "bottom",
+    "zIndex": 8,
+    "name": "btn_wing"
+  },
+  {
+    "id": 1009,
+    "type": 1,
+    "group": 1009,
+    "parent": "bottom",
+    "zIndex": 9,
+    "name": "btn_matrix"
+  },
+  {
+    "id": 2101,
+    "type": 2,
+    "group": 2101,
+    "parent": "topRight",
+    "zIndex": 2101,
+    "name": "btn_shop"
+  },
+  {
+    "id": 2102,
+    "type": 2,
+    "group": 2102,
+    "parent": "topRight",
+    "zIndex": 2102,
+    "name": "btn_exchangeShop"
+  },
+  {
+    "id": 2103,
+    "type": 2,
+    "group": 2103,
+    "parent": "topRight",
+    "zIndex": 2103,
+    "name": "btn_sanJieFuZe"
+  },
+  {
+    "id": 2104,
+    "type": 2,
+    "group": 2104,
+    "parent": "topRight",
+    "zIndex": 2104,
+    "name": "btn_timeBoat"
+  },
+  {
+    "id": 2105,
+    "type": 2,
+    "group": 2105,
+    "parent": "topRight",
+    "zIndex": 2105,
+    "name": "btn_active"
+  },
+  {
+    "id": 2106,
+    "type": 2,
+    "group": 2106,
+    "parent": "topRight",
+    "zIndex": 2106,
+    "name": "btn_stageChallenge"
+  },
+  {
+    "id": 2107,
+    "type": 2,
+    "group": 2107,
+    "parent": "topRight",
+    "zIndex": 2107,
+    "name": "btn_petTower"
+  },
+  {
+    "id": 2108,
+    "type": 2,
+    "group": 2108,
+    "parent": "topRight",
+    "zIndex": 2108,
+    "name": "btn_arena"
+  },
+  {
+    "id": 2109,
+    "type": 2,
+    "group": 2109,
+    "parent": "topRight",
+    "zIndex": 2109,
+    "name": "btn_worldBoss"
+  },
+  {
+    "id": 3001,
+    "type": 3,
+    "group": 3001,
+    "parent": "topRight2",
+    "zIndex": 3001,
+    "name": "btn_activities"
+  },
+  {
+    "id": 3002,
+    "type": 3,
+    "group": 3002,
+    "parent": "topRight2",
+    "zIndex": 3002,
+    "name": "btn_feedback"
+  },
+  {
+    "id": 3004,
+    "type": 3,
+    "group": 3004,
+    "parent": "topRight2",
+    "zIndex": 3004,
+    "name": "btn_sevenLogin"
+  },
+  {
+    "id": 3005,
+    "type": 3,
+    "group": 3005,
+    "parent": "topRight2",
+    "zIndex": 3005,
+    "name": "btn_noviceGift"
+  },
+  {
+    "id": 3006,
+    "type": 3,
+    "group": 3006,
+    "parent": "topRight2",
+    "zIndex": 3006,
+    "name": "btn_oldPlayerBack"
+  },
+  {
+    "id": 3007,
+    "type": 3,
+    "group": 3007,
+    "parent": "topRight2",
+    "zIndex": 3007,
+    "name": "btn_playerBackGift"
+  },
+  {
+    "id": 3008,
+    "type": 3,
+    "group": 3008,
+    "parent": "topRight2",
+    "zIndex": 3008,
+    "name": "btn_youpai"
+  },
+  {
+    "id": 3009,
+    "type": 3,
+    "group": 3009,
+    "parent": "topRight2",
+    "zIndex": 3009,
+    "name": "btn_firstRecharge"
+  },
+  {
+    "id": 3010,
+    "type": 3,
+    "group": 3010,
+    "parent": "topRight2",
+    "zIndex": 3010,
+    "name": "btn_noviceExpPanel"
+  },
+  {
+    "id": 3011,
+    "type": 3,
+    "group": 3011,
+    "parent": "topRight2",
+    "zIndex": 3011,
+    "name": "btn_sevenLogin2"
+  },
+  {
+    "id": 3012,
+    "type": 3,
+    "group": 3012,
+    "parent": "topRight2",
+    "zIndex": 3012,
+    "name": "btn_doJumpUrl"
+  },
+  {
+    "id": 4001,
+    "type": 3,
+    "group": 4001,
+    "parent": "topRight2",
+    "zIndex": 4001,
+    "name": "btn_yiwen"
+  },
+  {
+    "id": 4002,
+    "type": 3,
+    "group": 4002,
+    "parent": "topRight2",
+    "zIndex": 4002,
+    "name": "btn_zhuanji"
+  },
+  {
+    "id": 4003,
+    "type": 3,
+    "group": 4003,
+    "parent": "topRight2",
+    "zIndex": 4003,
+    "name": "btn_zhuanji2"
+  },
+  {
+    "id": 4004,
+    "type": 3,
+    "group": 4004,
+    "parent": "topRight2",
+    "zIndex": 4004,
+    "name": "btn_zhuanji3"
+  },
+  {
+    "id": 4005,
+    "type": 3,
+    "group": 4005,
+    "parent": "topRight2",
+    "zIndex": 4005,
+    "name": "btn_saveWW"
+  },
+  {
+    "id": 4006,
+    "type": 3,
+    "group": 4006,
+    "parent": "topRight2",
+    "zIndex": 4006,
+    "name": "btn_zhongyuanjie"
+  },
+  {
+    "id": 4007,
+    "type": 3,
+    "group": 4007,
+    "parent": "topRight2",
+    "zIndex": 4007,
+    "name": "btn_seventhFestival"
+  },
+  {
+    "id": 4008,
+    "type": 3,
+    "group": 4008,
+    "parent": "topRight2",
+    "zIndex": 4008,
+    "name": "btn_challengeGM"
+  },
+  {
+    "id": 4009,
+    "type": 3,
+    "group": 4009,
+    "parent": "topRight2",
+    "zIndex": 4009,
+    "name": "btn_midAutumnFestival"
+  },
+  {
+    "id": 4010,
+    "type": 3,
+    "group": 4010,
+    "parent": "topRight2",
+    "zIndex": 4010,
+    "name": "btn_midAutumnReward"
+  },
+  {
+    "id": 4011,
+    "type": 3,
+    "group": 4011,
+    "parent": "topRight2",
+    "zIndex": 4011,
+    "name": "btn_chongyanghuodong"
+  },
+  {
+    "id": 4012,
+    "type": 3,
+    "group": 4012,
+    "parent": "topRight2",
+    "zIndex": 4012,
+    "name": "btn_myearMonster"
+  },
+  {
+    "id": 4013,
+    "type": 3,
+    "group": 4013,
+    "parent": "topRight2",
+    "zIndex": 4013,
+    "name": "btn_greenPacket"
+  },
+  {
+    "id": 4014,
+    "type": 3,
+    "group": 4014,
+    "parent": "topRight2",
+    "zIndex": 4014,
+    "name": "btn_hitHamster"
+  },
+  {
+    "id": 4015,
+    "type": 3,
+    "group": 4015,
+    "parent": "topRight2",
+    "zIndex": 4015,
+    "name": "btn_duanwu"
+  },
+  {
+    "id": 4016,
+    "type": 3,
+    "group": 4016,
+    "parent": "topRight2",
+    "zIndex": 4016,
+    "name": "btn_zhanshen"
+  },
+  {
+    "id": 4017,
+    "type": 3,
+    "group": 4017,
+    "parent": "topRight2",
+    "zIndex": 4017,
+    "name": "btn_arrowActivityPanel"
+  },
+  {
+    "id": 4018,
+    "type": 3,
+    "group": 4018,
+    "parent": "topRight2",
+    "zIndex": 4018,
+    "name": "btn_zmAdventure"
+  },
+  {
+    "id": 4019,
+    "type": 3,
+    "group": 4019,
+    "parent": "topRight2",
+    "zIndex": 4019,
+    "name": "btn_xianmo"
+  },
+  {
+    "id": 4020,
+    "type": 3,
+    "group": 4020,
+    "parent": "topRight2",
+    "zIndex": 4020,
+    "name": "btn_anniversaryCollect"
+  },
+  {
+    "id": 4021,
+    "type": 3,
+    "group": 4021,
+    "parent": "topRight2",
+    "zIndex": 4021,
+    "name": "btn_demonizedForest"
+  },
+  {
+    "id": 4022,
+    "type": 3,
+    "group": 4022,
+    "parent": "topRight2",
+    "zIndex": 4022,
+    "name": "btn_wishingTree"
+  },
+  {
+    "id": 4023,
+    "type": 3,
+    "group": 4023,
+    "parent": "topRight2",
+    "zIndex": 4023,
+    "name": "btn_surpriseAndFright"
+  },
+  {
+    "id": 5001,
+    "type": 3,
+    "group": 5001,
+    "parent": "topRight2",
+    "zIndex": 5001,
+    "name": "btn_giftGiving"
+  },
+  {
+    "id": 5002,
+    "type": 3,
+    "group": 5002,
+    "parent": "topRight2",
+    "zIndex": 5002,
+    "name": "btn_integralDraw"
+  },
+  {
+    "id": 5003,
+    "type": 3,
+    "group": 5003,
+    "parent": "topRight2",
+    "zIndex": 5003,
+    "name": "btn_facebook"
+  },
+  {
+    "id": 5004,
+    "type": 3,
+    "group": 5004,
+    "parent": "topRight2",
+    "zIndex": 5004,
+    "name": "btn_redPacket"
+  },
+  {
+    "id": 5005,
+    "type": 3,
+    "group": 5005,
+    "parent": "topRight2",
+    "zIndex": 5005,
+    "name": "btn_lanternRiddles"
+  },
+  {
+    "id": 5006,
+    "type": 3,
+    "group": 5006,
+    "parent": "topRight2",
+    "zIndex": 5006,
+    "name": "btn_mysteriousActivities"
+  },
+  {
+    "id": 5007,
+    "type": 3,
+    "group": 5007,
+    "parent": "topRight2",
+    "zIndex": 5007,
+    "name": "btn_plantingFlatpeach"
+  },
+  {
+    "id": 5008,
+    "type": 3,
+    "group": 5008,
+    "parent": "topRight2",
+    "zIndex": 5008,
+    "name": "btn_aprilFools"
+  },
+  {
+    "id": 5009,
+    "type": 3,
+    "group": 5009,
+    "parent": "topRight2",
+    "zIndex": 5009,
+    "name": "btn_anniversaryLogin"
+  },
+  {
+    "id": 5010,
+    "type": 3,
+    "group": 5010,
+    "parent": "topRight2",
+    "zIndex": 5010,
+    "name": "btn_tenYearCost"
+  },
+  {
+    "id": 5011,
+    "type": 3,
+    "group": 5011,
+    "parent": "topRight2",
+    "zIndex": 5011,
+    "name": "btn_zmWing"
+  },
+  {
+    "id": 5012,
+    "type": 3,
+    "group": 5012,
+    "parent": "topRight2",
+    "zIndex": 5012,
+    "name": "btn_signMillionSoul"
+  },
+  {
+    "id": 5013,
+    "type": 3,
+    "group": 5013,
+    "parent": "topRight2",
+    "zIndex": 5013,
+    "name": "btn_buyGiftReward"
+  },
+  {
+    "id": 5014,
+    "type": 3,
+    "group": 5014,
+    "parent": "topRight2",
+    "zIndex": 5014,
+    "name": "btn_collectGem"
+  },
+  {
+    "id": 5015,
+    "type": 3,
+    "group": 5015,
+    "parent": "topRight2",
+    "zIndex": 5015,
+    "name": "btn_thanksgiving"
+  },
+  {
+    "id": 5016,
+    "type": 3,
+    "group": 5016,
+    "parent": "topRight2",
+    "zIndex": 5016,
+    "name": "btn_eightDaysSignIn0"
+  },
+  {
+    "id": 5017,
+    "type": 3,
+    "group": 5017,
+    "parent": "topRight2",
+    "zIndex": 5017,
+    "name": "btn_zmTrip"
+  },
+  {
+    "id": 5018,
+    "type": 3,
+    "group": 5018,
+    "parent": "topRight2",
+    "zIndex": 5018,
+    "name": "btn_godGift0"
+  },
+  {
+    "id": 5019,
+    "type": 3,
+    "group": 5019,
+    "parent": "topRight2",
+    "zIndex": 5019,
+    "name": "btn_peachBanquet"
+  },
+  {
+    "id": 5020,
+    "type": 3,
+    "group": 5020,
+    "parent": "topRight2",
+    "zIndex": 5020,
+    "name": "btn_football"
+  },
+  {
+    "id": 5021,
+    "type": 3,
+    "group": 5016,
+    "parent": "topRight2",
+    "zIndex": 5016,
+    "name": "btn_eightDaysSignIn1"
+  },
+  {
+    "id": 5022,
+    "type": 3,
+    "group": 5022,
+    "parent": "topRight2",
+    "zIndex": 5022,
+    "name": "btn_zmTogether"
+  },
+  {
+    "id": 5023,
+    "type": 3,
+    "group": 5023,
+    "parent": "topRight2",
+    "zIndex": 5018,
+    "name": "btn_godGift1"
+  },
+  {
+    "id": 5024,
+    "type": 3,
+    "group": 5024,
+    "parent": "topRight2",
+    "zIndex": 5018,
+    "name": "btn_thanksShopPanel"
+  },
+  {
+    "id": 5025,
+    "type": 3,
+    "group": 5025,
+    "parent": "topRight2",
+    "zIndex": 5018,
+    "name": "btn_smallPackage"
+  },
+  {
+    "id": 5026,
+    "type": 3,
+    "group": 5026,
+    "parent": "topRight2",
+    "zIndex": 5018,
+    "name": "btn_godGift2"
+  },
+  {
+    "id": 5027,
+    "type": 3,
+    "group": 5027,
+    "parent": "topRight2",
+    "zIndex": 5018,
+    "name": "btn_godGift3"
+  },
+  {
+    "id": 5028,
+    "type": 3,
+    "group": 5028,
+    "parent": "topRight2",
+    "zIndex": 5018,
+    "name": "btn_caveHunting"
+  },
+  {
+    "id": 5029,
+    "type": 3,
+    "group": 5029,
+    "parent": "topRight2",
+    "zIndex": 5018,
+    "name": "btn_seaFishing"
+  },
+  {
+    "id": 6001,
+    "type": 3,
+    "group": 6001,
+    "parent": "topRight2",
+    "zIndex": 6001,
+    "name": "btn_addUpRecharge"
+  },
+  {
+    "id": 6002,
+    "type": 3,
+    "group": 6002,
+    "parent": "topRight2",
+    "zIndex": 6002,
+    "name": "btn_rechargeActivity"
+  },
+  {
+    "id": 10001,
+    "type": 3,
+    "group": 10001,
+    "parent": "topRight2",
+    "zIndex": 10001,
+    "name": "btn_huntEntrance"
+  },
+  {
+    "id": 10002,
+    "type": 3,
+    "group": 10002,
+    "parent": "topRight2",
+    "zIndex": 10002,
+    "name": "btn_heavenWar"
+  },
+  {
+    "id": 10003,
+    "type": 3,
+    "group": 10003,
+    "parent": "topRight2",
+    "zIndex": 10003,
+    "name": "btn_heavenWar2"
+  },
+  {
+    "id": 10004,
+    "type": 3,
+    "group": 10004,
+    "parent": "topRight2",
+    "zIndex": 10004,
+    "name": "btn_luandou"
+  },
+  {
+    "id": 10005,
+    "type": 3,
+    "group": 10005,
+    "parent": "topRight2",
+    "zIndex": 10005,
+    "name": "btn_petChampion"
+  },
+  {
+    "id": 10006,
+    "type": 3,
+    "group": 10006,
+    "parent": "topRight2",
+    "zIndex": 10006,
+    "name": "btn_activityInvite"
+  },
+  {
+    "id": 10007,
+    "type": 3,
+    "group": 10007,
+    "parent": "topRight2",
+    "zIndex": 10007,
+    "name": "btn_activityBindAccount"
+  },
+  {
+    "id": 20001,
+    "type": 4,
+    "group": 20004,
+    "parent": "merge_child",
+    "name": "btn_league"
+  },
+  {
+    "id": 20002,
+    "type": 4,
+    "group": 20004,
+    "parent": "merge_child",
+    "name": "btn_teacherStudent"
+  },
+  {
+    "id": 20003,
+    "type": 4,
+    "group": 20004,
+    "parent": "merge_child",
+    "name": "btn_callGod"
+  },
+  {
+    "id": 20004,
+    "type": 4,
+    "group": 20004,
+    "parent": "merge_child",
+    "name": "btn_npcGain"
+  },
+  {
+    "id": 20005,
+    "type": 4,
+    "group": 20004,
+    "parent": "merge_child",
+    "name": "btn_goodFriend"
+  },
+  {
+    "id": 20104,
+    "type": 4,
+    "group": 20104,
+    "childNode": [
+      "btn_league",
+      "btn_teacherStudent",
+      "btn_callGod",
+      "btn_npcGain",
+      "btn_goodFriend"
+    ],
+    "parent": "bottom",
+    "zIndex": 10,
+    "name": "btn_social"
+  },
+  {
+    "id": 30001,
+    "type": 5,
+    "group": 30001,
+    "parent": "merge_child",
+    "name": "btn_achievement"
+  },
+  {
+    "id": 30002,
+    "type": 5,
+    "group": 30001,
+    "parent": "merge_child",
+    "name": "btn_honor"
+  },
+  {
+    "id": 30003,
+    "type": 5,
+    "group": 30001,
+    "parent": "merge_child",
+    "name": "btn_luggage"
+  },
+  {
+    "id": 30005,
+    "type": 5,
+    "group": 30001,
+    "parent": "merge_child",
+    "name": "btn_illustratedHandbook"
+  },
+  {
+    "id": 30006,
+    "type": 5,
+    "group": 30001,
+    "parent": "merge_child",
+    "name": "btn_worldEvents"
+  },
+  {
+    "id": 30104,
+    "type": 5,
+    "group": 30104,
+    "childNode": [
+      "btn_achievement",
+      "btn_luggage",
+      "btn_honor",
+      "btn_worldEvents",
+      "btn_illustratedHandbook"
+    ],
+    "parent": "bottom",
+    "zIndex": 11,
+    "name": "btn_collection"
+  }
+]

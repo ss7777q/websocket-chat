@@ -1,0 +1,2774 @@
+[
+  {
+    "id": 11401,
+    "quality": 6,
+    "part": "armor",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 11402,
+    "quality": 6,
+    "part": "head",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 11403,
+    "quality": 6,
+    "part": "weapon",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 11404,
+    "quality": 6,
+    "part": "foot",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 11405,
+    "quality": 6,
+    "part": "hand",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 11406,
+    "quality": 6,
+    "part": "jewelry",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 11501,
+    "quality": 6,
+    "part": "armor",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      111,
+      112,
+      113
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 11502,
+    "quality": 6,
+    "part": "head",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      121,
+      122,
+      123
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        5,
+        5
+      ]
+    ]
+  },
+  {
+    "id": 11503,
+    "quality": 6,
+    "part": "weapon",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      131,
+      132,
+      133
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        10,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11504,
+    "quality": 6,
+    "part": "foot",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      141,
+      142,
+      143
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 11505,
+    "quality": 6,
+    "part": "hand",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      151,
+      152,
+      153
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        10,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11506,
+    "quality": 6,
+    "part": "jewelry",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      161,
+      162,
+      163
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        5,
+        5
+      ]
+    ]
+  },
+  {
+    "id": 11601,
+    "quality": 6,
+    "part": "armor",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      211,
+      212,
+      213
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        42
+      ]
+    ]
+  },
+  {
+    "id": 11602,
+    "quality": 6,
+    "part": "head",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      221,
+      222,
+      223
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        21,
+        21
+      ]
+    ]
+  },
+  {
+    "id": 11603,
+    "quality": 6,
+    "part": "weapon",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      231,
+      232,
+      233
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        42,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11604,
+    "quality": 6,
+    "part": "foot",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      241,
+      242,
+      243
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        42
+      ]
+    ]
+  },
+  {
+    "id": 11605,
+    "quality": 6,
+    "part": "hand",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      251,
+      252,
+      253
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        42,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11606,
+    "quality": 6,
+    "part": "jewelry",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      261,
+      262,
+      263
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        21,
+        21
+      ]
+    ]
+  },
+  {
+    "id": 11701,
+    "quality": 6,
+    "part": "armor",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      311,
+      312,
+      313
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 11702,
+    "quality": 6,
+    "part": "head",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      321,
+      322,
+      323
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        25,
+        25
+      ]
+    ]
+  },
+  {
+    "id": 11703,
+    "quality": 6,
+    "part": "weapon",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      331,
+      332,
+      333
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        50,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11704,
+    "quality": 6,
+    "part": "foot",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      341,
+      342,
+      343
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 11705,
+    "quality": 6,
+    "part": "hand",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      351,
+      352,
+      353
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        50,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11706,
+    "quality": 6,
+    "part": "jewelry",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      361,
+      362,
+      363
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        25,
+        25
+      ]
+    ]
+  },
+  {
+    "id": 11801,
+    "quality": 6,
+    "part": "armor",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      411,
+      412,
+      413
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        54
+      ]
+    ]
+  },
+  {
+    "id": 11802,
+    "quality": 6,
+    "part": "head",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      421,
+      422,
+      423
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        27,
+        27
+      ]
+    ]
+  },
+  {
+    "id": 11803,
+    "quality": 6,
+    "part": "weapon",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      431,
+      432,
+      433
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        54,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11804,
+    "quality": 6,
+    "part": "foot",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      441,
+      442,
+      443
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        54
+      ]
+    ]
+  },
+  {
+    "id": 11805,
+    "quality": 6,
+    "part": "hand",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      451,
+      452,
+      453
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        54,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11806,
+    "quality": 6,
+    "part": "jewelry",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      461,
+      462,
+      463
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        27,
+        27
+      ]
+    ]
+  },
+  {
+    "id": 11901,
+    "quality": 6,
+    "part": "armor",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      511,
+      512,
+      513
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        58
+      ]
+    ]
+  },
+  {
+    "id": 11902,
+    "quality": 6,
+    "part": "head",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      521,
+      522,
+      523
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        29,
+        29
+      ]
+    ]
+  },
+  {
+    "id": 11903,
+    "quality": 6,
+    "part": "weapon",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      531,
+      532,
+      533
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        58,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11904,
+    "quality": 6,
+    "part": "foot",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      541,
+      542,
+      543
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        58
+      ]
+    ]
+  },
+  {
+    "id": 11905,
+    "quality": 6,
+    "part": "hand",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      551,
+      552,
+      553
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        58,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 11906,
+    "quality": 6,
+    "part": "jewelry",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      561,
+      562,
+      563
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        29,
+        29
+      ]
+    ]
+  },
+  {
+    "id": 12001,
+    "quality": 6,
+    "part": "armor",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      611,
+      612,
+      613
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        64
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12002,
+    "quality": 6,
+    "part": "head",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      621,
+      622,
+      623
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        32,
+        32
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12003,
+    "quality": 6,
+    "part": "weapon",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      631,
+      632,
+      633
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        64,
+        0
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12004,
+    "quality": 6,
+    "part": "foot",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      641,
+      642,
+      643
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        64
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12005,
+    "quality": 6,
+    "part": "hand",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      651,
+      652,
+      653
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        64,
+        0
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12006,
+    "quality": 6,
+    "part": "jewelry",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      661,
+      662,
+      663
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        32,
+        32
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 21401,
+    "quality": 26,
+    "part": "armor",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 21402,
+    "quality": 26,
+    "part": "head",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 21403,
+    "quality": 26,
+    "part": "weapon",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 21404,
+    "quality": 26,
+    "part": "foot",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 21405,
+    "quality": 26,
+    "part": "hand",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 21406,
+    "quality": 26,
+    "part": "jewelry",
+    "smeltLv": 0,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [],
+    "qualityVaule": [],
+    "qualityCost": []
+  },
+  {
+    "id": 21501,
+    "quality": 26,
+    "part": "armor",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90111,
+      90112,
+      90113
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 21502,
+    "quality": 26,
+    "part": "head",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90121,
+      90122,
+      90123
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        5,
+        5
+      ]
+    ]
+  },
+  {
+    "id": 21503,
+    "quality": 26,
+    "part": "weapon",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90131,
+      90132,
+      90133
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        10,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21504,
+    "quality": 26,
+    "part": "foot",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90141,
+      90142,
+      90143
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 21505,
+    "quality": 26,
+    "part": "hand",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90151,
+      90152,
+      90153
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        10,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21506,
+    "quality": 26,
+    "part": "jewelry",
+    "smeltLv": 1,
+    "unlockLv": 150,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90161,
+      90162,
+      90163
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        5,
+        5
+      ]
+    ]
+  },
+  {
+    "id": 21601,
+    "quality": 26,
+    "part": "armor",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90211,
+      90212,
+      90213
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        42
+      ]
+    ]
+  },
+  {
+    "id": 21602,
+    "quality": 26,
+    "part": "head",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90221,
+      90222,
+      90223
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        21,
+        21
+      ]
+    ]
+  },
+  {
+    "id": 21603,
+    "quality": 26,
+    "part": "weapon",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90231,
+      90232,
+      90233
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        42,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21604,
+    "quality": 26,
+    "part": "foot",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90241,
+      90242,
+      90243
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        42
+      ]
+    ]
+  },
+  {
+    "id": 21605,
+    "quality": 26,
+    "part": "hand",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90251,
+      90252,
+      90253
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        42,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21606,
+    "quality": 26,
+    "part": "jewelry",
+    "smeltLv": 2,
+    "unlockLv": 160,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90261,
+      90262,
+      90263
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        21,
+        21
+      ]
+    ]
+  },
+  {
+    "id": 21701,
+    "quality": 26,
+    "part": "armor",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90311,
+      90312,
+      90313
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 21702,
+    "quality": 26,
+    "part": "head",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90321,
+      90322,
+      90323
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        25,
+        25
+      ]
+    ]
+  },
+  {
+    "id": 21703,
+    "quality": 26,
+    "part": "weapon",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90331,
+      90332,
+      90333
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        50,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21704,
+    "quality": 26,
+    "part": "foot",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90341,
+      90342,
+      90343
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        50
+      ]
+    ]
+  },
+  {
+    "id": 21705,
+    "quality": 26,
+    "part": "hand",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90351,
+      90352,
+      90353
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        50,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21706,
+    "quality": 26,
+    "part": "jewelry",
+    "smeltLv": 3,
+    "unlockLv": 170,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90361,
+      90362,
+      90363
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        25,
+        25
+      ]
+    ]
+  },
+  {
+    "id": 21801,
+    "quality": 26,
+    "part": "armor",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90411,
+      90412,
+      90413
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        54
+      ]
+    ]
+  },
+  {
+    "id": 21802,
+    "quality": 26,
+    "part": "head",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90421,
+      90422,
+      90423
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        27,
+        27
+      ]
+    ]
+  },
+  {
+    "id": 21803,
+    "quality": 26,
+    "part": "weapon",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90431,
+      90432,
+      90433
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        54,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21804,
+    "quality": 26,
+    "part": "foot",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90441,
+      90442,
+      90443
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        54
+      ]
+    ]
+  },
+  {
+    "id": 21805,
+    "quality": 26,
+    "part": "hand",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90451,
+      90452,
+      90453
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        54,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21806,
+    "quality": 26,
+    "part": "jewelry",
+    "smeltLv": 4,
+    "unlockLv": 180,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90461,
+      90462,
+      90463
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        27,
+        27
+      ]
+    ]
+  },
+  {
+    "id": 21901,
+    "quality": 26,
+    "part": "armor",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90511,
+      90512,
+      90513
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        58
+      ]
+    ]
+  },
+  {
+    "id": 21902,
+    "quality": 26,
+    "part": "head",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90521,
+      90522,
+      90523
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        29,
+        29
+      ]
+    ]
+  },
+  {
+    "id": 21903,
+    "quality": 26,
+    "part": "weapon",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90531,
+      90532,
+      90533
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        58,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21904,
+    "quality": 26,
+    "part": "foot",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90541,
+      90542,
+      90543
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        58
+      ]
+    ]
+  },
+  {
+    "id": 21905,
+    "quality": 26,
+    "part": "hand",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90551,
+      90552,
+      90553
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        58,
+        0
+      ]
+    ]
+  },
+  {
+    "id": 21906,
+    "quality": 26,
+    "part": "jewelry",
+    "smeltLv": 5,
+    "unlockLv": 190,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90561,
+      90562,
+      90563
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        29,
+        29
+      ]
+    ]
+  },
+  {
+    "id": 12001,
+    "quality": 26,
+    "part": "armor",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90611,
+      90612,
+      90613
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        64
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12002,
+    "quality": 26,
+    "part": "head",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90621,
+      90622,
+      90623
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        32,
+        32
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12003,
+    "quality": 26,
+    "part": "weapon",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90631,
+      90632,
+      90633
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        64,
+        0
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12004,
+    "quality": 26,
+    "part": "foot",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90641,
+      90642,
+      90643
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        0,
+        64
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12005,
+    "quality": 26,
+    "part": "hand",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90651,
+      90652,
+      90653
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        64,
+        0
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 12006,
+    "quality": 26,
+    "part": "jewelry",
+    "smeltLv": 6,
+    "unlockLv": 200,
+    "cost": {
+      "4": 6,
+      "5": 6
+    },
+    "qualityType": [
+      90661,
+      90662,
+      90663
+    ],
+    "qualityVaule": [
+      300,
+      300,
+      300
+    ],
+    "qualityCost": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "break",
+        "protect"
+      ],
+      [
+        32,
+        32
+      ]
+    ],
+    "close": 1
+  }
+]

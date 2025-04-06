@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "upgradeCost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      10,
+      5
+    ]
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "upgradeCost": [
+      [
+        3,
+        201
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      12,
+      6
+    ]
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "upgradeCost": [
+      [
+        3,
+        302
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      14,
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "upgradeCost": [
+      [
+        3,
+        403
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      16,
+      8
+    ]
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "upgradeCost": [
+      [
+        3,
+        504
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      18,
+      9
+    ]
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "upgradeCost": [
+      [
+        3,
+        605
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      20,
+      10
+    ]
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "upgradeCost": [
+      [
+        3,
+        706
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      22,
+      11
+    ]
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "upgradeCost": [
+      [
+        3,
+        807
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      24,
+      12
+    ]
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "upgradeCost": [
+      [
+        3,
+        908
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      26,
+      13
+    ]
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "upgradeCost": [
+      [
+        3,
+        1009
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      28,
+      14
+    ]
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "upgradeCost": [
+      [
+        3,
+        1110
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      30,
+      15
+    ]
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "upgradeCost": [
+      [
+        3,
+        1211
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      32,
+      16
+    ]
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "upgradeCost": [
+      [
+        3,
+        1312
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      34,
+      17
+    ]
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "upgradeCost": [
+      [
+        3,
+        1413
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      36,
+      18
+    ]
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "upgradeCost": [
+      [
+        3,
+        1514
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      38,
+      19
+    ]
+  },
+  {
+    "id": 16,
+    "level": 16,
+    "upgradeCost": [
+      [
+        3,
+        1615
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": 17,
+    "level": 17,
+    "upgradeCost": [
+      [
+        3,
+        1716
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      42,
+      21
+    ]
+  },
+  {
+    "id": 18,
+    "level": 18,
+    "upgradeCost": [
+      [
+        3,
+        1817
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      44,
+      22
+    ]
+  },
+  {
+    "id": 19,
+    "level": 19,
+    "upgradeCost": [
+      [
+        3,
+        1918
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      46,
+      23
+    ]
+  },
+  {
+    "id": 20,
+    "level": 20,
+    "upgradeCost": [
+      [
+        3,
+        2019
+      ]
+    ],
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      48,
+      24
+    ]
+  }
+]

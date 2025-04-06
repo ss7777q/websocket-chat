@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1001,
+    "name": "晴天",
+    "scale": 1
+  },
+  {
+    "id": 1002,
+    "name": "下雨",
+    "effect": "xiayu",
+    "scale": 1,
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "刮风",
+    "effect": "guafeng",
+    "scale": 1,
+    "size": [
+      1536,
+      1024
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "雷暴",
+    "effect": "xiayu",
+    "scale": 1,
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "沙尘",
+    "effect": "shachen",
+    "scale": 1,
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "下雪",
+    "effect": "xuetian",
+    "scale": 1,
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "大风",
+    "effect": "dafeng",
+    "scale": 1,
+    "size": [
+      1024,
+      1024
+    ]
+  }
+]

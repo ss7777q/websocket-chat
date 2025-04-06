@@ -1,0 +1,1553 @@
+[
+  {
+    "id": 502001,
+    "name": "雪鸟之羽",
+    "quality": 2,
+    "attributeAmount": 1,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      0,
+      30
+    ],
+    "qualityRange": {
+      "1": 24,
+      "2": 54
+    },
+    "sellCost": [
+      [
+        501000,
+        5
+      ]
+    ],
+    "nextId": 502002,
+    "nextLimit": [
+      1,
+      31
+    ],
+    "nextCost": [
+      [
+        502032,
+        6
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        2
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        3
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        6
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        3
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        6
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 502002,
+    "name": "蓝凫之羽",
+    "quality": 3,
+    "attributeAmount": 2,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      13,
+      60
+    ],
+    "qualityRange": {
+      "2": 54,
+      "3": 84
+    },
+    "sellCost": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "nextId": 502003,
+    "nextLimit": [
+      1,
+      61
+    ],
+    "nextCost": [
+      [
+        502033,
+        6
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        1
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        6
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        6
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        610
+      ],
+      [
+        30,
+        510
+      ]
+    ]
+  },
+  {
+    "id": 502003,
+    "name": "蓝凫之羽·上品",
+    "quality": 3,
+    "attributeAmount": 2,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      23,
+      70
+    ],
+    "qualityRange": {
+      "2": 54,
+      "3": 84
+    },
+    "sellCost": [
+      [
+        501000,
+        50
+      ]
+    ],
+    "nextId": 502004,
+    "nextLimit": [
+      1,
+      71
+    ],
+    "nextCost": [
+      [
+        502034,
+        6
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        1
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        6
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        6
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        610
+      ],
+      [
+        30,
+        510
+      ]
+    ]
+  },
+  {
+    "id": 502004,
+    "name": "蓝凫之羽·超品",
+    "quality": 3,
+    "attributeAmount": 2,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      33,
+      80
+    ],
+    "qualityRange": {
+      "2": 54,
+      "3": 84
+    },
+    "sellCost": [
+      [
+        501000,
+        75
+      ]
+    ],
+    "nextId": 502005,
+    "nextLimit": [
+      1,
+      81
+    ],
+    "nextCost": [
+      [
+        502042,
+        12
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        6
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        6
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        6
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        610
+      ],
+      [
+        30,
+        510
+      ]
+    ]
+  },
+  {
+    "id": 502005,
+    "name": "紫燕之羽",
+    "quality": 4,
+    "attributeAmount": 3,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      43,
+      90
+    ],
+    "qualityRange": {
+      "3": 84,
+      "4": 114
+    },
+    "sellCost": [
+      [
+        501000,
+        115
+      ]
+    ],
+    "nextId": 502006,
+    "nextLimit": [
+      1,
+      91
+    ],
+    "nextCost": [
+      [
+        502043,
+        12
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        3
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        24
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        24
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        2360
+      ],
+      [
+        30,
+        2260
+      ],
+      [
+        30,
+        1750
+      ]
+    ]
+  },
+  {
+    "id": 502006,
+    "name": "紫燕之羽·上品",
+    "quality": 4,
+    "attributeAmount": 3,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      53,
+      100
+    ],
+    "qualityRange": {
+      "3": 84,
+      "4": 114
+    },
+    "sellCost": [
+      [
+        501000,
+        165
+      ]
+    ],
+    "nextId": 502007,
+    "nextLimit": [
+      1,
+      101
+    ],
+    "nextCost": [
+      [
+        502044,
+        12
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        3
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        24
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        24
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        2360
+      ],
+      [
+        30,
+        2260
+      ],
+      [
+        30,
+        1750
+      ]
+    ]
+  },
+  {
+    "id": 502007,
+    "name": "紫燕之羽·超品",
+    "quality": 4,
+    "attributeAmount": 3,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      63,
+      110
+    ],
+    "qualityRange": {
+      "3": 84,
+      "4": 114
+    },
+    "sellCost": [
+      [
+        501000,
+        220
+      ]
+    ],
+    "nextId": 502008,
+    "nextLimit": [
+      1,
+      111
+    ],
+    "nextCost": [
+      [
+        502045,
+        18
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        8
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        24
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        12
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        24
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        2360
+      ],
+      [
+        30,
+        2260
+      ],
+      [
+        30,
+        1750
+      ]
+    ]
+  },
+  {
+    "id": 502008,
+    "name": "金鹏之羽",
+    "quality": 5,
+    "attributeAmount": 4,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      73,
+      120
+    ],
+    "qualityRange": {
+      "4": 114,
+      "5": 144
+    },
+    "sellCost": [
+      [
+        501000,
+        280
+      ]
+    ],
+    "nextId": 502009,
+    "nextLimit": [
+      1,
+      121
+    ],
+    "nextCost": [
+      [
+        502046,
+        18
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        4
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        40
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        40
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        5650
+      ],
+      [
+        30,
+        5550
+      ],
+      [
+        30,
+        5040
+      ],
+      [
+        30,
+        3290
+      ]
+    ]
+  },
+  {
+    "id": 502009,
+    "name": "金鹏之羽·上品",
+    "quality": 5,
+    "attributeAmount": 4,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      83,
+      130
+    ],
+    "qualityRange": {
+      "4": 114,
+      "5": 144
+    },
+    "sellCost": [
+      [
+        501000,
+        365
+      ]
+    ],
+    "nextId": 502010,
+    "nextLimit": [
+      1,
+      131
+    ],
+    "nextCost": [
+      [
+        502047,
+        18
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        4
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        40
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        40
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        5650
+      ],
+      [
+        30,
+        5550
+      ],
+      [
+        30,
+        5040
+      ],
+      [
+        30,
+        3290
+      ]
+    ]
+  },
+  {
+    "id": 502010,
+    "name": "金鹏之羽·超品",
+    "quality": 5,
+    "attributeAmount": 4,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      93,
+      140
+    ],
+    "qualityRange": {
+      "4": 114,
+      "5": 144
+    },
+    "sellCost": [
+      [
+        501000,
+        460
+      ]
+    ],
+    "nextId": 502011,
+    "nextLimit": [
+      1,
+      141
+    ],
+    "nextCost": [
+      [
+        502048,
+        24
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        10
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        40
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        40
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        5650
+      ],
+      [
+        30,
+        5550
+      ],
+      [
+        30,
+        5040
+      ],
+      [
+        30,
+        3290
+      ]
+    ]
+  },
+  {
+    "id": 502011,
+    "name": "彤鹤之羽",
+    "quality": 6,
+    "attributeAmount": 5,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      103,
+      150
+    ],
+    "qualityRange": {
+      "5": 144,
+      "6": 300
+    },
+    "sellCost": [
+      [
+        501000,
+        565
+      ]
+    ],
+    "nextId": 502012,
+    "nextLimit": [
+      1,
+      151
+    ],
+    "nextCost": [
+      [
+        502049,
+        24
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        5
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        60
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        60
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        11310
+      ],
+      [
+        30,
+        11210
+      ],
+      [
+        30,
+        10700
+      ],
+      [
+        30,
+        8950
+      ],
+      [
+        30,
+        5660
+      ]
+    ]
+  },
+  {
+    "id": 502012,
+    "name": "彤鹤之羽·上品",
+    "quality": 6,
+    "attributeAmount": 5,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      113,
+      160
+    ],
+    "qualityRange": {
+      "5": 144,
+      "6": 300
+    },
+    "sellCost": [
+      [
+        501000,
+        670
+      ]
+    ],
+    "nextId": 502013,
+    "nextLimit": [
+      1,
+      161
+    ],
+    "nextCost": [
+      [
+        502050,
+        24
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        5
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        60
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        60
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        11310
+      ],
+      [
+        30,
+        11210
+      ],
+      [
+        30,
+        10700
+      ],
+      [
+        30,
+        8950
+      ],
+      [
+        30,
+        5660
+      ]
+    ]
+  },
+  {
+    "id": 502013,
+    "name": "彤鹤之羽·超品",
+    "quality": 6,
+    "attributeAmount": 5,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      123,
+      170
+    ],
+    "qualityRange": {
+      "5": 144,
+      "6": 300
+    },
+    "sellCost": [
+      [
+        501000,
+        775
+      ]
+    ],
+    "nextId": 502014,
+    "nextLimit": [
+      1,
+      171
+    ],
+    "nextCost": [
+      [
+        502051,
+        30
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        12
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        60
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        30
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        60
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        11310
+      ],
+      [
+        30,
+        11210
+      ],
+      [
+        30,
+        10700
+      ],
+      [
+        30,
+        8950
+      ],
+      [
+        30,
+        5660
+      ]
+    ]
+  },
+  {
+    "id": 502014,
+    "name": "黑鹏之羽",
+    "quality": 6,
+    "attributeAmount": 5,
+    "attributeType": [
+      "hp",
+      "atk",
+      "def",
+      "healHp",
+      "mp",
+      "healMp",
+      "hitVal",
+      "dodge",
+      "crit",
+      "tenacity",
+      "lucky",
+      "guardian",
+      "break",
+      "protect"
+    ],
+    "attributeValue": [
+      123,
+      170
+    ],
+    "qualityRange": {
+      "5": 144,
+      "6": 300
+    },
+    "sellCost": [
+      [
+        501000,
+        775
+      ]
+    ],
+    "nextId": 502015,
+    "nextLimit": [
+      1,
+      181
+    ],
+    "nextCost": [
+      [
+        502052,
+        30
+      ]
+    ],
+    "moneyCost": [
+      [
+        502030,
+        12
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        501000,
+        40
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        501000,
+        80
+      ]
+    ],
+    "fixedCost": [
+      [
+        501000,
+        40
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        501000,
+        80
+      ]
+    ],
+    "typeBaptizeCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "typefixedCost": [
+      [
+        501000,
+        720
+      ]
+    ],
+    "pointChangeCost": [
+      [
+        501000,
+        36800
+      ]
+    ],
+    "valuefixedCostLuck": [
+      [
+        30,
+        11310
+      ],
+      [
+        30,
+        11210
+      ],
+      [
+        30,
+        10700
+      ],
+      [
+        30,
+        8950
+      ],
+      [
+        30,
+        5660
+      ]
+    ],
+    "close": 1
+  }
+]

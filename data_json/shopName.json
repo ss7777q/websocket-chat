@@ -1,0 +1,262 @@
+[
+  {
+    "id": "money",
+    "name": "点券商店"
+  },
+  {
+    "id": "exchange",
+    "name": "兑换商店"
+  },
+  {
+    "id": "black",
+    "name": "黑市商店"
+  },
+  {
+    "id": "secret",
+    "name": "神秘商店"
+  },
+  {
+    "id": "league",
+    "name": "联盟商店"
+  },
+  {
+    "id": "stone",
+    "name": "宝石商店"
+  },
+  {
+    "id": "xianwei",
+    "name": "仙位商店"
+  },
+  {
+    "id": "yuanbao",
+    "name": "元宝商店"
+  },
+  {
+    "id": "douchong",
+    "name": "斗宠商店"
+  },
+  {
+    "id": "zhanchang",
+    "name": "战场商店"
+  },
+  {
+    "id": "tongyong",
+    "name": "通用商店"
+  },
+  {
+    "id": "kunlun",
+    "name": "昆仑商店"
+  },
+  {
+    "id": "gods01",
+    "name": "盛典商店"
+  },
+  {
+    "id": "qixi",
+    "name": "七夕商店"
+  },
+  {
+    "id": "gm",
+    "name": "汪汪商店"
+  },
+  {
+    "id": "zhongqiu",
+    "name": "中秋商店"
+  },
+  {
+    "id": "denggao",
+    "name": "重阳商店"
+  },
+  {
+    "id": "shengdan",
+    "name": "圣诞商店"
+  },
+  {
+    "id": "xinchun",
+    "name": "新春商店"
+  },
+  {
+    "id": "yuanxiao",
+    "name": "元宵商店"
+  },
+  {
+    "id": "doushen",
+    "name": "乱斗商店"
+  },
+  {
+    "id": "pantao",
+    "name": "蟠桃商店"
+  },
+  {
+    "id": "yuren",
+    "name": "愚人商店"
+  },
+  {
+    "id": "laodong",
+    "name": "五一商店"
+  },
+  {
+    "id": "huigui",
+    "name": "回归商店"
+  },
+  {
+    "id": "duanwu",
+    "name": "端午商店"
+  },
+  {
+    "id": "zhanshen",
+    "name": "战神商店"
+  },
+  {
+    "id": "zaomeng",
+    "name": "造梦商店"
+  },
+  {
+    "id": "zhongyuan",
+    "name": "中元商店"
+  },
+  {
+    "id": "zhuanji",
+    "name": "传记商店"
+  },
+  {
+    "id": "tehui",
+    "name": "特惠商店"
+  },
+  {
+    "id": "timeshop",
+    "name": "时光商店"
+  },
+  {
+    "id": "achievement",
+    "name": "成就商店"
+  },
+  {
+    "id": "recharge",
+    "name": "充值商店"
+  },
+  {
+    "id": "oldpCoin",
+    "name": "老玩家商店"
+  },
+  {
+    "id": "tongqu",
+    "name": "童趣商店"
+  },
+  {
+    "id": "pantaohui",
+    "name": "蟠桃会商店"
+  },
+  {
+    "id": "xianmo",
+    "name": "仙魔商店"
+  },
+  {
+    "id": "dimai",
+    "name": "地脉商店"
+  },
+  {
+    "id": "fashion",
+    "name": "时装商店"
+  },
+  {
+    "id": "qixing",
+    "name": "七星商店"
+  },
+  {
+    "id": "chengzhang",
+    "name": "成长商店"
+  },
+  {
+    "id": "gods00",
+    "name": "盛典商店"
+  },
+  {
+    "id": "gods02",
+    "name": "盛典商店"
+  },
+  {
+    "id": "gods03",
+    "name": "盛典商店"
+  },
+  {
+    "id": "yiwen",
+    "name": "轶闻商店"
+  },
+  {
+    "id": "saveWW",
+    "name": "汪汪商店"
+  },
+  {
+    "id": "shejian",
+    "name": "踏青商店"
+  },
+  {
+    "id": "yufu",
+    "name": "捕鱼商店"
+  },
+  {
+    "id": "kuanggong",
+    "name": "矿工商店"
+  },
+  {
+    "id": "plantGarden",
+    "name": "花园商店"
+  },
+  {
+    "id": "teshu",
+    "name": "特殊商店"
+  },
+  {
+    "id": "caishen",
+    "name": "财神商店"
+  },
+  {
+    "id": "teacher",
+    "name": "白玉商店"
+  },
+  {
+    "id": "rechargeCycle",
+    "name": "宝藏商店"
+  },
+  {
+    "id": "shimeng",
+    "name": "周边小屋"
+  },
+  {
+    "id": "petChampion",
+    "name": "万兽商店"
+  },
+  {
+    "id": "vip",
+    "name": "至尊商店"
+  },
+  {
+    "id": "newPlayerExp",
+    "name": "历练商店"
+  },
+  {
+    "id": "worldCup",
+    "name": "球王商店"
+  },
+  {
+    "id": "qiyu",
+    "name": "奇遇商店"
+  },
+  {
+    "id": "demonizedForest",
+    "name": "异变商店"
+  },
+  {
+    "id": "huoyue",
+    "name": "活跃商店"
+  },
+  {
+    "id": "wansheng",
+    "name": "万圣商店"
+  },
+  {
+    "id": "ganenhuikui",
+    "name": "感恩回馈"
+  }
+]

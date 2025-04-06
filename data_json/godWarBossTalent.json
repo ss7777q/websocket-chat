@@ -1,0 +1,1826 @@
+[
+  {
+    "id": 1001001,
+    "talentGroup": 1001,
+    "sort": 1001,
+    "talentGroupId": 2,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10010100,
+      10010101,
+      10010102
+    ],
+    "icon": "tianfu1001",
+    "talentName": "坐骑猎手",
+    "talentText": "魔王对坐骑伤害提升15%，命中提升5%"
+  },
+  {
+    "id": 1001002,
+    "talentGroup": 1001,
+    "sort": 1001,
+    "talentGroupId": 2,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010100,
+      10010101,
+      10010102
+    ],
+    "icon": "tianfu1001",
+    "talentName": "坐骑猎手",
+    "talentText": "魔王对坐骑伤害提升18%，命中提升6%"
+  },
+  {
+    "id": 1001003,
+    "talentGroup": 1001,
+    "sort": 1001,
+    "talentGroupId": 2,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010100,
+      10010101,
+      10010102
+    ],
+    "icon": "tianfu1001",
+    "talentName": "坐骑猎手",
+    "talentText": "魔王对坐骑伤害提升21%，命中提升7%"
+  },
+  {
+    "id": 1001004,
+    "talentGroup": 1001,
+    "sort": 1001,
+    "talentGroupId": 2,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010100,
+      10010101,
+      10010102
+    ],
+    "icon": "tianfu1001",
+    "talentName": "坐骑猎手",
+    "talentText": "魔王对坐骑伤害提升24%，命中提升8%"
+  },
+  {
+    "id": 1001005,
+    "talentGroup": 1001,
+    "sort": 1001,
+    "talentGroupId": 2,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010100,
+      10010101,
+      10010102
+    ],
+    "icon": "tianfu1001",
+    "talentName": "坐骑猎手",
+    "talentText": "魔王对坐骑伤害提升27%，命中提升9%"
+  },
+  {
+    "id": 1001006,
+    "talentGroup": 1001,
+    "sort": 1001,
+    "talentGroupId": 2,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010100,
+      10010101,
+      10010102
+    ],
+    "icon": "tianfu1001",
+    "talentName": "坐骑猎手",
+    "talentText": "魔王对坐骑伤害提升30%，命中提升10%"
+  },
+  {
+    "id": 1002001,
+    "talentGroup": 1002,
+    "sort": 1002,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10010200,
+      10010201,
+      10010202
+    ],
+    "icon": "tianfu1002",
+    "talentName": "水中追击",
+    "talentText": "魔王水中移动速度提升5%，水中造成伤害提升5%"
+  },
+  {
+    "id": 1002002,
+    "talentGroup": 1002,
+    "sort": 1002,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010200,
+      10010201,
+      10010202
+    ],
+    "icon": "tianfu1002",
+    "talentName": "水中追击",
+    "talentText": "魔王水中移动速度提升6%，水中造成伤害提升6%"
+  },
+  {
+    "id": 1002003,
+    "talentGroup": 1002,
+    "sort": 1002,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010200,
+      10010201,
+      10010202
+    ],
+    "icon": "tianfu1002",
+    "talentName": "水中追击",
+    "talentText": "魔王水中移动速度提升7%，水中造成伤害提升7%"
+  },
+  {
+    "id": 1002004,
+    "talentGroup": 1002,
+    "sort": 1002,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010200,
+      10010201,
+      10010202
+    ],
+    "icon": "tianfu1002",
+    "talentName": "水中追击",
+    "talentText": "魔王水中移动速度提升8%，水中造成伤害提升8%"
+  },
+  {
+    "id": 1002005,
+    "talentGroup": 1002,
+    "sort": 1002,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010200,
+      10010201,
+      10010202
+    ],
+    "icon": "tianfu1002",
+    "talentName": "水中追击",
+    "talentText": "魔王水中移动速度提升9%，水中造成伤害提升9%"
+  },
+  {
+    "id": 1002006,
+    "talentGroup": 1002,
+    "sort": 1002,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010200,
+      10010201,
+      10010202
+    ],
+    "icon": "tianfu1002",
+    "talentName": "水中追击",
+    "talentText": "魔王水中移动速度提升10%，水中造成伤害提升10%"
+  },
+  {
+    "id": 1003001,
+    "talentGroup": 1003,
+    "sort": 1003,
+    "talentGroupId": 2,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 750,
+    "beskillId": [
+      10010301
+    ],
+    "icon": "tianfu1003",
+    "talentName": "法宝抑制",
+    "talentText": "使神将法宝的冷却时间延长7.5秒"
+  },
+  {
+    "id": 1003002,
+    "talentGroup": 1003,
+    "sort": 1003,
+    "talentGroupId": 2,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010301
+    ],
+    "icon": "tianfu1003",
+    "talentName": "法宝抑制",
+    "talentText": "使神将法宝的冷却时间延长9秒"
+  },
+  {
+    "id": 1003003,
+    "talentGroup": 1003,
+    "sort": 1003,
+    "talentGroupId": 2,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010301
+    ],
+    "icon": "tianfu1003",
+    "talentName": "法宝抑制",
+    "talentText": "使神将法宝的冷却时间延长10.5秒"
+  },
+  {
+    "id": 1003004,
+    "talentGroup": 1003,
+    "sort": 1003,
+    "talentGroupId": 2,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010301
+    ],
+    "icon": "tianfu1003",
+    "talentName": "法宝抑制",
+    "talentText": "使神将法宝的冷却时间延长12秒"
+  },
+  {
+    "id": 1003005,
+    "talentGroup": 1003,
+    "sort": 1003,
+    "talentGroupId": 2,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010301
+    ],
+    "icon": "tianfu1003",
+    "talentName": "法宝抑制",
+    "talentText": "使神将法宝的冷却时间延长13.5秒"
+  },
+  {
+    "id": 1003006,
+    "talentGroup": 1003,
+    "sort": 1003,
+    "talentGroupId": 2,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010301
+    ],
+    "icon": "tianfu1003",
+    "talentName": "法宝抑制",
+    "talentText": "使神将法宝的冷却时间延长15秒"
+  },
+  {
+    "id": 1004001,
+    "talentGroup": 1004,
+    "sort": 1004,
+    "talentGroupId": 1,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10010400,
+      10010401
+    ],
+    "icon": "tianfu1004",
+    "talentName": "复生诅咒",
+    "talentText": "使神将以灵魂状态被救治后生命和魔法下降5%+灵魂状态损失生命比的20%"
+  },
+  {
+    "id": 1004002,
+    "talentGroup": 1004,
+    "sort": 1004,
+    "talentGroupId": 1,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010400,
+      10010401
+    ],
+    "icon": "tianfu1004",
+    "talentName": "复生诅咒",
+    "talentText": "使神将以灵魂状态被救治后生命和魔法下降6%+灵魂状态损失生命比的24%"
+  },
+  {
+    "id": 1004003,
+    "talentGroup": 1004,
+    "sort": 1004,
+    "talentGroupId": 1,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010400,
+      10010401
+    ],
+    "icon": "tianfu1004",
+    "talentName": "复生诅咒",
+    "talentText": "使神将以灵魂状态被救治后生命和魔法下降7%+灵魂状态损失生命比的28%"
+  },
+  {
+    "id": 1004004,
+    "talentGroup": 1004,
+    "sort": 1004,
+    "talentGroupId": 1,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010400,
+      10010401
+    ],
+    "icon": "tianfu1004",
+    "talentName": "复生诅咒",
+    "talentText": "使神将以灵魂状态被救治后生命和魔法下降8%+灵魂状态损失生命比的32%"
+  },
+  {
+    "id": 1004005,
+    "talentGroup": 1004,
+    "sort": 1004,
+    "talentGroupId": 1,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010400,
+      10010401
+    ],
+    "icon": "tianfu1004",
+    "talentName": "复生诅咒",
+    "talentText": "使神将以灵魂状态被救治后生命和魔法下降9%+灵魂状态损失生命比的36%"
+  },
+  {
+    "id": 1004006,
+    "talentGroup": 1004,
+    "sort": 1004,
+    "talentGroupId": 1,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010400,
+      10010401
+    ],
+    "icon": "tianfu1004",
+    "talentName": "复生诅咒",
+    "talentText": "使神将以灵魂状态被救治后生命和魔法下降10%+灵魂状态损失生命比的40%"
+  },
+  {
+    "id": 1005001,
+    "talentGroup": 1005,
+    "sort": 1005,
+    "talentGroupId": 3,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 750,
+    "beskillId": [
+      10010501
+    ],
+    "icon": "tianfu1005",
+    "talentName": "撕裂伤口",
+    "talentText": "神将的回血属性下降15%，治疗效果下降10%"
+  },
+  {
+    "id": 1005002,
+    "talentGroup": 1005,
+    "sort": 1005,
+    "talentGroupId": 3,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010501
+    ],
+    "icon": "tianfu1005",
+    "talentName": "撕裂伤口",
+    "talentText": "神将的回血属性下降18%，治疗效果下降12%"
+  },
+  {
+    "id": 1005003,
+    "talentGroup": 1005,
+    "sort": 1005,
+    "talentGroupId": 3,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010501
+    ],
+    "icon": "tianfu1005",
+    "talentName": "撕裂伤口",
+    "talentText": "神将的回血属性下降21%，治疗效果下降14%"
+  },
+  {
+    "id": 1005004,
+    "talentGroup": 1005,
+    "sort": 1005,
+    "talentGroupId": 3,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010501
+    ],
+    "icon": "tianfu1005",
+    "talentName": "撕裂伤口",
+    "talentText": "神将的回血属性下降24%，治疗效果下降16%"
+  },
+  {
+    "id": 1005005,
+    "talentGroup": 1005,
+    "sort": 1005,
+    "talentGroupId": 3,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010501
+    ],
+    "icon": "tianfu1005",
+    "talentName": "撕裂伤口",
+    "talentText": "神将的回血属性下降27%，治疗效果下降18%"
+  },
+  {
+    "id": 1005006,
+    "talentGroup": 1005,
+    "sort": 1005,
+    "talentGroupId": 3,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10010501
+    ],
+    "icon": "tianfu1005",
+    "talentName": "撕裂伤口",
+    "talentText": "神将的回血属性下降30%，治疗效果下降20%"
+  },
+  {
+    "id": 1006001,
+    "talentGroup": 1006,
+    "sort": 1006,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10010600,
+      10010601
+    ],
+    "icon": "tianfu1006",
+    "talentName": "霸王体魄",
+    "talentText": "魔王倒地起身后获得5秒的超级霸体：免疫击飞，伤害减免10%",
+    "close": 1
+  },
+  {
+    "id": 1006002,
+    "talentGroup": 1006,
+    "sort": 1006,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010600,
+      10010601
+    ],
+    "icon": "tianfu1006",
+    "talentName": "霸王体魄",
+    "talentText": "魔王倒地起身后获得6秒的超级霸体：免疫击飞，伤害减免10%",
+    "close": 1
+  },
+  {
+    "id": 1006003,
+    "talentGroup": 1006,
+    "sort": 1006,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010600,
+      10010601
+    ],
+    "icon": "tianfu1006",
+    "talentName": "霸王体魄",
+    "talentText": "魔王倒地起身后获得7秒的超级霸体：免疫击飞，伤害减免10%",
+    "close": 1
+  },
+  {
+    "id": 1006004,
+    "talentGroup": 1006,
+    "sort": 1006,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010600,
+      10010601
+    ],
+    "icon": "tianfu1006",
+    "talentName": "霸王体魄",
+    "talentText": "魔王倒地起身后获得8秒的超级霸体：免疫击飞，伤害减免10%",
+    "close": 1
+  },
+  {
+    "id": 1006005,
+    "talentGroup": 1006,
+    "sort": 1006,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010600,
+      10010601
+    ],
+    "icon": "tianfu1006",
+    "talentName": "霸王体魄",
+    "talentText": "魔王倒地起身后获得9秒的超级霸体：免疫击飞，伤害减免10%",
+    "close": 1
+  },
+  {
+    "id": 1006006,
+    "talentGroup": 1006,
+    "sort": 1006,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010600,
+      10010601
+    ],
+    "icon": "tianfu1006",
+    "talentName": "霸王体魄",
+    "talentText": "魔王倒地起身后获得10秒的超级霸体：免疫击飞，伤害减免10%",
+    "close": 1
+  },
+  {
+    "id": 1007001,
+    "talentGroup": 1007,
+    "sort": 1007,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10010700,
+      10010701
+    ],
+    "icon": "tianfu1007",
+    "talentName": "疾行专精",
+    "talentText": "魔王疾行的冷却时间降低15%"
+  },
+  {
+    "id": 1007002,
+    "talentGroup": 1007,
+    "sort": 1007,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010700,
+      10010701
+    ],
+    "icon": "tianfu1007",
+    "talentName": "疾行专精",
+    "talentText": "魔王疾行的冷却时间降低18%"
+  },
+  {
+    "id": 1007003,
+    "talentGroup": 1007,
+    "sort": 1007,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010700,
+      10010701
+    ],
+    "icon": "tianfu1007",
+    "talentName": "疾行专精",
+    "talentText": "魔王疾行的冷却时间降低21%"
+  },
+  {
+    "id": 1007004,
+    "talentGroup": 1007,
+    "sort": 1007,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010700,
+      10010701
+    ],
+    "icon": "tianfu1007",
+    "talentName": "疾行专精",
+    "talentText": "魔王疾行的冷却时间降低24%"
+  },
+  {
+    "id": 1007005,
+    "talentGroup": 1007,
+    "sort": 1007,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010700,
+      10010701
+    ],
+    "icon": "tianfu1007",
+    "talentName": "疾行专精",
+    "talentText": "魔王疾行的冷却时间降低27%"
+  },
+  {
+    "id": 1007006,
+    "talentGroup": 1007,
+    "sort": 1007,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010700,
+      10010701
+    ],
+    "icon": "tianfu1007",
+    "talentName": "疾行专精",
+    "talentText": "魔王疾行的冷却时间降低30%"
+  },
+  {
+    "id": 1008001,
+    "talentGroup": 1008,
+    "sort": 1008,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10010800,
+      10010801
+    ],
+    "icon": "tianfu1008",
+    "talentName": "飞跃专精",
+    "talentText": "天魔之跃的冷却时间降低18%"
+  },
+  {
+    "id": 1008002,
+    "talentGroup": 1008,
+    "sort": 1008,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010800,
+      10010801
+    ],
+    "icon": "tianfu1008",
+    "talentName": "飞跃专精",
+    "talentText": "天魔之跃的冷却时间降低21.6%"
+  },
+  {
+    "id": 1008003,
+    "talentGroup": 1008,
+    "sort": 1008,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010800,
+      10010801
+    ],
+    "icon": "tianfu1008",
+    "talentName": "飞跃专精",
+    "talentText": "天魔之跃的冷却时间降低25.2%"
+  },
+  {
+    "id": 1008004,
+    "talentGroup": 1008,
+    "sort": 1008,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010800,
+      10010801
+    ],
+    "icon": "tianfu1008",
+    "talentName": "飞跃专精",
+    "talentText": "天魔之跃的冷却时间降低28.8%"
+  },
+  {
+    "id": 1008005,
+    "talentGroup": 1008,
+    "sort": 1008,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010800,
+      10010801
+    ],
+    "icon": "tianfu1008",
+    "talentName": "飞跃专精",
+    "talentText": "天魔之跃的冷却时间降低32.4%"
+  },
+  {
+    "id": 1008006,
+    "talentGroup": 1008,
+    "sort": 1008,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010800,
+      10010801
+    ],
+    "icon": "tianfu1008",
+    "talentName": "飞跃专精",
+    "talentText": "天魔之跃的冷却时间降低36%"
+  },
+  {
+    "id": 1009001,
+    "talentGroup": 1009,
+    "sort": 1009,
+    "talentGroupId": 1,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10010900,
+      10010901
+    ],
+    "icon": "tianfu1009",
+    "talentName": "中立猎手",
+    "talentText": "魔王对中立怪物造成伤害时，附加每秒3%的生命流失，持续2秒，不可叠加"
+  },
+  {
+    "id": 1009002,
+    "talentGroup": 1009,
+    "sort": 1009,
+    "talentGroupId": 1,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010900,
+      10010901
+    ],
+    "icon": "tianfu1009",
+    "talentName": "中立猎手",
+    "talentText": "魔王对中立怪物造成伤害时，附加每秒3.6%的生命流失，持续2秒，不可叠加"
+  },
+  {
+    "id": 1009003,
+    "talentGroup": 1009,
+    "sort": 1009,
+    "talentGroupId": 1,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010900,
+      10010901
+    ],
+    "icon": "tianfu1009",
+    "talentName": "中立猎手",
+    "talentText": "魔王对中立怪物造成伤害时，附加每秒4.2%的生命流失，持续2秒，不可叠加"
+  },
+  {
+    "id": 1009004,
+    "talentGroup": 1009,
+    "sort": 1009,
+    "talentGroupId": 1,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010900,
+      10010901
+    ],
+    "icon": "tianfu1009",
+    "talentName": "中立猎手",
+    "talentText": "魔王对中立怪物造成伤害时，附加每秒4.8%的生命流失，持续2秒，不可叠加"
+  },
+  {
+    "id": 1009005,
+    "talentGroup": 1009,
+    "sort": 1009,
+    "talentGroupId": 1,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010900,
+      10010901
+    ],
+    "icon": "tianfu1009",
+    "talentName": "中立猎手",
+    "talentText": "魔王对中立怪物造成伤害时，附加每秒5.4%的生命流失，持续2秒，不可叠加"
+  },
+  {
+    "id": 1009006,
+    "talentGroup": 1009,
+    "sort": 1009,
+    "talentGroupId": 1,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10010900,
+      10010901
+    ],
+    "icon": "tianfu1009",
+    "talentName": "中立猎手",
+    "talentText": "魔王对中立怪物造成伤害时，附加每秒6%的生命流失，持续2秒，不可叠加"
+  },
+  {
+    "id": 1010001,
+    "talentGroup": 1010,
+    "sort": 1010,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 750,
+    "beskillId": [
+      10011200,
+      10011201
+    ],
+    "icon": "tianfu1010",
+    "talentName": "长驱直入",
+    "talentText": "周围无神将时，移速提升7.5%（飞行状态效果减半）"
+  },
+  {
+    "id": 1010002,
+    "talentGroup": 1010,
+    "sort": 1010,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10011200,
+      10011202
+    ],
+    "icon": "tianfu1010",
+    "talentName": "长驱直入",
+    "talentText": "周围无神将时，移速提升9%（飞行状态效果减半）"
+  },
+  {
+    "id": 1010003,
+    "talentGroup": 1010,
+    "sort": 1010,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10011200,
+      10011203
+    ],
+    "icon": "tianfu1010",
+    "talentName": "长驱直入",
+    "talentText": "周围无神将时，移速提升10.5%（飞行状态效果减半）"
+  },
+  {
+    "id": 1010004,
+    "talentGroup": 1010,
+    "sort": 1010,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10011200,
+      10011204
+    ],
+    "icon": "tianfu1010",
+    "talentName": "长驱直入",
+    "talentText": "周围无神将时，移速提升12%（飞行状态效果减半）"
+  },
+  {
+    "id": 1010005,
+    "talentGroup": 1010,
+    "sort": 1010,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10011200,
+      10011205
+    ],
+    "icon": "tianfu1010",
+    "talentName": "长驱直入",
+    "talentText": "周围无神将时，移速提升13.5%（飞行状态效果减半）"
+  },
+  {
+    "id": 1010006,
+    "talentGroup": 1010,
+    "sort": 1010,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10011200,
+      10011206
+    ],
+    "icon": "tianfu1010",
+    "talentName": "长驱直入",
+    "talentText": "周围无神将时，移速提升15%（飞行状态效果减半）"
+  },
+  {
+    "id": 1011001,
+    "talentGroup": 1011,
+    "sort": 1011,
+    "talentGroupId": 2,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10012000,
+      10012001
+    ],
+    "icon": "tianfu1011",
+    "talentName": "视野共享",
+    "talentText": "召唤物周围神将显示在小地图中（左450单位，右450单位，上400单位，下200单位）"
+  },
+  {
+    "id": 1011002,
+    "talentGroup": 1011,
+    "sort": 1011,
+    "talentGroupId": 2,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10012000,
+      10012001
+    ],
+    "icon": "tianfu1011",
+    "talentName": "视野共享",
+    "talentText": "召唤物周围神将显示在小地图中（左500单位，右500单位，上450单位，下250单位）"
+  },
+  {
+    "id": 1011003,
+    "talentGroup": 1011,
+    "sort": 1011,
+    "talentGroupId": 2,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10012000,
+      10012001
+    ],
+    "icon": "tianfu1011",
+    "talentName": "视野共享",
+    "talentText": "召唤物周围神将显示在小地图中（左550单位，右550单位，上500单位，下300单位）"
+  },
+  {
+    "id": 1011004,
+    "talentGroup": 1011,
+    "sort": 1011,
+    "talentGroupId": 2,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10012000,
+      10012001
+    ],
+    "icon": "tianfu1011",
+    "talentName": "视野共享",
+    "talentText": "召唤物周围神将显示在小地图中（左600单位，右600单位，上550单位，下350单位）"
+  },
+  {
+    "id": 1011005,
+    "talentGroup": 1011,
+    "sort": 1011,
+    "talentGroupId": 2,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10012000,
+      10012001
+    ],
+    "icon": "tianfu1011",
+    "talentName": "视野共享",
+    "talentText": "召唤物周围神将显示在小地图中（左650单位，右650单位，上600单位，下400单位）"
+  },
+  {
+    "id": 1011006,
+    "talentGroup": 1011,
+    "sort": 1011,
+    "talentGroupId": 2,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10012000,
+      10012001
+    ],
+    "icon": "tianfu1011",
+    "talentName": "视野共享",
+    "talentText": "召唤物周围神将显示在小地图中（左700单位，右700单位，上650单位，下450单位）"
+  },
+  {
+    "id": 1012001,
+    "talentGroup": 1012,
+    "sort": 1012,
+    "talentGroupId": 3,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 750,
+    "beskillId": [
+      10013000,
+      10013001
+    ],
+    "icon": "tianfu1012",
+    "talentName": "绝地反击",
+    "talentText": "神将采集晶石进度每提升10%，移动速度和造成的伤害提升0.5%"
+  },
+  {
+    "id": 1012002,
+    "talentGroup": 1012,
+    "sort": 1012,
+    "talentGroupId": 3,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10013000,
+      10013001
+    ],
+    "icon": "tianfu1012",
+    "talentName": "绝地反击",
+    "talentText": "神将采集晶石进度每提升10%，移动速度和造成的伤害提升0.6%"
+  },
+  {
+    "id": 1012003,
+    "talentGroup": 1012,
+    "sort": 1012,
+    "talentGroupId": 3,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10013000,
+      10013001
+    ],
+    "icon": "tianfu1012",
+    "talentName": "绝地反击",
+    "talentText": "神将采集晶石进度每提升10%，移动速度和造成的伤害提升0.7%"
+  },
+  {
+    "id": 1012004,
+    "talentGroup": 1012,
+    "sort": 1012,
+    "talentGroupId": 3,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10013000,
+      10013001
+    ],
+    "icon": "tianfu1012",
+    "talentName": "绝地反击",
+    "talentText": "神将采集晶石进度每提升10%，移动速度和造成的伤害提升0.8%"
+  },
+  {
+    "id": 1012005,
+    "talentGroup": 1012,
+    "sort": 1012,
+    "talentGroupId": 3,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10013000,
+      10013001
+    ],
+    "icon": "tianfu1012",
+    "talentName": "绝地反击",
+    "talentText": "神将采集晶石进度每提升10%，移动速度和造成的伤害提升0.9%"
+  },
+  {
+    "id": 1012006,
+    "talentGroup": 1012,
+    "sort": 1012,
+    "talentGroupId": 3,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10013000,
+      10013001
+    ],
+    "icon": "tianfu1012",
+    "talentName": "绝地反击",
+    "talentText": "神将采集晶石进度每提升10%，移动速度和造成的伤害提升1%"
+  },
+  {
+    "id": 1013001,
+    "talentGroup": 1013,
+    "sort": 1013,
+    "talentGroupId": 1,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 500,
+    "beskillId": [
+      10014000,
+      10014001,
+      10014002,
+      10014003
+    ],
+    "icon": "tianfu1013",
+    "talentName": "迅捷专精",
+    "talentText": "魔王疾行的冷却时间下降（15%）,天魔之跃的冷却时间下降（18%）,横行霸道的冷却时间下降（10%）"
+  },
+  {
+    "id": 1013002,
+    "talentGroup": 1013,
+    "sort": 1013,
+    "talentGroupId": 1,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10014000,
+      10014001,
+      10014002,
+      10014003
+    ],
+    "icon": "tianfu1013",
+    "talentName": "迅捷专精",
+    "talentText": "魔王疾行的冷却时间下降（18%）,天魔之跃的冷却时间下降（21.6%）,横行霸道的冷却时间下降（12%）"
+  },
+  {
+    "id": 1013003,
+    "talentGroup": 1013,
+    "sort": 1013,
+    "talentGroupId": 1,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10014000,
+      10014001,
+      10014002,
+      10014003
+    ],
+    "icon": "tianfu1013",
+    "talentName": "迅捷专精",
+    "talentText": "魔王疾行的冷却时间下降（21%）,天魔之跃的冷却时间下降（25.2%）,横行霸道的冷却时间下降（14%）"
+  },
+  {
+    "id": 1013004,
+    "talentGroup": 1013,
+    "sort": 1013,
+    "talentGroupId": 1,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10014000,
+      10014001,
+      10014002,
+      10014003
+    ],
+    "icon": "tianfu1013",
+    "talentName": "迅捷专精",
+    "talentText": "魔王疾行的冷却时间下降（24%）,天魔之跃的冷却时间下降（28.8%）,横行霸道的冷却时间下降（16%）"
+  },
+  {
+    "id": 1013005,
+    "talentGroup": 1013,
+    "sort": 1013,
+    "talentGroupId": 1,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10014000,
+      10014001,
+      10014002,
+      10014003
+    ],
+    "icon": "tianfu1013",
+    "talentName": "迅捷专精",
+    "talentText": "魔王疾行的冷却时间下降（27%）,天魔之跃的冷却时间下降（32.4%）,横行霸道的冷却时间下降（18%）"
+  },
+  {
+    "id": 1013006,
+    "talentGroup": 1013,
+    "sort": 1013,
+    "talentGroupId": 1,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 100,
+    "beskillId": [
+      10014000,
+      10014001,
+      10014002,
+      10014003
+    ],
+    "icon": "tianfu1013",
+    "talentName": "迅捷专精",
+    "talentText": "魔王疾行的冷却时间下降（30%）,天魔之跃的冷却时间下降（36%）,横行霸道的冷却时间下降（20%）"
+  },
+  {
+    "id": 1014001,
+    "talentGroup": 1014,
+    "sort": 1014,
+    "talentGroupId": 4,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 750,
+    "beskillId": [
+      10015000,
+      10015001
+    ],
+    "icon": "tianfu1014",
+    "talentName": "坐骑抑制",
+    "talentText": "坐骑死亡或收起后，将被冻结22.5秒，无法恢复疲劳值，体力星级较高坐骑冻结时间将会减少"
+  },
+  {
+    "id": 1014002,
+    "talentGroup": 1014,
+    "sort": 1014,
+    "talentGroupId": 4,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10015000,
+      10015001
+    ],
+    "icon": "tianfu1014",
+    "talentName": "坐骑抑制",
+    "talentText": "坐骑死亡或收起后，将被冻结27秒，无法恢复疲劳值，体力星级较高坐骑冻结时间将会减少"
+  },
+  {
+    "id": 1014003,
+    "talentGroup": 1014,
+    "sort": 1014,
+    "talentGroupId": 4,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10015000,
+      10015001
+    ],
+    "icon": "tianfu1014",
+    "talentName": "坐骑抑制",
+    "talentText": "坐骑死亡或收起后，将被冻结31.5秒，无法恢复疲劳值，体力星级较高坐骑冻结时间将会减少"
+  },
+  {
+    "id": 1014004,
+    "talentGroup": 1014,
+    "sort": 1014,
+    "talentGroupId": 4,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10015000,
+      10015001
+    ],
+    "icon": "tianfu1014",
+    "talentName": "坐骑抑制",
+    "talentText": "坐骑死亡或收起后，将被冻结36秒，无法恢复疲劳值，体力星级较高坐骑冻结时间将会减少"
+  },
+  {
+    "id": 1014005,
+    "talentGroup": 1014,
+    "sort": 1014,
+    "talentGroupId": 4,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10015000,
+      10015001
+    ],
+    "icon": "tianfu1014",
+    "talentName": "坐骑抑制",
+    "talentText": "坐骑死亡或收起后，将被冻结40.5秒，无法恢复疲劳值，体力星级较高坐骑冻结时间将会减少"
+  },
+  {
+    "id": 1014006,
+    "talentGroup": 1014,
+    "sort": 1014,
+    "talentGroupId": 4,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10015000,
+      10015001
+    ],
+    "icon": "tianfu1014",
+    "talentName": "坐骑抑制",
+    "talentText": "坐骑死亡或收起后，将被冻结45秒，无法恢复疲劳值，体力星级较高坐骑冻结时间将会减少"
+  },
+  {
+    "id": 1015001,
+    "talentGroup": 1015,
+    "sort": 1015,
+    "talentGroupId": 4,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 750,
+    "beskillId": [
+      10016000,
+      10016001
+    ],
+    "icon": "tianfu1015",
+    "talentName": "坚固矿脉",
+    "talentText": "矿脉减伤提升6.2%"
+  },
+  {
+    "id": 1015002,
+    "talentGroup": 1015,
+    "sort": 1015,
+    "talentGroupId": 4,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10016000,
+      10016002
+    ],
+    "icon": "tianfu1015",
+    "talentName": "坚固矿脉",
+    "talentText": "矿脉减伤提升7.3%"
+  },
+  {
+    "id": 1015003,
+    "talentGroup": 1015,
+    "sort": 1015,
+    "talentGroupId": 4,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10016000,
+      10016003
+    ],
+    "icon": "tianfu1015",
+    "talentName": "坚固矿脉",
+    "talentText": "矿脉减伤提升8.4%"
+  },
+  {
+    "id": 1015004,
+    "talentGroup": 1015,
+    "sort": 1015,
+    "talentGroupId": 4,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10016000,
+      10016004
+    ],
+    "icon": "tianfu1015",
+    "talentName": "坚固矿脉",
+    "talentText": "矿脉减伤提升9.5%"
+  },
+  {
+    "id": 1015005,
+    "talentGroup": 1015,
+    "sort": 1015,
+    "talentGroupId": 4,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10016000,
+      10016005
+    ],
+    "icon": "tianfu1015",
+    "talentName": "坚固矿脉",
+    "talentText": "矿脉减伤提升10.6%"
+  },
+  {
+    "id": 1015006,
+    "talentGroup": 1015,
+    "sort": 1015,
+    "talentGroupId": 4,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10016000,
+      10016006
+    ],
+    "icon": "tianfu1015",
+    "talentName": "坚固矿脉",
+    "talentText": "矿脉减伤提升11.7%"
+  },
+  {
+    "id": 1016001,
+    "talentGroup": 1016,
+    "sort": 1016,
+    "talentGroupId": 4,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 750,
+    "beskillId": [
+      10017000,
+      10017001,
+      10017002
+    ],
+    "icon": "tianfu1016",
+    "talentName": "魔棘尖刺",
+    "talentText": "使魔王或灵石矿每受到一定生命上限的伤害时长出魔棘尖刺，反弹受到的12%伤害。灵石矿每受到20%伤害时发动，持续5秒；魔王每受到40%伤害时发动，持续2.5秒"
+  },
+  {
+    "id": 1016002,
+    "talentGroup": 1016,
+    "sort": 1016,
+    "talentGroupId": 4,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10017000,
+      10017003,
+      10017004
+    ],
+    "icon": "tianfu1016",
+    "talentName": "魔棘尖刺",
+    "talentText": "使魔王或灵石矿每受到一定生命上限的伤害时长出魔棘尖刺，反弹受到的12%伤害。灵石矿每受到20%伤害时发动，持续6秒；魔王每受到40%伤害时发动，持续3秒"
+  },
+  {
+    "id": 1016003,
+    "talentGroup": 1016,
+    "sort": 1016,
+    "talentGroupId": 4,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10017000,
+      10017005,
+      10017006
+    ],
+    "icon": "tianfu1016",
+    "talentName": "魔棘尖刺",
+    "talentText": "使魔王或灵石矿每受到一定生命上限的伤害时长出魔棘尖刺，反弹受到的12%伤害。灵石矿每受到20%伤害时发动，持续7秒；魔王每受到40%伤害时发动，持续3.5秒"
+  },
+  {
+    "id": 1016004,
+    "talentGroup": 1016,
+    "sort": 1016,
+    "talentGroupId": 4,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10017000,
+      10017007,
+      10017008
+    ],
+    "icon": "tianfu1016",
+    "talentName": "魔棘尖刺",
+    "talentText": "使魔王或灵石矿每受到一定生命上限的伤害时长出魔棘尖刺，反弹受到的12%伤害。灵石矿每受到20%伤害时发动，持续8秒；魔王每受到40%伤害时发动，持续4秒"
+  },
+  {
+    "id": 1016005,
+    "talentGroup": 1016,
+    "sort": 1016,
+    "talentGroupId": 4,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10017000,
+      10017009,
+      10017010
+    ],
+    "icon": "tianfu1016",
+    "talentName": "魔棘尖刺",
+    "talentText": "使魔王或灵石矿每受到一定生命上限的伤害时长出魔棘尖刺，反弹受到的12%伤害。灵石矿每受到20%伤害时发动，持续9秒；魔王每受到40%伤害时发动，持续4.5秒"
+  },
+  {
+    "id": 1016006,
+    "talentGroup": 1016,
+    "sort": 1016,
+    "talentGroupId": 4,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10017000,
+      10017011,
+      10017012
+    ],
+    "icon": "tianfu1016",
+    "talentName": "魔棘尖刺",
+    "talentText": "使魔王或灵石矿每受到一定生命上限的伤害时长出魔棘尖刺，反弹受到的12%伤害。灵石矿每受到20%伤害时发动，持续10秒；魔王每受到40%伤害时发动，持续5秒"
+  },
+  {
+    "id": 1017001,
+    "talentGroup": 1017,
+    "sort": 1017,
+    "talentGroupId": 3,
+    "talentLevel": 1,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 750,
+    "beskillId": [
+      10019001
+    ],
+    "icon": "tianfu1017",
+    "talentName": "抗性强化",
+    "talentText": "控制、抓取、强攻抗性的持续时间增加10%"
+  },
+  {
+    "id": 1017002,
+    "talentGroup": 1017,
+    "sort": 1017,
+    "talentGroupId": 3,
+    "talentLevel": 2,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10019001
+    ],
+    "icon": "tianfu1017",
+    "talentName": "抗性强化",
+    "talentText": "控制、抓取、强攻抗性的持续时间增加12%"
+  },
+  {
+    "id": 1017003,
+    "talentGroup": 1017,
+    "sort": 1017,
+    "talentGroupId": 3,
+    "talentLevel": 3,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10019001
+    ],
+    "icon": "tianfu1017",
+    "talentName": "抗性强化",
+    "talentText": "控制、抓取、强攻抗性的持续时间增加14%"
+  },
+  {
+    "id": 1017004,
+    "talentGroup": 1017,
+    "sort": 1017,
+    "talentGroupId": 3,
+    "talentLevel": 4,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10019001
+    ],
+    "icon": "tianfu1017",
+    "talentName": "抗性强化",
+    "talentText": "控制、抓取、强攻抗性的持续时间增加16%"
+  },
+  {
+    "id": 1017005,
+    "talentGroup": 1017,
+    "sort": 1017,
+    "talentGroupId": 3,
+    "talentLevel": 5,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10019001
+    ],
+    "icon": "tianfu1017",
+    "talentName": "抗性强化",
+    "talentText": "控制、抓取、强攻抗性的持续时间增加18%"
+  },
+  {
+    "id": 1017006,
+    "talentGroup": 1017,
+    "sort": 1017,
+    "talentGroupId": 3,
+    "talentLevel": 6,
+    "godWarStage": [
+      2
+    ],
+    "talentCost": 150,
+    "beskillId": [
+      10019001
+    ],
+    "icon": "tianfu1017",
+    "talentName": "抗性强化",
+    "talentText": "控制、抓取、强攻抗性的持续时间增加20%"
+  }
+]

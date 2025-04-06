@@ -1,0 +1,3234 @@
+[
+  {
+    "id": 1,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "rechargeGift": [
+      [
+        40,
+        [
+          [
+            1003,
+            2
+          ],
+          [
+            1005,
+            8
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            1002,
+            2
+          ],
+          [
+            453115,
+            1
+          ]
+        ]
+      ],
+      [
+        60,
+        [
+          [
+            1019,
+            2
+          ],
+          [
+            1020,
+            1
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            1002,
+            2
+          ],
+          [
+            454115,
+            1
+          ]
+        ]
+      ],
+      [
+        80,
+        [
+          [
+            1019,
+            2
+          ],
+          [
+            1020,
+            1
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            455115,
+            1
+          ],
+          [
+            409991,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 202,
+    "type": 1,
+    "resetType": 2,
+    "times": 1,
+    "startTime": 1607392800000,
+    "endTime": 1607875200000,
+    "effect": "caishenye2"
+  },
+  {
+    "id": 2,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        20
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "rechargeGift": [
+      [
+        40,
+        [
+          [
+            1003,
+            2
+          ],
+          [
+            1005,
+            8
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            1002,
+            2
+          ],
+          [
+            453115,
+            1
+          ]
+        ]
+      ],
+      [
+        60,
+        [
+          [
+            1019,
+            2
+          ],
+          [
+            1020,
+            1
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            1002,
+            2
+          ],
+          [
+            454115,
+            1
+          ]
+        ]
+      ],
+      [
+        80,
+        [
+          [
+            1019,
+            2
+          ],
+          [
+            1020,
+            1
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            455115,
+            1
+          ],
+          [
+            409991,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 202,
+    "type": 1,
+    "resetType": 2,
+    "times": 1,
+    "startTime": 1607875200000,
+    "endTime": 1608480000000,
+    "effect": "caishenye2"
+  },
+  {
+    "id": 101,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        20
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "rechargeGift": [
+      [
+        40,
+        [
+          [
+            1003,
+            2
+          ],
+          [
+            1005,
+            8
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            1002,
+            2
+          ],
+          [
+            453115,
+            1
+          ]
+        ]
+      ],
+      [
+        60,
+        [
+          [
+            4311,
+            17
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            1002,
+            2
+          ],
+          [
+            454115,
+            1
+          ]
+        ]
+      ],
+      [
+        300,
+        [
+          [
+            4311,
+            17
+          ],
+          [
+            9000004,
+            1
+          ],
+          [
+            455115,
+            1
+          ],
+          [
+            409991,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 202,
+    "type": 1,
+    "resetType": 2,
+    "times": 1,
+    "startTime": 1608307200000,
+    "endTime": 1612713600000,
+    "picture": "buyDirectly_8",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 102,
+    "sort": 3,
+    "limitType": [
+      [
+        1,
+        200
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            1100,
+            1
+          ],
+          [
+            410004,
+            1
+          ],
+          [
+            450006,
+            1
+          ],
+          [
+            409991,
+            1
+          ],
+          [
+            9000004,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 202,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1612713600000,
+    "endTime": 1705247999000,
+    "picture": "rechargeActivity081",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 201,
+    "sort": 3,
+    "limitType": [
+      [
+        1,
+        20
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            1005,
+            10
+          ],
+          [
+            1002,
+            2
+          ],
+          [
+            1015,
+            2
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 203,
+    "type": 1,
+    "resetType": 1,
+    "times": 1,
+    "startTime": 1612713600000,
+    "endTime": 1612713700000,
+    "picture": "rechargeActivity031",
+    "effect": "caishenye1"
+  },
+  {
+    "id": 202,
+    "sort": 4,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            1002,
+            1
+          ],
+          [
+            1005,
+            5
+          ],
+          [
+            1015,
+            1
+          ],
+          [
+            1004,
+            2
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 204,
+    "type": 1,
+    "resetType": 1,
+    "times": 2,
+    "startTime": 1612713600000,
+    "endTime": 8016595199000,
+    "picture": "rechargeActivity031",
+    "effect": "caishenye2",
+    "discount": 300
+  },
+  {
+    "id": 205,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            480249,
+            1
+          ],
+          [
+            2,
+            600
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 205,
+    "type": 1,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1685376000000,
+    "endTime": 1685894399000,
+    "picture": "rechargeActivity2051"
+  },
+  {
+    "id": 206,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        20
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            410055,
+            1
+          ],
+          [
+            11302,
+            7
+          ],
+          [
+            501201,
+            1
+          ],
+          [
+            9000006,
+            1
+          ],
+          [
+            1002,
+            5
+          ],
+          [
+            2,
+            3000
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 206,
+    "type": 1,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1685376000000,
+    "endTime": 1685894399000,
+    "picture": "rechargeActivity206"
+  },
+  {
+    "id": 207,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        [
+          20,
+          60
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            1100,
+            1
+          ],
+          [
+            410054,
+            1
+          ],
+          [
+            456115,
+            1
+          ],
+          [
+            409991,
+            1
+          ],
+          [
+            9000004,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 202,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1612713600000,
+    "endTime": 8016595199000,
+    "picture": "rechargeActivity091",
+    "effect": "caishenye2",
+    "discount": 450,
+    "pointText": "当玩家等级超过60级时下架"
+  },
+  {
+    "id": 208,
+    "sort": 6,
+    "limitType": [
+      [
+        1,
+        [
+          61
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            15
+          ],
+          [
+            4311,
+            17
+          ],
+          [
+            410055,
+            1
+          ],
+          [
+            1030,
+            1
+          ],
+          [
+            9000004,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 208,
+    "type": 1,
+    "resetType": 2,
+    "times": 1,
+    "startTime": 1612713600000,
+    "endTime": 8016595199000,
+    "picture": "rechargeActivity081",
+    "effect": "caishenye2",
+    "discount": 350
+  },
+  {
+    "id": 209,
+    "sort": 6,
+    "limitType": [
+      [
+        1,
+        [
+          61
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            480052,
+            80
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 209,
+    "type": 1,
+    "resetType": 2,
+    "times": 1,
+    "startTime": 1612713600000,
+    "endTime": 1705247999000,
+    "picture": "rechargeActivity101",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 210,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            190060310,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 207,
+    "type": 1,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1706133600000,
+    "endTime": 1708531199000,
+    "picture": "rechargeActivity210",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 211,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            10
+          ],
+          [
+            410055,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 210,
+    "type": 1,
+    "resetType": 0,
+    "times": 5,
+    "startTime": 1715788800000,
+    "endTime": 1717084799000,
+    "picture": "rechargeActivity213",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      98,
+      99,
+      101,
+      102,
+      999
+    ]
+  },
+  {
+    "id": 212,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            40
+          ],
+          [
+            1100,
+            3
+          ],
+          [
+            410055,
+            2
+          ],
+          [
+            9000006,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 211,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1715788800000,
+    "endTime": 1717084799000,
+    "picture": "rechargeActivity214",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      98,
+      99,
+      101,
+      102,
+      999
+    ]
+  },
+  {
+    "id": 213,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            10
+          ],
+          [
+            410054,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 212,
+    "type": 1,
+    "resetType": 0,
+    "times": 5,
+    "startTime": 1715788800000,
+    "endTime": 1717084799000,
+    "picture": "rechargeActivity211",
+    "effect": "caishenye2",
+    "openDistrict": [
+      23,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 214,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            20
+          ],
+          [
+            1100,
+            3
+          ],
+          [
+            410055,
+            1
+          ],
+          [
+            9000006,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 213,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1715788800000,
+    "endTime": 1717084799000,
+    "picture": "rechargeActivity212",
+    "effect": "caishenye2",
+    "openDistrict": [
+      23,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 215,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            20
+          ],
+          [
+            410055,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 214,
+    "type": 1,
+    "resetType": 0,
+    "times": 5,
+    "startTime": 1717020000000,
+    "endTime": 1718553599000,
+    "picture": "rechargeActivity215",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      98,
+      99,
+      101,
+      102,
+      999
+    ]
+  },
+  {
+    "id": 216,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            40
+          ],
+          [
+            410055,
+            2
+          ],
+          [
+            9000006,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 215,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1717020000000,
+    "endTime": 1718553599000,
+    "picture": "rechargeActivity216",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      98,
+      99,
+      101,
+      102,
+      999
+    ]
+  },
+  {
+    "id": 217,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            10
+          ],
+          [
+            410054,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 216,
+    "type": 1,
+    "resetType": 0,
+    "times": 5,
+    "startTime": 1717020000000,
+    "endTime": 1718553599000,
+    "picture": "rechargeActivity217",
+    "effect": "caishenye2",
+    "openDistrict": [
+      23,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 218,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            20
+          ],
+          [
+            410055,
+            2
+          ],
+          [
+            9000006,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 217,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1717020000000,
+    "endTime": 1718553599000,
+    "picture": "rechargeActivity218",
+    "effect": "caishenye2",
+    "openDistrict": [
+      23,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 219,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            480385,
+            3
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 218,
+    "type": 1,
+    "resetType": 2,
+    "times": 7,
+    "startTime": 1718553600000,
+    "endTime": 1719763199000,
+    "picture": "rechargeActivity219",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 220,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        [
+          1,
+          60
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            11,
+            50
+          ],
+          [
+            1103,
+            40
+          ],
+          [
+            1002,
+            2
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 219,
+    "type": 1,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1730908800000,
+    "endTime": 1732723199000,
+    "picture": "rechargeActivity220",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 221,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        [
+          1,
+          60
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            2,
+            600
+          ],
+          [
+            456115,
+            1
+          ],
+          [
+            480349,
+            1
+          ],
+          [
+            1002,
+            3
+          ],
+          [
+            1103,
+            50
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 220,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1730908800000,
+    "endTime": 1732723199000,
+    "picture": "rechargeActivity221",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 222,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        [
+          1,
+          60
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            2,
+            1500
+          ],
+          [
+            480349,
+            2
+          ],
+          [
+            410054,
+            1
+          ],
+          [
+            456115,
+            1
+          ],
+          [
+            1002,
+            5
+          ],
+          [
+            1103,
+            100
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 221,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1730908800000,
+    "endTime": 1732723199000,
+    "picture": "rechargeActivity222",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 223,
+    "sort": 4,
+    "limitType": [
+      [
+        3,
+        [
+          102002111
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            80
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 223,
+    "type": 1,
+    "resetType": 2,
+    "times": 4,
+    "startTime": 1612713600000,
+    "endTime": 1724601598000,
+    "picture": "rechargeActivity223",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 224,
+    "sort": 4,
+    "limitType": [
+      [
+        3,
+        [
+          102002111
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            15
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 223,
+    "type": 1,
+    "resetType": 2,
+    "times": 4,
+    "startTime": 1612713600000,
+    "endTime": 1723996798000,
+    "picture": "rechargeActivity223",
+    "effect": "caishenye2",
+    "openDistrict": [
+      24,
+      98,
+      101,
+      102,
+      999
+    ]
+  },
+  {
+    "id": 225,
+    "sort": 4,
+    "limitType": [
+      [
+        3,
+        [
+          102002111
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            18
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 223,
+    "type": 1,
+    "resetType": 2,
+    "times": 4,
+    "startTime": 1723996800000,
+    "endTime": 1724601598000,
+    "picture": "rechargeActivity223",
+    "effect": "caishenye2",
+    "openDistrict": [
+      24,
+      98,
+      101,
+      102,
+      999
+    ]
+  },
+  {
+    "id": 226,
+    "sort": 7,
+    "limitType": [
+      [
+        3,
+        [
+          102002111
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        69,
+        [
+          [
+            8989998,
+            9
+          ]
+        ]
+      ],
+      [
+        79,
+        [
+          [
+            8989998,
+            11
+          ]
+        ]
+      ],
+      [
+        89,
+        [
+          [
+            8989998,
+            13
+          ]
+        ]
+      ],
+      [
+        99,
+        [
+          [
+            8989998,
+            15
+          ]
+        ]
+      ],
+      [
+        109,
+        [
+          [
+            8989998,
+            18
+          ]
+        ]
+      ],
+      [
+        119,
+        [
+          [
+            8989998,
+            22
+          ]
+        ]
+      ],
+      [
+        129,
+        [
+          [
+            8989998,
+            28
+          ]
+        ]
+      ],
+      [
+        139,
+        [
+          [
+            8989998,
+            37
+          ]
+        ]
+      ],
+      [
+        149,
+        [
+          [
+            8989998,
+            45
+          ]
+        ]
+      ],
+      [
+        159,
+        [
+          [
+            8989998,
+            56
+          ]
+        ]
+      ],
+      [
+        169,
+        [
+          [
+            8989998,
+            65
+          ]
+        ]
+      ],
+      [
+        300,
+        [
+          [
+            8989998,
+            80
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 223,
+    "type": 1,
+    "resetType": 2,
+    "times": 4,
+    "startTime": 1724601600000,
+    "endTime": 8016595199000,
+    "picture": "rechargeActivity223",
+    "effect": "caishenye2",
+    "pointText": "神灵石数量跟随世界等级变化（每周一0点更新）"
+  },
+  {
+    "id": 227,
+    "sort": 4,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            25
+          ],
+          [
+            410055,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 214,
+    "type": 1,
+    "resetType": 0,
+    "times": 5,
+    "startTime": 1724860800000,
+    "endTime": 1708531199000,
+    "picture": "rechargeActivity224",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      98,
+      99,
+      101,
+      102,
+      999
+    ]
+  },
+  {
+    "id": 228,
+    "sort": 4,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            50
+          ],
+          [
+            410055,
+            2
+          ],
+          [
+            9000006,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 215,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1724860800000,
+    "endTime": 1708531199000,
+    "picture": "rechargeActivity225",
+    "effect": "caishenye2",
+    "openDistrict": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      98,
+      99,
+      101,
+      102,
+      999
+    ]
+  },
+  {
+    "id": 229,
+    "sort": 3,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            10
+          ],
+          [
+            410054,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 216,
+    "type": 1,
+    "resetType": 0,
+    "times": 5,
+    "startTime": 1724860800000,
+    "endTime": 1708531199000,
+    "picture": "rechargeActivity224",
+    "effect": "caishenye2",
+    "openDistrict": [
+      24,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 230,
+    "sort": 3,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            8989998,
+            20
+          ],
+          [
+            410055,
+            2
+          ],
+          [
+            9000006,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 217,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1724860800000,
+    "endTime": 1708531199000,
+    "picture": "rechargeActivity225",
+    "effect": "caishenye2",
+    "openDistrict": [
+      24,
+      98,
+      99,
+      100,
+      101,
+      999
+    ]
+  },
+  {
+    "id": 231,
+    "sort": 2,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            1,
+            100
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 225,
+    "type": 1,
+    "resetType": 5,
+    "times": 1,
+    "startTime": 1724601600000,
+    "endTime": 1731340799000,
+    "picture": "rechargeActivity226",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 232,
+    "sort": 5,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            2,
+            300
+          ],
+          [
+            1011,
+            1
+          ],
+          [
+            1002,
+            2
+          ],
+          [
+            1005,
+            15
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 226,
+    "type": 1,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1724601600000,
+    "endTime": 8016595199000,
+    "picture": "rechargeActivity224",
+    "effect": "caishenye2",
+    "discount": 450
+  },
+  {
+    "id": 233,
+    "sort": 5,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            2,
+            1200
+          ],
+          [
+            501002,
+            1
+          ],
+          [
+            501201,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 205,
+    "type": 1,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1724601600000,
+    "endTime": 8016595199000,
+    "picture": "rechargeActivity225",
+    "effect": "caishenye2",
+    "discount": 500
+  },
+  {
+    "id": 234,
+    "sort": 3,
+    "limitType": [
+      [
+        1,
+        [
+          1,
+          60
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            11,
+            50
+          ],
+          [
+            1103,
+            40
+          ],
+          [
+            1002,
+            2
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 219,
+    "type": 1,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1730908800000,
+    "endTime": 1732723199000,
+    "picture": "rechargeActivity220",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 235,
+    "sort": 3,
+    "limitType": [
+      [
+        1,
+        [
+          1,
+          60
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            2,
+            600
+          ],
+          [
+            456115,
+            1
+          ],
+          [
+            480349,
+            1
+          ],
+          [
+            1002,
+            3
+          ],
+          [
+            1103,
+            50
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 220,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1730908800000,
+    "endTime": 1732723199000,
+    "picture": "rechargeActivity221",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 236,
+    "sort": 3,
+    "limitType": [
+      [
+        1,
+        [
+          1,
+          60
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            2,
+            1500
+          ],
+          [
+            480349,
+            2
+          ],
+          [
+            410054,
+            1
+          ],
+          [
+            456115,
+            1
+          ],
+          [
+            1002,
+            5
+          ],
+          [
+            1103,
+            100
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 221,
+    "type": 1,
+    "resetType": 0,
+    "times": 2,
+    "startTime": 1730908800000,
+    "endTime": 1732723199000,
+    "picture": "rechargeActivity222",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 237,
+    "sort": 3,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            1,
+            100
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 225,
+    "type": 1,
+    "resetType": 5,
+    "times": 1,
+    "startTime": 1724601600000,
+    "endTime": 8016595199000,
+    "picture": "rechargeActivity226",
+    "effect": "caishenye2",
+    "discount": 500
+  },
+  {
+    "id": 238,
+    "sort": 3,
+    "limitType": [],
+    "rechargeId": 227,
+    "type": 1,
+    "activityId": 2000401,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1737648000000,
+    "endTime": 1740758399000
+  },
+  {
+    "id": 239,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            190060312,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 207,
+    "type": 1,
+    "resetType": 0,
+    "times": 1,
+    "startTime": 1737561600000,
+    "endTime": 1740585599000,
+    "picture": "rechargeActivity239",
+    "effect": "caishenye2",
+    "discount": 1000
+  },
+  {
+    "id": 240,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          30
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            42,
+            14400
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 228,
+    "type": 1,
+    "resetType": 2,
+    "times": 10,
+    "startTime": 1737561600000,
+    "endTime": 1742140799000,
+    "picture": "rechargeActivity240",
+    "effect": "caishenye2"
+  },
+  {
+    "id": 241,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          30
+        ]
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            10701,
+            100
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 229,
+    "type": 1,
+    "resetType": 2,
+    "times": 1,
+    "startTime": 1739376000000,
+    "endTime": 1740585599000,
+    "picture": "rechargeActivity241",
+    "effect": "caishenye2",
+    "discount": 300
+  },
+  {
+    "id": 301,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            410055,
+            1
+          ],
+          [
+            480052,
+            26
+          ],
+          [
+            9000006,
+            1
+          ],
+          [
+            19,
+            1000
+          ],
+          [
+            2,
+            500
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 301,
+    "type": 1,
+    "activityId": 1000123,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 302,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ]
+    ],
+    "rechargeId": 302,
+    "type": 1,
+    "activityId": 1100002,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 303,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ]
+    ],
+    "rechargeId": 303,
+    "type": 1,
+    "activityId": 1100003,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 304,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ]
+    ],
+    "rechargeId": 304,
+    "type": 1,
+    "activityId": 1100004,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 305,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ]
+    ],
+    "rechargeId": 305,
+    "type": 1,
+    "activityId": 1100005,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 306,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ]
+    ],
+    "rechargeId": 306,
+    "type": 1,
+    "activityId": 1100006,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 401,
+    "sort": 1,
+    "limitType": [],
+    "rechargeGift": [],
+    "rechargeId": 401,
+    "type": 2,
+    "activityId": 201,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 402,
+    "sort": 1,
+    "limitType": [],
+    "rechargeGift": [],
+    "rechargeId": 402,
+    "type": 2,
+    "activityId": 202,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 403,
+    "sort": 1,
+    "limitType": [],
+    "rechargeGift": [],
+    "rechargeId": 403,
+    "type": 2,
+    "activityId": 203,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 404,
+    "sort": 1,
+    "limitType": [],
+    "rechargeGift": [],
+    "rechargeId": 404,
+    "type": 2,
+    "activityId": 204,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 405,
+    "sort": 1,
+    "limitType": [],
+    "rechargeGift": [],
+    "rechargeId": 405,
+    "type": 2,
+    "activityId": 205,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 406,
+    "sort": 1,
+    "limitType": [],
+    "rechargeGift": [],
+    "rechargeId": 406,
+    "type": 2,
+    "activityId": 206,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 407,
+    "sort": 1,
+    "limitType": [],
+    "rechargeGift": [],
+    "rechargeId": 407,
+    "type": 2,
+    "activityId": 207,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 408,
+    "sort": 1,
+    "limitType": [],
+    "rechargeGift": [],
+    "rechargeId": 408,
+    "type": 2,
+    "activityId": 208,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 501,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        20
+      ]
+    ],
+    "rechargeGift": [
+      [
+        300,
+        [
+          [
+            421041,
+            1
+          ],
+          [
+            421042,
+            1
+          ],
+          [
+            421043,
+            1
+          ],
+          [
+            421044,
+            1
+          ],
+          [
+            421045,
+            1
+          ],
+          [
+            421046,
+            1
+          ],
+          [
+            480450,
+            1
+          ],
+          [
+            2204084,
+            1
+          ],
+          [
+            2300554,
+            1
+          ]
+        ]
+      ]
+    ],
+    "rechargeId": 501,
+    "type": 1,
+    "activityId": 1001001,
+    "resetType": 3,
+    "times": 1
+  },
+  {
+    "id": 10101,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10101,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10111
+    ],
+    "rechargeId": 10111,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/02/01 00:00:00",
+    "endTime": "2025/02/15 23:59:59",
+    "picture": "bg_lichun",
+    "discount": "减负超值礼包",
+    "title": "title_lichun",
+    "text": "立春，为二十四节气之首。立，是“开始”之意；春，代表着温暖、生长。立春标志着万物闭藏的冬季已过去，开始进入风和日暖、万物生长的春季。立春日时令饮食是作春饼、赠春盘、食春菜等饮食之俗，春饼是一种薄面饼，取生菜、果品、饼、糖等置于盘中，取迎新之意，时称“春盘”，也可赠送亲友品尝。"
+  },
+  {
+    "id": 10201,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10201,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10211
+    ],
+    "rechargeId": 10211,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/02/16 00:00:00",
+    "endTime": "2025/03/01 23:59:59",
+    "picture": "bg_yushui",
+    "discount": "减负超值礼包",
+    "title": "title_yushui",
+    "text": "雨水，是二十四节气中的第2个节气。雨水节气的含义是降雨开始，降雨量级多以小雨或毛毛细雨为主。俗话说“春雨贵如油”，适宜的降水对农作物的生长很重要。部分地区会有接寿的习俗，用砂锅炖猪脚和雪山大豆、海带，用红纸、红绳封了罐口，给岳父岳母送去。"
+  },
+  {
+    "id": 10301,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10301,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10311
+    ],
+    "rechargeId": 10311,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/03/02 00:00:00",
+    "endTime": "2025/03/16 23:59:59",
+    "picture": "bg_jingzhe",
+    "discount": "减负超值礼包",
+    "title": "title_jingzhe",
+    "text": "惊蛰，是二十四节气中的第3个节气。惊蛰反映的是自然生物受节律变化影响而出现萌发生长的现象。时至惊蛰，阳气上升、气温回暖、春雷乍动、雨水增多，万物生机盎然。惊蛰节气，乍暖还寒，气候比较干燥，容易感到口干舌燥，身体不舒服。因此在民间素有惊蛰吃梨的风俗习惯。"
+  },
+  {
+    "id": 10401,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10401,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10411
+    ],
+    "rechargeId": 10411,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/03/17 00:00:00",
+    "endTime": "2025/04/01 23:59:59",
+    "picture": "bg_chunfen",
+    "discount": "减负超值礼包",
+    "title": "title_chunfen",
+    "text": "春分，是二十四节气中的第4个节气。春分后，气候温和，雨水充沛，阳光明媚。春分时节，中国民间有放风筝、吃春菜、立蛋等风俗。岭南四邑有“春分吃春菜”之习俗。“春菜”是一种野苋菜，从田野中采摘回来的春菜一般与鱼片“滚汤”，名曰“春汤”。"
+  },
+  {
+    "id": 10501,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10501,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10511
+    ],
+    "rechargeId": 10511,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/04/02 00:00:00",
+    "endTime": "2025/04/16 23:59:59",
+    "picture": "bg_qingming",
+    "discount": "减负超值礼包",
+    "title": "title_qingming",
+    "text": "清明，是二十四节气中的第5个节气。清明节兼具自然与人文两大内涵，既是自然节气点，也是传统节日，扫墓祭祖与踏青郊游是清明节的两大礼俗主题，这两大传统礼俗主题在中国自古传承，至今不辍。"
+  },
+  {
+    "id": 10601,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10601,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10611
+    ],
+    "rechargeId": 10611,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/04/17 00:00:00",
+    "endTime": "2025/05/02 23:59:59",
+    "picture": "bg_guyu",
+    "discount": "减负超值礼包",
+    "title": "title_guyu",
+    "text": "谷雨，是二十四节气中的第6个节气。谷雨取自“雨生百谷”之意。中国南方地区，往往开始明显多雨。秦岭—淮河是南方春雨和北方春旱区之间的过渡地区，从秦岭-淮河附近向北，春雨急剧减少。在北方地区，谷雨是“终霜”的象征。"
+  },
+  {
+    "id": 10701,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10701,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10711
+    ],
+    "rechargeId": 10711,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/05/03 00:00:00",
+    "endTime": "2025/05/18 23:59:59",
+    "picture": "bg_lixia",
+    "discount": "减负超值礼包",
+    "title": "title_lixia",
+    "text": "立夏，是二十四节气中的第7个节气。立夏表示告别春天，是夏天的开始，因此又称“春尽日”。立夏时节，中国只有南岭以南地区呈现“绿树阴浓夏日长，楼台倒影入池塘”的夏季景象；而东北和西北的部分地区这时则刚刚有春天的气息。"
+  },
+  {
+    "id": 10801,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10801,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10811
+    ],
+    "rechargeId": 10811,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/05/19 00:00:00",
+    "endTime": "2025/06/02 23:59:59",
+    "picture": "bg_xiaoman",
+    "discount": "减负超值礼包",
+    "title": "title_xiaoman",
+    "text": "小满，是二十四节气中的第8个节气。小满期间南方暴雨增多，降水频繁；民谚云“小满小满，江河渐满”，“满”指雨水之盈。在北方地区小满节气期间降雨较少甚至无雨，这个“满”不是指降水，而是指小麦的饱满程度。"
+  },
+  {
+    "id": 10901,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 10901,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      10911
+    ],
+    "rechargeId": 10911,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/06/03 00:00:00",
+    "endTime": "2025/06/18 23:59:59",
+    "picture": "bg_mangzhong",
+    "discount": "减负超值礼包",
+    "title": "title_mangzhong",
+    "text": "芒种，是二十四节气中的第9个节气。农历书说：“斗指巳为芒种，此时可种有芒之谷，过此即失效，故名芒种也。”意思是讲，芒种节气适合种植有芒的谷类作物；其也是种植农作物时机的分界点，过此即失效。"
+  },
+  {
+    "id": 11001,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11001,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11011
+    ],
+    "rechargeId": 11011,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/06/19 00:00:00",
+    "endTime": "2025/07/04 23:59:59",
+    "picture": "bg_xiazhi",
+    "discount": "减负超值礼包",
+    "title": "title_xiazhi",
+    "text": "夏至，是二十四节气中的第10个节气。气温高、湿度大、不时出现雷阵雨，是夏至后的天气特点。夏至古时也是民间“四时八节”中的一个节日，自古民间有在夏至拜神祭祖的习俗。"
+  },
+  {
+    "id": 11101,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11101,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11111
+    ],
+    "rechargeId": 11111,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/07/05 00:00:00",
+    "endTime": "2025/07/19 23:59:59",
+    "picture": "bg_xiaoshu",
+    "discount": "减负超值礼包",
+    "title": "title_xiaoshu",
+    "text": "小暑，是二十四节气中的第11个节气。在过去中国南方地区民间有小暑“食新”习俗。在北方地区有头伏吃饺子的传统，伏日人们食欲不振，往往比常日消瘦，俗谓之苦夏，而饺子在传统习俗里正是开胃解馋的食物。"
+  },
+  {
+    "id": 11201,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11201,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11211
+    ],
+    "rechargeId": 11211,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/07/20 00:00:00",
+    "endTime": "2025/08/03 23:59:59",
+    "picture": "bg_dashu",
+    "discount": "减负超值礼包",
+    "title": "title_dashu",
+    "text": "大暑，是二十四节气中的第12个节气。自古以来，民间有大暑三伏天饮凉茶（伏茶）的习俗；伏茶顾名思义，是三伏天饮的茶，这种由中草药煮成的茶水有清凉祛暑的作用。此外，还有烧伏香、晒伏姜等习俗。"
+  },
+  {
+    "id": 11301,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11301,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11311
+    ],
+    "rechargeId": 11311,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/08/04 00:00:00",
+    "endTime": "2025/08/18 23:59:59",
+    "picture": "bg_liqiu",
+    "discount": "减负超值礼包",
+    "title": "title_liqiu",
+    "text": "立秋，是二十四节气中的第13个节气。从立秋开始，阳气渐收，万物内敛。立秋与立春、立夏、立冬并称“四立”，也是古时“四时八节”之一。秋天是禾谷成熟、收获的季节。立秋时，古时民间有祭祀土地神，庆祝丰收的习俗。"
+  },
+  {
+    "id": 11401,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11401,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11411
+    ],
+    "rechargeId": 11411,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/08/19 00:00:00",
+    "endTime": "2025/09/02 23:59:59",
+    "picture": "bg_chushu",
+    "discount": "减负超值礼包",
+    "title": "title_chushu",
+    "text": "处暑，是二十四节气中的第14个节气。处暑后，暑意渐消。雷暴活动也不及炎夏那般活跃，全国各地的暴雨总趋势减弱。处暑的民俗活动很多，如吃鸭子、放河灯、开渔节、煎药茶、拜土地公等。"
+  },
+  {
+    "id": 11501,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11501,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11511
+    ],
+    "rechargeId": 11511,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/09/03 00:00:00",
+    "endTime": "2025/09/17 23:59:59",
+    "picture": "bg_bailu",
+    "discount": "减负超值礼包",
+    "title": "title_bailu",
+    "text": "白露，是二十四节气中的第15个节气，秋季第3个节气，干支历申月的结束与酉月的起始。于公历9月7-9日交节。白露期间的各地民俗，主要有祭祀大禹、酿五谷酒、喝白露茶、吃番薯等。"
+  },
+  {
+    "id": 11601,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11601,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11611
+    ],
+    "rechargeId": 11611,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/09/18 00:00:00",
+    "endTime": "2025/10/01 23:59:59",
+    "picture": "bg_qiufen",
+    "discount": "减负超值礼包",
+    "title": "title_qiufen",
+    "text": "秋分，是二十四节气中的第16个节气，于每年的公历9月22-24日交节。这天太阳几乎直射地球赤道，全球昼夜等长 。秋分后，太阳光直射位置南移，北半球昼短夜长，气温逐日下降。在岭南地区，客家人有吃秋菜的习俗，将野苋菜和鱼片一起制成秋汤，饮之以达到秋汤灌脏，洗涤肝肠的作用。"
+  },
+  {
+    "id": 11701,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11701,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11711
+    ],
+    "rechargeId": 11711,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/10/02 00:00:00",
+    "endTime": "2025/10/16 23:59:59",
+    "picture": "bg_hanlu",
+    "discount": "减负超值礼包",
+    "title": "title_hanlu",
+    "text": "寒露，是二十四节气中的第17个节气，是干支历酉月的结束以及戌月的起始。寒露后，太阳高度继续降低，气温逐渐下降。寒露与白露节气时相比气温下降了很多，寒生露凝，因而称为“寒露”。在温州地区，人们喜欢食用醉制的河蟹或江蟹。"
+  },
+  {
+    "id": 11801,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11801,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11811
+    ],
+    "rechargeId": 11811,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/10/17 00:00:00",
+    "endTime": "2025/11/01 23:59:59",
+    "picture": "bg_shuangjiang",
+    "discount": "减负超值礼包",
+    "title": "title_shuangjiang",
+    "text": "霜降，是二十四节气中的第18个节气，秋季的最后一个节气。进入霜降节气后，深秋景象明显，冷空气南下越来越频繁。霜降不是表示“降霜”，而是表示气温骤降、昼夜温差大。霜降节气主要有赏菊、吃柿子、登高远眺、进补等风俗。"
+  },
+  {
+    "id": 11901,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 11901,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      11911
+    ],
+    "rechargeId": 11911,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/11/02 00:00:00",
+    "endTime": "2025/11/16 23:59:59",
+    "picture": "bg_lidong",
+    "discount": "减负超值礼包",
+    "title": "title_lidong",
+    "text": "立冬，是二十四节气中的第19个节气，也是冬季的起始。立，建始也；冬，终也，万物收藏也。家家户户会熬制草根汤，将山白芷根、地稔根等剁成片，下锅熬煮出草根汤后，捞去根块，加入鸡、鸭、兔肉或猪蹄、猪肚等熬制。"
+  },
+  {
+    "id": 12001,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 12001,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      12011
+    ],
+    "rechargeId": 12011,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/11/17 00:00:00",
+    "endTime": "2025/12/01 23:59:59",
+    "picture": "bg_xiaoxue",
+    "discount": "减负超值礼包",
+    "title": "title_xiaoxue",
+    "text": "小雪，是二十四节气中的第20个节气，也是反映降水与气温的节气，它是寒潮和强冷空气活动频数较高的节气。小雪节气的到来，意味着天气会越来越冷、降水量渐增。在南方某些地方，有俗语“十月朝，糍粑禄禄烧”来表达农历十月吃糍粑的习俗，。"
+  },
+  {
+    "id": 12101,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 12101,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      12111
+    ],
+    "rechargeId": 12111,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/12/02 00:00:00",
+    "endTime": "2025/12/16 23:59:59",
+    "picture": "bg_daxue",
+    "discount": "减负超值礼包",
+    "title": "title_daxue",
+    "text": "大雪，是二十四节气中的第21个节气，是反映气温与降水变化趋势的节气，特点是气温显著下降、降水量增多。北方有“千里冰封，万里雪飘”的自然景观，南方也有“雪花飞舞，漫天银色”的迷人图画。大雪也是“进补”的好时节，素有“冬天进补，开春打虎”的说法。"
+  },
+  {
+    "id": 12201,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 12201,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      12211
+    ],
+    "rechargeId": 12211,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/12/17 00:00:00",
+    "endTime": "2025/12/31 23:59:59",
+    "picture": "bg_dongzhi",
+    "discount": "减负超值礼包",
+    "title": "title_dongzhi",
+    "text": "冬至，是二十四节气中的第22个节气，也是中国民间的传统祭祖节日。在古代民间有“冬至大如年”的讲法。冬至习俗因地域不同而又存在着习俗内容或细节上的差异。在中国南方地区，有冬至祭祖、宴饮的习俗。在中国北方地区，每年冬至日有吃饺子的习俗。"
+  },
+  {
+    "id": 12301,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 12301,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      12311
+    ],
+    "rechargeId": 12311,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/01/01 00:00:00",
+    "endTime": "2025/01/15 23:59:59",
+    "picture": "bg_xiaohan",
+    "discount": "减负超值礼包",
+    "title": "title_xiaohan",
+    "text": "小寒，是二十四节气中的第23个节气，冷气积久而寒，小寒是天气寒冷但还没有到极点的意思，它与大寒、小暑、大暑及处暑一样，都是表示气温冷暖变化的节气。在广州，小寒这一天的早上要吃糯米饭，里面会配上炒香的“腊味”、香菜、葱花等材料。"
+  },
+  {
+    "id": 12401,
+    "sort": 1,
+    "limitType": [
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "costGift": 12401,
+    "cost": [],
+    "costGiftBuyLimit": 1,
+    "solarTermsId": [
+      12411
+    ],
+    "rechargeId": 12411,
+    "type": 3,
+    "resetType": 4,
+    "times": 1,
+    "startTime": "2025/01/16 00:00:00",
+    "endTime": "2025/01/31 23:59:59",
+    "picture": "bg_dahan",
+    "discount": "减负超值礼包",
+    "title": "title_dahan",
+    "text": "大寒，是二十四节气中的第24个节气，也是最后一个节气。大寒是天气寒冷到极致的意思。大寒节气处在三九、四九时段，此时寒潮南下频繁，是一年中的最寒冷时节。“做牙”，亦称“做牙祭”，原本是祭祀土地公公的仪式，俗称的美餐一顿为“打牙祭”即由此而来。民间有全家坐一起“食尾牙”的习俗。"
+  }
+]

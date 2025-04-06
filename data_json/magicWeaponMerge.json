@@ -1,0 +1,1588 @@
+[
+  {
+    "id": 1,
+    "mergeValue": 0,
+    "growthModulusMin": 0,
+    "growthModulus": 0.666666666666667,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.3333,
+      0
+    ]
+  },
+  {
+    "id": 2,
+    "mergeValue": 50,
+    "growthModulusMin": 0,
+    "growthModulus": 0.672222222222222,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.3611,
+      0
+    ]
+  },
+  {
+    "id": 3,
+    "mergeValue": 100,
+    "growthModulusMin": 0,
+    "growthModulus": 0.677777777777778,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.3888,
+      0
+    ]
+  },
+  {
+    "id": 4,
+    "mergeValue": 150,
+    "growthModulusMin": 0,
+    "growthModulus": 0.683333333333333,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.4166,
+      0
+    ]
+  },
+  {
+    "id": 5,
+    "mergeValue": 200,
+    "growthModulusMin": 0,
+    "growthModulus": 0.688888888888889,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.4444,
+      0
+    ]
+  },
+  {
+    "id": 6,
+    "mergeValue": 250,
+    "growthModulusMin": 0,
+    "growthModulus": 0.694444444444444,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.4722,
+      0
+    ]
+  },
+  {
+    "id": 7,
+    "mergeValue": 300,
+    "growthModulusMin": 0,
+    "growthModulus": 0.7,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.5,
+      0
+    ]
+  },
+  {
+    "id": 8,
+    "mergeValue": 350,
+    "growthModulusMin": 0,
+    "growthModulus": 0.705555555555555,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.5277,
+      0
+    ]
+  },
+  {
+    "id": 9,
+    "mergeValue": 400,
+    "growthModulusMin": 0,
+    "growthModulus": 0.711111111111111,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.5555,
+      0
+    ]
+  },
+  {
+    "id": 10,
+    "mergeValue": 450,
+    "growthModulusMin": 0,
+    "growthModulus": 0.716666666666667,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.5833,
+      0
+    ]
+  },
+  {
+    "id": 11,
+    "mergeValue": 500,
+    "growthModulusMin": 0,
+    "growthModulus": 0.722222222222222,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.6111,
+      0
+    ]
+  },
+  {
+    "id": 12,
+    "mergeValue": 550,
+    "growthModulusMin": 0,
+    "growthModulus": 0.727777777777778,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.6388,
+      0
+    ]
+  },
+  {
+    "id": 13,
+    "mergeValue": 600,
+    "growthModulusMin": 0,
+    "growthModulus": 0.733333333333333,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.6666,
+      0
+    ]
+  },
+  {
+    "id": 14,
+    "mergeValue": 650,
+    "growthModulusMin": 0,
+    "growthModulus": 0.738888888888889,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.6944,
+      0
+    ]
+  },
+  {
+    "id": 15,
+    "mergeValue": 700,
+    "growthModulusMin": 0,
+    "growthModulus": 0.744444444444444,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.7222,
+      0
+    ]
+  },
+  {
+    "id": 16,
+    "mergeValue": 750,
+    "growthModulusMin": 0,
+    "growthModulus": 0.75,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.75,
+      0
+    ]
+  },
+  {
+    "id": 17,
+    "mergeValue": 800,
+    "growthModulusMin": 0,
+    "growthModulus": 0.755555555555556,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.7777,
+      0
+    ]
+  },
+  {
+    "id": 18,
+    "mergeValue": 850,
+    "growthModulusMin": 0,
+    "growthModulus": 0.761111111111111,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.8055,
+      0
+    ]
+  },
+  {
+    "id": 19,
+    "mergeValue": 900,
+    "growthModulusMin": 0,
+    "growthModulus": 0.766666666666667,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.8333,
+      0
+    ]
+  },
+  {
+    "id": 20,
+    "mergeValue": 950,
+    "growthModulusMin": 0,
+    "growthModulus": 0.772222222222222,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.8611,
+      0
+    ]
+  },
+  {
+    "id": 21,
+    "mergeValue": 1000,
+    "growthModulusMin": 0,
+    "growthModulus": 0.777777777777778,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.8888,
+      0
+    ]
+  },
+  {
+    "id": 22,
+    "mergeValue": 1050,
+    "growthModulusMin": 0,
+    "growthModulus": 0.783333333333333,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.9166,
+      0
+    ]
+  },
+  {
+    "id": 23,
+    "mergeValue": 1100,
+    "growthModulusMin": 0,
+    "growthModulus": 0.788888888888889,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.9444,
+      0
+    ]
+  },
+  {
+    "id": 24,
+    "mergeValue": 1150,
+    "growthModulusMin": 0,
+    "growthModulus": 0.794444444444444,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      0.9722,
+      0
+    ]
+  },
+  {
+    "id": 25,
+    "mergeValue": 1200,
+    "growthModulusMin": 0,
+    "growthModulus": 0.8,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "id": 26,
+    "mergeValue": 1250,
+    "growthModulusMin": 0,
+    "growthModulus": 0.805555555555556,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.0277
+    ]
+  },
+  {
+    "id": 27,
+    "mergeValue": 1300,
+    "growthModulusMin": 0,
+    "growthModulus": 0.811111111111111,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.0555
+    ]
+  },
+  {
+    "id": 28,
+    "mergeValue": 1350,
+    "growthModulusMin": 0,
+    "growthModulus": 0.816666666666667,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.0833
+    ]
+  },
+  {
+    "id": 29,
+    "mergeValue": 1400,
+    "growthModulusMin": 0,
+    "growthModulus": 0.822222222222222,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.1111
+    ]
+  },
+  {
+    "id": 30,
+    "mergeValue": 1450,
+    "growthModulusMin": 0,
+    "growthModulus": 0.827777777777778,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.1388
+    ]
+  },
+  {
+    "id": 31,
+    "mergeValue": 1500,
+    "growthModulusMin": 0,
+    "growthModulus": 0.833333333333333,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.1666
+    ]
+  },
+  {
+    "id": 32,
+    "mergeValue": 1550,
+    "growthModulusMin": 0,
+    "growthModulus": 0.838888888888889,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.1944
+    ]
+  },
+  {
+    "id": 33,
+    "mergeValue": 1600,
+    "growthModulusMin": 0,
+    "growthModulus": 0.844444444444444,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.2222
+    ]
+  },
+  {
+    "id": 34,
+    "mergeValue": 1650,
+    "growthModulusMin": 0,
+    "growthModulus": 0.85,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.25
+    ]
+  },
+  {
+    "id": 35,
+    "mergeValue": 1700,
+    "growthModulusMin": 0,
+    "growthModulus": 0.855555555555556,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.2777
+    ]
+  },
+  {
+    "id": 36,
+    "mergeValue": 1750,
+    "growthModulusMin": 0,
+    "growthModulus": 0.861111111111111,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.3055
+    ]
+  },
+  {
+    "id": 37,
+    "mergeValue": 1800,
+    "growthModulusMin": 0,
+    "growthModulus": 0.866666666666667,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.3333
+    ]
+  },
+  {
+    "id": 38,
+    "mergeValue": 1850,
+    "growthModulusMin": 0,
+    "growthModulus": 0.872222222222222,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.3611
+    ]
+  },
+  {
+    "id": 39,
+    "mergeValue": 1900,
+    "growthModulusMin": 0,
+    "growthModulus": 0.877777777777778,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.3888
+    ]
+  },
+  {
+    "id": 40,
+    "mergeValue": 1950,
+    "growthModulusMin": 0,
+    "growthModulus": 0.883333333333333,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.4166
+    ]
+  },
+  {
+    "id": 41,
+    "mergeValue": 2000,
+    "growthModulusMin": 0,
+    "growthModulus": 0.888888888888889,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.4444
+    ]
+  },
+  {
+    "id": 42,
+    "mergeValue": 2050,
+    "growthModulusMin": 0,
+    "growthModulus": 0.894444444444444,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.4722
+    ]
+  },
+  {
+    "id": 43,
+    "mergeValue": 2100,
+    "growthModulusMin": 0,
+    "growthModulus": 0.9,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.5
+    ]
+  },
+  {
+    "id": 44,
+    "mergeValue": 2150,
+    "growthModulusMin": 0,
+    "growthModulus": 0.905555555555556,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.5277
+    ]
+  },
+  {
+    "id": 45,
+    "mergeValue": 2200,
+    "growthModulusMin": 0,
+    "growthModulus": 0.911111111111111,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.5555
+    ]
+  },
+  {
+    "id": 46,
+    "mergeValue": 2250,
+    "growthModulusMin": 0,
+    "growthModulus": 0.916666666666667,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.5833
+    ]
+  },
+  {
+    "id": 47,
+    "mergeValue": 2300,
+    "growthModulusMin": 0,
+    "growthModulus": 0.922222222222222,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.6111
+    ]
+  },
+  {
+    "id": 48,
+    "mergeValue": 2350,
+    "growthModulusMin": 0,
+    "growthModulus": 0.927777777777778,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.6388
+    ]
+  },
+  {
+    "id": 49,
+    "mergeValue": 2400,
+    "growthModulusMin": 0,
+    "growthModulus": 0.933333333333333,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.6666
+    ]
+  },
+  {
+    "id": 50,
+    "mergeValue": 2450,
+    "growthModulusMin": 0,
+    "growthModulus": 0.938888888888889,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.6944
+    ]
+  },
+  {
+    "id": 51,
+    "mergeValue": 2500,
+    "growthModulusMin": 0,
+    "growthModulus": 0.944444444444444,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.7222
+    ]
+  },
+  {
+    "id": 52,
+    "mergeValue": 2550,
+    "growthModulusMin": 0,
+    "growthModulus": 0.95,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.75
+    ]
+  },
+  {
+    "id": 53,
+    "mergeValue": 2600,
+    "growthModulusMin": 0,
+    "growthModulus": 0.955555555555555,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.7777
+    ]
+  },
+  {
+    "id": 54,
+    "mergeValue": 2650,
+    "growthModulusMin": 0,
+    "growthModulus": 0.961111111111111,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.8055
+    ]
+  },
+  {
+    "id": 55,
+    "mergeValue": 2700,
+    "growthModulusMin": 0,
+    "growthModulus": 0.966666666666667,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.8333
+    ]
+  },
+  {
+    "id": 56,
+    "mergeValue": 2750,
+    "growthModulusMin": 0,
+    "growthModulus": 0.972222222222222,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.8611
+    ]
+  },
+  {
+    "id": 57,
+    "mergeValue": 2800,
+    "growthModulusMin": 0,
+    "growthModulus": 0.977777777777778,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.8888
+    ]
+  },
+  {
+    "id": 58,
+    "mergeValue": 2850,
+    "growthModulusMin": 0,
+    "growthModulus": 0.983333333333333,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.9166
+    ]
+  },
+  {
+    "id": 59,
+    "mergeValue": 2900,
+    "growthModulusMin": 0,
+    "growthModulus": 0.988888888888889,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.9444
+    ]
+  },
+  {
+    "id": 60,
+    "mergeValue": 2950,
+    "growthModulusMin": 0,
+    "growthModulus": 0.994444444444444,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      0.9722
+    ]
+  },
+  {
+    "id": 61,
+    "mergeValue": 3000,
+    "growthModulusMin": 0,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 62,
+    "mergeValue": 3050,
+    "growthModulusMin": 0.00555555555555555,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.015
+    ]
+  },
+  {
+    "id": 63,
+    "mergeValue": 3100,
+    "growthModulusMin": 0.0111111111111111,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.03
+    ]
+  },
+  {
+    "id": 64,
+    "mergeValue": 3150,
+    "growthModulusMin": 0.0166666666666667,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.045
+    ]
+  },
+  {
+    "id": 65,
+    "mergeValue": 3200,
+    "growthModulusMin": 0.0222222222222222,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.06
+    ]
+  },
+  {
+    "id": 66,
+    "mergeValue": 3250,
+    "growthModulusMin": 0.0277777777777778,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.075
+    ]
+  },
+  {
+    "id": 67,
+    "mergeValue": 3300,
+    "growthModulusMin": 0.0333333333333333,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.09
+    ]
+  },
+  {
+    "id": 68,
+    "mergeValue": 3350,
+    "growthModulusMin": 0.0388888888888889,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.105
+    ]
+  },
+  {
+    "id": 69,
+    "mergeValue": 3400,
+    "growthModulusMin": 0.0444444444444444,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.12
+    ]
+  },
+  {
+    "id": 70,
+    "mergeValue": 3450,
+    "growthModulusMin": 0.05,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.135
+    ]
+  },
+  {
+    "id": 71,
+    "mergeValue": 3500,
+    "growthModulusMin": 0.0555555555555556,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.15
+    ]
+  },
+  {
+    "id": 72,
+    "mergeValue": 3550,
+    "growthModulusMin": 0.0611111111111111,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.165
+    ]
+  },
+  {
+    "id": 73,
+    "mergeValue": 3600,
+    "growthModulusMin": 0.0666666666666667,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.18
+    ]
+  },
+  {
+    "id": 74,
+    "mergeValue": 3650,
+    "growthModulusMin": 0.0722222222222222,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.195
+    ]
+  },
+  {
+    "id": 75,
+    "mergeValue": 3700,
+    "growthModulusMin": 0.0777777777777778,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.21
+    ]
+  },
+  {
+    "id": 76,
+    "mergeValue": 3750,
+    "growthModulusMin": 0.0833333333333333,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.225
+    ]
+  },
+  {
+    "id": 77,
+    "mergeValue": 3800,
+    "growthModulusMin": 0.0888888888888889,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.24
+    ]
+  },
+  {
+    "id": 78,
+    "mergeValue": 3850,
+    "growthModulusMin": 0.0944444444444444,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.255
+    ]
+  },
+  {
+    "id": 79,
+    "mergeValue": 3900,
+    "growthModulusMin": 0.1,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.27
+    ]
+  },
+  {
+    "id": 80,
+    "mergeValue": 3950,
+    "growthModulusMin": 0.105555555555556,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.285
+    ]
+  },
+  {
+    "id": 81,
+    "mergeValue": 4000,
+    "growthModulusMin": 0.111111111111111,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.3
+    ]
+  },
+  {
+    "id": 82,
+    "mergeValue": 4050,
+    "growthModulusMin": 0.116666666666667,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.315
+    ]
+  },
+  {
+    "id": 83,
+    "mergeValue": 4100,
+    "growthModulusMin": 0.122222222222222,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.33
+    ]
+  },
+  {
+    "id": 84,
+    "mergeValue": 4150,
+    "growthModulusMin": 0.127777777777778,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.345
+    ]
+  },
+  {
+    "id": 85,
+    "mergeValue": 4200,
+    "growthModulusMin": 0.133333333333333,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.36
+    ]
+  },
+  {
+    "id": 86,
+    "mergeValue": 4250,
+    "growthModulusMin": 0.138888888888889,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.375
+    ]
+  },
+  {
+    "id": 87,
+    "mergeValue": 4300,
+    "growthModulusMin": 0.144444444444444,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.39
+    ]
+  },
+  {
+    "id": 88,
+    "mergeValue": 4350,
+    "growthModulusMin": 0.15,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.405
+    ]
+  },
+  {
+    "id": 89,
+    "mergeValue": 4400,
+    "growthModulusMin": 0.155555555555556,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.42
+    ]
+  },
+  {
+    "id": 90,
+    "mergeValue": 4450,
+    "growthModulusMin": 0.161111111111111,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.435
+    ]
+  },
+  {
+    "id": 91,
+    "mergeValue": 4500,
+    "growthModulusMin": 0.166666666666667,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.45
+    ]
+  },
+  {
+    "id": 92,
+    "mergeValue": 4550,
+    "growthModulusMin": 0.172222222222222,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.465
+    ]
+  },
+  {
+    "id": 93,
+    "mergeValue": 4600,
+    "growthModulusMin": 0.177777777777778,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.48
+    ]
+  },
+  {
+    "id": 94,
+    "mergeValue": 4650,
+    "growthModulusMin": 0.183333333333333,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.495
+    ]
+  },
+  {
+    "id": 95,
+    "mergeValue": 4700,
+    "growthModulusMin": 0.188888888888889,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.51
+    ]
+  },
+  {
+    "id": 96,
+    "mergeValue": 4750,
+    "growthModulusMin": 0.194444444444444,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.525
+    ]
+  },
+  {
+    "id": 97,
+    "mergeValue": 4800,
+    "growthModulusMin": 0.2,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.54
+    ]
+  },
+  {
+    "id": 98,
+    "mergeValue": 4850,
+    "growthModulusMin": 0.205555555555556,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.555
+    ]
+  },
+  {
+    "id": 99,
+    "mergeValue": 4900,
+    "growthModulusMin": 0.211111111111111,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.57
+    ]
+  },
+  {
+    "id": 100,
+    "mergeValue": 4950,
+    "growthModulusMin": 0.216666666666667,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.585
+    ]
+  },
+  {
+    "id": 101,
+    "mergeValue": 5000,
+    "growthModulusMin": 0.222222222222222,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.6
+    ]
+  },
+  {
+    "id": 102,
+    "mergeValue": 5050,
+    "growthModulusMin": 0.227777777777778,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.615
+    ]
+  },
+  {
+    "id": 103,
+    "mergeValue": 5100,
+    "growthModulusMin": 0.233333333333333,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.63
+    ]
+  },
+  {
+    "id": 104,
+    "mergeValue": 5150,
+    "growthModulusMin": 0.238888888888889,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.645
+    ]
+  },
+  {
+    "id": 105,
+    "mergeValue": 5200,
+    "growthModulusMin": 0.244444444444444,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.66
+    ]
+  },
+  {
+    "id": 106,
+    "mergeValue": 5250,
+    "growthModulusMin": 0.25,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.675
+    ]
+  },
+  {
+    "id": 107,
+    "mergeValue": 5300,
+    "growthModulusMin": 0.255555555555556,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.69
+    ]
+  },
+  {
+    "id": 108,
+    "mergeValue": 5350,
+    "growthModulusMin": 0.261111111111111,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.705
+    ]
+  },
+  {
+    "id": 109,
+    "mergeValue": 5400,
+    "growthModulusMin": 0.266666666666667,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.72
+    ]
+  },
+  {
+    "id": 110,
+    "mergeValue": 5450,
+    "growthModulusMin": 0.272222222222222,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.735
+    ]
+  },
+  {
+    "id": 111,
+    "mergeValue": 5500,
+    "growthModulusMin": 0.277777777777778,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.75
+    ]
+  },
+  {
+    "id": 112,
+    "mergeValue": 5550,
+    "growthModulusMin": 0.283333333333333,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.765
+    ]
+  },
+  {
+    "id": 113,
+    "mergeValue": 5600,
+    "growthModulusMin": 0.288888888888889,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.78
+    ]
+  },
+  {
+    "id": 114,
+    "mergeValue": 5650,
+    "growthModulusMin": 0.294444444444444,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.795
+    ]
+  },
+  {
+    "id": 115,
+    "mergeValue": 5700,
+    "growthModulusMin": 0.3,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.81
+    ]
+  },
+  {
+    "id": 116,
+    "mergeValue": 5750,
+    "growthModulusMin": 0.305555555555556,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.825
+    ]
+  },
+  {
+    "id": 117,
+    "mergeValue": 5800,
+    "growthModulusMin": 0.311111111111111,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.84
+    ]
+  },
+  {
+    "id": 118,
+    "mergeValue": 5850,
+    "growthModulusMin": 0.316666666666667,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.855
+    ]
+  },
+  {
+    "id": 119,
+    "mergeValue": 5900,
+    "growthModulusMin": 0.322222222222222,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.87
+    ]
+  },
+  {
+    "id": 120,
+    "mergeValue": 5950,
+    "growthModulusMin": 0.327777777777778,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.885
+    ]
+  },
+  {
+    "id": 121,
+    "mergeValue": 6000,
+    "growthModulusMin": 0.333333333333333,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.9
+    ]
+  },
+  {
+    "id": 122,
+    "mergeValue": 999999,
+    "growthModulusMin": 0.333333333333333,
+    "growthModulus": 1,
+    "blessModulus": [
+      1,
+      1,
+      1,
+      1,
+      1.9
+    ]
+  }
+]

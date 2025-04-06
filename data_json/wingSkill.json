@@ -1,0 +1,1590 @@
+[
+  {
+    "id": 10001,
+    "wingSkill": 1,
+    "level": 1,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            2
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10002,
+    "wingSkill": 1,
+    "level": 2,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            3
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10003,
+    "wingSkill": 1,
+    "level": 3,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            4
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10004,
+    "wingSkill": 1,
+    "level": 4,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            5
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10005,
+    "wingSkill": 1,
+    "level": 5,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            6
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10006,
+    "wingSkill": 1,
+    "level": 6,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            7
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10007,
+    "wingSkill": 1,
+    "level": 7,
+    "nextCost": [
+      [
+        502000,
+        2
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            8
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10008,
+    "wingSkill": 1,
+    "level": 8,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            9
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10009,
+    "wingSkill": 1,
+    "level": 9,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            101,
+            10
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 10010,
+    "wingSkill": 1,
+    "level": 10,
+    "beSkill": [
+      7002801
+    ],
+    "icon": "wingSkill_01",
+    "desName": "燕行",
+    "desIntro": "二段跳后再次按跳跃键，向前疾冲一段距离并造成伤害"
+  },
+  {
+    "id": 20001,
+    "wingSkill": 2,
+    "level": 1,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            2
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003301
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20002,
+    "wingSkill": 2,
+    "level": 2,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            3
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003302
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20003,
+    "wingSkill": 2,
+    "level": 3,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            4
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003303
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20004,
+    "wingSkill": 2,
+    "level": 4,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            5
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003304
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20005,
+    "wingSkill": 2,
+    "level": 5,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            6
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003305
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20006,
+    "wingSkill": 2,
+    "level": 6,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            7
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003306
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20007,
+    "wingSkill": 2,
+    "level": 7,
+    "nextCost": [
+      [
+        502000,
+        2
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            8
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003307
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20008,
+    "wingSkill": 2,
+    "level": 8,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            9
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003308
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20009,
+    "wingSkill": 2,
+    "level": 9,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            102,
+            10
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003309
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 20010,
+    "wingSkill": 2,
+    "level": 10,
+    "beSkill": [
+      7003310
+    ],
+    "icon": "wingSkill_101",
+    "desName": "轮回",
+    "desIntro": "使用技能会恢复少量生命值"
+  },
+  {
+    "id": 30001,
+    "wingSkill": 3,
+    "level": 1,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            2
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003101
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30002,
+    "wingSkill": 3,
+    "level": 2,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            3
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003102
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30003,
+    "wingSkill": 3,
+    "level": 3,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            4
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003103
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30004,
+    "wingSkill": 3,
+    "level": 4,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            5
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003104
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30005,
+    "wingSkill": 3,
+    "level": 5,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            6
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003105
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30006,
+    "wingSkill": 3,
+    "level": 6,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            7
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003106
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30007,
+    "wingSkill": 3,
+    "level": 7,
+    "nextCost": [
+      [
+        502000,
+        2
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            8
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003107
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30008,
+    "wingSkill": 3,
+    "level": 8,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            9
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003108
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30009,
+    "wingSkill": 3,
+    "level": 9,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            103,
+            10
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7003100,
+      7003109
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 30010,
+    "wingSkill": 3,
+    "level": 10,
+    "beSkill": [
+      7003100,
+      7003110
+    ],
+    "icon": "wingSkill_201",
+    "desName": "鼓舞",
+    "desIntro": "自己和队友的移动速度提升，暴击值少量提升"
+  },
+  {
+    "id": 40001,
+    "wingSkill": 4,
+    "level": 1,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            2
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40002,
+    "wingSkill": 4,
+    "level": 2,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            3
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40003,
+    "wingSkill": 4,
+    "level": 3,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            4
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40004,
+    "wingSkill": 4,
+    "level": 4,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            5
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40005,
+    "wingSkill": 4,
+    "level": 5,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            6
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40006,
+    "wingSkill": 4,
+    "level": 6,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            7
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40007,
+    "wingSkill": 4,
+    "level": 7,
+    "nextCost": [
+      [
+        502000,
+        2
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            8
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40008,
+    "wingSkill": 4,
+    "level": 8,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            9
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40009,
+    "wingSkill": 4,
+    "level": 9,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            104,
+            10
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 40010,
+    "wingSkill": 4,
+    "level": 10,
+    "beSkill": [
+      7006501
+    ],
+    "icon": "wingSkill_301",
+    "desName": "鹤形",
+    "desIntro": "二段跳后再次按跳跃键，俯冲造成伤害和减疗效果"
+  },
+  {
+    "id": 50001,
+    "wingSkill": 5,
+    "level": 1,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            2
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50002,
+    "wingSkill": 5,
+    "level": 2,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            3
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50003,
+    "wingSkill": 5,
+    "level": 3,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            4
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50004,
+    "wingSkill": 5,
+    "level": 4,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            5
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50005,
+    "wingSkill": 5,
+    "level": 5,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            6
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50006,
+    "wingSkill": 5,
+    "level": 6,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            7
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50007,
+    "wingSkill": 5,
+    "level": 7,
+    "nextCost": [
+      [
+        502000,
+        2
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            8
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50008,
+    "wingSkill": 5,
+    "level": 8,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            9
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50009,
+    "wingSkill": 5,
+    "level": 9,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            105,
+            10
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 50010,
+    "wingSkill": 5,
+    "level": 10,
+    "beSkill": [
+      7007601
+    ],
+    "icon": "wingSkill_401",
+    "desName": "龙焰",
+    "desIntro": "二段跳后再次按跳跃键，滞空向下方喷射龙息造成伤害"
+  },
+  {
+    "id": 60001,
+    "wingSkill": 6,
+    "level": 1,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            2
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032801
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60002,
+    "wingSkill": 6,
+    "level": 2,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            3
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032802
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60003,
+    "wingSkill": 6,
+    "level": 3,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            4
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032803
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60004,
+    "wingSkill": 6,
+    "level": 4,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            5
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032804
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60005,
+    "wingSkill": 6,
+    "level": 5,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            6
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032805
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60006,
+    "wingSkill": 6,
+    "level": 6,
+    "nextCost": [
+      [
+        502000,
+        1
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            7
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032806
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60007,
+    "wingSkill": 6,
+    "level": 7,
+    "nextCost": [
+      [
+        502000,
+        2
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            8
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032807
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60008,
+    "wingSkill": 6,
+    "level": 8,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            9
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032808
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60009,
+    "wingSkill": 6,
+    "level": 9,
+    "nextCost": [
+      [
+        502000,
+        3
+      ]
+    ],
+    "upLimit": [
+      [
+        103,
+        [
+          [
+            106,
+            10
+          ]
+        ]
+      ]
+    ],
+    "beSkill": [
+      7032809
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  },
+  {
+    "id": 60010,
+    "wingSkill": 6,
+    "level": 10,
+    "beSkill": [
+      7032810
+    ],
+    "icon": "wingSkill_501",
+    "desName": "龟盾",
+    "desIntro": "每隔一段时间会生成可抵御后方攻击的龟壳护盾"
+  }
+]

@@ -1,0 +1,706 @@
+[
+  {
+    "id": 101001,
+    "name": "流邪",
+    "quality": 9,
+    "groupId": 1,
+    "rank": 1,
+    "lvLimit": 10,
+    "activationType": 1,
+    "activationValue": [
+      [
+        601002,
+        2
+      ],
+      [
+        601003,
+        2
+      ],
+      [
+        601001,
+        1
+      ],
+      [
+        601004,
+        2
+      ],
+      [
+        601005,
+        2
+      ]
+    ],
+    "activationEffect": "liuxie_sj",
+    "unlockType": 1,
+    "number": 10,
+    "nextId": 101002,
+    "nextType": 1,
+    "rankCost": [
+      [
+        601006,
+        5
+      ]
+    ],
+    "energyName": "邪灵之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      60
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "liuxie",
+    "showFile": "liuxie",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        -50,
+        0
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031201,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "上古邪灵之地孕育而生的神器-流邪，可吸收天地间邪灵之气并在需要时释放出来。",
+    "childAI": 2031211
+  },
+  {
+    "id": 101002,
+    "name": "沙邪",
+    "quality": 9,
+    "groupId": 1,
+    "rank": 2,
+    "lvLimit": 10,
+    "activationEffect": "liuxie_sj",
+    "unlockType": 1,
+    "number": 10,
+    "nextId": 101003,
+    "nextType": 1,
+    "rankCost": [
+      [
+        601007,
+        5
+      ]
+    ],
+    "energyName": "邪灵之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      60
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "shaxie",
+    "showFile": "shaxie",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        -50,
+        0
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031202,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "神器流邪进化而成的进阶神器-沙邪，可使邪灵之气发挥出更强大的力量。",
+    "childAI": 2031211
+  },
+  {
+    "id": 101003,
+    "name": "渊邪",
+    "quality": 9,
+    "groupId": 1,
+    "rank": 3,
+    "lvLimit": 10,
+    "activationEffect": "liuxie_sj",
+    "unlockType": 1,
+    "number": 10,
+    "energyName": "邪灵之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      60
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "yuanxie",
+    "showFile": "yuanxie",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        -50,
+        0
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031203,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "神器沙邪进化而成的进阶神器-渊邪，可使邪灵之气发挥出更强大的力量。",
+    "childAI": 2031211
+  },
+  {
+    "id": 102001,
+    "name": "衍星录",
+    "quality": 6,
+    "groupId": 2,
+    "rank": 1,
+    "lvLimit": 8,
+    "activationType": 2,
+    "activationValue": 400,
+    "activationEffect": "yanxinglu_sj",
+    "unlockType": 1,
+    "number": 10,
+    "nextId": 102002,
+    "nextType": 2,
+    "rankCost": 1200,
+    "energyName": "星辰之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      90
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "yanxinglu01",
+    "showFile": "2031301-yanxinglu",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        -50,
+        250
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031301,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "伏羲帝参悟星辰所用，能集聚星辰之力，在需要时牵动星辰毁灭敌人。",
+    "childAI": 2031311
+  },
+  {
+    "id": 102002,
+    "name": "衍星录",
+    "quality": 6,
+    "groupId": 2,
+    "rank": 2,
+    "lvLimit": 8,
+    "activationEffect": "yanxinglu_sj",
+    "unlockType": 1,
+    "number": 10,
+    "nextId": 102003,
+    "nextType": 2,
+    "rankCost": 2400,
+    "energyName": "星辰之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      90
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "yanxinglu02",
+    "showFile": "2031302-yanxinglu",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        -50,
+        250
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031302,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "伏羲帝参悟星辰所用，能集聚星辰之力，在需要时牵动星辰毁灭敌人。",
+    "childAI": 2031311
+  },
+  {
+    "id": 102003,
+    "name": "衍星录",
+    "quality": 6,
+    "groupId": 2,
+    "rank": 3,
+    "lvLimit": 8,
+    "activationEffect": "yanxinglu_sj",
+    "unlockType": 1,
+    "number": 10,
+    "nextId": 102004,
+    "nextType": 2,
+    "rankCost": 4000,
+    "energyName": "星辰之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      90
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "yanxinglu03",
+    "showFile": "2031303-yanxinglu",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        -50,
+        250
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031303,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "伏羲帝参悟星辰所用，能集聚星辰之力，在需要时牵动星辰毁灭敌人。",
+    "childAI": 2031311
+  },
+  {
+    "id": 102004,
+    "name": "衍星录",
+    "quality": 6,
+    "groupId": 2,
+    "rank": 4,
+    "lvLimit": 8,
+    "activationEffect": "yanxinglu_sj",
+    "unlockType": 1,
+    "number": 10,
+    "energyName": "星辰之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      90
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "yanxinglu04",
+    "showFile": "2031304-yanxinglu",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        -50,
+        250
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031304,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "伏羲帝参悟星辰所用，能集聚星辰之力，在需要时牵动星辰毁灭敌人。",
+    "childAI": 2031311
+  },
+  {
+    "id": 103001,
+    "name": "花宴",
+    "quality": 5,
+    "groupId": 3,
+    "rank": 1,
+    "lvLimit": 10,
+    "activationType": 3,
+    "activationValue": {
+      "needMagic": [
+        15001,
+        10
+      ],
+      "cost": [
+        [
+          601101,
+          1
+        ],
+        [
+          601102,
+          1
+        ],
+        [
+          601103,
+          1
+        ]
+      ]
+    },
+    "activationEffect": "liuxie_sj",
+    "unlockType": 1,
+    "number": 10,
+    "energyName": "镇魂之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      60
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "huayan",
+    "showFile": "huayan",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        50,
+        30
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2031601,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "三仙降临，花遍人间，蕴藏无穷神力。",
+    "childAI": 2031611
+  },
+  {
+    "id": 104001,
+    "name": "蹴球",
+    "quality": 5,
+    "groupId": 4,
+    "weaponFashionIds": [
+      10400101,
+      10400102,
+      10400103,
+      10400104,
+      10400105,
+      10400106
+    ],
+    "rank": 1,
+    "lvLimit": 10,
+    "activationType": 1,
+    "activationValue": [
+      [
+        601201,
+        10
+      ]
+    ],
+    "activationEffect": "cuqiujiesuo",
+    "unlockType": 1,
+    "number": 10,
+    "energyName": "蹴鞠之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      60,
+      180
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "cuqiu",
+    "showFile": "cuqiu",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        50,
+        10
+      ]
+    ],
+    "skillFllow": [
+      20318010100,
+      20318010200
+    ],
+    "monsterId": 2031801,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 1,
+    "text": "紫金宝葫芦的藤条编织而成，拥有蹴鞠之力的蹴球。",
+    "childAI": 2031811
+  },
+  {
+    "id": 105001,
+    "name": "气球",
+    "quality": 5,
+    "groupId": 5,
+    "rank": 1,
+    "lvLimit": 10,
+    "cdSkill": 20321010201,
+    "activationType": 4,
+    "activationValue": {
+      "equipWardrobeId": [
+        [
+          9000504,
+          9000505,
+          9000506,
+          9000507,
+          9000508,
+          9000509
+        ],
+        6
+      ],
+      "cost": [
+        [
+          601301,
+          18
+        ]
+      ]
+    },
+    "activationEffect": "cuqiujiesuo",
+    "unlockType": 1,
+    "number": 10,
+    "nextId": 105002,
+    "nextType": 4,
+    "rankCost": {
+      "equipWardrobeId": [
+        [
+          9000502
+        ],
+        1
+      ],
+      "cost": [
+        [
+          601301,
+          18
+        ]
+      ]
+    },
+    "energyName": "升腾之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      90
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "qiqiu001",
+    "showFile": "qiqiu_1",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        0,
+        100
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2032101,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "蕴含升腾之力的气球，可以助上仙升起。",
+    "childAI": 2032111
+  },
+  {
+    "id": 105002,
+    "name": "气球",
+    "quality": 5,
+    "groupId": 5,
+    "rank": 2,
+    "lvLimit": 10,
+    "cdSkill": 20321010201,
+    "activationEffect": "cuqiujiesuo",
+    "unlockType": 1,
+    "number": 10,
+    "nextId": 105003,
+    "nextType": 4,
+    "rankCost": {
+      "equipWardrobeId": [
+        [
+          9000503
+        ],
+        1
+      ],
+      "cost": [
+        [
+          601301,
+          18
+        ]
+      ]
+    },
+    "energyName": "升腾之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      90
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "qiqiu002",
+    "showFile": "qiqiu_2",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        0,
+        100
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2032102,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "蕴含升腾之力的气球，可以助上仙升起。",
+    "childAI": 2032111
+  },
+  {
+    "id": 105003,
+    "name": "气球",
+    "quality": 5,
+    "groupId": 5,
+    "rank": 3,
+    "lvLimit": 10,
+    "cdSkill": 20321010201,
+    "activationEffect": "cuqiujiesuo",
+    "unlockType": 1,
+    "number": 10,
+    "energyName": "升腾之力",
+    "energyLimit": 720,
+    "energyConsume": [
+      90
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 360,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "qiqiu003",
+    "showFile": "qiqiu_3",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        0,
+        100
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2032103,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "蕴含升腾之力的气球，可以助上仙升起。",
+    "childAI": 2032111
+  },
+  {
+    "id": 106001,
+    "name": "宣花红葫芦",
+    "quality": 5,
+    "groupId": 6,
+    "rank": 1,
+    "lvLimit": 1,
+    "activationType": 3,
+    "activationValue": {
+      "needMagic": [
+        2001,
+        10
+      ],
+      "cost": [
+        [
+          601401,
+          36
+        ]
+      ]
+    },
+    "activationEffect": "xuanhuahonghulu_sj",
+    "unlockType": 1,
+    "number": 10,
+    "energyName": "宣花仙气",
+    "energyLimit": 120,
+    "energyConsume": [
+      60
+    ],
+    "energyReturnType": 1,
+    "energyReturnValue": 60,
+    "energyBuy": [
+      60,
+      [
+        600000,
+        1
+      ]
+    ],
+    "icon": "xuanhuahonghulu",
+    "showFile": "xuanhuahonghulu",
+    "disableObstracle": 1,
+    "skillPos": [
+      1,
+      [
+        0,
+        100
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2032401,
+    "barImg": "xljdt",
+    "energyColor": "8605e9",
+    "doubleSkill": 0,
+    "text": "由法宝地煞葫芦进化而成的神器，灵法多妙，捕捉宠物时大有用处。",
+    "childAI": 2032411
+  }
+]

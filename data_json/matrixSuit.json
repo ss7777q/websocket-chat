@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1000112,
+    "suit": 100011,
+    "quality": 2,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      300,
+      30
+    ]
+  },
+  {
+    "id": 1000113,
+    "suit": 100011,
+    "quality": 3,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      450,
+      45
+    ]
+  },
+  {
+    "id": 1000114,
+    "suit": 100011,
+    "quality": 4,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      600,
+      60
+    ]
+  },
+  {
+    "id": 1000212,
+    "suit": 100021,
+    "quality": 2,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      375,
+      38
+    ]
+  },
+  {
+    "id": 1000213,
+    "suit": 100021,
+    "quality": 3,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      563,
+      56
+    ]
+  },
+  {
+    "id": 1000214,
+    "suit": 100021,
+    "quality": 4,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      750,
+      75
+    ]
+  },
+  {
+    "id": 1000312,
+    "suit": 100031,
+    "quality": 2,
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      53,
+      105
+    ]
+  },
+  {
+    "id": 1000313,
+    "suit": 100031,
+    "quality": 3,
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      79,
+      158
+    ]
+  },
+  {
+    "id": 1000314,
+    "suit": 100031,
+    "quality": 4,
+    "attribute": [
+      "atk",
+      "dodge"
+    ],
+    "attributeValue": [
+      105,
+      210
+    ]
+  },
+  {
+    "id": 1000412,
+    "suit": 100041,
+    "quality": 2,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      705,
+      70
+    ]
+  },
+  {
+    "id": 1000413,
+    "suit": 100041,
+    "quality": 3,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      1057,
+      106
+    ]
+  },
+  {
+    "id": 1000414,
+    "suit": 100041,
+    "quality": 4,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      1410,
+      141
+    ]
+  },
+  {
+    "id": 1000512,
+    "suit": 100051,
+    "quality": 2,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      895,
+      90
+    ]
+  },
+  {
+    "id": 1000513,
+    "suit": 100051,
+    "quality": 3,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      1343,
+      134
+    ]
+  },
+  {
+    "id": 1000514,
+    "suit": 100051,
+    "quality": 4,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      1790,
+      179
+    ]
+  },
+  {
+    "id": 1000515,
+    "suit": 100051,
+    "quality": 5,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      2238,
+      224
+    ]
+  },
+  {
+    "id": 1000612,
+    "suit": 100061,
+    "quality": 2,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      1421,
+      142
+    ]
+  },
+  {
+    "id": 1000613,
+    "suit": 100061,
+    "quality": 3,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      2131,
+      213
+    ]
+  },
+  {
+    "id": 1000614,
+    "suit": 100061,
+    "quality": 4,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      2842,
+      284
+    ]
+  },
+  {
+    "id": 1000615,
+    "suit": 100061,
+    "quality": 5,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      3552,
+      355
+    ]
+  },
+  {
+    "id": 1000712,
+    "suit": 100071,
+    "quality": 2,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      2256,
+      226
+    ]
+  },
+  {
+    "id": 1000713,
+    "suit": 100071,
+    "quality": 3,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      3383,
+      338
+    ]
+  },
+  {
+    "id": 1000714,
+    "suit": 100071,
+    "quality": 4,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      4511,
+      451
+    ]
+  },
+  {
+    "id": 1000715,
+    "suit": 100071,
+    "quality": 5,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      5639,
+      564
+    ]
+  },
+  {
+    "id": 1000812,
+    "suit": 100081,
+    "quality": 2,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      3032,
+      303
+    ]
+  },
+  {
+    "id": 1000813,
+    "suit": 100081,
+    "quality": 3,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      4549,
+      455
+    ]
+  },
+  {
+    "id": 1000814,
+    "suit": 100081,
+    "quality": 4,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      6065,
+      606
+    ]
+  },
+  {
+    "id": 1000815,
+    "suit": 100081,
+    "quality": 5,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      7570,
+      757
+    ]
+  },
+  {
+    "id": 1000912,
+    "suit": 100091,
+    "quality": 2,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      3604,
+      360
+    ]
+  },
+  {
+    "id": 1000913,
+    "suit": 100091,
+    "quality": 3,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      5406,
+      541
+    ]
+  },
+  {
+    "id": 1000914,
+    "suit": 100091,
+    "quality": 4,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      7209,
+      721
+    ]
+  },
+  {
+    "id": 1000915,
+    "suit": 100091,
+    "quality": 5,
+    "attribute": [
+      "hp",
+      "atk"
+    ],
+    "attributeValue": [
+      9011,
+      901
+    ]
+  }
+]

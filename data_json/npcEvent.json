@@ -1,0 +1,2977 @@
+[
+  {
+    "id": 1001101,
+    "event": 1001,
+    "talkType": 2,
+    "npcIcon": "npc1001",
+    "talkText": "你有见到我的大王吗！大王答应我们一定会回来的。我在这里已经等了几百年。",
+    "talkResult": {
+      "nextId": [
+        1001102
+      ]
+    }
+  },
+  {
+    "id": 1001102,
+    "event": 1001,
+    "talkType": 1,
+    "npcIcon": "npc1001",
+    "talkText": "你的大王……，有可能不会回来了。",
+    "talkResult": {
+      "nextId": [
+        1001103
+      ]
+    }
+  },
+  {
+    "id": 1001103,
+    "event": 1001,
+    "talkType": 2,
+    "npcIcon": "npc1001",
+    "talkText": "不，我的大王一定会回来的。我把这颗捡到的星尘给你。你去替我找到大王好不好。",
+    "talkResult": {
+      "3": 1,
+      "reward": [
+        [
+          40001,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1002101,
+    "event": 1002,
+    "talkType": 2,
+    "npcIcon": "npc1002",
+    "talkText": "哼！我在这里等你很久了，上次败给你纯属偶然。你根本不是我的对手。",
+    "talkResult": {
+      "nextId": [
+        1002102
+      ]
+    }
+  },
+  {
+    "id": 1002102,
+    "event": 1002,
+    "talkType": 1,
+    "npcIcon": "npc1002",
+    "talkText": "哦。既然你说是偶然，我们再来打一场试试。",
+    "talkResult": {
+      "nextId": [
+        1002103
+      ]
+    }
+  },
+  {
+    "id": 1002103,
+    "event": 1002,
+    "talkType": 2,
+    "npcIcon": "npc1002",
+    "talkText": "哼，不打！我们来比点别的。你要是认输，我可以给你些小奖励。你给我走的远远地。",
+    "aOptionText": "好，那我就不比了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那就来比一比吧",
+    "bResult": {
+      "game1": {
+        "win": [
+          [
+            5103,
+            20
+          ]
+        ],
+        "ping": [
+          [
+            5103,
+            10
+          ]
+        ],
+        "lose": []
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 1003101,
+    "event": 1003,
+    "talkType": 2,
+    "npcIcon": "npc1003",
+    "talkText": "哼！我在这里等你很久了，上次败给你纯属偶然。你根本不是我的对手。",
+    "talkResult": {
+      "nextId": [
+        1003102
+      ]
+    }
+  },
+  {
+    "id": 1003102,
+    "event": 1003,
+    "talkType": 1,
+    "npcIcon": "npc1003",
+    "talkText": "哦。既然你说是偶然，我们再来打一场试试。",
+    "talkResult": {
+      "nextId": [
+        1003103
+      ]
+    }
+  },
+  {
+    "id": 1003103,
+    "event": 1003,
+    "talkType": 2,
+    "npcIcon": "npc1003",
+    "talkText": "哼，不打！我们来比点别的。你要是认输，我可以给你些小奖励。你给我走的远远地。",
+    "aOptionText": "好，那我就不比了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          9
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那就来比一比吧",
+    "bResult": {
+      "game1": {
+        "win": [
+          [
+            5103,
+            22
+          ]
+        ],
+        "ping": [
+          [
+            5103,
+            11
+          ]
+        ],
+        "lose": []
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 1004101,
+    "event": 1004,
+    "talkType": 2,
+    "npcIcon": "npc1004",
+    "talkText": "哼！我在这里等你很久了，上次败给你纯属偶然。你根本不是我的对手。",
+    "talkResult": {
+      "nextId": [
+        1004102
+      ]
+    }
+  },
+  {
+    "id": 1004102,
+    "event": 1004,
+    "talkType": 1,
+    "npcIcon": "npc1004",
+    "talkText": "哦。既然你说是偶然，我们再来打一场试试。",
+    "talkResult": {
+      "nextId": [
+        1004103
+      ]
+    }
+  },
+  {
+    "id": 1004103,
+    "event": 1004,
+    "talkType": 2,
+    "npcIcon": "npc1004",
+    "talkText": "哼，不打！我们来比点别的。你要是认输，我可以给你些小奖励。你给我走的远远地。",
+    "aOptionText": "好，那我就不比了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          10
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那就来比一比吧",
+    "bResult": {
+      "game1": {
+        "win": [
+          [
+            5103,
+            24
+          ]
+        ],
+        "ping": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "lose": []
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 1005101,
+    "event": 1005,
+    "talkType": 2,
+    "npcIcon": "npc1005",
+    "talkText": "哼！我在这里等你很久了，上次败给你纯属偶然。你根本不是我的对手。",
+    "talkResult": {
+      "nextId": [
+        1005102
+      ]
+    }
+  },
+  {
+    "id": 1005102,
+    "event": 1005,
+    "talkType": 1,
+    "npcIcon": "npc1005",
+    "talkText": "哦。既然你说是偶然，我们再来打一场试试。",
+    "talkResult": {
+      "nextId": [
+        1005103
+      ]
+    }
+  },
+  {
+    "id": 1005103,
+    "event": 1005,
+    "talkType": 2,
+    "npcIcon": "npc1005",
+    "talkText": "哼，不打！我们来比点别的。你要是认输，我可以给你些小奖励。你给我走的远远地。",
+    "aOptionText": "好，那我就不比了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          11
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那就来比一比吧",
+    "bResult": {
+      "game1": {
+        "win": [
+          [
+            5103,
+            26
+          ]
+        ],
+        "ping": [
+          [
+            5103,
+            13
+          ]
+        ],
+        "lose": []
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 1006101,
+    "event": 1006,
+    "talkType": 2,
+    "npcIcon": "npc1006",
+    "talkText": "哼！我在这里等你很久了，上次败给你纯属偶然。你根本不是我的对手。",
+    "talkResult": {
+      "nextId": [
+        1006102
+      ]
+    }
+  },
+  {
+    "id": 1006102,
+    "event": 1006,
+    "talkType": 1,
+    "npcIcon": "npc1006",
+    "talkText": "哦。既然你说是偶然，我们再来打一场试试。",
+    "talkResult": {
+      "nextId": [
+        1006103
+      ]
+    }
+  },
+  {
+    "id": 1006103,
+    "event": 1006,
+    "talkType": 2,
+    "npcIcon": "npc1006",
+    "talkText": "哼，不打！我们来比点别的。你要是认输，我可以给你些小奖励。你给我走的远远地。",
+    "aOptionText": "好，那我就不比了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          12
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那就来比一比吧",
+    "bResult": {
+      "game1": {
+        "win": [
+          [
+            5103,
+            28
+          ]
+        ],
+        "ping": [
+          [
+            5103,
+            14
+          ]
+        ],
+        "lose": []
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 1007101,
+    "event": 1007,
+    "talkType": 2,
+    "npcIcon": "npc1007",
+    "talkText": "哼！我在这里等你很久了，上次败给你纯属偶然。你根本不是我的对手。",
+    "talkResult": {
+      "nextId": [
+        1007102
+      ]
+    }
+  },
+  {
+    "id": 1007102,
+    "event": 1007,
+    "talkType": 1,
+    "npcIcon": "npc1007",
+    "talkText": "哦。既然你说是偶然，我们再来打一场试试。",
+    "talkResult": {
+      "nextId": [
+        1007103
+      ]
+    }
+  },
+  {
+    "id": 1007103,
+    "event": 1007,
+    "talkType": 2,
+    "npcIcon": "npc1007",
+    "talkText": "哼，不打！我们来比点别的。你要是认输，我可以给你些小奖励。你给我走的远远地。",
+    "aOptionText": "好，那我就不比了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          13
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那就来比一比吧",
+    "bResult": {
+      "game1": {
+        "win": [
+          [
+            5103,
+            30
+          ]
+        ],
+        "ping": [
+          [
+            5103,
+            15
+          ]
+        ],
+        "lose": []
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 1008101,
+    "event": 1008,
+    "talkType": 2,
+    "npcIcon": "npc1008",
+    "talkText": "哼！我在这里等你很久了，上次败给你纯属偶然。你根本不是我的对手。",
+    "talkResult": {
+      "nextId": [
+        1008102
+      ]
+    }
+  },
+  {
+    "id": 1008102,
+    "event": 1008,
+    "talkType": 1,
+    "npcIcon": "npc1008",
+    "talkText": "哦。既然你说是偶然，我们再来打一场试试。",
+    "talkResult": {
+      "nextId": [
+        1008103
+      ]
+    }
+  },
+  {
+    "id": 1008103,
+    "event": 1008,
+    "talkType": 2,
+    "npcIcon": "npc1008",
+    "talkText": "哼，不打！我们来比点别的。你要是认输，我可以给你些小奖励。你给我走的远远地。",
+    "aOptionText": "好，那我就不比了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          14
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那就来比一比吧",
+    "bResult": {
+      "game1": {
+        "win": [
+          [
+            5103,
+            32
+          ]
+        ],
+        "ping": [
+          [
+            5103,
+            16
+          ]
+        ],
+        "lose": []
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 2001101,
+    "event": 2001,
+    "talkType": 2,
+    "npcIcon": "npc2001",
+    "talkText": "上仙你怎么来这里的，这可是龙王的宝库，一般人是不允许进入的。",
+    "talkResult": {
+      "nextId": [
+        2001102
+      ]
+    }
+  },
+  {
+    "id": 2001102,
+    "event": 2001,
+    "talkType": 1,
+    "npcIcon": "npc2001",
+    "talkText": "那我既然来了，总不能空手而归吧。",
+    "talkResult": {
+      "nextId": [
+        2001103
+      ]
+    }
+  },
+  {
+    "id": 2001103,
+    "event": 2001,
+    "talkType": 2,
+    "npcIcon": "npc2001",
+    "talkText": "那我给你些东西，上仙快离开这里吧。上仙看你要什么自己选下吧。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          40
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          4
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 2002101,
+    "event": 2002,
+    "talkType": 2,
+    "npcIcon": "npc2002",
+    "talkText": "哎呀！上仙你怎么进来的，我这宝库可不是谁都能进的，上仙还请快离开吧。",
+    "talkResult": {
+      "nextId": [
+        2002102
+      ]
+    }
+  },
+  {
+    "id": 2002102,
+    "event": 2002,
+    "talkType": 1,
+    "npcIcon": "npc2002",
+    "talkText": "老龙王还是如此小气，坐拥如此宝库却让我白来一趟。",
+    "talkResult": {
+      "nextId": [
+        2002103
+      ]
+    }
+  },
+  {
+    "id": 2002103,
+    "event": 2002,
+    "talkType": 2,
+    "npcIcon": "npc2002",
+    "talkText": "哎呀！上仙这可都是老龙我辛苦积攒的。也罢，上仙就自己挑个礼物吧。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          50
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          5
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 3001101,
+    "event": 3001,
+    "talkType": 2,
+    "npcIcon": "talk3001",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3001102
+      ]
+    }
+  },
+  {
+    "id": 3001102,
+    "event": 3001,
+    "talkType": 1,
+    "npcIcon": "talk3001",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3001103
+      ]
+    }
+  },
+  {
+    "id": 3001103,
+    "event": 3001,
+    "talkType": 2,
+    "npcIcon": "talk3001",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameTeacup": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "change": [
+          5,
+          15
+        ],
+        "npcIcon": "npc3001"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3002101,
+    "event": 3002,
+    "talkType": 2,
+    "npcIcon": "talk3002",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3002102
+      ]
+    }
+  },
+  {
+    "id": 3002102,
+    "event": 3002,
+    "talkType": 1,
+    "npcIcon": "talk3002",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3002103
+      ]
+    }
+  },
+  {
+    "id": 3002103,
+    "event": 3002,
+    "talkType": 2,
+    "npcIcon": "talk3002",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameTeacup": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "change": [
+          5,
+          15
+        ],
+        "npcIcon": "npc3002"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3003101,
+    "event": 3003,
+    "talkType": 2,
+    "npcIcon": "talk3003",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3003102
+      ]
+    }
+  },
+  {
+    "id": 3003102,
+    "event": 3003,
+    "talkType": 1,
+    "npcIcon": "talk3003",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3003103
+      ]
+    }
+  },
+  {
+    "id": 3003103,
+    "event": 3003,
+    "talkType": 2,
+    "npcIcon": "talk3003",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameTeacup": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "change": [
+          5,
+          15
+        ],
+        "npcIcon": "npc3003"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3004101,
+    "event": 3004,
+    "talkType": 2,
+    "npcIcon": "talk3004",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3004102
+      ]
+    }
+  },
+  {
+    "id": 3004102,
+    "event": 3004,
+    "talkType": 1,
+    "npcIcon": "talk3004",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3004103
+      ]
+    }
+  },
+  {
+    "id": 3004103,
+    "event": 3004,
+    "talkType": 2,
+    "npcIcon": "talk3004",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameTeacup": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "change": [
+          5,
+          15
+        ],
+        "npcIcon": "npc3004"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3005101,
+    "event": 3005,
+    "talkType": 2,
+    "npcIcon": "talk3005",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3005102
+      ]
+    }
+  },
+  {
+    "id": 3005102,
+    "event": 3005,
+    "talkType": 1,
+    "npcIcon": "talk3005",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3005103
+      ]
+    }
+  },
+  {
+    "id": 3005103,
+    "event": 3005,
+    "talkType": 2,
+    "npcIcon": "talk3005",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameTeacup": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "change": [
+          5,
+          15
+        ],
+        "npcIcon": "npc3005"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3006101,
+    "event": 3006,
+    "talkType": 2,
+    "npcIcon": "talk3006",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3006102
+      ]
+    }
+  },
+  {
+    "id": 3006102,
+    "event": 3006,
+    "talkType": 1,
+    "npcIcon": "talk3006",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3006103
+      ]
+    }
+  },
+  {
+    "id": 3006103,
+    "event": 3006,
+    "talkType": 2,
+    "npcIcon": "talk3006",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameXiaoxl": {
+        "win3": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win4": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "times": 14,
+        "npcIcon": "npc3006"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3007101,
+    "event": 3007,
+    "talkType": 2,
+    "npcIcon": "talk3007",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3007102
+      ]
+    }
+  },
+  {
+    "id": 3007102,
+    "event": 3007,
+    "talkType": 1,
+    "npcIcon": "talk3007",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3007103
+      ]
+    }
+  },
+  {
+    "id": 3007103,
+    "event": 3007,
+    "talkType": 2,
+    "npcIcon": "talk3007",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameXiaoxl": {
+        "win3": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win4": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "times": 14,
+        "npcIcon": "npc3007"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3008101,
+    "event": 3008,
+    "talkType": 2,
+    "npcIcon": "talk3008",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3008102
+      ]
+    }
+  },
+  {
+    "id": 3008102,
+    "event": 3008,
+    "talkType": 1,
+    "npcIcon": "talk3008",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3008103
+      ]
+    }
+  },
+  {
+    "id": 3008103,
+    "event": 3008,
+    "talkType": 2,
+    "npcIcon": "talk3008",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameXiaoxl": {
+        "win3": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win4": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "times": 14,
+        "npcIcon": "npc3008"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3009101,
+    "event": 3009,
+    "talkType": 2,
+    "npcIcon": "talk3009",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3009102
+      ]
+    }
+  },
+  {
+    "id": 3009102,
+    "event": 3009,
+    "talkType": 1,
+    "npcIcon": "talk3009",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3009103
+      ]
+    }
+  },
+  {
+    "id": 3009103,
+    "event": 3009,
+    "talkType": 2,
+    "npcIcon": "talk3009",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameXiaoxl": {
+        "win3": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win4": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "times": 14,
+        "npcIcon": "npc3009"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 3010101,
+    "event": 3010,
+    "talkType": 2,
+    "npcIcon": "talk3010",
+    "talkText": "既然你闯入了这里，可敢接受我的挑战？要是怕了那就走吧。",
+    "talkResult": {
+      "nextId": [
+        3010102
+      ]
+    }
+  },
+  {
+    "id": 3010102,
+    "event": 3010,
+    "talkType": 1,
+    "npcIcon": "talk3010",
+    "talkText": "我怎么可能会怕！你就放马过来吧！",
+    "talkResult": {
+      "nextId": [
+        3010103
+      ]
+    }
+  },
+  {
+    "id": 3010103,
+    "event": 3010,
+    "talkType": 2,
+    "npcIcon": "talk3010",
+    "talkText": "不错，看在你勇气可嘉，如果你现在认输，我也不会为难你，拿着小奖励走吧。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameXiaoxl": {
+        "win3": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win4": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "times": 14,
+        "npcIcon": "npc3010"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 4001101,
+    "event": 4001,
+    "talkType": 2,
+    "npcIcon": "talk4001",
+    "talkText": "上仙你怎么来这里的，这可是地府的宝库，一般人是不允许进入的。",
+    "talkResult": {
+      "nextId": [
+        4001102
+      ]
+    }
+  },
+  {
+    "id": 4001102,
+    "event": 4001,
+    "talkType": 1,
+    "npcIcon": "talk4001",
+    "talkText": "那我既然来了，总不能空手而归吧。",
+    "talkResult": {
+      "nextId": [
+        4001103
+      ]
+    }
+  },
+  {
+    "id": 4001103,
+    "event": 4001,
+    "talkType": 2,
+    "npcIcon": "talk4001",
+    "talkText": "那我给你些东西，上仙快离开这里吧。上仙看你要什么自己选下吧。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          40
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          4
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 4002101,
+    "event": 4002,
+    "talkType": 2,
+    "npcIcon": "talk4002",
+    "talkText": "哎呀！上仙你怎么进来的，深渊宝库可不是谁都能进的，上仙还请快离开吧。",
+    "talkResult": {
+      "nextId": [
+        4002102
+      ]
+    }
+  },
+  {
+    "id": 4002102,
+    "event": 4002,
+    "talkType": 1,
+    "npcIcon": "talk4002",
+    "talkText": "不要如此小气，这宝库的宝物如此之多，怎能让我白来一趟。",
+    "talkResult": {
+      "nextId": [
+        4002103
+      ]
+    }
+  },
+  {
+    "id": 4002103,
+    "event": 4002,
+    "talkType": 2,
+    "npcIcon": "talk4002",
+    "talkText": "哎呀！也罢，上仙就自己挑个礼物吧。拿完速速离去，切勿久留。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          50
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          5
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 5001101,
+    "event": 5001,
+    "talkType": 2,
+    "npcIcon": "talk5001",
+    "talkText": "解答出我的问题之人，即可获得我守护的宝藏，你可愿一试？",
+    "talkResult": {
+      "nextId": [
+        5001102
+      ]
+    }
+  },
+  {
+    "id": 5001102,
+    "event": 5001,
+    "talkType": 1,
+    "npcIcon": "talk5001",
+    "talkText": "哦？那就说来听听看！",
+    "talkResult": {
+      "nextId": [
+        5001103
+      ]
+    }
+  },
+  {
+    "id": 5001103,
+    "event": 5001,
+    "talkType": 2,
+    "npcIcon": "talk5001",
+    "talkText": "很有自信嘛，现在放弃还来得及，我依然可以给你些小奖励。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameQuiz": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc5001"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 5002101,
+    "event": 5002,
+    "talkType": 2,
+    "npcIcon": "talk5002",
+    "talkText": "解答出我的问题之人，即可获得我守护的宝藏，你可愿一试？",
+    "talkResult": {
+      "nextId": [
+        5002102
+      ]
+    }
+  },
+  {
+    "id": 5002102,
+    "event": 5002,
+    "talkType": 1,
+    "npcIcon": "talk5002",
+    "talkText": "哦？那就说来听听看！",
+    "talkResult": {
+      "nextId": [
+        5002103
+      ]
+    }
+  },
+  {
+    "id": 5002103,
+    "event": 5002,
+    "talkType": 2,
+    "npcIcon": "talk5002",
+    "talkText": "很有自信嘛，现在放弃还来得及，我依然可以给你些小奖励。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameQuiz": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc5002"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 5003101,
+    "event": 5003,
+    "talkType": 2,
+    "npcIcon": "talk5003",
+    "talkText": "解答出我的问题之人，即可获得我守护的宝藏，你可愿一试？",
+    "talkResult": {
+      "nextId": [
+        5003102
+      ]
+    }
+  },
+  {
+    "id": 5003102,
+    "event": 5003,
+    "talkType": 1,
+    "npcIcon": "talk5003",
+    "talkText": "哦？那就说来听听看！",
+    "talkResult": {
+      "nextId": [
+        5003103
+      ]
+    }
+  },
+  {
+    "id": 5003103,
+    "event": 5003,
+    "talkType": 2,
+    "npcIcon": "talk5003",
+    "talkText": "很有自信嘛，现在放弃还来得及，我依然可以给你些小奖励。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameQuiz": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc5003"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 5004101,
+    "event": 5004,
+    "talkType": 2,
+    "npcIcon": "talk5004",
+    "talkText": "解答出我的问题之人，即可获得我守护的宝藏，你可愿一试？",
+    "talkResult": {
+      "nextId": [
+        5004102
+      ]
+    }
+  },
+  {
+    "id": 5004102,
+    "event": 5004,
+    "talkType": 1,
+    "npcIcon": "talk5004",
+    "talkText": "哦？那就说来听听看！",
+    "talkResult": {
+      "nextId": [
+        5004103
+      ]
+    }
+  },
+  {
+    "id": 5004103,
+    "event": 5004,
+    "talkType": 2,
+    "npcIcon": "talk5004",
+    "talkText": "很有自信嘛，现在放弃还来得及，我依然可以给你些小奖励。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameQuiz": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc5004"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 5005101,
+    "event": 5005,
+    "talkType": 2,
+    "npcIcon": "talk5005",
+    "talkText": "我的九宫图，世间少有人能破解，你可愿一试？",
+    "talkResult": {
+      "nextId": [
+        5005102
+      ]
+    }
+  },
+  {
+    "id": 5005102,
+    "event": 5005,
+    "talkType": 1,
+    "npcIcon": "talk5005",
+    "talkText": "哦？那就说来听听看！",
+    "talkResult": {
+      "nextId": [
+        5005103
+      ]
+    }
+  },
+  {
+    "id": 5005103,
+    "event": 5005,
+    "talkType": 2,
+    "npcIcon": "talk5005",
+    "talkText": "很有自信嘛，现在放弃还来得及，我依然可以给你些小奖励。",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameGridview": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "times": 1,
+        "npcIcon": "npc5005"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 5006101,
+    "event": 5006,
+    "talkType": 2,
+    "npcIcon": "talk5006",
+    "talkText": "既然来了，就陪我下盘棋再走吧！",
+    "talkResult": {
+      "nextId": [
+        5006102
+      ]
+    }
+  },
+  {
+    "id": 5006102,
+    "event": 5006,
+    "talkType": 1,
+    "npcIcon": "talk5006",
+    "talkText": "什么棋？五子棋还是围棋？",
+    "talkResult": {
+      "nextId": [
+        5006103
+      ]
+    }
+  },
+  {
+    "id": 5006103,
+    "event": 5006,
+    "talkType": 2,
+    "npcIcon": "talk5006",
+    "talkText": "都不是~是天庭特有的黑白棋，敢不敢和我一战？",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameBlackwhite": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win2": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win3": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 1,
+        "npcIcon": "npc5006"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 5007101,
+    "event": 5007,
+    "talkType": 2,
+    "npcIcon": "talk5007",
+    "talkText": "既然来了，就陪我下盘棋再走吧！",
+    "talkResult": {
+      "nextId": [
+        5007102
+      ]
+    }
+  },
+  {
+    "id": 5007102,
+    "event": 5007,
+    "talkType": 1,
+    "npcIcon": "talk5007",
+    "talkText": "什么棋？五子棋还是围棋？",
+    "talkResult": {
+      "nextId": [
+        5007103
+      ]
+    }
+  },
+  {
+    "id": 5007103,
+    "event": 5007,
+    "talkType": 2,
+    "npcIcon": "talk5007",
+    "talkText": "都不是~是天庭特有的黑白棋，敢不敢和我一战？",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameBlackwhite": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win2": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win3": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 1,
+        "npcIcon": "npc5007"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 5008101,
+    "event": 5008,
+    "talkType": 2,
+    "npcIcon": "talk5008",
+    "talkText": "既然来了，就陪我下盘棋再走吧！",
+    "talkResult": {
+      "nextId": [
+        5008102
+      ]
+    }
+  },
+  {
+    "id": 5008102,
+    "event": 5008,
+    "talkType": 1,
+    "npcIcon": "talk5008",
+    "talkText": "什么棋？五子棋还是围棋？",
+    "talkResult": {
+      "nextId": [
+        5008103
+      ]
+    }
+  },
+  {
+    "id": 5008103,
+    "event": 5008,
+    "talkType": 2,
+    "npcIcon": "talk5008",
+    "talkText": "都不是~是天庭特有的黑白棋，敢不敢和我一战？",
+    "aOptionText": "好，那我就不挑战了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我接受你的挑战",
+    "bResult": {
+      "gameBlackwhite": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win2": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "win3": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 1,
+        "npcIcon": "npc5008"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 6001101,
+    "event": 6001,
+    "talkType": 2,
+    "npcIcon": "talk6001",
+    "talkText": "上仙你怎么来这里的，这可是天庭的宝库，一般人是不允许进入的。",
+    "talkResult": {
+      "nextId": [
+        6001102
+      ]
+    }
+  },
+  {
+    "id": 6001102,
+    "event": 6001,
+    "talkType": 1,
+    "npcIcon": "talk6001",
+    "talkText": "那我既然来了，总不能空手而归吧。",
+    "talkResult": {
+      "nextId": [
+        6001103
+      ]
+    }
+  },
+  {
+    "id": 6001103,
+    "event": 6001,
+    "talkType": 2,
+    "npcIcon": "talk6001",
+    "talkText": "那我给你些东西，上仙快离开这里吧。上仙看你要什么自己选下吧。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          40
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          4
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 6002101,
+    "event": 6002,
+    "talkType": 2,
+    "npcIcon": "talk6002",
+    "talkText": "哎呀！上仙你怎么进来的，蟠桃宝库可不是谁都能进的，上仙还请快离开吧。",
+    "talkResult": {
+      "nextId": [
+        6002102
+      ]
+    }
+  },
+  {
+    "id": 6002102,
+    "event": 6002,
+    "talkType": 1,
+    "npcIcon": "talk6002",
+    "talkText": "不要如此小气，这宝库的宝物如此之多，怎能让我白来一趟。",
+    "talkResult": {
+      "nextId": [
+        6002103
+      ]
+    }
+  },
+  {
+    "id": 6002103,
+    "event": 6002,
+    "talkType": 2,
+    "npcIcon": "talk6002",
+    "talkText": "哎呀！也罢，上仙就自己挑个礼物吧。拿完速速离去，切勿久留。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          50
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          5
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 7001101,
+    "event": 7001,
+    "talkType": 2,
+    "npcIcon": "talk7001",
+    "talkText": "瘟神吕岳想重启瘟癀毒阵，主掌天下，你愿意协助我们阻止他的计划吗",
+    "talkResult": {
+      "nextId": [
+        7001102
+      ]
+    }
+  },
+  {
+    "id": 7001102,
+    "event": 7001,
+    "talkType": 1,
+    "npcIcon": "talk7001",
+    "talkText": "哦？说来听听看！",
+    "talkResult": {
+      "nextId": [
+        7001103
+      ]
+    }
+  },
+  {
+    "id": 7001103,
+    "event": 7001,
+    "talkType": 2,
+    "npcIcon": "talk7001",
+    "talkText": "我会将武器借给你，正确使用即可破坏瘟神的法宝，你可愿一试？",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameFlycutter": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc7001"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 7002101,
+    "event": 7002,
+    "talkType": 2,
+    "npcIcon": "talk7002",
+    "talkText": "瘟神吕岳想重启瘟癀毒阵，主掌天下，你愿意协助我们阻止他的计划吗",
+    "talkResult": {
+      "nextId": [
+        7002102
+      ]
+    }
+  },
+  {
+    "id": 7002102,
+    "event": 7002,
+    "talkType": 1,
+    "npcIcon": "talk7002",
+    "talkText": "哦？说来听听看！",
+    "talkResult": {
+      "nextId": [
+        7002103
+      ]
+    }
+  },
+  {
+    "id": 7002103,
+    "event": 7002,
+    "talkType": 2,
+    "npcIcon": "talk7002",
+    "talkText": "我会将武器借给你，正确使用即可破坏瘟神的法宝，你可愿一试？",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameFlycutter": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc7002"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 7003101,
+    "event": 7003,
+    "talkType": 2,
+    "npcIcon": "talk7003",
+    "talkText": "瘟神吕岳想重启瘟癀毒阵，主掌天下，你愿意协助我们阻止他的计划吗",
+    "talkResult": {
+      "nextId": [
+        7003102
+      ]
+    }
+  },
+  {
+    "id": 7003102,
+    "event": 7003,
+    "talkType": 1,
+    "npcIcon": "talk7003",
+    "talkText": "哦？说来听听看！",
+    "talkResult": {
+      "nextId": [
+        7003103
+      ]
+    }
+  },
+  {
+    "id": 7003103,
+    "event": 7003,
+    "talkType": 2,
+    "npcIcon": "talk7003",
+    "talkText": "我会将武器借给你，正确使用即可破坏瘟神的法宝，你可愿一试？",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameFlycutter": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc7003"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 7004101,
+    "event": 7004,
+    "talkType": 2,
+    "npcIcon": "talk7004",
+    "talkText": "瘟神吕岳想重启瘟癀毒阵，主掌天下，你愿意协助我们阻止他的计划吗",
+    "talkResult": {
+      "nextId": [
+        7004102
+      ]
+    }
+  },
+  {
+    "id": 7004102,
+    "event": 7004,
+    "talkType": 1,
+    "npcIcon": "talk7004",
+    "talkText": "哦？说来听听看！",
+    "talkResult": {
+      "nextId": [
+        7004103
+      ]
+    }
+  },
+  {
+    "id": 7004103,
+    "event": 7004,
+    "talkType": 2,
+    "npcIcon": "talk7004",
+    "talkText": "我会将武器借给你，正确使用即可破坏瘟神的法宝，你可愿一试？",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameFlycutter": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc7004"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 7005101,
+    "event": 7005,
+    "talkType": 2,
+    "npcIcon": "talk7005",
+    "talkText": "又见面啦~唉，我正在为法阵的事情发愁呢~",
+    "talkResult": {
+      "nextId": [
+        7005102
+      ]
+    }
+  },
+  {
+    "id": 7005102,
+    "event": 7005,
+    "talkType": 1,
+    "npcIcon": "talk7005",
+    "talkText": "法阵？是遇到什么难题了吗？",
+    "talkResult": {
+      "nextId": [
+        7005103
+      ]
+    }
+  },
+  {
+    "id": 7005103,
+    "event": 7005,
+    "talkType": 2,
+    "npcIcon": "talk7005",
+    "talkText": "三仙岛的护岛法阵久经风霜，需要时常修补维护，你愿意帮帮我吗？",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameDrawline": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc7005",
+        "gameInfo": "gameDrawlineInfo1"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 7006101,
+    "event": 7006,
+    "talkType": 2,
+    "npcIcon": "talk7006",
+    "talkText": "又是你！没事的话就快走，本仙女正忙着呢！",
+    "talkResult": {
+      "nextId": [
+        7006102
+      ]
+    }
+  },
+  {
+    "id": 7006102,
+    "event": 7006,
+    "talkType": 1,
+    "npcIcon": "talk7006",
+    "talkText": "...这是怎么了？",
+    "talkResult": {
+      "nextId": [
+        7006103
+      ]
+    }
+  },
+  {
+    "id": 7006103,
+    "event": 7006,
+    "talkType": 2,
+    "npcIcon": "talk7006",
+    "talkText": "我正忙着修补三仙岛的护岛法阵，你要是愿意帮忙就留下",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameDrawline": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc7006",
+        "gameInfo": "gameDrawlineInfo2"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 7007101,
+    "event": 7007,
+    "talkType": 2,
+    "npcIcon": "talk7007",
+    "talkText": "你可愿助我修补三仙岛的护岛法阵？修补成功我会给你一些谢礼",
+    "talkResult": {
+      "nextId": [
+        7007102
+      ]
+    }
+  },
+  {
+    "id": 7007102,
+    "event": 7007,
+    "talkType": 1,
+    "npcIcon": "talk7007",
+    "talkText": "哦？说来听听看！",
+    "talkResult": {
+      "nextId": [
+        7007103
+      ]
+    }
+  },
+  {
+    "id": 7007103,
+    "event": 7007,
+    "talkType": 2,
+    "npcIcon": "talk7007",
+    "talkText": "我自会传授你修补之法，若是你不愿意，我依然会给你些小礼物",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameDrawline": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc7007",
+        "gameInfo": "gameDrawlineInfo3"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 8001101,
+    "event": 8001,
+    "talkType": 2,
+    "npcIcon": "talk8001",
+    "talkText": "上仙你怎么来这里的，这可是截教的宝库，一般人是不允许进入的。",
+    "talkResult": {
+      "nextId": [
+        8001102
+      ]
+    }
+  },
+  {
+    "id": 8001102,
+    "event": 8001,
+    "talkType": 1,
+    "npcIcon": "talk8001",
+    "talkText": "那我既然来了，总不能空手而归吧。",
+    "talkResult": {
+      "nextId": [
+        8001103
+      ]
+    }
+  },
+  {
+    "id": 8001103,
+    "event": 8001,
+    "talkType": 2,
+    "npcIcon": "talk8001",
+    "talkText": "那我给你些东西，上仙快离开这里吧。上仙看你要什么自己选下吧。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          50
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          5
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 8002101,
+    "event": 8002,
+    "talkType": 2,
+    "npcIcon": "talk8002",
+    "talkText": "哎呀！上仙你怎么进来的，仙境宝库可不是谁都能进的，上仙还请快离开吧。",
+    "talkResult": {
+      "nextId": [
+        8002102
+      ]
+    }
+  },
+  {
+    "id": 8002102,
+    "event": 8002,
+    "talkType": 1,
+    "npcIcon": "talk8002",
+    "talkText": "不要如此小气，这宝库的宝物如此之多，怎能让我白来一趟。",
+    "talkResult": {
+      "nextId": [
+        8002103
+      ]
+    }
+  },
+  {
+    "id": 8002103,
+    "event": 8002,
+    "talkType": 2,
+    "npcIcon": "talk8002",
+    "talkText": "哎呀！也罢，上仙就自己挑个礼物吧。拿完速速离去，切勿久留。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          50
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          5
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 9001101,
+    "event": 9001,
+    "talkType": 2,
+    "npcIcon": "talk9001",
+    "talkText": "灾厄……元神……封印……",
+    "talkResult": {
+      "nextId": [
+        9001102
+      ]
+    }
+  },
+  {
+    "id": 9001102,
+    "event": 9001,
+    "talkType": 1,
+    "npcIcon": "talk9001",
+    "talkText": "竟将雯雯遗落在鬼雾泽的一缕元神封印进密室中了，快说，要如何才能解开。",
+    "talkResult": {
+      "nextId": [
+        9001103
+      ]
+    }
+  },
+  {
+    "id": 9001103,
+    "event": 9001,
+    "talkType": 2,
+    "npcIcon": "talk9001",
+    "talkText": "不……本仙……不愿……",
+    "aOptionText": "既然不愿，那便算了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那我就自己来",
+    "bResult": {
+      "gameMagicSquare": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc9001"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 9002101,
+    "event": 9002,
+    "talkType": 2,
+    "npcIcon": "talk9002",
+    "talkText": "封印……封印……灾厄……消散……",
+    "talkResult": {
+      "nextId": [
+        9002102
+      ]
+    }
+  },
+  {
+    "id": 9002102,
+    "event": 9002,
+    "talkType": 1,
+    "npcIcon": "talk9002",
+    "talkText": "竟将雯雯遗落在鬼雾泽的一缕元神封印进密室中了，快说，要如何才能解开。",
+    "talkResult": {
+      "nextId": [
+        9002103
+      ]
+    }
+  },
+  {
+    "id": 9002103,
+    "event": 9002,
+    "talkType": 2,
+    "npcIcon": "talk9002",
+    "talkText": "不说……你自己……想办法……",
+    "aOptionText": "太难了，还是算了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那我就自己来",
+    "bResult": {
+      "gameMagicSquare": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc9002"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 9003101,
+    "event": 9003,
+    "talkType": 2,
+    "npcIcon": "talk9003",
+    "talkText": "哼，那灾厄的一缕元神的确遗落在鬼雾泽，不过……已经被我们封印进了密室之中。",
+    "talkResult": {
+      "nextId": [
+        9003102
+      ]
+    }
+  },
+  {
+    "id": 9003102,
+    "event": 9003,
+    "talkType": 1,
+    "npcIcon": "talk9003",
+    "talkText": "为何要这样做？若能将这缕元神还给雯雯，定能助她压制体内邪气……",
+    "talkResult": {
+      "nextId": [
+        9003103
+      ]
+    }
+  },
+  {
+    "id": 9003103,
+    "event": 9003,
+    "talkType": 2,
+    "npcIcon": "talk9003",
+    "talkText": "她会如何，我们可不想管。你想帮她，就自己想办法打开这密室吧！",
+    "aOptionText": "太难了，还是算了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那我就自己来",
+    "bResult": {
+      "gameMagicSquare": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc9003"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 9004101,
+    "event": 9004,
+    "talkType": 2,
+    "npcIcon": "talk9004",
+    "talkText": "灾厄……消失……毁灭……复苏……",
+    "talkResult": {
+      "nextId": [
+        9004102
+      ]
+    }
+  },
+  {
+    "id": 9004102,
+    "event": 9004,
+    "talkType": 1,
+    "npcIcon": "talk9004",
+    "talkText": "雯雯遗落在鬼雾泽的一缕元神竟被封印进了密室……还请你告诉我如何能破解机关。",
+    "talkResult": {
+      "nextId": [
+        9004103
+      ]
+    }
+  },
+  {
+    "id": 9004103,
+    "event": 9004,
+    "talkType": 2,
+    "npcIcon": "talk9004",
+    "talkText": "嗡嗡——不可能……告诉……你……",
+    "aOptionText": "太难了，还是算了",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "那我就自己来",
+    "bResult": {
+      "gameMagicSquare": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc9004"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 9005101,
+    "event": 9005,
+    "talkType": 2,
+    "npcIcon": "talk9005",
+    "talkText": "真是只笨鸟！做个机关都能把自己关进去！",
+    "talkResult": {
+      "nextId": [
+        9005102
+      ]
+    }
+  },
+  {
+    "id": 9005102,
+    "event": 9005,
+    "talkType": 1,
+    "npcIcon": "talk9005",
+    "talkText": "赤月神君，你这是在……？",
+    "talkResult": {
+      "nextId": [
+        9005103
+      ]
+    }
+  },
+  {
+    "id": 9005103,
+    "event": 9005,
+    "talkType": 2,
+    "npcIcon": "talk9005",
+    "talkText": "哦？你来得正好，快来帮我破解这机关，把紫睛鹏王那只笨鸟救出来。",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameLaserLight": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc9005"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 9006101,
+    "event": 9006,
+    "talkType": 1,
+    "npcIcon": "talk9006",
+    "talkText": "白水神君，你在此地做什么？",
+    "talkResult": {
+      "nextId": [
+        9006102
+      ]
+    }
+  },
+  {
+    "id": 9006102,
+    "event": 9006,
+    "talkType": 2,
+    "npcIcon": "talk9006",
+    "talkText": "……紫睛鹏王，把自己关进去了。",
+    "talkResult": {
+      "nextId": [
+        9006103
+      ]
+    }
+  },
+  {
+    "id": 9006103,
+    "event": 9006,
+    "talkType": 1,
+    "npcIcon": "talk9006",
+    "talkText": "这……好复杂的机关……我来助你破解吧！",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameLaserLight": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc9006"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 9007101,
+    "event": 9007,
+    "talkType": 2,
+    "npcIcon": "talk9007",
+    "talkText": "是你？你为何又来此地？",
+    "talkResult": {
+      "nextId": [
+        9007102
+      ]
+    }
+  },
+  {
+    "id": 9007102,
+    "event": 9007,
+    "talkType": 1,
+    "npcIcon": "talk9007",
+    "talkText": "路过而已。你为何面露愁色？是出了什么事吗？",
+    "talkResult": {
+      "nextId": [
+        9007103
+      ]
+    }
+  },
+  {
+    "id": 9007103,
+    "event": 9007,
+    "talkType": 2,
+    "npcIcon": "talk9007",
+    "talkText": "是紫睛鹏王，他将自己关进了机关。我对机关并不了解，上仙可能救他？",
+    "aOptionText": "今日多有不便，下次吧",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          8
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "让我来帮你吧",
+    "bResult": {
+      "gameLaserLight": {
+        "win0": [
+          [
+            5103,
+            12
+          ]
+        ],
+        "win1": [
+          [
+            5103,
+            9
+          ]
+        ],
+        "times": 2,
+        "npcIcon": "npc9007"
+      },
+      "end": 1
+    }
+  },
+  {
+    "id": 10001101,
+    "event": 10001,
+    "talkType": 2,
+    "npcIcon": "talk10001",
+    "talkText": "上仙你怎么来这里的，这可是蓬莱的宝库，一般人是不允许进入的。",
+    "talkResult": {
+      "nextId": [
+        10001102
+      ]
+    }
+  },
+  {
+    "id": 10001102,
+    "event": 10001,
+    "talkType": 1,
+    "npcIcon": "talk10001",
+    "talkText": "原来是宝库，难怪藏着这么多宝物，那我还是离开吧。",
+    "talkResult": {
+      "nextId": [
+        10001103
+      ]
+    }
+  },
+  {
+    "id": 10001103,
+    "event": 10001,
+    "talkType": 2,
+    "npcIcon": "talk10001",
+    "talkText": "多谢上仙理解，这些东西，算是我的一点小小心意，上仙选一样带走吧。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          50
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          5
+        ]
+      ],
+      "end": 1
+    }
+  },
+  {
+    "id": 10002101,
+    "event": 10002,
+    "talkType": 2,
+    "npcIcon": "talk10002",
+    "talkText": "怎么到这你还能找得到我？真是阴魂不散。",
+    "talkResult": {
+      "nextId": [
+        10002102
+      ]
+    }
+  },
+  {
+    "id": 10002102,
+    "event": 10002,
+    "talkType": 1,
+    "npcIcon": "talk10002",
+    "talkText": "你别误会，我可不是专门来找你的，我只是误打误撞闯进了此地。",
+    "talkResult": {
+      "nextId": [
+        10002103
+      ]
+    }
+  },
+  {
+    "id": 10002103,
+    "event": 10002,
+    "talkType": 2,
+    "npcIcon": "talk10002",
+    "talkText": "哼，管你是怎么来的，选一样东西离开这里，不要对他人提起。",
+    "aOptionText": "我要造梦礼券",
+    "aResult": {
+      "reward": [
+        [
+          5103,
+          50
+        ]
+      ],
+      "end": 1
+    },
+    "bOptionText": "我要太阳星尘",
+    "bResult": {
+      "reward": [
+        [
+          42001,
+          5
+        ]
+      ],
+      "end": 1
+    }
+  }
+]

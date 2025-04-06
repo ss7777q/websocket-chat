@@ -1,0 +1,2183 @@
+[
+  {
+    "id": 10101,
+    "group": 10101,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 10102,
+    "roleType": 1,
+    "passiveName": "火眼金睛",
+    "icon": 10101,
+    "text": "关卡内所有我方单位命中属性+5%，暴击属性+5%",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20101,
+        1
+      ]
+    ],
+    "beskillId": [
+      6000501,
+      6000502
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 10102,
+    "group": 10101,
+    "level": 2,
+    "roleType": 1,
+    "passiveName": "火眼金睛2",
+    "icon": 10101,
+    "text": "关卡内所有我方单位命中属性+7.5%，暴击属性+7.5%",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      6000511,
+      6000512
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 10201,
+    "group": 10201,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 10202,
+    "roleType": 1,
+    "passiveName": "救命毫毛",
+    "icon": 10201,
+    "text": "分身消失时会化作毫毛，持续为悟空恢复生命与魔法，可叠加4层",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20102,
+        1
+      ]
+    ],
+    "beskillId": [
+      6000601,
+      6000602
+    ],
+    "makeUpBeskillId": {
+      "default": [
+        6002001,
+        6002002
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 10202,
+    "group": 10201,
+    "level": 2,
+    "roleType": 1,
+    "passiveName": "救命毫毛2",
+    "icon": 10201,
+    "text": "分身消失时会化作毫毛，持续为悟空恢复生命与魔法，恢复值提升，可叠加4层",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      6000611,
+      6000612
+    ],
+    "makeUpBeskillId": {
+      "default": [
+        6002011,
+        6002012
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 10301,
+    "group": 10301,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 10302,
+    "roleType": 1,
+    "passiveName": "嗜血狂暴",
+    "icon": 10301,
+    "text": "随着生命值降低获得吸血效果",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20103,
+        1
+      ]
+    ],
+    "beskillId": [
+      6000701,
+      6000702
+    ],
+    "makeUpBeskillId": {
+      "1001190": [
+        6001701,
+        6001702
+      ],
+      "1001192": [
+        6001801,
+        6001802
+      ],
+      "1001193": [
+        6001901,
+        6001902
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 10302,
+    "group": 10301,
+    "level": 2,
+    "roleType": 1,
+    "passiveName": "嗜血狂暴2",
+    "icon": 10301,
+    "text": "随着生命值降低获得吸血效果，吸血效果增加",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      6000711,
+      6000712
+    ],
+    "makeUpBeskillId": {
+      "1001190": [
+        6001711,
+        6001712
+      ],
+      "1001192": [
+        6001811,
+        6001812
+      ],
+      "1001193": [
+        6001911,
+        6001912
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 10401,
+    "group": 10401,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 10402,
+    "roleType": 1,
+    "passiveName": "空中连击",
+    "icon": 10401,
+    "text": "可使用空中四连击，悟空在空中时造成伤害额外增加",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20104,
+        1
+      ]
+    ],
+    "beskillId": [
+      6000801,
+      6000802,
+      6000803
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 10402,
+    "group": 10401,
+    "level": 2,
+    "roleType": 1,
+    "passiveName": "空中连击2",
+    "icon": 10401,
+    "text": "可使用空中四连击，悟空在空中时造成伤害额外增加，伤害增加效果提升",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      6000811,
+      6000812,
+      6000813
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 10501,
+    "group": 10501,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 10502,
+    "roleType": 1,
+    "passiveName": "法外分身",
+    "icon": 10501,
+    "text": "攻击时有概率召唤一个分身，分身会自动攻击最近的敌人",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20105,
+        1
+      ]
+    ],
+    "beskillId": [
+      6000901,
+      6000902,
+      6000903
+    ],
+    "makeUpBeskillId": {
+      "default": [
+        6001601,
+        6001602,
+        6001603
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 10502,
+    "group": 10501,
+    "level": 2,
+    "roleType": 1,
+    "passiveName": "法外分身2",
+    "icon": 10501,
+    "text": "攻击时有概率召唤一个分身，分身会自动攻击最近的敌人，分身伤害增加",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      6000911,
+      6000912,
+      6000913
+    ],
+    "makeUpBeskillId": {
+      "default": [
+        6001611,
+        6001612,
+        6001613
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 10601,
+    "group": 10601,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 10602,
+    "roleType": 1,
+    "passiveName": "燃血铁骨",
+    "icon": 10601,
+    "text": "每当主动燃烧自身生命时，叠加一层5%减伤，可叠加4次（叠加时不重置时长）",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20106,
+        1
+      ]
+    ],
+    "beskillId": [
+      6001001,
+      6001002
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 10602,
+    "group": 10601,
+    "level": 2,
+    "roleType": 1,
+    "passiveName": "燃血铁骨2",
+    "icon": 10601,
+    "text": "每当主动燃烧自身生命时，叠加一层6.5%减伤，可叠加4次（叠加时不重置时长）",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      6001011,
+      6001012
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20101,
+    "group": 20101,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 20102,
+    "roleType": 2,
+    "passiveName": "禅心",
+    "icon": 20101,
+    "text": "关卡内所有友军回血属性和回魔属性+5%",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20201,
+        1
+      ]
+    ],
+    "beskillId": [
+      5000101,
+      5000102
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20102,
+    "group": 20101,
+    "level": 2,
+    "roleType": 2,
+    "passiveName": "禅心2",
+    "icon": 20101,
+    "text": "关卡内所有友军回血属性和回魔属性+10%",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      5000111,
+      5000112
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20201,
+    "group": 20201,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 20202,
+    "roleType": 2,
+    "passiveName": "霜冻",
+    "icon": 20201,
+    "text": "使攻击和技能附带减速效果，并使附带[霜冻值]的技能累加效果得到增强(霜冻值累积满时使敌人冰冻)",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20202,
+        1
+      ]
+    ],
+    "beskillId": [
+      5000801,
+      5000202,
+      5000203
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20202,
+    "group": 20201,
+    "level": 2,
+    "roleType": 2,
+    "passiveName": "霜冻2",
+    "icon": 20201,
+    "text": "使攻击和技能附带减速效果，并使附带[霜冻值]的技能累加效果得到增强(霜冻值累积满时使敌人冰冻)，减速与[霜冻值]效果增强",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      5000811,
+      5000212,
+      5000213
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20301,
+    "group": 20301,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 20302,
+    "roleType": 2,
+    "passiveName": "镜花水月",
+    "icon": 20301,
+    "text": "当唐僧与水镜像的技能攻击命中同一个目标时，将为[水幻影·玄镜]充能",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20203,
+        1
+      ]
+    ],
+    "beskillId": [
+      5000301,
+      5000302
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20302,
+    "group": 20301,
+    "level": 2,
+    "roleType": 2,
+    "passiveName": "镜花水月2",
+    "icon": 20301,
+    "text": "当唐僧与水镜像的技能攻击命中同一个目标时，将为[水幻影·玄镜]充能，充能值增加",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      5000311,
+      5000312
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20401,
+    "group": 20401,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 20402,
+    "roleType": 2,
+    "passiveName": "心静如水",
+    "icon": 20401,
+    "text": "提升唐僧技能治疗和护盾的效果",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20204,
+        1
+      ]
+    ],
+    "beskillId": [
+      5000401,
+      5000402,
+      5000403
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20402,
+    "group": 20401,
+    "level": 2,
+    "roleType": 2,
+    "passiveName": "心静如水2",
+    "icon": 20401,
+    "text": "提升唐僧技能治疗和护盾的效果，治疗与护盾效果增强",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      5000411,
+      5000412,
+      5000413
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20501,
+    "group": 20501,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 20502,
+    "roleType": 2,
+    "passiveName": "冰刃",
+    "icon": 20501,
+    "text": "对因【霜冻】减速和冰冻目标造成额外伤害",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20205,
+        1
+      ]
+    ],
+    "beskillId": [
+      5000501,
+      5000502,
+      5000503,
+      5000504
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20502,
+    "group": 20501,
+    "level": 2,
+    "roleType": 2,
+    "passiveName": "冰刃2",
+    "icon": 20501,
+    "text": "对因【霜冻】减速和冰冻目标造成额外伤害，伤害增加",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      5000511,
+      5000512,
+      5000513,
+      5000514
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20601,
+    "group": 20601,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 20602,
+    "roleType": 2,
+    "passiveName": "海市蜃楼",
+    "icon": 20601,
+    "text": "可存在2个分身，且分身伤害提高",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20206,
+        1
+      ]
+    ],
+    "beskillId": [
+      5000601,
+      5000602,
+      5000603
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 20602,
+    "group": 20601,
+    "level": 2,
+    "roleType": 2,
+    "passiveName": "海市蜃楼2",
+    "icon": 20601,
+    "text": "可存在2个分身，且分身伤害提高，分身伤害增加",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      5000611,
+      5000612,
+      5000613
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30101,
+    "group": 30101,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 30102,
+    "roleType": 3,
+    "passiveName": "皮糙肉厚",
+    "icon": 30101,
+    "text": "关卡内所有友方单位韧性属性+5%，守护属性+5%",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20301,
+        1
+      ]
+    ],
+    "beskillId": [
+      8000301,
+      8000302
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30102,
+    "group": 30101,
+    "level": 2,
+    "roleType": 3,
+    "passiveName": "皮糙肉厚2",
+    "icon": 30101,
+    "text": "关卡内所有友方单位韧性属性+7.5%，守护属性+15%",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      8000311,
+      8000312
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30201,
+    "group": 30201,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 30202,
+    "roleType": 3,
+    "passiveName": "续元",
+    "icon": 30201,
+    "text": "降低技能的魔法消耗，降低的部分转为消耗生命值，低于25%时无效",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20302,
+        1
+      ]
+    ],
+    "beskillId": [
+      8000401,
+      8000402
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30202,
+    "group": 30201,
+    "level": 2,
+    "roleType": 3,
+    "passiveName": "续元2",
+    "icon": 30201,
+    "text": "降低技能的魔法消耗，降低的部分转为消耗生命值，低于25%时无效，降低魔法消耗更多，损失血量相对应提升",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      8000411,
+      8000412
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30301,
+    "group": 30301,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 30302,
+    "roleType": 3,
+    "passiveName": "导出元阳",
+    "icon": 30301,
+    "text": "提高生命恢复速度，血越少恢复越快",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20303,
+        1
+      ]
+    ],
+    "beskillId": [
+      8000501,
+      8000502
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30302,
+    "group": 30301,
+    "level": 2,
+    "roleType": 3,
+    "passiveName": "导出元阳2",
+    "icon": 30301,
+    "text": "提高生命恢复速度，血越少恢复越快，增加恢复与上限值",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      8000511,
+      8000512
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30401,
+    "group": 30401,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 30402,
+    "roleType": 3,
+    "passiveName": "石甲",
+    "icon": 30401,
+    "text": "石甲能量将随着时间累加，当石甲能量满时，受到伤害将启动，持续一段时间，霸体并抵挡一定的伤害",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20304,
+        1
+      ]
+    ],
+    "beskillId": [
+      8000601,
+      8000602
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30402,
+    "group": 30401,
+    "level": 2,
+    "roleType": 3,
+    "passiveName": "石甲2",
+    "icon": 30401,
+    "text": "石甲能量将随着时间累加，当石甲能量满时，受到伤害将启动，持续一段时间，霸体并抵挡一定的伤害，提升抵挡伤害量",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      8000611,
+      8000612
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30501,
+    "group": 30501,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 30502,
+    "roleType": 3,
+    "passiveName": "怒血",
+    "icon": 30501,
+    "text": "血量越少攻击力越高",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20305,
+        1
+      ]
+    ],
+    "beskillId": [
+      8000701,
+      8000702
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30502,
+    "group": 30501,
+    "level": 2,
+    "roleType": 3,
+    "passiveName": "怒血2",
+    "icon": 30501,
+    "text": "血量越少攻击力越高，提升增加攻击力与上限值",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      8000711,
+      8000712
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30601,
+    "group": 30601,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 30602,
+    "roleType": 3,
+    "passiveName": "战甲",
+    "icon": 30601,
+    "text": "攻击敌人造成伤害时，累加石甲能量，当石甲启动时，额外获得攻击提升",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20306,
+        1
+      ]
+    ],
+    "beskillId": [
+      8000801,
+      8000802
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 30602,
+    "group": 30601,
+    "level": 2,
+    "roleType": 3,
+    "passiveName": "战甲2",
+    "icon": 30601,
+    "text": "攻击敌人造成伤害时，累加石甲能量，当石甲启动时，额外获得攻击提升，伤害增加",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      8000811,
+      8000812
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40101,
+    "group": 40101,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 40111,
+    "roleType": 4,
+    "passiveName": "木灵",
+    "icon": 40101,
+    "text": "关卡内所有友方单位闪避+5%，幸运+5%",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20401,
+        1
+      ]
+    ],
+    "beskillId": [
+      9000401,
+      9000402
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40102,
+    "group": 40102,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 40112,
+    "roleType": 4,
+    "passiveName": "鬼弓",
+    "icon": 40102,
+    "text": "普攻、跳攻变换为使用弓箭，长按攻击键可以蓄力射箭",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20402,
+        1
+      ]
+    ],
+    "beskillId": [
+      9000201,
+      9000202,
+      9000205,
+      9000206
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40103,
+    "group": 40103,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 40113,
+    "roleType": 4,
+    "passiveName": "汲取",
+    "icon": 40103,
+    "text": "敌人身上的【剧毒种子】会给沙僧提供生命恢复，恢复的生命量和叠加的数量有关，有上限值。若毒爆种子，会回复部分血量。",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20403,
+        1
+      ]
+    ],
+    "beskillId": [
+      9000501,
+      9000502,
+      9000503,
+      9000504
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40104,
+    "group": 40104,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 40114,
+    "roleType": 4,
+    "passiveName": "残叶",
+    "icon": 40104,
+    "text": "攻击【追猎标记】或【绿叶标记】的敌人时，可以为【巫毒娃娃】充能",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20404,
+        1
+      ]
+    ],
+    "beskillId": [
+      9000801,
+      9000802
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40105,
+    "group": 40105,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 40115,
+    "roleType": 4,
+    "passiveName": "剧毒",
+    "icon": 40105,
+    "text": "提升剧毒种子的伤害",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20405,
+        1
+      ]
+    ],
+    "beskillId": [
+      9000601,
+      9000602
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40106,
+    "group": 40106,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 40116,
+    "roleType": 4,
+    "passiveName": "危叶",
+    "icon": 40106,
+    "text": "攻击【追猎标记】或【绿叶标记】的敌人时，暴击率提升",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20406,
+        1
+      ]
+    ],
+    "beskillId": [
+      9000701,
+      9000702
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40111,
+    "group": 40101,
+    "level": 2,
+    "roleType": 4,
+    "passiveName": "木灵2",
+    "icon": 40101,
+    "text": "关卡内所有友方单位闪避+7.5%，幸运+15%",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      9000411,
+      9000412
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40112,
+    "group": 40102,
+    "level": 2,
+    "roleType": 4,
+    "passiveName": "鬼弓2",
+    "icon": 40102,
+    "text": "普攻、跳攻变换为使用弓箭，长按攻击键可以蓄力射箭，增加弓箭伤害",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      9000201,
+      9000202,
+      9000215,
+      9000216
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40113,
+    "group": 40103,
+    "level": 2,
+    "roleType": 4,
+    "passiveName": "汲取2",
+    "icon": 40103,
+    "text": "敌人身上的【剧毒种子】会给沙僧提供生命恢复，恢复的生命量和叠加的数量有关，有上限值，增加恢复量与上限值。若毒爆种子，会回复部分血量。",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      9000511,
+      9000512,
+      9000513,
+      9000514
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40114,
+    "group": 40104,
+    "level": 2,
+    "roleType": 4,
+    "passiveName": "残叶2",
+    "icon": 40104,
+    "text": "攻击【追猎标记】或【绿叶标记】的敌人时，可以为【巫毒娃娃】充能，充能值增加",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      9000811,
+      9000812
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40115,
+    "group": 40105,
+    "level": 2,
+    "roleType": 4,
+    "passiveName": "剧毒2",
+    "icon": 40105,
+    "text": "提升剧毒种子的伤害，伤害增加",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      9000611,
+      9000612
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 40116,
+    "group": 40106,
+    "level": 2,
+    "roleType": 4,
+    "passiveName": "危叶2",
+    "icon": 40106,
+    "text": "攻击【追猎标记】或【绿叶标记】的敌人时，暴击率提升，暴击率增加",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      9000711,
+      9000712
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50101,
+    "group": 50101,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 50111,
+    "roleType": 5,
+    "passiveName": "剑心通明",
+    "icon": 50101,
+    "text": "关卡内所有友方单位韧性+5%，暴击+5%",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20501,
+        1
+      ]
+    ],
+    "beskillId": [
+      11000100,
+      11000101
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50102,
+    "group": 50102,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 50112,
+    "roleType": 5,
+    "passiveName": "空中连击",
+    "icon": 50102,
+    "text": "可使用空中三连击，龙女在空中时造成伤害额外增加",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20502,
+        1
+      ]
+    ],
+    "beskillId": [
+      11000200,
+      11000201,
+      11000202
+    ],
+    "makeUpBeskillId": {
+      "default": [
+        11000200,
+        11000202
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 50103,
+    "group": 50103,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 50113,
+    "roleType": 5,
+    "passiveName": "剑气专精",
+    "icon": 50103,
+    "text": "提升【剑气值】的累加效率",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20503,
+        1
+      ]
+    ],
+    "beskillId": [
+      11000300,
+      11000301,
+      11000302
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50104,
+    "group": 50104,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 50114,
+    "roleType": 5,
+    "passiveName": "剑气护主",
+    "icon": 50104,
+    "text": "受到伤害时，消耗1重剑气获得减伤",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20504,
+        1
+      ]
+    ],
+    "beskillId": [
+      11000400,
+      11000401
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50105,
+    "group": 50105,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 50115,
+    "roleType": 5,
+    "passiveName": "剑气盎然",
+    "icon": 50105,
+    "text": "每消耗1重剑气，获得1层【盎然】，提升攻击力一段时间，可叠加6层，叠至满层时升级为【剑气盎然】，获得一段时间的攻击提升和剑气回复",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20505,
+        1
+      ]
+    ],
+    "beskillId": [
+      11000500,
+      11000501
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50106,
+    "group": 50106,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 50116,
+    "roleType": 5,
+    "passiveName": "剑意斩铁",
+    "icon": 50106,
+    "text": "每消耗1重剑气，获得1层【斩铁】，增加对霸体单位吸血一段时间，可叠加6层，叠至满层时升级为【剑意斩铁】，获得一段时间对霸体单位增伤和吸血",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20506,
+        1
+      ]
+    ],
+    "beskillId": [
+      11000600,
+      11000601
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50111,
+    "group": 50101,
+    "level": 2,
+    "roleType": 5,
+    "passiveName": "剑心通明2",
+    "icon": 50101,
+    "text": "关卡内所有友方单位韧性+7.5%，暴击+7.5%",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      11000110,
+      11000111
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50112,
+    "group": 50102,
+    "level": 2,
+    "roleType": 5,
+    "passiveName": "空中连击2",
+    "icon": 50102,
+    "text": "可使用空中三连击，龙女在空中时造成伤害额外增加",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      11000210,
+      11000211,
+      11000212
+    ],
+    "makeUpBeskillId": {
+      "default": [
+        11000210,
+        11000212
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 50113,
+    "group": 50103,
+    "level": 2,
+    "roleType": 5,
+    "passiveName": "剑气专精2",
+    "icon": 50103,
+    "text": "提升【剑气值】的累加效率",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      11000310,
+      11000311,
+      11000312
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50114,
+    "group": 50104,
+    "level": 2,
+    "roleType": 5,
+    "passiveName": "剑气护主2",
+    "icon": 50104,
+    "text": "受到伤害时，消耗1重剑气获得减伤",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      11000410,
+      11000411
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50115,
+    "group": 50105,
+    "level": 2,
+    "roleType": 5,
+    "passiveName": "剑气盎然2",
+    "icon": 50105,
+    "text": "每消耗1重剑气，获得1层【盎然】，提升攻击力一段时间，可叠加6层，叠至满层时升级为【剑气盎然】，获得一段时间的攻击提升和剑气回复",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      11000510,
+      11000511
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 50116,
+    "group": 50106,
+    "level": 2,
+    "roleType": 5,
+    "passiveName": "剑意斩铁2",
+    "icon": 50106,
+    "text": "每消耗1重剑气，获得1层【斩铁】，增加对霸体单位吸血一段时间，可叠加6层，叠至满层时升级为【剑意斩铁】，获得一段时间对霸体单位增伤和吸血",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      11000610,
+      11000611
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60101,
+    "group": 60101,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 60111,
+    "roleType": 6,
+    "passiveName": "攻守兼备",
+    "icon": 60101,
+    "text": "关卡内所有友方单位攻击+8%，防御+8%",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20601,
+        1
+      ]
+    ],
+    "beskillId": [
+      12300101
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60102,
+    "group": 60102,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 60112,
+    "roleType": 6,
+    "passiveName": "空中连击",
+    "icon": 60102,
+    "text": "可使用空中三连击，小白龙在空中时造成伤害额外增加",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20602,
+        1
+      ]
+    ],
+    "beskillId": [
+      12300200,
+      12300201,
+      12300202
+    ],
+    "makeUpBeskillId": {
+      "default": [
+        12300200,
+        12300202
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 60103,
+    "group": 60103,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 60113,
+    "roleType": 6,
+    "passiveName": "驱雷掣电",
+    "icon": 60103,
+    "text": "攻击成功命中目标能提升技能的充电效率",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20603,
+        1
+      ]
+    ],
+    "beskillId": [
+      12300301
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60104,
+    "group": 60104,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 60114,
+    "roleType": 6,
+    "passiveName": "阴电阳雷",
+    "icon": 60104,
+    "text": "当为阴时，攻击命中概率降下落雷造成伤害\n当为阳时，攻击命中回复自身生命值",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20604,
+        1
+      ]
+    ],
+    "beskillId": [
+      12300400,
+      12300401,
+      12300402
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60105,
+    "group": 60105,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 60115,
+    "roleType": 6,
+    "passiveName": "风驰电涌",
+    "icon": 60105,
+    "text": "每次释放充满电的技能，自身将获得一段时间的【电涌】状态，暴击和幸运提升6.5%",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20605,
+        1
+      ]
+    ],
+    "beskillId": [
+      12300501
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60106,
+    "group": 60106,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 60116,
+    "roleType": 6,
+    "passiveName": "阴阳逆转",
+    "icon": 60106,
+    "text": "当为阴时，攻击命中目标累加【阴雷】，【阴雷】使目标受到伤害增加（若目标已存在【阳雷】，则累加电荷前将【阳雷】全部转换为【阴雷】）当为阳时，受到攻击为目标累加【阳雷】，【阳雷】降低目标范围造成的伤害（若目标已存在【阴雷】，则累加电荷前将【阴雷】全部转换为【阳雷】）",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20606,
+        1
+      ]
+    ],
+    "beskillId": [
+      12300601
+    ],
+    "inherit": 0
+  },
+  {
+    "id": 60111,
+    "group": 60101,
+    "level": 2,
+    "roleType": 6,
+    "passiveName": "攻守兼备",
+    "icon": 60101,
+    "text": "关卡内所有友方单位攻击+10.5%，防御+10.5%",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12300111
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60112,
+    "group": 60102,
+    "level": 2,
+    "roleType": 6,
+    "passiveName": "空中连击",
+    "icon": 60102,
+    "text": "可使用空中三连击，小白龙在空中时造成伤害额外增加",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12300210,
+      12300211,
+      12300212
+    ],
+    "makeUpBeskillId": {
+      "default": [
+        12300210,
+        12300212
+      ]
+    },
+    "inherit": 1
+  },
+  {
+    "id": 60113,
+    "group": 60103,
+    "level": 2,
+    "roleType": 6,
+    "passiveName": "驱雷掣电",
+    "icon": 60103,
+    "text": "攻击成功命中目标能提升技能的充电效率，充电效率增加",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12300311
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60114,
+    "group": 60104,
+    "level": 2,
+    "roleType": 6,
+    "passiveName": "阴电阳雷",
+    "icon": 60104,
+    "text": "当为阴时，攻击命中概率降下落雷造成伤害\n当为阳时，攻击命中回复自身生命值",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12300410,
+      12300411,
+      12300412
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60115,
+    "group": 60105,
+    "level": 2,
+    "roleType": 6,
+    "passiveName": "风驰电涌",
+    "icon": 60105,
+    "text": "每次释放充满电的技能，自身将获得一段时间的【电涌】状态，暴击和幸运提升8.5%",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12300511
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 60116,
+    "group": 60106,
+    "level": 2,
+    "roleType": 6,
+    "passiveName": "阴阳逆转",
+    "icon": 60106,
+    "text": "当为阴时，攻击命中目标累加【阴雷】，【阴雷】使目标受到伤害增加（若目标已存在【阳雷】，则累加电荷前将【阳雷】全部转换为【阴雷】）当为阳时，受到攻击为目标累加【阳雷】，【阳雷】降低目标范围造成的伤害（若目标已存在【阴雷】，则累加电荷前将【阴雷】全部转换为【阳雷】）",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12300611
+    ],
+    "inherit": 0
+  },
+  {
+    "id": 70100,
+    "group": 70100,
+    "level": 1,
+    "roleType": 7,
+    "passiveName": "灵气回收",
+    "icon": 70100,
+    "text": "在冒险关卡中，石灵的耗魔攻击没有\n碰撞到任意目标，可回收一定比例魔法值\n※不受任意被动和增益影响",
+    "label": 4,
+    "unlockType": 1,
+    "number": 1,
+    "beskillId": [
+      12401100,
+      12401101,
+      12401102,
+      12401103,
+      12401104
+    ],
+    "inherit": 0,
+    "stageType": [
+      1,
+      37,
+      6,
+      2,
+      3,
+      4,
+      5,
+      7,
+      16,
+      18,
+      19,
+      22,
+      27,
+      28,
+      32,
+      34,
+      35,
+      36,
+      38,
+      39,
+      23,
+      33,
+      1002,
+      43
+    ]
+  },
+  {
+    "id": 70101,
+    "group": 70101,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 70111,
+    "roleType": 7,
+    "passiveName": "天籁之音",
+    "icon": 70101,
+    "text": "关卡内所有友方单位生命上限+6%，魔法上限+6%",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20701,
+        1
+      ]
+    ],
+    "beskillId": [
+      12400101
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 70102,
+    "group": 70102,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 70112,
+    "roleType": 7,
+    "passiveName": "振奋之音",
+    "icon": 70102,
+    "text": "等级1,提升吹奏状态下石灵的伤害（当场上存在石灵且待机一段时间后，自动切换至吹奏状态，使用攻击、技能移动和跳跃键将解除吹奏）",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20702,
+        1
+      ]
+    ],
+    "beskillId": [
+      12400201,
+      12400231,
+      12400261,
+      12400271
+    ],
+    "initialize": [
+      12400200,
+      12400260
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 70103,
+    "group": 70103,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 70113,
+    "roleType": 7,
+    "passiveName": "灵雾充盈",
+    "icon": 70103,
+    "text": "受到水灵治疗的单位会额外提升回血属性，受到浊灵影响的单位会额外扣除回血属性，持续一段时间",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20703,
+        1
+      ]
+    ],
+    "beskillId": [
+      12400301
+    ],
+    "inherit": 0
+  },
+  {
+    "id": 70104,
+    "group": 70104,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 70114,
+    "roleType": 7,
+    "passiveName": "生机盎然",
+    "icon": 70104,
+    "text": "消耗魔法值储能获得“生机盎然”，最大可叠加100层\n当使用【召唤叶灵】时可消耗100层“生机盎然”层数代替充能次数释放",
+    "label": 2,
+    "unlockType": 3,
+    "number": [
+      [
+        20704,
+        1
+      ]
+    ],
+    "beskillId": [
+      12400401,
+      12400402
+    ],
+    "inherit": 0
+  },
+  {
+    "id": 70105,
+    "group": 70105,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 70115,
+    "roleType": 7,
+    "passiveName": "流水节源",
+    "icon": 70105,
+    "text": "降低萧嫣和附近召唤物的魔法值消耗",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20705,
+        1
+      ]
+    ],
+    "beskillId": [
+      12400501
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 70106,
+    "group": 70106,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 70116,
+    "roleType": 7,
+    "passiveName": "潜能爆发",
+    "icon": 70106,
+    "text": "提升召唤物能力\n水灵：受到伤害提升，提升治疗量\n浊灵：受到伤害提升，浊灵对敌额外造成易伤\n风灵与石灵：受到伤害提升，造成伤害提升\n萧嫣受到伤害提升。",
+    "label": 3,
+    "unlockType": 3,
+    "number": [
+      [
+        20706,
+        1
+      ]
+    ],
+    "beskillId": [
+      12400600,
+      12400601,
+      12400611,
+      12400621,
+      12400631,
+      12400641
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 70107,
+    "group": 70107,
+    "level": 1,
+    "roleLevel": 60,
+    "rankCost": [
+      [
+        20002,
+        1
+      ]
+    ],
+    "nextId": 70117,
+    "roleType": 7,
+    "passiveName": "御灵翔翼",
+    "icon": 70107,
+    "text": "空中按攻击键不松开发动，抓住风灵滑翔并发出强化的追踪攻击\n在游泳状态和腾云状态按攻击键不松开可直接发动\n发动过程中受到的伤害略微增加",
+    "label": 1,
+    "unlockType": 3,
+    "number": [
+      [
+        20707,
+        1
+      ]
+    ],
+    "beskillId": [
+      12401200,
+      12401201
+    ],
+    "inherit": 0
+  },
+  {
+    "id": 70111,
+    "group": 70101,
+    "level": 2,
+    "roleType": 7,
+    "passiveName": "天籁之音2",
+    "icon": 70101,
+    "text": "关卡内所有友方单位生命上限+8%，魔法上限+8%",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12400102
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 70112,
+    "group": 70102,
+    "level": 2,
+    "roleType": 7,
+    "passiveName": "振奋之音2",
+    "icon": 70102,
+    "text": "等级2,提升吹奏状态下石灵的伤害（当场上存在石灵且待机一段时间后，自动切换至吹奏状态，使用攻击、技能移动和跳跃键将解除吹奏）",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12400202,
+      12400231,
+      12400262,
+      12400272
+    ],
+    "initialize": [
+      12400200,
+      12400260
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 70113,
+    "group": 70103,
+    "level": 2,
+    "roleType": 7,
+    "passiveName": "灵雾充盈2",
+    "icon": 70103,
+    "text": "受到水灵治疗的单位会额外提升回血属性，受到浊灵影响的单位会额外扣除回血属性，持续一段时间",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12400302
+    ],
+    "inherit": 0
+  },
+  {
+    "id": 70114,
+    "group": 70104,
+    "level": 2,
+    "roleType": 7,
+    "passiveName": "生机盎然2",
+    "icon": 70104,
+    "text": "消耗魔法值储能获得“生机盎然”，最大可叠加100层\n当使用【召唤叶灵】时可消耗100层“生机盎然”层数代替充能次数释放",
+    "label": 2,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12400403,
+      12400404
+    ],
+    "inherit": 0
+  },
+  {
+    "id": 70115,
+    "group": 70105,
+    "level": 2,
+    "roleType": 7,
+    "passiveName": "流水节源2",
+    "icon": 70105,
+    "text": "降低萧嫣和周围召唤物的魔法值消耗",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12400502
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 70116,
+    "group": 70106,
+    "level": 2,
+    "roleType": 7,
+    "passiveName": "潜能爆发2",
+    "icon": 70106,
+    "text": "提升召唤物能力\n水灵：受到伤害提升，提升治疗量\n浊灵：受到伤害提升，浊灵对敌额外造成易伤\n风灵与石灵：受到伤害提升，造成伤害提升\n萧嫣受到伤害提升。",
+    "label": 3,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12400600,
+      12400602,
+      12400612,
+      12400622,
+      12400632,
+      12400642
+    ],
+    "inherit": 1
+  },
+  {
+    "id": 70117,
+    "group": 70107,
+    "level": 2,
+    "roleType": 7,
+    "passiveName": "御灵翔翼2",
+    "icon": 70107,
+    "text": "空中按攻击键不松开发动，抓住风灵滑翔并发出强化的追踪攻击\n在游泳状态和腾云状态按攻击键不松开可直接发动\n发动过程中受到的伤害略微增加",
+    "label": 1,
+    "unlockType": 1,
+    "number": 60,
+    "beskillId": [
+      12401202,
+      12401203
+    ],
+    "inherit": 0
+  }
+]

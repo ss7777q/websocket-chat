@@ -1,0 +1,6019 @@
+[
+  {
+    "id": 0,
+    "level": 0,
+    "hp": 100,
+    "atk": 5,
+    "def": 1.666666666666667,
+    "healHp": 5.555555555555555,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "luckRatio": 1
+  },
+  {
+    "id": 1,
+    "level": 1,
+    "hp": 101.25,
+    "atk": 5.0625,
+    "def": 1.6875,
+    "healHp": 5.625,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        20
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        100
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "hp": 102.27272727272727,
+    "atk": 5.113636363636363,
+    "def": 1.7045454545454541,
+    "healHp": 5.681818181818182,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        20
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        200
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "hp": 103.125,
+    "atk": 5.15625,
+    "def": 1.71875,
+    "healHp": 5.729166666666667,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        30
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        300
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "hp": 103.84615384615384,
+    "atk": 5.1923076923076925,
+    "def": 1.7307692307692308,
+    "healHp": 5.769230769230769,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        30
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        400
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "hp": 104.46428571428571,
+    "atk": 5.223214285714286,
+    "def": 1.7410714285714284,
+    "healHp": 5.803571428571429,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        30
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "hp": 105,
+    "atk": 5.25,
+    "def": 1.75,
+    "healHp": 5.833333333333333,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        40
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        600
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "hp": 105.46875,
+    "atk": 5.2734375,
+    "def": 1.7578125,
+    "healHp": 5.859375000000001,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        40
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        700
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "hp": 105.88235294117646,
+    "atk": 5.294117647058823,
+    "def": 1.764705882352941,
+    "healHp": 5.882352941176471,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        40
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        800
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "hp": 106.25,
+    "atk": 5.3125,
+    "def": 1.7708333333333333,
+    "healHp": 5.902777777777778,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        40
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        900
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "hp": 106.57894736842105,
+    "atk": 5.328947368421052,
+    "def": 1.7763157894736843,
+    "healHp": 5.921052631578948,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 170,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        60
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1000
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "hp": 106.875,
+    "atk": 5.34375,
+    "def": 1.78125,
+    "healHp": 5.9375,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        60
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1100
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "hp": 107.14285714285714,
+    "atk": 5.357142857142857,
+    "def": 1.7857142857142854,
+    "healHp": 5.9523809523809526,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        60
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1200
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "hp": 107.38636363636364,
+    "atk": 5.369318181818182,
+    "def": 1.7897727272727273,
+    "healHp": 5.965909090909091,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        70
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "hp": 107.6086956521739,
+    "atk": 5.380434782608695,
+    "def": 1.7934782608695652,
+    "healHp": 5.978260869565218,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        70
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1400
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "hp": 107.8125,
+    "atk": 5.390625,
+    "def": 1.7968749999999998,
+    "healHp": 5.989583333333333,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        70
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1500
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": 16,
+    "hp": 108,
+    "atk": 5.4,
+    "def": 1.8,
+    "healHp": 6,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1600
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": 17,
+    "hp": 108.17307692307692,
+    "atk": 5.408653846153846,
+    "def": 1.8028846153846154,
+    "healHp": 6.009615384615385,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1700
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": 18,
+    "hp": 108.33333333333333,
+    "atk": 5.416666666666667,
+    "def": 1.8055555555555554,
+    "healHp": 6.018518518518518,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1800
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": 19,
+    "hp": 108.48214285714286,
+    "atk": 5.424107142857143,
+    "def": 1.8080357142857142,
+    "healHp": 6.026785714285714,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        1900
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": 20,
+    "hp": 108.62068965517241,
+    "atk": 5.431034482758621,
+    "def": 1.8103448275862069,
+    "healHp": 6.0344827586206895,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 510,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2000
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": 21,
+    "hp": 108.75,
+    "atk": 5.4375,
+    "def": 1.8124999999999998,
+    "healHp": 6.041666666666667,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2100
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": 22,
+    "hp": 108.87096774193549,
+    "atk": 5.443548387096774,
+    "def": 1.814516129032258,
+    "healHp": 6.048387096774195,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2200
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": 23,
+    "hp": 108.984375,
+    "atk": 5.44921875,
+    "def": 1.81640625,
+    "healHp": 6.0546875,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2300
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": 24,
+    "hp": 109.0909090909091,
+    "atk": 5.454545454545454,
+    "def": 1.818181818181818,
+    "healHp": 6.0606060606060606,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": 25,
+    "hp": 109.19117647058823,
+    "atk": 5.459558823529412,
+    "def": 1.8198529411764706,
+    "healHp": 6.066176470588235,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2500
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": 26,
+    "hp": 109.28571428571429,
+    "atk": 5.464285714285714,
+    "def": 1.8214285714285714,
+    "healHp": 6.071428571428571,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        80
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2600
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": 27,
+    "hp": 109.375,
+    "atk": 5.46875,
+    "def": 1.8229166666666667,
+    "healHp": 6.076388888888888,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2700
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": 28,
+    "hp": 109.45945945945945,
+    "atk": 5.472972972972973,
+    "def": 1.8243243243243243,
+    "healHp": 6.081081081081081,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2800
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": 29,
+    "hp": 109.53947368421052,
+    "atk": 5.4769736842105265,
+    "def": 1.825657894736842,
+    "healHp": 6.085526315789474,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        2900
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": 30,
+    "hp": 109.61538461538461,
+    "atk": 5.480769230769231,
+    "def": 1.8269230769230769,
+    "healHp": 6.089743589743589,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 1370,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3000
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": 31,
+    "hp": 109.6875,
+    "atk": 5.484375,
+    "def": 1.828125,
+    "healHp": 6.093750000000001,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3100
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": 32,
+    "hp": 109.7560975609756,
+    "atk": 5.487804878048781,
+    "def": 1.8292682926829265,
+    "healHp": 6.097560975609756,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3200
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": 33,
+    "hp": 109.82142857142857,
+    "atk": 5.491071428571429,
+    "def": 1.8303571428571428,
+    "healHp": 6.101190476190476,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3300
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": 34,
+    "hp": 109.88372093023256,
+    "atk": 5.494186046511628,
+    "def": 1.8313953488372092,
+    "healHp": 6.104651162790698,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3400
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": 35,
+    "hp": 112.5,
+    "atk": 5.625,
+    "def": 1.8749999999999998,
+    "healHp": 6.25,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3500
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": 36,
+    "hp": 115.11627906976744,
+    "atk": 5.755813953488372,
+    "def": 1.9186046511627908,
+    "healHp": 6.395348837209302,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3600
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": 37,
+    "hp": 117.73255813953489,
+    "atk": 5.886627906976744,
+    "def": 1.9622093023255813,
+    "healHp": 6.540697674418604,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3700
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": 38,
+    "hp": 120.34883720930233,
+    "atk": 6.017441860465116,
+    "def": 2.0058139534883717,
+    "healHp": 6.686046511627907,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        90
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3800
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": 39,
+    "hp": 122.96511627906976,
+    "atk": 6.148255813953488,
+    "def": 2.0494186046511627,
+    "healHp": 6.8313953488372094,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        3900
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": 40,
+    "hp": 125.5813953488372,
+    "atk": 6.27906976744186,
+    "def": 2.0930232558139537,
+    "healHp": 6.976744186046512,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 3430,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": 41,
+    "hp": 128.51672132052528,
+    "atk": 6.425836066026264,
+    "def": 2.141945355342088,
+    "healHp": 7.139817851140294,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4100
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": 42,
+    "hp": 131.5206572844509,
+    "atk": 6.576032864222544,
+    "def": 2.1920109547408484,
+    "healHp": 7.3067031824694935,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4200
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": 43,
+    "hp": 134.59480692316248,
+    "atk": 6.729740346158124,
+    "def": 2.243246782052708,
+    "healHp": 7.477489273509027,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4300
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": 44,
+    "hp": 134.61033841706782,
+    "atk": 6.730516920853391,
+    "def": 2.243505640284464,
+    "healHp": 7.478352134281545,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4400
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": 45,
+    "hp": 134.69544579712488,
+    "atk": 6.734772289856243,
+    "def": 2.244924096618748,
+    "healHp": 7.483080322062493,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4500
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": 46,
+    "hp": 134.84719819530423,
+    "atk": 6.742359909765212,
+    "def": 2.2474533032550705,
+    "healHp": 7.4915110108502345,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4600
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": 47,
+    "hp": 135.06295093471263,
+    "atk": 6.753147546735631,
+    "def": 2.2510491822452106,
+    "healHp": 7.5034972741507024,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4700
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": 48,
+    "hp": 135.3403165592383,
+    "atk": 6.767015827961914,
+    "def": 2.2556719426539713,
+    "healHp": 7.518906475513237,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4800
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": 49,
+    "hp": 135.6771394298481,
+    "atk": 6.783856971492405,
+    "def": 2.261285657164135,
+    "healHp": 7.537618857213781,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        4900
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": 50,
+    "hp": 136.07147338864647,
+    "atk": 6.803573669432324,
+    "def": 2.2678578898107746,
+    "healHp": 7.5595262993692485,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 8230,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5000
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": 51,
+    "hp": 136.5215620700733,
+    "atk": 6.826078103503663,
+    "def": 2.2753593678345547,
+    "healHp": 7.584531226115181,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5100
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": 52,
+    "hp": 137.02582150333924,
+    "atk": 6.851291075166961,
+    "def": 2.2837636917223203,
+    "healHp": 7.612545639074402,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5200
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": 53,
+    "hp": 137.58282470392902,
+    "atk": 6.8791412351964505,
+    "def": 2.293047078398817,
+    "healHp": 7.643490261329389,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5300
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": 54,
+    "hp": 138.19128799677785,
+    "atk": 6.909564399838892,
+    "def": 2.303188133279631,
+    "healHp": 7.677293777598767,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5400
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": 55,
+    "hp": 138.85005885117684,
+    "atk": 6.942502942558842,
+    "def": 2.3141676475196142,
+    "healHp": 7.713892158398713,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5500
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": 56,
+    "hp": 139.55810503889384,
+    "atk": 6.9779052519446925,
+    "def": 2.3259684173148973,
+    "healHp": 7.753228057716326,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5600
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": 57,
+    "hp": 140.31450495346425,
+    "atk": 7.015725247673212,
+    "def": 2.338575082557737,
+    "healHp": 7.7952502751924575,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        100
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5700
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": 58,
+    "hp": 141.11843895096837,
+    "atk": 7.055921947548418,
+    "def": 2.351973982516139,
+    "healHp": 7.8399132750537985,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5800
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "level": 59,
+    "hp": 141.96918159156243,
+    "atk": 7.098459079578122,
+    "def": 2.3661530265260406,
+    "healHp": 7.887176755086803,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        5900
+      ]
+    ]
+  },
+  {
+    "id": 60,
+    "level": 60,
+    "hp": 142.86609467713828,
+    "atk": 7.143304733856913,
+    "def": 2.3811015779523044,
+    "healHp": 7.937005259841014,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 14400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6000
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "level": 61,
+    "hp": 143.80862099421904,
+    "atk": 7.190431049710954,
+    "def": 2.396810349903651,
+    "healHp": 7.989367833012171,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6100
+      ]
+    ]
+  },
+  {
+    "id": 62,
+    "level": 62,
+    "hp": 144.79627868293755,
+    "atk": 7.239813934146878,
+    "def": 2.4132713113822923,
+    "healHp": 8.044237704607642,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "level": 63,
+    "hp": 145.82865616300418,
+    "atk": 7.291432808150209,
+    "def": 2.430477602716736,
+    "healHp": 8.101592009055787,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6300
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "level": 64,
+    "hp": 146.9054075562213,
+    "atk": 7.345270377811065,
+    "def": 2.448423459270355,
+    "healHp": 8.161411530901184,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6400
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "level": 65,
+    "hp": 148.02624855254905,
+    "atk": 7.4013124276274525,
+    "def": 2.467104142542484,
+    "healHp": 8.223680475141615,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6500
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "level": 66,
+    "hp": 149.1909526731631,
+    "atk": 7.459547633658156,
+    "def": 2.4865158778860517,
+    "healHp": 8.288386259620173,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        110
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6600
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "level": 67,
+    "hp": 150.3993478895156,
+    "atk": 7.51996739447578,
+    "def": 2.5066557981585933,
+    "healHp": 8.355519327195312,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6700
+      ]
+    ]
+  },
+  {
+    "id": 68,
+    "level": 68,
+    "hp": 151.65131356224302,
+    "atk": 7.582565678112151,
+    "def": 2.52752189270405,
+    "healHp": 8.425072975680168,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6800
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "level": 69,
+    "hp": 152.94677766796934,
+    "atk": 7.647338883398467,
+    "def": 2.5491129611328223,
+    "healHp": 8.497043203776075,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        6900
+      ]
+    ]
+  },
+  {
+    "id": 70,
+    "level": 70,
+    "hp": 154.2857142857147,
+    "atk": 7.714285714285736,
+    "def": 2.5714285714285783,
+    "healHp": 8.571428571428594,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 35100,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        7000
+      ]
+    ]
+  },
+  {
+    "id": 71,
+    "level": 71,
+    "hp": 155.6681413178197,
+    "atk": 7.7834070658909855,
+    "def": 2.5944690219636617,
+    "healHp": 8.648230073212206,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        9000
+      ]
+    ]
+  },
+  {
+    "id": 72,
+    "level": 72,
+    "hp": 157.09411842309444,
+    "atk": 7.854705921154722,
+    "def": 2.618235307051574,
+    "healHp": 8.727451023505248,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        9200
+      ]
+    ]
+  },
+  {
+    "id": 73,
+    "level": 73,
+    "hp": 158.56374514235617,
+    "atk": 7.928187257117807,
+    "def": 2.642729085705936,
+    "healHp": 8.809096952353121,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 74,
+    "level": 74,
+    "hp": 160.0771591986756,
+    "atk": 8.00385795993378,
+    "def": 2.66795265331126,
+    "healHp": 8.893175511037532,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        9600
+      ]
+    ]
+  },
+  {
+    "id": 75,
+    "level": 75,
+    "hp": 161.63453495655017,
+    "atk": 8.08172674782751,
+    "def": 2.6939089159425027,
+    "healHp": 8.97969638647501,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        120
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        9900
+      ]
+    ]
+  },
+  {
+    "id": 76,
+    "level": 76,
+    "hp": 163.23608202589494,
+    "atk": 8.161804101294749,
+    "def": 2.720601367098249,
+    "healHp": 9.068671223660829,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        130
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        10100
+      ]
+    ]
+  },
+  {
+    "id": 77,
+    "level": 77,
+    "hp": 164.88204399822095,
+    "atk": 8.244102199911048,
+    "def": 2.7480340666370155,
+    "healHp": 9.16011355545672,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        130
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        10300
+      ]
+    ]
+  },
+  {
+    "id": 78,
+    "level": 78,
+    "hp": 166.5726973036782,
+    "atk": 8.328634865183911,
+    "def": 2.77621162172797,
+    "healHp": 9.254038739093234,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        130
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        10600
+      ]
+    ]
+  },
+  {
+    "id": 79,
+    "level": 79,
+    "hp": 168.30835017879923,
+    "atk": 8.415417508939962,
+    "def": 2.8051391696466537,
+    "healHp": 9.350463898822179,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        10800
+      ]
+    ]
+  },
+  {
+    "id": 80,
+    "level": 80,
+    "hp": 170.08934173580843,
+    "atk": 8.504467086790422,
+    "def": 2.8348223622634743,
+    "healHp": 9.449407874211582,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 49400,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        11100
+      ]
+    ]
+  },
+  {
+    "id": 81,
+    "level": 81,
+    "hp": 171.91604112527781,
+    "atk": 8.59580205626389,
+    "def": 2.8652673520879635,
+    "healHp": 9.550891173626546,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        13600
+      ]
+    ]
+  },
+  {
+    "id": 82,
+    "level": 82,
+    "hp": 173.78884678472326,
+    "atk": 8.689442339236162,
+    "def": 2.8964807797453878,
+    "healHp": 9.654935932484626,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 83,
+    "level": 83,
+    "hp": 175.7081857664639,
+    "atk": 8.785409288323194,
+    "def": 2.928469762774398,
+    "healHp": 9.76156587591466,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        14200
+      ]
+    ]
+  },
+  {
+    "id": 84,
+    "level": 84,
+    "hp": 177.6745131387147,
+    "atk": 8.883725656935736,
+    "def": 2.961241885645245,
+    "healHp": 9.87080628548415,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        14600
+      ]
+    ]
+  },
+  {
+    "id": 85,
+    "level": 85,
+    "hp": 179.68831145446453,
+    "atk": 8.984415572723226,
+    "def": 2.994805190907742,
+    "healHp": 9.982683969692474,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        14900
+      ]
+    ]
+  },
+  {
+    "id": 86,
+    "level": 86,
+    "hp": 181.75009028321094,
+    "atk": 9.087504514160548,
+    "def": 3.029168171386849,
+    "healHp": 10.097227237956162,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        15300
+      ]
+    ]
+  },
+  {
+    "id": 87,
+    "level": 87,
+    "hp": 183.86038580109147,
+    "atk": 9.193019290054572,
+    "def": 3.0643397633515237,
+    "healHp": 10.214465877838414,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        140
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        15600
+      ]
+    ]
+  },
+  {
+    "id": 88,
+    "level": 88,
+    "hp": 186.01976043536774,
+    "atk": 9.300988021768388,
+    "def": 3.1003293405894623,
+    "healHp": 10.33443113529821,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        16000
+      ]
+    ]
+  },
+  {
+    "id": 89,
+    "level": 89,
+    "hp": 188.2288025596,
+    "atk": 9.411440127979999,
+    "def": 3.1371467093266663,
+    "healHp": 10.457155697755555,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        16400
+      ]
+    ]
+  },
+  {
+    "id": 90,
+    "level": 90,
+    "hp": 190.48812623618468,
+    "atk": 9.524406311809233,
+    "def": 3.174802103936411,
+    "healHp": 10.582673679788039,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 65800,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        16700
+      ]
+    ]
+  },
+  {
+    "id": 91,
+    "level": 91,
+    "hp": 192.79837100323908,
+    "atk": 9.639918550161955,
+    "def": 3.2133061833873175,
+    "healHp": 10.71102061129106,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 92,
+    "level": 92,
+    "hp": 195.1602017030901,
+    "atk": 9.758010085154506,
+    "def": 3.2526700283848347,
+    "healHp": 10.84223342794945,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        20400
+      ]
+    ]
+  },
+  {
+    "id": 93,
+    "level": 93,
+    "hp": 197.574308349877,
+    "atk": 9.878715417493849,
+    "def": 3.292905139164616,
+    "healHp": 10.976350463882055,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        20900
+      ]
+    ]
+  },
+  {
+    "id": 94,
+    "level": 94,
+    "hp": 200.04140603400384,
+    "atk": 10.002070301700192,
+    "def": 3.3340234339000636,
+    "healHp": 11.113411446333545,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        21400
+      ]
+    ]
+  },
+  {
+    "id": 95,
+    "level": 95,
+    "hp": 202.56223486138325,
+    "atk": 10.128111743069164,
+    "def": 3.3760372476897214,
+    "healHp": 11.25345749229907,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        21900
+      ]
+    ]
+  },
+  {
+    "id": 96,
+    "level": 96,
+    "hp": 205.1375599255997,
+    "atk": 10.256877996279984,
+    "def": 3.4189593320933276,
+    "healHp": 11.396531106977761,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        22400
+      ]
+    ]
+  },
+  {
+    "id": 97,
+    "level": 97,
+    "hp": 207.76817131128996,
+    "atk": 10.3884085655645,
+    "def": 3.462802855188166,
+    "healHp": 11.542676183960554,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        160
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        23000
+      ]
+    ]
+  },
+  {
+    "id": 98,
+    "level": 98,
+    "hp": 210.45488412719482,
+    "atk": 10.522744206359741,
+    "def": 3.507581402119913,
+    "healHp": 11.691938007066378,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        23500
+      ]
+    ]
+  },
+  {
+    "id": 99,
+    "level": 99,
+    "hp": 213.1985385674728,
+    "atk": 10.659926928373642,
+    "def": 3.5533089761245473,
+    "healHp": 11.84436325374849,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        24000
+      ]
+    ]
+  },
+  {
+    "id": 100,
+    "level": 100,
+    "hp": 216.000000000001,
+    "atk": 10.80000000000005,
+    "def": 3.6000000000000165,
+    "healHp": 12.000000000000055,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 84500,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        24600
+      ]
+    ]
+  },
+  {
+    "id": 101,
+    "level": 101,
+    "hp": 218.86015908049944,
+    "atk": 10.943007954024973,
+    "def": 3.6476693180083233,
+    "healHp": 12.158897726694414,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        28800
+      ]
+    ]
+  },
+  {
+    "id": 102,
+    "level": 102,
+    "hp": 221.77993189142788,
+    "atk": 11.088996594571395,
+    "def": 3.6963321981904644,
+    "healHp": 12.321107327301549,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        29400
+      ]
+    ]
+  },
+  {
+    "id": 103,
+    "level": 103,
+    "hp": 224.76026010469946,
+    "atk": 11.238013005234972,
+    "def": 3.746004335078324,
+    "healHp": 12.48668111692775,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        30100
+      ]
+    ]
+  },
+  {
+    "id": 104,
+    "level": 104,
+    "hp": 227.80211116734657,
+    "atk": 11.390105558367328,
+    "def": 3.7967018527891083,
+    "healHp": 12.655672842630365,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        30800
+      ]
+    ]
+  },
+  {
+    "id": 105,
+    "level": 105,
+    "hp": 230.9064785093579,
+    "atk": 11.545323925467896,
+    "def": 3.8484413084892983,
+    "healHp": 12.828137694964328,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        31600
+      ]
+    ]
+  },
+  {
+    "id": 106,
+    "level": 106,
+    "hp": 234.07438177298192,
+    "atk": 11.703719088649096,
+    "def": 3.9012396962163645,
+    "healHp": 13.004132320721219,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        200
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        32300
+      ]
+    ]
+  },
+  {
+    "id": 107,
+    "level": 107,
+    "hp": 237.30686706286053,
+    "atk": 11.865343353143027,
+    "def": 3.9551144510476752,
+    "healHp": 13.183714836825585,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        200
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        33100
+      ]
+    ]
+  },
+  {
+    "id": 108,
+    "level": 108,
+    "hp": 240.60500721642455,
+    "atk": 12.030250360821228,
+    "def": 4.010083453607076,
+    "healHp": 13.366944845356917,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        210
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        33800
+      ]
+    ]
+  },
+  {
+    "id": 109,
+    "level": 109,
+    "hp": 243.96990209403972,
+    "atk": 12.198495104701985,
+    "def": 4.066165034900662,
+    "healHp": 13.553883449668872,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        210
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        34600
+      ]
+    ]
+  },
+  {
+    "id": 110,
+    "level": 110,
+    "hp": 247.40267888844915,
+    "atk": 12.370133944422456,
+    "def": 4.123377981474151,
+    "healHp": 13.744593271580507,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 105000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        210
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        35400
+      ]
+    ]
+  },
+  {
+    "id": 111,
+    "level": 111,
+    "hp": 250.9044924531086,
+    "atk": 12.54522462265543,
+    "def": 4.1817415408851435,
+    "healHp": 13.939138469617145,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        210
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        40800
+      ]
+    ]
+  },
+  {
+    "id": 112,
+    "level": 112,
+    "hp": 254.47652564905954,
+    "atk": 12.723826282452976,
+    "def": 4.241275427484325,
+    "healHp": 14.137584758281085,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        210
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        41700
+      ]
+    ]
+  },
+  {
+    "id": 113,
+    "level": 113,
+    "hp": 258.119989710027,
+    "atk": 12.905999485501354,
+    "def": 4.301999828500451,
+    "healHp": 14.339999428334837,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        210
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        42700
+      ]
+    ]
+  },
+  {
+    "id": 114,
+    "level": 114,
+    "hp": 261.8361246254748,
+    "atk": 13.091806231273738,
+    "def": 4.363935410424579,
+    "healHp": 14.546451368081934,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        210
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        43700
+      ]
+    ]
+  },
+  {
+    "id": 115,
+    "level": 115,
+    "hp": 265.6261995413828,
+    "atk": 13.281309977069139,
+    "def": 4.427103325689712,
+    "healHp": 14.757011085632374,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        220
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        44700
+      ]
+    ]
+  },
+  {
+    "id": 116,
+    "level": 116,
+    "hp": 269.49151317855467,
+    "atk": 13.474575658927732,
+    "def": 4.491525219642577,
+    "healHp": 14.971750732141926,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        220
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        45800
+      ]
+    ]
+  },
+  {
+    "id": 117,
+    "level": 117,
+    "hp": 273.4333942682903,
+    "atk": 13.671669713414515,
+    "def": 4.5572232378048385,
+    "healHp": 15.190744126016126,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        230
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        46800
+      ]
+    ]
+  },
+  {
+    "id": 118,
+    "level": 118,
+    "hp": 277.45320200529477,
+    "atk": 13.872660100264739,
+    "def": 4.6242200334215795,
+    "healHp": 15.414066778071932,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        230
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        47900
+      ]
+    ]
+  },
+  {
+    "id": 119,
+    "level": 119,
+    "hp": 281.5523265177215,
+    "atk": 14.077616325886076,
+    "def": 4.6925387752953585,
+    "healHp": 15.641795917651198,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        240
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        49100
+      ]
+    ]
+  },
+  {
+    "id": 120,
+    "level": 120,
+    "hp": 285.7321893542776,
+    "atk": 14.286609467713879,
+    "def": 4.7622031559046265,
+    "healHp": 15.874010519682088,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 128000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        240
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        50200
+      ]
+    ]
+  },
+  {
+    "id": 121,
+    "level": 121,
+    "hp": 289.9942439883436,
+    "atk": 14.499712199417182,
+    "def": 4.833237399805727,
+    "healHp": 16.110791332685757,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        240
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        57100
+      ]
+    ]
+  },
+  {
+    "id": 122,
+    "level": 122,
+    "hp": 294.33997633908723,
+    "atk": 14.716998816954362,
+    "def": 4.90566627231812,
+    "healHp": 16.352220907727066,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        240
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        58400
+      ]
+    ]
+  },
+  {
+    "id": 123,
+    "level": 123,
+    "hp": 298.77090530957065,
+    "atk": 14.938545265478531,
+    "def": 4.979515088492843,
+    "healHp": 16.59838362830948,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        240
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        59800
+      ]
+    ]
+  },
+  {
+    "id": 124,
+    "level": 124,
+    "hp": 303.28858334187737,
+    "atk": 15.164429167093868,
+    "def": 5.054809722364622,
+    "healHp": 16.849365741215408,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        250
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        61200
+      ]
+    ]
+  },
+  {
+    "id": 125,
+    "level": 125,
+    "hp": 307.8945969893031,
+    "atk": 15.39472984946516,
+    "def": 5.131576616488386,
+    "healHp": 17.10525538829462,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        250
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        62600
+      ]
+    ]
+  },
+  {
+    "id": 126,
+    "level": 126,
+    "hp": 312.59056750567623,
+    "atk": 15.629528375283813,
+    "def": 5.209842791761272,
+    "healHp": 17.366142639204238,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        260
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        64100
+      ]
+    ]
+  },
+  {
+    "id": 127,
+    "level": 127,
+    "hp": 317.37815145189234,
+    "atk": 15.868907572594619,
+    "def": 5.28963585753154,
+    "healHp": 17.632119525105132,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        270
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        65600
+      ]
+    ]
+  },
+  {
+    "id": 128,
+    "level": 128,
+    "hp": 322.2590413197676,
+    "atk": 16.11295206598838,
+    "def": 5.370984021996127,
+    "healHp": 17.903280073320424,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        270
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        67100
+      ]
+    ]
+  },
+  {
+    "id": 129,
+    "level": 129,
+    "hp": 327.234966173331,
+    "atk": 16.36174830866655,
+    "def": 5.453916102888849,
+    "healHp": 18.17972034296283,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        270
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        68700
+      ]
+    ]
+  },
+  {
+    "id": 130,
+    "level": 130,
+    "hp": 332.3076923076944,
+    "atk": 16.61538461538472,
+    "def": 5.538461538461574,
+    "healHp": 18.46153846153858,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 154000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        270
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        70300
+      ]
+    ]
+  },
+  {
+    "id": 131,
+    "level": 131,
+    "hp": 337.4790239256562,
+    "atk": 16.87395119628281,
+    "def": 5.624650398760936,
+    "healHp": 18.748834662536456,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        270
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        79100
+      ]
+    ]
+  },
+  {
+    "id": 132,
+    "level": 132,
+    "hp": 342.7508038322074,
+    "atk": 17.137540191610366,
+    "def": 5.712513397203455,
+    "healHp": 19.04171132401152,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        280
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        81000
+      ]
+    ]
+  },
+  {
+    "id": 133,
+    "level": 133,
+    "hp": 348.1249141471291,
+    "atk": 17.406245707356458,
+    "def": 5.802081902452152,
+    "healHp": 19.340273008173835,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        290
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        82900
+      ]
+    ]
+  },
+  {
+    "id": 134,
+    "level": 134,
+    "hp": 353.60327703588183,
+    "atk": 17.68016385179409,
+    "def": 5.89338795059803,
+    "healHp": 19.644626501993436,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        300
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        84800
+      ]
+    ]
+  },
+  {
+    "id": 135,
+    "level": 135,
+    "hp": 359.1878554590018,
+    "atk": 17.95939277295009,
+    "def": 5.986464257650029,
+    "healHp": 19.954880858833434,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        310
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        86800
+      ]
+    ]
+  },
+  {
+    "id": 136,
+    "level": 136,
+    "hp": 364.88065394023715,
+    "atk": 18.24403269701186,
+    "def": 6.081344232337286,
+    "healHp": 20.27114744112429,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        310
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        88800
+      ]
+    ]
+  },
+  {
+    "id": 137,
+    "level": 137,
+    "hp": 370.6837193536661,
+    "atk": 18.534185967683307,
+    "def": 6.178061989227768,
+    "healHp": 20.593539964092564,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        320
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        90900
+      ]
+    ]
+  },
+  {
+    "id": 138,
+    "level": 138,
+    "hp": 376.5991417300566,
+    "atk": 18.829957086502834,
+    "def": 6.27665236216761,
+    "healHp": 20.9221745405587,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        320
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        93000
+      ]
+    ]
+  },
+  {
+    "id": 139,
+    "level": 139,
+    "hp": 382.62905508273934,
+    "atk": 19.13145275413697,
+    "def": 6.377150918045656,
+    "healHp": 21.25716972681885,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        330
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        95200
+      ]
+    ]
+  },
+  {
+    "id": 140,
+    "level": 140,
+    "hp": 388.775638253278,
+    "atk": 19.4387819126639,
+    "def": 6.479593970887966,
+    "healHp": 21.598646569626556,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 181000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        330
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        97400
+      ]
+    ]
+  },
+  {
+    "id": 141,
+    "level": 141,
+    "hp": 395.04111577723563,
+    "atk": 19.75205578886178,
+    "def": 6.58401859628726,
+    "healHp": 21.94672865429087,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        330
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        109000
+      ]
+    ]
+  },
+  {
+    "id": 142,
+    "level": 142,
+    "hp": 401.42775877034825,
+    "atk": 20.07138793851741,
+    "def": 6.69046264617247,
+    "healHp": 22.301542153908237,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        340
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        111000
+      ]
+    ]
+  },
+  {
+    "id": 143,
+    "level": 143,
+    "hp": 407.93788583542823,
+    "atk": 20.39689429177141,
+    "def": 6.798964763923804,
+    "healHp": 22.663215879746012,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        350
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        114000
+      ]
+    ]
+  },
+  {
+    "id": 144,
+    "level": 144,
+    "hp": 414.5738639903359,
+    "atk": 20.728693199516794,
+    "def": 6.909564399838931,
+    "healHp": 23.031881332796438,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        350
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        117000
+      ]
+    ]
+  },
+  {
+    "id": 145,
+    "level": 145,
+    "hp": 421.33810961736657,
+    "atk": 21.066905480868332,
+    "def": 7.0223018269561095,
+    "healHp": 23.407672756520366,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        350
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        119000
+      ]
+    ]
+  },
+  {
+    "id": 146,
+    "level": 146,
+    "hp": 428.23308943441646,
+    "atk": 21.411654471720823,
+    "def": 7.137218157240274,
+    "healHp": 23.79072719080091,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        370
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        122000
+      ]
+    ]
+  },
+  {
+    "id": 147,
+    "level": 147,
+    "hp": 435.2613214882997,
+    "atk": 21.763066074414986,
+    "def": 7.254355358138328,
+    "healHp": 24.18118452712776,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        380
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        125000
+      ]
+    ]
+  },
+  {
+    "id": 148,
+    "level": 148,
+    "hp": 442.42537617060606,
+    "atk": 22.121268808530303,
+    "def": 7.3737562695101,
+    "healHp": 24.57918756503367,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        390
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        128000
+      ]
+    ]
+  },
+  {
+    "id": 149,
+    "level": 149,
+    "hp": 449.7278772564957,
+    "atk": 22.486393862824777,
+    "def": 7.4954646209415925,
+    "healHp": 24.984882069805312,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        400
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        131000
+      ]
+    ]
+  },
+  {
+    "id": 150,
+    "level": 150,
+    "hp": 457.1715029668449,
+    "atk": 22.85857514834225,
+    "def": 7.619525049447415,
+    "healHp": 25.39841683149139,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 211000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        400
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        134000
+      ]
+    ]
+  },
+  {
+    "id": 151,
+    "level": 151,
+    "hp": 464.520156423704,
+    "atk": 23.2260078211852,
+    "def": 7.74200260706178,
+    "healHp": 25.8066753568725,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        400
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        148000
+      ]
+    ]
+  },
+  {
+    "id": 152,
+    "level": 152,
+    "hp": 471.867561648955,
+    "atk": 23.5933780824477,
+    "def": 7.86445936081594,
+    "healHp": 26.2148645360531,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        400
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        152000
+      ]
+    ]
+  },
+  {
+    "id": 153,
+    "level": 153,
+    "hp": 479.213743117628,
+    "atk": 23.9606871558814,
+    "def": 7.98689571862713,
+    "healHp": 26.6229857287571,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        400
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        155000
+      ]
+    ]
+  },
+  {
+    "id": 154,
+    "level": 154,
+    "hp": 486.558724669137,
+    "atk": 24.3279362334569,
+    "def": 8.10931207781893,
+    "healHp": 27.0310402593964,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        420
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        159000
+      ]
+    ]
+  },
+  {
+    "id": 155,
+    "level": 155,
+    "hp": 493.902529527686,
+    "atk": 24.6951264763843,
+    "def": 8.23170882546145,
+    "healHp": 27.4390294182047,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        430
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        163000
+      ]
+    ]
+  },
+  {
+    "id": 156,
+    "level": 156,
+    "hp": 501.245180321986,
+    "atk": 25.0622590160993,
+    "def": 8.35408633869974,
+    "healHp": 27.8469544623325,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        430
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        167000
+      ]
+    ]
+  },
+  {
+    "id": 157,
+    "level": 157,
+    "hp": 508.586699104217,
+    "atk": 25.4293349552109,
+    "def": 8.47644498507031,
+    "healHp": 28.254816616901,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        440
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        171000
+      ]
+    ]
+  },
+  {
+    "id": 158,
+    "level": 158,
+    "hp": 515.927107368283,
+    "atk": 25.7963553684142,
+    "def": 8.5987851228047,
+    "healHp": 28.6626170760158,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        460
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        174000
+      ]
+    ]
+  },
+  {
+    "id": 159,
+    "level": 159,
+    "hp": 523.266426067356,
+    "atk": 26.1633213033678,
+    "def": 8.72110710112259,
+    "healHp": 29.0703570037419,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        470
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        179000
+      ]
+    ]
+  },
+  {
+    "id": 160,
+    "level": 160,
+    "hp": 530.604675630778,
+    "atk": 26.5302337815389,
+    "def": 8.84341126051299,
+    "healHp": 29.4780375350432,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 242000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        480
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        183000
+      ]
+    ]
+  },
+  {
+    "id": 161,
+    "level": 161,
+    "hp": 537.918788114644,
+    "atk": 26.8959394057322,
+    "def": 8.96531313524408,
+    "healHp": 29.8843771174802,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        480
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        201000
+      ]
+    ]
+  },
+  {
+    "id": 162,
+    "level": 162,
+    "hp": 545.240235331535,
+    "atk": 27.2620117665767,
+    "def": 9.08733725552556,
+    "healHp": 30.2911241850853,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        480
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        206000
+      ]
+    ]
+  },
+  {
+    "id": 163,
+    "level": 163,
+    "hp": 552.568882286365,
+    "atk": 27.6284441143182,
+    "def": 9.20948137143943,
+    "healHp": 30.6982712381314,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        480
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        211000
+      ]
+    ]
+  },
+  {
+    "id": 164,
+    "level": 164,
+    "hp": 559.904597276611,
+    "atk": 27.9952298638306,
+    "def": 9.33174328794352,
+    "healHp": 31.1058109598117,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        490
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        216000
+      ]
+    ]
+  },
+  {
+    "id": 165,
+    "level": 165,
+    "hp": 567.24725179254,
+    "atk": 28.362362589627,
+    "def": 9.45412086320898,
+    "healHp": 31.5137362106966,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        510
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        221000
+      ]
+    ]
+  },
+  {
+    "id": 166,
+    "level": 166,
+    "hp": 574.596720421033,
+    "atk": 28.7298360210517,
+    "def": 9.57661200701722,
+    "healHp": 31.9220400233907,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        520
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        226000
+      ]
+    ]
+  },
+  {
+    "id": 167,
+    "level": 167,
+    "hp": 581.952880752887,
+    "atk": 29.0976440376444,
+    "def": 9.69921467921479,
+    "healHp": 32.3307155973826,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        530
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        231000
+      ]
+    ]
+  },
+  {
+    "id": 168,
+    "level": 168,
+    "hp": 589.315613293395,
+    "atk": 29.4657806646698,
+    "def": 9.8219268882233,
+    "healHp": 32.7397562940775,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        540
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        237000
+      ]
+    ]
+  },
+  {
+    "id": 169,
+    "level": 169,
+    "hp": 596.684801376134,
+    "atk": 29.8342400688067,
+    "def": 9.94474668960226,
+    "healHp": 33.1491556320075,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        560
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        242000
+      ]
+    ]
+  },
+  {
+    "id": 170,
+    "level": 170,
+    "hp": 604.060331079771,
+    "atk": 30.2030165539885,
+    "def": 10.0676721846628,
+    "healHp": 33.5589072822095,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 276000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        570
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        248000
+      ]
+    ]
+  },
+  {
+    "id": 171,
+    "level": 171,
+    "hp": 611.418392270755,
+    "atk": 30.5709196135378,
+    "def": 10.1903065378459,
+    "healHp": 33.9676884594864,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        570
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        272000
+      ]
+    ]
+  },
+  {
+    "id": 172,
+    "level": 172,
+    "hp": 618.791147022112,
+    "atk": 30.9395573511056,
+    "def": 10.3131857837018,
+    "healHp": 34.3772859456729,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        570
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        278000
+      ]
+    ]
+  },
+  {
+    "id": 173,
+    "level": 173,
+    "hp": 626.178340532217,
+    "atk": 31.3089170266109,
+    "def": 10.4363056755369,
+    "healHp": 34.7876855851232,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        580
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        285000
+      ]
+    ]
+  },
+  {
+    "id": 174,
+    "level": 174,
+    "hp": 633.579723856954,
+    "atk": 31.6789861928477,
+    "def": 10.5596620642826,
+    "healHp": 35.1988735476085,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        590
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        291000
+      ]
+    ]
+  },
+  {
+    "id": 175,
+    "level": 175,
+    "hp": 640.995053742357,
+    "atk": 32.0497526871179,
+    "def": 10.683250895706,
+    "healHp": 35.6108363190198,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        610
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        298000
+      ]
+    ]
+  },
+  {
+    "id": 176,
+    "level": 176,
+    "hp": 648.424092462961,
+    "atk": 32.421204623148,
+    "def": 10.807068207716,
+    "healHp": 36.0235606923867,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        620
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        305000
+      ]
+    ]
+  },
+  {
+    "id": 177,
+    "level": 177,
+    "hp": 655.866607665625,
+    "atk": 32.7933303832813,
+    "def": 10.9311101277604,
+    "healHp": 36.4370337592014,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        630
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        312000
+      ]
+    ]
+  },
+  {
+    "id": 178,
+    "level": 178,
+    "hp": 663.322372218632,
+    "atk": 33.1661186109316,
+    "def": 11.0553728703105,
+    "healHp": 36.8512429010351,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        650
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        320000
+      ]
+    ]
+  },
+  {
+    "id": 179,
+    "level": 179,
+    "hp": 670.79116406583,
+    "atk": 33.5395582032915,
+    "def": 11.1798527344305,
+    "healHp": 37.266175781435,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        660
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        327000
+      ]
+    ]
+  },
+  {
+    "id": 180,
+    "level": 180,
+    "hp": 678.272766085646,
+    "atk": 33.9136383042823,
+    "def": 11.3045461014274,
+    "healHp": 37.6818203380915,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 313000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        680
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        335000
+      ]
+    ]
+  },
+  {
+    "id": 181,
+    "level": 181,
+    "hp": 685.742556419122,
+    "atk": 34.2871278209561,
+    "def": 11.4290426069854,
+    "healHp": 38.0968086899512,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        680
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        365000
+      ]
+    ]
+  },
+  {
+    "id": 182,
+    "level": 182,
+    "hp": 693.233553005367,
+    "atk": 34.6616776502684,
+    "def": 11.5538925500894,
+    "healHp": 38.5129751669649,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        680
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        374000
+      ]
+    ]
+  },
+  {
+    "id": 183,
+    "level": 183,
+    "hp": 700.745408200892,
+    "atk": 35.0372704100446,
+    "def": 11.6790901366815,
+    "healHp": 38.9303004556051,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        700
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        383000
+      ]
+    ]
+  },
+  {
+    "id": 184,
+    "level": 184,
+    "hp": 708.277781919676,
+    "atk": 35.4138890959838,
+    "def": 11.8046296986613,
+    "healHp": 39.3487656622042,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        710
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        392000
+      ]
+    ]
+  },
+  {
+    "id": 185,
+    "level": 185,
+    "hp": 715.830341428911,
+    "atk": 35.7915170714455,
+    "def": 11.9305056904818,
+    "healHp": 39.7683523016061,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        730
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        401000
+      ]
+    ]
+  },
+  {
+    "id": 186,
+    "level": 186,
+    "hp": 723.402761151329,
+    "atk": 36.1701380575665,
+    "def": 12.0567126858555,
+    "healHp": 40.1890422861849,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        740
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        410000
+      ]
+    ]
+  },
+  {
+    "id": 187,
+    "level": 187,
+    "hp": 730.994722473886,
+    "atk": 36.5497361236943,
+    "def": 12.1832453745648,
+    "healHp": 40.6108179152159,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        760
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        420000
+      ]
+    ]
+  },
+  {
+    "id": 188,
+    "level": 188,
+    "hp": 738.605913562538,
+    "atk": 36.9302956781269,
+    "def": 12.3100985593756,
+    "healHp": 41.0336618645854,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        780
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        430000
+      ]
+    ]
+  },
+  {
+    "id": 189,
+    "level": 189,
+    "hp": 746.2360291829,
+    "atk": 37.311801459145,
+    "def": 12.4372671530483,
+    "healHp": 41.4575571768279,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        800
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        440000
+      ]
+    ]
+  },
+  {
+    "id": 190,
+    "level": 190,
+    "hp": 753.884770526579,
+    "atk": 37.694238526329,
+    "def": 12.564746175443,
+    "healHp": 41.8824872514766,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 351000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        820
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        450000
+      ]
+    ]
+  },
+  {
+    "id": 191,
+    "level": 191,
+    "hp": 761.526626560995,
+    "atk": 38.0763313280498,
+    "def": 12.6921104426833,
+    "healHp": 42.3070348089442,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        820
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        489000
+      ]
+    ]
+  },
+  {
+    "id": 192,
+    "level": 192,
+    "hp": 769.195625649504,
+    "atk": 38.4597812824752,
+    "def": 12.8199270941584,
+    "healHp": 42.7330903138612,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        820
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        501000
+      ]
+    ]
+  },
+  {
+    "id": 193,
+    "level": 193,
+    "hp": 776.891345879347,
+    "atk": 38.8445672939673,
+    "def": 12.9481890979891,
+    "healHp": 43.1606303266304,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        830
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        512000
+      ]
+    ]
+  },
+  {
+    "id": 194,
+    "level": 194,
+    "hp": 784.613374036998,
+    "atk": 39.23066870185,
+    "def": 13.0768895672833,
+    "healHp": 43.5896318909444,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        850
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        524000
+      ]
+    ]
+  },
+  {
+    "id": 195,
+    "level": 195,
+    "hp": 792.361305385109,
+    "atk": 39.6180652692554,
+    "def": 13.2060217564185,
+    "healHp": 44.020072521395,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        870
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        536000
+      ]
+    ]
+  },
+  {
+    "id": 196,
+    "level": 196,
+    "hp": 800.134743446272,
+    "atk": 40.0067371723136,
+    "def": 13.3355790574378,
+    "healHp": 44.4519301914596,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        890
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        549000
+      ]
+    ]
+  },
+  {
+    "id": 197,
+    "level": 197,
+    "hp": 807.933299793386,
+    "atk": 40.3966649896693,
+    "def": 13.4655549965564,
+    "healHp": 44.8851833218548,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        920
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        562000
+      ]
+    ]
+  },
+  {
+    "id": 198,
+    "level": 198,
+    "hp": 815.75659384636,
+    "atk": 40.787829692318,
+    "def": 13.5959432307727,
+    "healHp": 45.3198107692423,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        930
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        575000
+      ]
+    ]
+  },
+  {
+    "id": 199,
+    "level": 199,
+    "hp": 823.604252674957,
+    "atk": 41.1802126337478,
+    "def": 13.7267375445826,
+    "healHp": 45.7557918152754,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        950
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        588000
+      ]
+    ]
+  },
+  {
+    "id": 200,
+    "level": 200,
+    "hp": 831.47591080754,
+    "atk": 41.573795540377,
+    "def": 13.8579318467923,
+    "healHp": 46.1931061559744,
+    "hitVal": 0,
+    "dodge": 0,
+    "crit": 0,
+    "tenacity": 0,
+    "lucky": 0,
+    "guardian": 0,
+    "break": 0,
+    "protect": 0,
+    "exp": 392000,
+    "luckRatio": 1,
+    "cost": [
+      [
+        3,
+        980
+      ]
+    ],
+    "shiftCost": [
+      [
+        3,
+        602000
+      ]
+    ]
+  }
+]

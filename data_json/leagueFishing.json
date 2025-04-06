@@ -1,0 +1,242 @@
+[
+  {
+    "id": 10001,
+    "group": 1,
+    "fishId": 7100001,
+    "weight": 1300
+  },
+  {
+    "id": 10002,
+    "group": 1,
+    "fishId": 7100002,
+    "weight": 100
+  },
+  {
+    "id": 10003,
+    "group": 1,
+    "fishId": 7100003,
+    "weight": 100
+  },
+  {
+    "id": 10004,
+    "group": 1,
+    "fishId": 7100004,
+    "weight": 100
+  },
+  {
+    "id": 10005,
+    "group": 1,
+    "fishId": 7100005,
+    "weight": 100
+  },
+  {
+    "id": 10006,
+    "group": 1,
+    "fishId": 7100006,
+    "weight": 100
+  },
+  {
+    "id": 10007,
+    "group": 1,
+    "fishId": 7100007,
+    "weight": 100
+  },
+  {
+    "id": 10008,
+    "group": 1,
+    "fishId": 7100008,
+    "weight": 100
+  },
+  {
+    "id": 20001,
+    "group": 2,
+    "fishId": 7100001,
+    "weight": 100
+  },
+  {
+    "id": 20002,
+    "group": 2,
+    "fishId": 7100002,
+    "weight": 1300
+  },
+  {
+    "id": 20003,
+    "group": 2,
+    "fishId": 7100003,
+    "weight": 100
+  },
+  {
+    "id": 20004,
+    "group": 2,
+    "fishId": 7100004,
+    "weight": 100
+  },
+  {
+    "id": 20005,
+    "group": 2,
+    "fishId": 7100005,
+    "weight": 100
+  },
+  {
+    "id": 20006,
+    "group": 2,
+    "fishId": 7100006,
+    "weight": 100
+  },
+  {
+    "id": 20007,
+    "group": 2,
+    "fishId": 7100007,
+    "weight": 100
+  },
+  {
+    "id": 20008,
+    "group": 2,
+    "fishId": 7100008,
+    "weight": 100
+  },
+  {
+    "id": 30001,
+    "group": 3,
+    "fishId": 7100001,
+    "weight": 100
+  },
+  {
+    "id": 30002,
+    "group": 3,
+    "fishId": 7100002,
+    "weight": 100
+  },
+  {
+    "id": 30003,
+    "group": 3,
+    "fishId": 7100003,
+    "weight": 1300
+  },
+  {
+    "id": 30004,
+    "group": 3,
+    "fishId": 7100004,
+    "weight": 100
+  },
+  {
+    "id": 30005,
+    "group": 3,
+    "fishId": 7100005,
+    "weight": 100
+  },
+  {
+    "id": 30006,
+    "group": 3,
+    "fishId": 7100006,
+    "weight": 100
+  },
+  {
+    "id": 30007,
+    "group": 3,
+    "fishId": 7100007,
+    "weight": 100
+  },
+  {
+    "id": 30008,
+    "group": 3,
+    "fishId": 7100008,
+    "weight": 100
+  },
+  {
+    "id": 40001,
+    "group": 4,
+    "fishId": 7100001,
+    "weight": 100
+  },
+  {
+    "id": 40002,
+    "group": 4,
+    "fishId": 7100002,
+    "weight": 100
+  },
+  {
+    "id": 40003,
+    "group": 4,
+    "fishId": 7100003,
+    "weight": 100
+  },
+  {
+    "id": 40004,
+    "group": 4,
+    "fishId": 7100004,
+    "weight": 1300
+  },
+  {
+    "id": 40005,
+    "group": 4,
+    "fishId": 7100005,
+    "weight": 100
+  },
+  {
+    "id": 40006,
+    "group": 4,
+    "fishId": 7100006,
+    "weight": 100
+  },
+  {
+    "id": 40007,
+    "group": 4,
+    "fishId": 7100007,
+    "weight": 100
+  },
+  {
+    "id": 40008,
+    "group": 4,
+    "fishId": 7100008,
+    "weight": 100
+  },
+  {
+    "id": 50001,
+    "group": 5,
+    "fishId": 7100001,
+    "weight": 100
+  },
+  {
+    "id": 50002,
+    "group": 5,
+    "fishId": 7100002,
+    "weight": 100
+  },
+  {
+    "id": 50003,
+    "group": 5,
+    "fishId": 7100003,
+    "weight": 100
+  },
+  {
+    "id": 50004,
+    "group": 5,
+    "fishId": 7100004,
+    "weight": 100
+  },
+  {
+    "id": 50005,
+    "group": 5,
+    "fishId": 7100005,
+    "weight": 1300
+  },
+  {
+    "id": 50006,
+    "group": 5,
+    "fishId": 7100006,
+    "weight": 100
+  },
+  {
+    "id": 50007,
+    "group": 5,
+    "fishId": 7100007,
+    "weight": 100
+  },
+  {
+    "id": 50008,
+    "group": 5,
+    "fishId": 7100008,
+    "weight": 100
+  }
+]

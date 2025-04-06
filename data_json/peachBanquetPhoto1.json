@@ -1,0 +1,476 @@
+[
+  {
+    "id": 1,
+    "season": 1,
+    "icon": "db001",
+    "pos": [
+      -3960,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 2,
+    "season": 1,
+    "icon": "db002",
+    "pos": [
+      -1980,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 3,
+    "season": 1,
+    "icon": "db003",
+    "pos": [
+      0,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 4,
+    "season": 1,
+    "icon": "db004",
+    "pos": [
+      1980,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 5,
+    "season": 1,
+    "icon": "db005",
+    "pos": [
+      3960,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 6,
+    "season": 1,
+    "icon": "shangj001",
+    "pos": [
+      -3960,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 7,
+    "season": 1,
+    "icon": "shangj002",
+    "pos": [
+      -1980,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 8,
+    "season": 1,
+    "icon": "shangj003",
+    "pos": [
+      0,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 9,
+    "season": 1,
+    "icon": "shangj004",
+    "pos": [
+      1980,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 10,
+    "season": 1,
+    "icon": "shangj005",
+    "pos": [
+      3960,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 1001,
+    "season": 1,
+    "icon": "table",
+    "pos": [
+      0,
+      -430
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 1002,
+    "season": 1,
+    "icon": "plate",
+    "pos": [
+      0,
+      -380
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 1003,
+    "season": 1,
+    "icon": "peachIcon",
+    "pos": [
+      0,
+      -360
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 1004,
+    "season": 1,
+    "icon": "btnEatPeach",
+    "pos": [
+      0,
+      -430
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 100001,
+    "season": 2,
+    "icon": "db001",
+    "pos": [
+      -3960,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 100002,
+    "season": 2,
+    "icon": "db002",
+    "pos": [
+      -1980,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 100003,
+    "season": 2,
+    "icon": "db003",
+    "pos": [
+      0,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 100004,
+    "season": 2,
+    "icon": "db004",
+    "pos": [
+      1980,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 100005,
+    "season": 2,
+    "icon": "db005",
+    "pos": [
+      3960,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 100006,
+    "season": 2,
+    "icon": "shangj001",
+    "pos": [
+      -3960,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 100007,
+    "season": 2,
+    "icon": "shangj002",
+    "pos": [
+      -1980,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 100008,
+    "season": 2,
+    "icon": "shangj003",
+    "pos": [
+      0,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 100009,
+    "season": 2,
+    "icon": "shangj004",
+    "pos": [
+      1980,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 100010,
+    "season": 2,
+    "icon": "shangj005",
+    "pos": [
+      3960,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 101001,
+    "season": 2,
+    "icon": "table",
+    "pos": [
+      0,
+      -430
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 101002,
+    "season": 2,
+    "icon": "plate",
+    "pos": [
+      0,
+      -380
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 101003,
+    "season": 2,
+    "icon": "peachIcon",
+    "pos": [
+      0,
+      -360
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 101004,
+    "season": 2,
+    "icon": "btnEatPeach",
+    "pos": [
+      0,
+      -430
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 200001,
+    "season": 3,
+    "icon": "db001",
+    "pos": [
+      -3960,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 200002,
+    "season": 3,
+    "icon": "db002",
+    "pos": [
+      -1980,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 200003,
+    "season": 3,
+    "icon": "db003",
+    "pos": [
+      0,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 200004,
+    "season": 3,
+    "icon": "db004",
+    "pos": [
+      1980,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 200005,
+    "season": 3,
+    "icon": "db005",
+    "pos": [
+      3960,
+      0
+    ],
+    "zIndex": 0,
+    "layer": 0
+  },
+  {
+    "id": 200006,
+    "season": 3,
+    "icon": "shangj001",
+    "pos": [
+      -3960,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 200007,
+    "season": 3,
+    "icon": "shangj002",
+    "pos": [
+      -1980,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 200008,
+    "season": 3,
+    "icon": "shangj003",
+    "pos": [
+      0,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 200009,
+    "season": 3,
+    "icon": "shangj004",
+    "pos": [
+      1980,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 200010,
+    "season": 3,
+    "icon": "shangj005",
+    "pos": [
+      3960,
+      -150
+    ],
+    "zIndex": 0,
+    "layer": 3
+  },
+  {
+    "id": 201001,
+    "season": 3,
+    "icon": "table",
+    "pos": [
+      0,
+      -430
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 201002,
+    "season": 3,
+    "icon": "plate",
+    "pos": [
+      0,
+      -380
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 201003,
+    "season": 3,
+    "icon": "peachIcon",
+    "pos": [
+      0,
+      -360
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  },
+  {
+    "id": 201004,
+    "season": 3,
+    "icon": "btnEatPeach",
+    "pos": [
+      0,
+      -430
+    ],
+    "zIndex": 0,
+    "layer": 4,
+    "type": "eatPeach"
+  }
+]

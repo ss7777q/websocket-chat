@@ -1,0 +1,1007 @@
+[
+  {
+    "id": 1,
+    "bossLevel": 11,
+    "bossId": 2040291,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 1,
+    "guardPet": [],
+    "dropsGuard": [],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1161,
+        [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      -1,
+      -1,
+      6000
+    ]
+  },
+  {
+    "id": 2,
+    "bossLevel": 21,
+    "bossId": 2040192,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 11,
+    "guardPet": [
+      2040292
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1161,
+        [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      -1,
+      -1,
+      30100
+    ]
+  },
+  {
+    "id": 3,
+    "bossLevel": 31,
+    "bossId": 2040393,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 21,
+    "guardPet": [
+      2040293,
+      2040393
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1161,
+        [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      -1,
+      -1,
+      103000
+    ]
+  },
+  {
+    "id": 4,
+    "bossLevel": 41,
+    "bossId": 2040293,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 31,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1162,
+        [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      -1,
+      -1,
+      180000
+    ]
+  },
+  {
+    "id": 5,
+    "bossLevel": 51,
+    "bossId": 2040193,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 41,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1162,
+        [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      88000,
+      -1,
+      252000
+    ]
+  },
+  {
+    "id": 6,
+    "bossLevel": 61,
+    "bossId": 2040394,
+    "bossEntourage": [
+      2040190,
+      2040290
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 51,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1162,
+        [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      128000,
+      -1,
+      364000
+    ]
+  },
+  {
+    "id": 7,
+    "bossLevel": 71,
+    "bossId": 2040594,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 61,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1163,
+        [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            8
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      170000,
+      -1,
+      483000
+    ]
+  },
+  {
+    "id": 8,
+    "bossLevel": 81,
+    "bossId": 2040696,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 71,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1163,
+        [
+          [
+            1,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      260000,
+      -1,
+      635000
+    ]
+  },
+  {
+    "id": 9,
+    "bossLevel": 91,
+    "bossId": 2040796,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 81,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1163,
+        [
+          [
+            1,
+            3
+          ],
+          [
+            7,
+            3
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      342000,
+      -1,
+      891000
+    ]
+  },
+  {
+    "id": 10,
+    "bossLevel": 101,
+    "bossId": 2040596,
+    "bossEntourage": [
+      2040290
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 91,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1164,
+        [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            8
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      413000,
+      -1,
+      1128000
+    ]
+  },
+  {
+    "id": 11,
+    "bossLevel": 111,
+    "bossId": 2040991,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 101,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1164,
+        [
+          [
+            1,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      534000,
+      -1,
+      1460000
+    ]
+  },
+  {
+    "id": 12,
+    "bossLevel": 121,
+    "bossId": 2040991,
+    "bossEntourage": [
+      2040390
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 111,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1164,
+        [
+          [
+            1,
+            3
+          ],
+          [
+            7,
+            3
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      660000,
+      -1,
+      1810000
+    ]
+  },
+  {
+    "id": 13,
+    "bossLevel": 131,
+    "bossId": 2041191,
+    "bossEntourage": [],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 121,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1165,
+        [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            8
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      845000,
+      -1,
+      2320000
+    ]
+  },
+  {
+    "id": 14,
+    "bossLevel": 141,
+    "bossId": 2041191,
+    "bossEntourage": [
+      2040190,
+      2040290
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 131,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1165,
+        [
+          [
+            1,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      1090000,
+      -1,
+      2972000
+    ]
+  },
+  {
+    "id": 15,
+    "bossLevel": 151,
+    "bossId": 2041091,
+    "bossEntourage": [
+      2040290
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 141,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1165,
+        [
+          [
+            1,
+            3
+          ],
+          [
+            7,
+            3
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      1381600,
+      -1,
+      3768000
+    ]
+  },
+  {
+    "id": 16,
+    "bossLevel": 161,
+    "bossId": 2041092,
+    "bossEntourage": [
+      2040296
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 151,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1166,
+        [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            8
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      1722600,
+      -1,
+      4698000
+    ]
+  },
+  {
+    "id": 17,
+    "bossLevel": 171,
+    "bossId": 2041093,
+    "bossEntourage": [
+      2040196
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 161,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1166,
+        [
+          [
+            1,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      2119300,
+      -1,
+      5780000
+    ]
+  },
+  {
+    "id": 18,
+    "bossLevel": 181,
+    "bossId": 2041291,
+    "bossEntourage": [
+      2040296,
+      2040196
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 171,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1166,
+        [
+          [
+            1,
+            3
+          ],
+          [
+            7,
+            3
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      2462900,
+      -1,
+      6717000
+    ]
+  },
+  {
+    "id": 19,
+    "bossLevel": 191,
+    "bossId": 2040294,
+    "bossEntourage": [
+      2040290,
+      2040390
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 181,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1167,
+        [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            8
+          ]
+        ]
+      ]
+    ],
+    "power": [
+      2806500,
+      -1,
+      7654000
+    ]
+  },
+  {
+    "id": 20,
+    "bossLevel": 201,
+    "bossId": 2040294,
+    "bossEntourage": [
+      2040290,
+      2040390
+    ],
+    "dropsBoss": [
+      60101
+    ],
+    "guardLevel": 191,
+    "guardPet": [
+      2040293,
+      2040393,
+      2040193,
+      2040593
+    ],
+    "dropsGuard": [
+      60111
+    ],
+    "stage": [
+      "petHole0",
+      1632
+    ],
+    "parts": [
+      [
+        "wudidonghuopen",
+        700,
+        32
+      ]
+    ],
+    "drop": [
+      [
+        1167,
+        [
+          [
+            1,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      ]
+    ],
+    "power": -1
+  }
+]

@@ -1,0 +1,553 @@
+[
+  {
+    "id": 1001001,
+    "ridingGroup": 1001,
+    "sort": 1001,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        710011,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900101
+    ],
+    "icon": "qishu1001001",
+    "adapt": "land",
+    "rideGroupId": 0,
+    "ridingName": "陆行·初阶骑术",
+    "ridingText": "坐骑在陆行状态额外继承角色3%的属性"
+  },
+  {
+    "id": 1001002,
+    "ridingGroup": 1001,
+    "sort": 1001,
+    "ridingLevel": 2,
+    "ridingCost": [
+      [
+        710012,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900111
+    ],
+    "icon": "qishu1001002",
+    "adapt": "land",
+    "rideGroupId": 0,
+    "ridingName": "陆行·中阶骑术",
+    "ridingText": "坐骑在陆行状态额外继承角色7%的属性",
+    "close": 1
+  },
+  {
+    "id": 1001003,
+    "ridingGroup": 1001,
+    "sort": 1001,
+    "ridingLevel": 3,
+    "ridingCost": [
+      [
+        710013,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900121
+    ],
+    "icon": "qishu1001003",
+    "adapt": "land",
+    "rideGroupId": 0,
+    "ridingName": "陆行·高阶骑术",
+    "ridingText": "坐骑在陆行状态额外继承角色12%的属性",
+    "close": 1
+  },
+  {
+    "id": 1002001,
+    "ridingGroup": 1002,
+    "sort": 1002,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        710021,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900201
+    ],
+    "icon": "qishu1002001",
+    "adapt": "sea",
+    "rideGroupId": 0,
+    "ridingName": "水行·初阶骑术",
+    "ridingText": "坐骑在水行状态额外继承角色3%的属性"
+  },
+  {
+    "id": 1002002,
+    "ridingGroup": 1002,
+    "sort": 1002,
+    "ridingLevel": 2,
+    "ridingCost": [
+      [
+        710022,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900211
+    ],
+    "icon": "qishu1002002",
+    "adapt": "sea",
+    "rideGroupId": 0,
+    "ridingName": "水行·中阶骑术",
+    "ridingText": "坐骑在水行状态额外继承角色7%的属性",
+    "close": 1
+  },
+  {
+    "id": 1002003,
+    "ridingGroup": 1002,
+    "sort": 1002,
+    "ridingLevel": 3,
+    "ridingCost": [
+      [
+        710023,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900221
+    ],
+    "icon": "qishu1002003",
+    "adapt": "sea",
+    "rideGroupId": 0,
+    "ridingName": "水行·高阶骑术",
+    "ridingText": "坐骑在水行状态额外继承角色12%的属性",
+    "close": 1
+  },
+  {
+    "id": 1003001,
+    "ridingGroup": 1003,
+    "sort": 1003,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        710031,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900301
+    ],
+    "icon": "qishu1003001",
+    "adapt": "air",
+    "rideGroupId": 0,
+    "ridingName": "飞行·初阶骑术",
+    "ridingText": "坐骑在飞行状态额外继承角色3%的属性"
+  },
+  {
+    "id": 1003002,
+    "ridingGroup": 1003,
+    "sort": 1003,
+    "ridingLevel": 2,
+    "ridingCost": [
+      [
+        710032,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900311
+    ],
+    "icon": "qishu1003002",
+    "adapt": "air",
+    "rideGroupId": 0,
+    "ridingName": "飞行·中阶骑术",
+    "ridingText": "坐骑在飞行状态额外继承角色7%的属性",
+    "close": 1
+  },
+  {
+    "id": 1003003,
+    "ridingGroup": 1003,
+    "sort": 1003,
+    "ridingLevel": 3,
+    "ridingCost": [
+      [
+        710033,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900321
+    ],
+    "icon": "qishu1003003",
+    "adapt": "air",
+    "rideGroupId": 0,
+    "ridingName": "飞行·高阶骑术",
+    "ridingText": "坐骑在飞行状态额外继承角色12%的属性",
+    "close": 1
+  },
+  {
+    "id": 2001001,
+    "ridingGroup": 2001,
+    "sort": 2001,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720011,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900401
+    ],
+    "skills": [
+      20606010511,
+      20606010801
+    ],
+    "icon": "qishu2001001",
+    "adapt": "all",
+    "rideGroupId": 20103,
+    "ridingName": "避火·骑术",
+    "ridingText": "避火魔睛兽与至尊魔睛兽战斗状态下额外继承角色8%的生命、攻击、暴击、命中。被动技能【避火祝福】威力增强。"
+  },
+  {
+    "id": 2002001,
+    "ridingGroup": 2002,
+    "sort": 2002,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720021,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900501
+    ],
+    "skills": [
+      20607010511,
+      20607010801
+    ],
+    "icon": "qishu2002001",
+    "adapt": "all",
+    "rideGroupId": 20104,
+    "ridingName": "避水·骑术",
+    "ridingText": "避水金睛兽与至尊金睛兽战斗状态下额外继承角色8%的生命、攻击、防御、闪避。被动技能【避水祝福】威力增强。"
+  },
+  {
+    "id": 2003001,
+    "ridingGroup": 2003,
+    "sort": 2003,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720031,
+        1
+      ]
+    ],
+    "changeRiding": [
+      2008001
+    ],
+    "changeCost": [
+      [
+        730001,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900601,
+      7035203
+    ],
+    "skills": [
+      20613010611
+    ],
+    "icon": "qishu2003001",
+    "adapt": "all",
+    "rideGroupId": 20120,
+    "ridingName": "赤凤·骑术",
+    "ridingText": "赤凤与赤炎凤凰战斗状态下额外继承角色8%的攻击、命中、暴击、幸运。被动技能【火爆之炎】威力增强。"
+  },
+  {
+    "id": 2004001,
+    "ridingGroup": 2004,
+    "sort": 2004,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720041,
+        1
+      ]
+    ],
+    "changeRiding": [
+      2009001
+    ],
+    "changeCost": [
+      [
+        730003,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900701
+    ],
+    "skills": [
+      20610010711
+    ],
+    "icon": "qishu2004001",
+    "adapt": "all",
+    "rideGroupId": 20107,
+    "ridingName": "年兽·骑术",
+    "ridingText": "年兽与上古年兽战斗状态下额外继承角色8%的生命、攻击、防御、韧性。被动技能【上古冰藤】威力增强。"
+  },
+  {
+    "id": 2005001,
+    "ridingGroup": 2005,
+    "sort": 2005,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720051,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900801
+    ],
+    "skills": [
+      20612021002
+    ],
+    "icon": "qishu2005001",
+    "adapt": "all",
+    "rideGroupId": 20110,
+    "ridingName": "梼杌·骑术",
+    "ridingText": "梼杌与上古梼杌战斗状态下额外继承角色8%的生命、攻击、命中、防御。被动技能【剧毒光环】威力增强。"
+  },
+  {
+    "id": 2006001,
+    "ridingGroup": 2006,
+    "sort": 2006,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720061,
+        1
+      ]
+    ],
+    "changeRiding": [
+      2007001
+    ],
+    "changeCost": [
+      [
+        730002,
+        1
+      ]
+    ],
+    "beskillId": [
+      7900901
+    ],
+    "skills": [
+      20615010611
+    ],
+    "icon": "qishu2006001",
+    "adapt": "all",
+    "rideGroupId": 20130,
+    "ridingName": "冥谛听·骑术",
+    "ridingText": "冥谛听与九幽谛听战斗状态下额外继承角色8%的攻击、命中、暴击、闪避。被动技能【辨听四方】威力增强。"
+  },
+  {
+    "id": 2007001,
+    "ridingGroup": 2007,
+    "sort": 2007,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720071,
+        1
+      ]
+    ],
+    "beskillId": [
+      7901001
+    ],
+    "skills": [
+      20616010611
+    ],
+    "icon": "qishu2007001",
+    "adapt": "all",
+    "rideGroupId": 20131,
+    "ridingName": "昭谛听·骑术",
+    "ridingText": "昭谛听与九曜谛听战斗状态下额外继承角色8%的攻击、命中、暴击、闪避。被动技能【辨听万物】威力增强。"
+  },
+  {
+    "id": 2008001,
+    "ridingGroup": 2008,
+    "sort": 2008,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720081,
+        1
+      ]
+    ],
+    "beskillId": [
+      7901101
+    ],
+    "skills": [
+      20618010611
+    ],
+    "icon": "qishu2008001",
+    "adapt": "all",
+    "rideGroupId": 20121,
+    "ridingName": "青鸾·骑术",
+    "ridingText": "青鸾与寒冰凤凰战斗状态下额外继承角色8%的生命、攻击、命中、闪避。被动技能【寒霜之气】威力增强。"
+  },
+  {
+    "id": 2009001,
+    "ridingGroup": 2009,
+    "sort": 2009,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720091,
+        1
+      ]
+    ],
+    "beskillId": [
+      7901201
+    ],
+    "skills": [
+      20626010711,
+      20626010600
+    ],
+    "icon": "qishu2009001",
+    "adapt": "all",
+    "rideGroupId": 20108,
+    "ridingName": "永冬年兽·骑术",
+    "ridingText": "永冬年兽战斗状态下额外继承角色8%的生命、攻击、防御、韧性。被动技能【创世冰藤】威力增强。"
+  },
+  {
+    "id": 2010001,
+    "ridingGroup": 2010,
+    "sort": 2010,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720101,
+        1
+      ]
+    ],
+    "beskillId": [
+      7901301
+    ],
+    "skills": [
+      20611010402
+    ],
+    "icon": "qishu2010001",
+    "adapt": "all",
+    "rideGroupId": 20109,
+    "ridingName": "汪汪·骑术",
+    "ridingText": "汪汪与超级汪战斗状态下额外继承角色8%的攻击、防御、命中、闪避。被动技能【泥土脚印】威力增强。"
+  },
+  {
+    "id": 2011001,
+    "ridingGroup": 2011,
+    "sort": 2011,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720111,
+        1
+      ]
+    ],
+    "beskillId": [
+      7901401
+    ],
+    "skills": [
+      20621010602,
+      20621010701
+    ],
+    "icon": "qishu2011001",
+    "adapt": "all",
+    "rideGroupId": 20151,
+    "ridingName": "混沌·骑术",
+    "ridingText": "混沌与噬天混沌战斗状态下额外继承角色8%的攻击、防御、暴击、闪避。被动技能【空间扭曲】增加额外效果。"
+  },
+  {
+    "id": 2012001,
+    "ridingGroup": 2012,
+    "sort": 2012,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720121,
+        1
+      ]
+    ],
+    "beskillId": [
+      7901501
+    ],
+    "skills": [
+      20628010511
+    ],
+    "icon": "qishu2012001",
+    "adapt": "all",
+    "rideGroupId": 20161,
+    "ridingName": "金毛犼·骑术",
+    "ridingText": "金毛犼与冲天神犼额外继承角色8%的生命、攻击、命中、防御。【紫金铃铛】生成的【燃烧】，【烟熏】，【黄沙】区域的持续时间延长。"
+  },
+  {
+    "id": 2013001,
+    "ridingGroup": 2013,
+    "sort": 2013,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720131,
+        1
+      ]
+    ],
+    "changeRiding": [
+      2014001
+    ],
+    "changeCost": [
+      [
+        730004,
+        1
+      ]
+    ],
+    "beskillId": [
+      7901601
+    ],
+    "skills": [
+      20629020602,
+      20629020600
+    ],
+    "icon": "qishu2013001",
+    "adapt": "all",
+    "rideGroupId": 20170,
+    "ridingName": "天禄·骑术 ",
+    "ridingText": "天禄与神翼天禄战斗状态下额外继承角色8%的生命、攻击、韧性、守护。被动技能【镇佑帝宝】增加额外效果。"
+  },
+  {
+    "id": 2014001,
+    "ridingGroup": 2014,
+    "sort": 2014,
+    "ridingLevel": 1,
+    "ridingCost": [
+      [
+        720141,
+        1
+      ]
+    ],
+    "beskillId": [
+      7901701
+    ],
+    "skills": [
+      20629030602,
+      20629030600
+    ],
+    "icon": "qishu2014001",
+    "adapt": "all",
+    "rideGroupId": 20171,
+    "ridingName": "辟邪·骑术",
+    "ridingText": "辟邪与神翼辟邪战斗状态下额外继承角色8%的生命、攻击、暴击、韧性。被动技能【纳福镇宝】增加额外效果。"
+  }
+]

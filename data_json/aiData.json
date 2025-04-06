@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "atkRange": [
+      150,
+      150
+    ],
+    "lockRange": [
+      250,
+      250
+    ],
+    "patrolDis": [
+      200,
+      400
+    ],
+    "patrolPause": [
+      0.2,
+      0.5
+    ],
+    "fllowBliknRange": [
+      1000,
+      500
+    ],
+    "fllowRange": [
+      100,
+      100
+    ]
+  },
+  {
+    "id": 2,
+    "atkRange": [
+      150,
+      150
+    ],
+    "lockRange": [
+      250,
+      250
+    ],
+    "patrolDis": [
+      200,
+      400
+    ],
+    "patrolPause": [
+      0.2,
+      0.5
+    ],
+    "fllowBliknRange": [
+      1000,
+      500
+    ],
+    "fllowRange": [
+      100,
+      100
+    ]
+  },
+  {
+    "id": 3,
+    "atkRange": [
+      150,
+      150
+    ],
+    "lockRange": [
+      250,
+      250
+    ],
+    "patrolDis": [
+      200,
+      400
+    ],
+    "patrolPause": [
+      0.2,
+      0.5
+    ],
+    "fllowBliknRange": [
+      650,
+      400
+    ],
+    "fllowRange": [
+      200,
+      100
+    ]
+  },
+  {
+    "id": 4,
+    "atkRange": [
+      150,
+      150
+    ],
+    "lockRange": [
+      250,
+      250
+    ],
+    "patrolDis": [
+      200,
+      400
+    ],
+    "patrolPause": [
+      0.2,
+      0.5
+    ],
+    "fllowBliknRange": [
+      1500,
+      650
+    ],
+    "fllowRange": [
+      200,
+      100
+    ]
+  },
+  {
+    "id": 5,
+    "atkRange": [
+      150,
+      150
+    ],
+    "lockRange": [
+      250,
+      250
+    ],
+    "patrolDis": [
+      200,
+      400
+    ],
+    "patrolPause": [
+      0.2,
+      0.5
+    ],
+    "fllowBliknRange": [
+      1200,
+      500
+    ],
+    "fllowRange": [
+      150,
+      150
+    ]
+  },
+  {
+    "id": 6,
+    "atkRange": [
+      150,
+      150
+    ],
+    "lockRange": [
+      250,
+      250
+    ],
+    "patrolDis": [
+      400,
+      200
+    ],
+    "patrolPause": [
+      0,
+      0
+    ],
+    "fllowBliknRange": [
+      1000,
+      500
+    ],
+    "fllowRange": [
+      100,
+      100
+    ]
+  },
+  {
+    "id": 7,
+    "atkRange": [
+      150,
+      150
+    ],
+    "lockRange": [
+      250,
+      250
+    ],
+    "patrolDis": [
+      400,
+      100
+    ],
+    "patrolPause": [
+      0,
+      0
+    ],
+    "fllowBliknRange": [
+      1000,
+      500
+    ],
+    "fllowRange": [
+      100,
+      100
+    ]
+  },
+  {
+    "id": 8,
+    "atkRange": [
+      150,
+      150
+    ],
+    "lockRange": [
+      250,
+      250
+    ],
+    "patrolDis": [
+      100,
+      400
+    ],
+    "patrolPause": [
+      0,
+      0
+    ],
+    "fllowBliknRange": [
+      1000,
+      500
+    ],
+    "fllowRange": [
+      100,
+      100
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "timeQTE": 10,
+    "long": 546,
+    "catchRange": 200,
+    "catchAdd": [
+      50,
+      150
+    ],
+    "struggleTime": [
+      1,
+      2
+    ],
+    "struggleAdd": [
+      0,
+      200
+    ],
+    "numQTE": 1
+  },
+  {
+    "id": 2,
+    "timeQTE": 7,
+    "long": 546,
+    "catchRange": 100,
+    "catchAdd": [
+      50,
+      150
+    ],
+    "struggleTime": [
+      0.5,
+      2
+    ],
+    "struggleAdd": [
+      0,
+      150
+    ],
+    "numQTE": 1
+  },
+  {
+    "id": 3,
+    "timeQTE": 4,
+    "long": 546,
+    "catchRange": 50,
+    "catchAdd": [
+      50,
+      150
+    ],
+    "struggleTime": [
+      0.1,
+      1.5
+    ],
+    "struggleAdd": [
+      0,
+      100
+    ],
+    "numQTE": 1
+  },
+  {
+    "id": 4,
+    "timeQTE": 10,
+    "long": 546,
+    "catchRange": 273,
+    "catchAdd": [
+      75,
+      75
+    ],
+    "struggleTime": [
+      1.5,
+      1.5
+    ],
+    "struggleAdd": [
+      75,
+      75
+    ],
+    "numQTE": 1
+  }
+]

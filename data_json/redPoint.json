@@ -1,0 +1,1006 @@
+[
+  {
+    "id": 110000,
+    "type": "system",
+    "group": 1,
+    "route": [
+      "RoleInfo"
+    ]
+  },
+  {
+    "id": 110001,
+    "type": "system",
+    "group": 1,
+    "route": [
+      "starCore",
+      "starCoreById"
+    ]
+  },
+  {
+    "id": 110002,
+    "type": "system",
+    "group": 1,
+    "route": [
+      "riding"
+    ]
+  },
+  {
+    "id": 110003,
+    "type": "system",
+    "group": 1,
+    "route": [
+      "Title",
+      "title",
+      "TitleActive",
+      "titleUpgrad",
+      "TitleShowType",
+      "CRBTitle"
+    ]
+  },
+  {
+    "id": 110004,
+    "type": "system",
+    "group": 1,
+    "route": [
+      "avatarLook",
+      "UnlockAvatar"
+    ]
+  },
+  {
+    "id": 110005,
+    "type": "system",
+    "group": 1,
+    "route": []
+  },
+  {
+    "id": 110010,
+    "type": "system",
+    "group": 2,
+    "route": [
+      "dz"
+    ]
+  },
+  {
+    "id": 110011,
+    "type": "system",
+    "group": 2,
+    "route": [
+      "EquipUpgradeAll",
+      "EquipUpgrade"
+    ]
+  },
+  {
+    "id": 110012,
+    "type": "system",
+    "group": 2,
+    "route": [
+      "EquipInlay",
+      "InlayStone"
+    ]
+  },
+  {
+    "id": 110013,
+    "type": "system",
+    "group": 2,
+    "route": [
+      "EquipRecast"
+    ]
+  },
+  {
+    "id": 110014,
+    "type": "system",
+    "group": 2,
+    "route": [
+      "EquipMake",
+      "EquipMakeOne"
+    ]
+  },
+  {
+    "id": 110015,
+    "type": "system",
+    "group": 2,
+    "route": [
+      "EquipSmelt"
+    ]
+  },
+  {
+    "id": 110021,
+    "type": "system",
+    "group": 3,
+    "route": [
+      "skill",
+      "PassiveSkill",
+      "SkillCondition",
+      "SkillAwake",
+      "SkillUnlock",
+      "initiativeSkill",
+      "PassiveSkillUnlock",
+      "PassiveSkillUpgrade",
+      "skillExtra"
+    ]
+  },
+  {
+    "id": 110030,
+    "type": "system",
+    "group": 4,
+    "route": [
+      "xf"
+    ]
+  },
+  {
+    "id": 110031,
+    "type": "system",
+    "group": 4,
+    "route": [
+      "UpgradeXFByLv",
+      "xl"
+    ]
+  },
+  {
+    "id": 110032,
+    "type": "system",
+    "group": 4,
+    "route": [
+      "trainBody",
+      "CRBTrainLevel"
+    ]
+  },
+  {
+    "id": 110033,
+    "type": "system",
+    "group": 4,
+    "route": [
+      "meridians",
+      "meridiansUpLevel",
+      "meridiansInlayPill"
+    ]
+  },
+  {
+    "id": 110040,
+    "type": "system",
+    "group": 5,
+    "route": [
+      "fb"
+    ]
+  },
+  {
+    "id": 110041,
+    "type": "system",
+    "group": 5,
+    "route": [
+      "magicWeapon",
+      "UpgradeMagicWeaponById",
+      "HeChenMagicWeapon",
+      "CRBmagicWeapon",
+      "magicDisplayOne"
+    ]
+  },
+  {
+    "id": 110042,
+    "type": "system",
+    "group": 5,
+    "route": [
+      "godWeapon",
+      "godWeaponActive",
+      "godWeaponUplv",
+      "godWeaponUpRank",
+      "godWeaponDisplayOne",
+      "CRBGodWeapon"
+    ]
+  },
+  {
+    "id": 110043,
+    "type": "system",
+    "group": 5,
+    "route": []
+  },
+  {
+    "id": 110050,
+    "type": "system",
+    "group": 6,
+    "route": [
+      "spiritBeast",
+      "checkMonsterCanBetter",
+      "MonsterEvolution",
+      "MonsterLvup",
+      "MonsterEquip",
+      "MonsterDisplayShow",
+      "ExpShareByType",
+      "MonsterBetter"
+    ]
+  },
+  {
+    "id": 110051,
+    "type": "system",
+    "group": 6,
+    "route": [
+      "pet",
+      "CRBPet",
+      "petInteractive",
+      "petAlienation",
+      "petVariation",
+      "petEquipRecast"
+    ]
+  },
+  {
+    "id": 110052,
+    "type": "system",
+    "group": 6,
+    "route": [
+      "ride",
+      "rideAlienation",
+      "rideVariation",
+      "rideMegaEvolution",
+      "rideEquipDz",
+      "rideEquipRecast",
+      "rideRiding"
+    ]
+  },
+  {
+    "id": 110053,
+    "type": "system",
+    "group": 6,
+    "route": [
+      "servant",
+      "servantOne"
+    ]
+  },
+  {
+    "id": 110060,
+    "type": "system",
+    "group": 7,
+    "route": [
+      "wing",
+      "wingInfo"
+    ]
+  },
+  {
+    "id": 110061,
+    "type": "system",
+    "group": 7,
+    "route": [
+      "oneWingRed",
+      "WingCanUnlockById",
+      "WingCanUpgrade",
+      "WingSkillCanUnlock",
+      "CRBWing"
+    ]
+  },
+  {
+    "id": 110062,
+    "type": "system",
+    "group": 7,
+    "route": [
+      "feather"
+    ]
+  },
+  {
+    "id": 110070,
+    "type": "system",
+    "group": 8,
+    "route": [
+      "social"
+    ]
+  },
+  {
+    "id": 110071,
+    "type": "system",
+    "group": 8,
+    "route": [
+      "friend",
+      "FriendIsRed",
+      "FriendByType1",
+      "FriendByType2",
+      "CRBFriend",
+      "goodFriend",
+      "goodFriendTask",
+      "CRBgoodFriend"
+    ]
+  },
+  {
+    "id": 110072,
+    "type": "system",
+    "group": 8,
+    "route": [
+      "mail",
+      "MailIsRed"
+    ]
+  },
+  {
+    "id": 110073,
+    "type": "system",
+    "group": 8,
+    "route": [
+      "league",
+      "leagueInfo",
+      "leagueWork",
+      "leagueDonation",
+      "leagueDonationByType",
+      "getPreBuffRedIsShow",
+      "leagueWorkTask",
+      "leagueBossRed",
+      "leagueTask",
+      "leagueApply",
+      "leagueBoss",
+      "leagueWuliangshanRed",
+      "leagueBossReward",
+      "leagueBuff"
+    ]
+  },
+  {
+    "id": 110074,
+    "type": "system",
+    "group": 8,
+    "route": [
+      "teacherStudent",
+      "redTaskTeacher",
+      "redTaskStudent",
+      "CRBTeacherStudent"
+    ]
+  },
+  {
+    "id": 110075,
+    "type": "system",
+    "group": 8,
+    "route": [
+      "callGod"
+    ]
+  },
+  {
+    "id": 110080,
+    "type": "system",
+    "group": 9,
+    "route": [
+      "collection",
+      "worldEvents",
+      "honor",
+      "luggage"
+    ]
+  },
+  {
+    "id": 110081,
+    "type": "system",
+    "group": 9,
+    "route": [
+      "achievement",
+      "achievementReward",
+      "achievementTask"
+    ]
+  },
+  {
+    "id": 110082,
+    "type": "system",
+    "group": 9,
+    "route": [
+      "npcGain",
+      "CRBNpcGain"
+    ]
+  },
+  {
+    "id": 110091,
+    "type": "system",
+    "group": 10,
+    "route": [
+      "task",
+      "TaskByType"
+    ]
+  },
+  {
+    "id": 110101,
+    "type": "system",
+    "group": 11,
+    "route": [
+      "FuncNotice"
+    ]
+  },
+  {
+    "id": 110111,
+    "type": "system",
+    "group": 12,
+    "route": [
+      "active",
+      "ActiveReceive",
+      "weekSignIn",
+      "CRBweeklyActivities"
+    ]
+  },
+  {
+    "id": 110121,
+    "type": "system",
+    "group": 13,
+    "route": [
+      "shop",
+      "CRBShopCheck",
+      "shopZhiGou",
+      "shopRecommend"
+    ]
+  },
+  {
+    "id": 110122,
+    "type": "system",
+    "group": 14,
+    "route": [
+      "exchangeShop",
+      "exchangeShop_tiaozhan",
+      "exchangeShop_huoyue"
+    ]
+  },
+  {
+    "id": 110131,
+    "type": "system",
+    "group": 19,
+    "route": [
+      "VipGift"
+    ]
+  },
+  {
+    "id": 110141,
+    "type": "system",
+    "group": 20,
+    "route": [
+      "zmTrip"
+    ]
+  },
+  {
+    "id": 110151,
+    "type": "system",
+    "group": 21,
+    "route": [
+      "CRBTeam"
+    ]
+  },
+  {
+    "id": 110161,
+    "type": "system",
+    "group": 22,
+    "route": [
+      "CRBgodCardAct",
+      "CRBPetMatingSuss",
+      "CRBTeam",
+      "CRBAnniversaryCard",
+      "CRBFriendGift",
+      "CRBTeamApply",
+      "CRBqcInvite",
+      "CRBarenaProtect",
+      "CRBarenaProtectPet",
+      "CRBstudentApply",
+      "CRBteacherApply",
+      "CRBhotUpdateTips",
+      "FriendApply",
+      "CRBWanshengGift",
+      "CRBtownAutoFight",
+      "autoFightCanGetReward"
+    ]
+  },
+  {
+    "id": 110171,
+    "type": "system",
+    "group": 23,
+    "noShow": 1,
+    "route": [
+      "timeBoat"
+    ]
+  },
+  {
+    "id": 110172,
+    "type": "system",
+    "group": 24,
+    "route": [
+      "surpriseBox"
+    ]
+  },
+  {
+    "id": 120000,
+    "type": "stage",
+    "group": 1201,
+    "route": [
+      "stageChallenge"
+    ]
+  },
+  {
+    "id": 120001,
+    "type": "stage",
+    "group": 1201,
+    "route": [
+      "sacredTowerRed"
+    ]
+  },
+  {
+    "id": 120002,
+    "type": "stage",
+    "group": 1201,
+    "route": [
+      "arhatRoomRed"
+    ]
+  },
+  {
+    "id": 120003,
+    "type": "stage",
+    "group": 1201,
+    "route": [
+      "douShuaiGong"
+    ]
+  },
+  {
+    "id": 120004,
+    "type": "stage",
+    "group": 1201,
+    "route": [
+      "starHavoc",
+      "getStarHavocCruiseReward",
+      "getStarHavocTask",
+      "getStarHavocRecover"
+    ]
+  },
+  {
+    "id": 120010,
+    "type": "stage",
+    "group": 1202,
+    "route": [
+      "petTrial"
+    ]
+  },
+  {
+    "id": 120011,
+    "type": "stage",
+    "group": 1202,
+    "route": [
+      "PetTower"
+    ]
+  },
+  {
+    "id": 120012,
+    "type": "stage",
+    "group": 1202,
+    "route": [
+      "PetHole",
+      "PetHoleFightHero",
+      "CRBpetHole"
+    ]
+  },
+  {
+    "id": 120020,
+    "type": "stage",
+    "group": 1203,
+    "route": [
+      "arena",
+      "CRBarena"
+    ]
+  },
+  {
+    "id": 120021,
+    "type": "stage",
+    "group": 1203,
+    "route": [
+      "userArena",
+      "userArenaReward"
+    ]
+  },
+  {
+    "id": 120022,
+    "type": "stage",
+    "group": 1203,
+    "route": [
+      "petArena",
+      "petRankReward"
+    ]
+  },
+  {
+    "id": 120023,
+    "type": "stage",
+    "group": 1204,
+    "route": [
+      "hunt",
+      "huntOneBossRed",
+      "huntBossRed",
+      "huntBossComSkillCanUnlock",
+      "huntRankReward",
+      "plunderRankReward",
+      "devilRankReward",
+      "huntSeasonReward",
+      "allBossSkinCanUnlock",
+      "bossSkinCanUnlock",
+      "CRBhuntBoss",
+      "huntRankReward_seasonReward",
+      "huntRankReward_plunderReward",
+      "huntRankReward_devilReward"
+    ]
+  },
+  {
+    "id": 130001,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "firstrecharge",
+      "CRBFirstRecharge"
+    ]
+  },
+  {
+    "id": 130002,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "sevenLogin",
+      "sevenLoginByInx",
+      "sevenLogin2"
+    ]
+  },
+  {
+    "id": 130003,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "noviceExpPanel"
+    ]
+  },
+  {
+    "id": 130004,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "feedback",
+      "ActivityOperable",
+      "ActivityCheck1",
+      "ActivityCheck2",
+      "InviteFriend",
+      "BindAccout",
+      "CRBOperationActivity"
+    ]
+  },
+  {
+    "id": 130005,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "wealCard",
+      "wealCard2"
+    ]
+  },
+  {
+    "id": 130006,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "solarTerms"
+    ]
+  },
+  {
+    "id": 130007,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "oldPlayerBack",
+      "playerBackGift",
+      "playerBackGiftById"
+    ]
+  },
+  {
+    "id": 130008,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "growthFund"
+    ]
+  },
+  {
+    "id": 130009,
+    "type": "activity",
+    "group": 1301,
+    "route": []
+  },
+  {
+    "id": 130010,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "CRBMobilePhoneBind"
+    ]
+  },
+  {
+    "id": 130011,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "zhanshen"
+    ]
+  },
+  {
+    "id": 130012,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "antiIndulgence"
+    ]
+  },
+  {
+    "id": 130013,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "worldBoss"
+    ]
+  },
+  {
+    "id": 130014,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "noviceGift",
+      "noviceGiftByDayTask"
+    ]
+  },
+  {
+    "id": 130015,
+    "type": "activity",
+    "group": 1301,
+    "route": [
+      "sanJieFuZe"
+    ]
+  },
+  {
+    "id": 140001,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "addUpRecharge",
+      "rechargeActivity",
+      "rechargeActivityType500001",
+      "rechargeActivityType500002",
+      "rechargeActivityType500003",
+      "rechargeActivityType500004",
+      "rechargeActivityType500005",
+      "rechargeActivityType500006",
+      "rechargeActivityType500007",
+      "CRBRechargeActivity"
+    ]
+  },
+  {
+    "id": 140002,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "godGift0",
+      "godGift1",
+      "CRBGodGift",
+      "godGift2",
+      "godGift3"
+    ]
+  },
+  {
+    "id": 140003,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "giftGiving",
+      "redPacket",
+      "plantingFlatpeach",
+      "aprilFools",
+      "anniversaryLogin",
+      "CRBAnniversaryLogin",
+      "onlineActivities",
+      "thanksgiving",
+      "signMillionSoul",
+      "buyGiftReward",
+      "collectGem",
+      "collectGemTaskRed",
+      "lanternRiddles",
+      "lanternDayReward",
+      "godCardAct",
+      "CRBgodCardAct",
+      "anniversaryCollect"
+    ]
+  },
+  {
+    "id": 140004,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "petChampion",
+      "CRBPetChampion"
+    ]
+  },
+  {
+    "id": 140005,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "luandou"
+    ]
+  },
+  {
+    "id": 140006,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "ActivityRank"
+    ]
+  },
+  {
+    "id": 140007,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "skyWarRankReward",
+      "skyWarTask",
+      "heavenWar"
+    ]
+  },
+  {
+    "id": 140008,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "eightDaysSignIn0",
+      "eightDaysSignIn1",
+      "CRBEightDaysSignIn"
+    ]
+  },
+  {
+    "id": 140010,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "chongyanghuodong",
+      "challengeGM",
+      "duanwu",
+      "valentineActivity",
+      "zhongyuanjie",
+      "zhuanji001",
+      "zhuanji002",
+      "zhuanji003",
+      "zhuanji004",
+      "zhuanji005",
+      "zhuanji006",
+      "zhuanji007",
+      "zhuanji008",
+      "zhuanji009",
+      "zhuanji010",
+      "zhuanji011",
+      "zhuanji012",
+      "zhuanji013",
+      "zhuanji014",
+      "zhuanji015",
+      "zhuanji016",
+      "zhuanji017",
+      "zhuanji018",
+      "zhuanji019",
+      "zhuanji020",
+      "zhuanji021",
+      "zhuanji022",
+      "zhuanji023",
+      "zhuanji024",
+      "zhuanji025",
+      "zhuanji026",
+      "zhuanji027",
+      "zhuanji028",
+      "zhuanji029",
+      "zhuanji030",
+      "zhongqiuhuodong",
+      "zhongqiuDoMake",
+      "yiwen",
+      "saveWW",
+      "shejian",
+      "hitHamster",
+      "zmAdventure",
+      "peachBanquet"
+    ]
+  },
+  {
+    "id": 140011,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "integralDraw",
+      "greenPacket",
+      "tenYearCost"
+    ]
+  },
+  {
+    "id": 140012,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "mysteriousActivities",
+      "myactByData"
+    ]
+  },
+  {
+    "id": 140013,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "quzhunianshou"
+    ]
+  },
+  {
+    "id": 140014,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "worldCup"
+    ]
+  },
+  {
+    "id": 140015,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "zmWing",
+      "zmWingTask",
+      "zmWingGaCha"
+    ]
+  },
+  {
+    "id": 140016,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "xianmo"
+    ]
+  },
+  {
+    "id": 140017,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "demonizedForest"
+    ]
+  },
+  {
+    "id": 140018,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "thanksShop",
+      "thanksShopOne"
+    ]
+  },
+  {
+    "id": 140019,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "caveHunting"
+    ]
+  },
+  {
+    "id": 140020,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "seaFishing"
+    ]
+  },
+  {
+    "id": 140021,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "operation_xinChun_update_red"
+    ]
+  },
+  {
+    "id": 140022,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "wishingTree"
+    ]
+  },
+  {
+    "id": 140023,
+    "type": "activity",
+    "group": 1401,
+    "route": [
+      "surpriseAndFright"
+    ]
+  },
+  {
+    "id": 150001,
+    "type": "activity",
+    "group": 1501,
+    "route": [
+      "activities"
+    ]
+  }
+]

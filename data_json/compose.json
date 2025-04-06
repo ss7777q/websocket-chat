@@ -1,0 +1,5181 @@
+[
+  {
+    "id": 1025,
+    "name": "昆仑神石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        1040,
+        20
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3353,
+    "name": "漏气的紫气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3350,
+        1
+      ],
+      [
+        3352,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3354,
+    "name": "漏气的绿气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3352,
+        1
+      ],
+      [
+        3351,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3355,
+    "name": "漏气的橙气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3350,
+        1
+      ],
+      [
+        3351,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3332,
+    "name": "红色气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3350,
+        1
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        3,
+        1200
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3334,
+    "name": "蓝色气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3352,
+        1
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        3,
+        1200
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3333,
+    "name": "黄色气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3351,
+        1
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        3,
+        1200
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3335,
+    "name": "紫色气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3353,
+        1
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        3,
+        2400
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3337,
+    "name": "橙色气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3355,
+        1
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        3,
+        2400
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3336,
+    "name": "绿色气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3354,
+        1
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        3,
+        2400
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3356,
+    "name": "漏气的幻彩气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3350,
+        1
+      ],
+      [
+        3351,
+        1
+      ],
+      [
+        3352,
+        1
+      ],
+      [
+        3353,
+        1
+      ],
+      [
+        3354,
+        1
+      ],
+      [
+        3355,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3338,
+    "name": "幻彩气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3356,
+        1
+      ],
+      [
+        3358,
+        2
+      ],
+      [
+        3,
+        10800
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 3339,
+    "name": "炫彩气球",
+    "type": 2,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        3338,
+        1
+      ],
+      [
+        3359,
+        1
+      ],
+      [
+        3,
+        10800
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4100,
+    "name": "山鬼之魂",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4000,
+        30
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4101,
+    "name": "刑天之魂",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4000,
+        30
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4102,
+    "name": "夸父之魂",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4000,
+        40
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4106,
+    "name": "逄蒙之魂",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4000,
+        40
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4151,
+    "name": "刑天魔首",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4101,
+        240
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4152,
+    "name": "山神面具",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4100,
+        240
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4153,
+    "name": "夸父魔面",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4102,
+        320
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4154,
+    "name": "天帝之琴",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4105,
+        320
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4155,
+    "name": "幽冥灵灯",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4104,
+        320
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4156,
+    "name": "猎魔之箭",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4106,
+        320
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4157,
+    "name": "山泽之杖",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4107,
+        320
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4158,
+    "name": "骄虫之刺",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4108,
+        320
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4159,
+    "name": "后羿神箭",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4103,
+        320
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4160,
+    "name": "沧海填石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4109,
+        320
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4305,
+    "name": "天神像",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4307,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4306,
+    "name": "天魔像",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4308,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4406,
+    "name": "生辰快乐-表情",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4409,
+        3
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4412,
+    "name": "砸蛋糕-表情",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4411,
+        3
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 4414,
+    "name": "哈哈大笑-表情",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        4413,
+        3
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 201093,
+    "name": "英雄披风",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        201094,
+        30
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 501001,
+    "name": "燕之翼",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        503001,
+        10
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 501082,
+    "name": "2阶燕之翼",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        503002,
+        10
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 502001,
+    "name": "雪鸟之羽",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        502801,
+        10
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1001002,
+    "name": "攻击宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1001001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1001003,
+    "name": "攻击宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1001002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1001004,
+    "name": "攻击宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1001003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1001005,
+    "name": "攻击宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1001004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1001006,
+    "name": "攻击宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1001005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1001007,
+    "name": "攻击宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1001006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1001008,
+    "name": "攻击宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1001007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1001009,
+    "name": "攻击宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1001008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1002002,
+    "name": "防御宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1002001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1002003,
+    "name": "防御宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1002002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1002004,
+    "name": "防御宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1002003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1002005,
+    "name": "防御宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1002004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1002006,
+    "name": "防御宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1002005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1002007,
+    "name": "防御宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1002006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1002008,
+    "name": "防御宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1002007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1002009,
+    "name": "防御宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1002008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1003002,
+    "name": "生命宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1003001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1003003,
+    "name": "生命宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1003002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1003004,
+    "name": "生命宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1003003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1003005,
+    "name": "生命宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1003004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1003006,
+    "name": "生命宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1003005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1003007,
+    "name": "生命宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1003006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1003008,
+    "name": "生命宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1003007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1003009,
+    "name": "生命宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1003008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1004002,
+    "name": "回血宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1004001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1004003,
+    "name": "回血宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1004002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1004004,
+    "name": "回血宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1004003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1004005,
+    "name": "回血宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1004004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1004006,
+    "name": "回血宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1004005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1004007,
+    "name": "回血宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1004006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1004008,
+    "name": "回血宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1004007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1004009,
+    "name": "回血宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1004008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1005002,
+    "name": "魔力宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1005001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1005003,
+    "name": "魔力宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1005002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1005004,
+    "name": "魔力宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1005003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1005005,
+    "name": "魔力宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1005004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1005006,
+    "name": "魔力宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1005005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1005007,
+    "name": "魔力宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1005006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1005008,
+    "name": "魔力宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1005007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1005009,
+    "name": "魔力宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1005008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1006002,
+    "name": "回魔宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1006001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1006003,
+    "name": "回魔宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1006002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1006004,
+    "name": "回魔宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1006003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1006005,
+    "name": "回魔宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1006004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1006006,
+    "name": "回魔宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1006005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1006007,
+    "name": "回魔宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1006006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1006008,
+    "name": "回魔宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1006007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1006009,
+    "name": "回魔宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1006008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1007002,
+    "name": "命中宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1007001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1007003,
+    "name": "命中宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1007002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1007004,
+    "name": "命中宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1007003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1007005,
+    "name": "命中宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1007004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1007006,
+    "name": "命中宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1007005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1007007,
+    "name": "命中宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1007006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1007008,
+    "name": "命中宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1007007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1007009,
+    "name": "命中宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1007008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1008002,
+    "name": "闪避宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1008001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1008003,
+    "name": "闪避宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1008002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1008004,
+    "name": "闪避宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1008003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1008005,
+    "name": "闪避宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1008004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1008006,
+    "name": "闪避宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1008005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1008007,
+    "name": "闪避宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1008006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1008008,
+    "name": "闪避宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1008007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1008009,
+    "name": "闪避宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1008008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1009002,
+    "name": "暴击宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1009001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1009003,
+    "name": "暴击宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1009002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1009004,
+    "name": "暴击宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1009003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1009005,
+    "name": "暴击宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1009004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1009006,
+    "name": "暴击宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1009005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1009007,
+    "name": "暴击宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1009006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1009008,
+    "name": "暴击宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1009007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1009009,
+    "name": "暴击宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1009008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1010002,
+    "name": "韧性宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1010001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1010003,
+    "name": "韧性宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1010002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1010004,
+    "name": "韧性宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1010003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1010005,
+    "name": "韧性宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1010004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1010006,
+    "name": "韧性宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1010005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1010007,
+    "name": "韧性宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1010006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1010008,
+    "name": "韧性宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1010007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1010009,
+    "name": "韧性宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1010008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1011002,
+    "name": "幸运宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1011001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1011003,
+    "name": "幸运宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1011002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1011004,
+    "name": "幸运宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1011003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1011005,
+    "name": "幸运宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1011004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1011006,
+    "name": "幸运宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1011005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1011007,
+    "name": "幸运宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1011006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1011008,
+    "name": "幸运宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1011007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1011009,
+    "name": "幸运宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1011008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1012002,
+    "name": "守护宝石Lv.2",
+    "type": 1,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 2,
+    "cost": [
+      [
+        1012001,
+        3
+      ],
+      [
+        3,
+        100
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1012003,
+    "name": "守护宝石Lv.3",
+    "type": 1,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 10,
+    "cost": [
+      [
+        1012002,
+        3
+      ],
+      [
+        3,
+        880
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1012004,
+    "name": "守护宝石Lv.4",
+    "type": 1,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 28,
+    "cost": [
+      [
+        1012003,
+        3
+      ],
+      [
+        3,
+        7000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1012005,
+    "name": "守护宝石Lv.5",
+    "type": 1,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 40,
+    "cost": [
+      [
+        1012004,
+        3
+      ],
+      [
+        3,
+        25000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1012006,
+    "name": "守护宝石Lv.6",
+    "type": 1,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        1012005,
+        3
+      ],
+      [
+        3,
+        70000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1012007,
+    "name": "守护宝石Lv.7",
+    "type": 1,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        1012006,
+        3
+      ],
+      [
+        3,
+        180000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1012008,
+    "name": "守护宝石Lv.8",
+    "type": 1,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1012007,
+        3
+      ],
+      [
+        3,
+        450000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1012009,
+    "name": "守护宝石Lv.9",
+    "type": 1,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 175,
+    "cost": [
+      [
+        1012008,
+        3
+      ],
+      [
+        3,
+        720000
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1101007,
+    "name": "7级攻击精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1001007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1101008,
+    "name": "8级攻击精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1001008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1101009,
+    "name": "9级攻击精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1001009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1102007,
+    "name": "7级防御精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1002007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1102008,
+    "name": "8级防御精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1002008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1102009,
+    "name": "9级防御精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1002009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1103007,
+    "name": "7级生命精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1003007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1103008,
+    "name": "8级生命精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1003008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1103009,
+    "name": "9级生命精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1003009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1104007,
+    "name": "7级回血精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1004007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1104008,
+    "name": "8级回血精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1004008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1104009,
+    "name": "9级回血精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1004009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1105007,
+    "name": "7级魔法精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1005007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1105008,
+    "name": "8级魔法精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1005008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1105009,
+    "name": "9级魔法精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1005009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1106007,
+    "name": "7级回魔精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1006007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1106008,
+    "name": "8级回魔精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1006008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1106009,
+    "name": "9级回魔精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1006009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1107007,
+    "name": "7级命中精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1007007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1107008,
+    "name": "8级命中精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1007008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1107009,
+    "name": "9级命中精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1007009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1108007,
+    "name": "7级闪避精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1008007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1108008,
+    "name": "8级闪避精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1008008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1108009,
+    "name": "9级闪避精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1008009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1109007,
+    "name": "7级暴击精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1009007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1109008,
+    "name": "8级暴击精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1009008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1109009,
+    "name": "9级暴击精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1009009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1110007,
+    "name": "7级韧性精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1010007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1110008,
+    "name": "8级韧性精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1010008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1110009,
+    "name": "9级韧性精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1010009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1111007,
+    "name": "7级幸运精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1011007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1111008,
+    "name": "8级幸运精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1011008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1111009,
+    "name": "9级幸运精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1011009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1112007,
+    "name": "7级守护精练宝石",
+    "type": 101,
+    "subType": 7,
+    "unlock": 1,
+    "unlockData": 130,
+    "cost": [
+      [
+        1012007,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1112008,
+    "name": "8级守护精练宝石",
+    "type": 101,
+    "subType": 8,
+    "unlock": 1,
+    "unlockData": 160,
+    "cost": [
+      [
+        1012008,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 1112009,
+    "name": "9级守护精练宝石",
+    "type": 101,
+    "subType": 9,
+    "unlock": 1,
+    "unlockData": 200,
+    "cost": [
+      [
+        1012009,
+        2
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 2100105,
+    "name": "圣眼灵魄",
+    "type": 5,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 50,
+    "cost": [
+      [
+        2100104,
+        1
+      ],
+      [
+        2100104,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 2100205,
+    "name": "魅闪灵魄",
+    "type": 5,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 50,
+    "cost": [
+      [
+        2100204,
+        1
+      ],
+      [
+        2100204,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 2100305,
+    "name": "幻暴灵魄",
+    "type": 5,
+    "subType": 3,
+    "unlock": 1,
+    "unlockData": 50,
+    "cost": [
+      [
+        2100304,
+        1
+      ],
+      [
+        2100304,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 2100405,
+    "name": "坚韧灵魄",
+    "type": 5,
+    "subType": 4,
+    "unlock": 1,
+    "unlockData": 50,
+    "cost": [
+      [
+        2100404,
+        1
+      ],
+      [
+        2100404,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 2100505,
+    "name": "洪福灵魄",
+    "type": 5,
+    "subType": 5,
+    "unlock": 1,
+    "unlockData": 50,
+    "cost": [
+      [
+        2100504,
+        1
+      ],
+      [
+        2100504,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 2100605,
+    "name": "守御灵魄",
+    "type": 5,
+    "subType": 6,
+    "unlock": 1,
+    "unlockData": 50,
+    "cost": [
+      [
+        2100604,
+        1
+      ],
+      [
+        2100604,
+        1
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 8000982,
+    "name": "苍龙戒",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        3365,
+        30
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190050104,
+    "name": "极光雷石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190050105,
+        180
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190050106,
+    "name": "幽冥净水",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190050107,
+        180
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190050108,
+    "name": "暗月环刃",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190050109,
+        180
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190050110,
+    "name": "砂金蛇首",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190050111,
+        180
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000001,
+    "name": "困敦神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000101,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000002,
+    "name": "赤奋神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000102,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000003,
+    "name": "摄提神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000103,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000004,
+    "name": "单阏神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000104,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000005,
+    "name": "执徐神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000105,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000006,
+    "name": "大荒神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000106,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000007,
+    "name": "敦牂神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000107,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000008,
+    "name": "协洽神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000108,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000009,
+    "name": "涒滩神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000109,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000010,
+    "name": "作噩神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000110,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000011,
+    "name": "阉茂神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000111,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 133000012,
+    "name": "渊献神火",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        133000112,
+        5
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160605401,
+    "name": "松针茶",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605101,
+        160605101,
+        160605101
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160605501,
+    "name": "苦尽甘来",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605101,
+        160605101,
+        160605201
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160605601,
+    "name": "清凉饮（针）",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605101,
+        160605101,
+        160605301
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160605701,
+    "name": "清凉饮（果）",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605101,
+        160605201,
+        160605201
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160605801,
+    "name": "岁寒三友",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605101,
+        160605201,
+        160605301
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160605901,
+    "name": "松竹辉映",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605101,
+        160605301,
+        160605301
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160606001,
+    "name": "球果茶",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605201,
+        160605201,
+        160605201
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160606101,
+    "name": "遥青点翠",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605201,
+        160605201,
+        160605301
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160606201,
+    "name": "清凉饮（叶）",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605201,
+        160605301,
+        160605301
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 160606301,
+    "name": "竹叶茶",
+    "type": 7,
+    "subType": 1,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        160605301,
+        160605301,
+        160605301
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190010002,
+    "name": "2星灵兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190010102,
+        4
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190010003,
+    "name": "3星灵兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190010103,
+        10
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190010004,
+    "name": "4星灵兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190010104,
+        14
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190010005,
+    "name": "5星灵兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190010105,
+        22
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190010006,
+    "name": "6星灵兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190010106,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190010007,
+    "name": "7星灵兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190010107,
+        35
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190020002,
+    "name": "2星仙兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190020102,
+        4
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190020003,
+    "name": "3星仙兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190020103,
+        11
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190020004,
+    "name": "4星仙兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190020104,
+        16
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190020005,
+    "name": "5星仙兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190020105,
+        24
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190020006,
+    "name": "6星仙兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190020106,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190020007,
+    "name": "7星仙兽转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190020107,
+        38
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190040003,
+    "name": "幻心石·兔",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190040004,
+        15
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190040006,
+    "name": "幻心石·雪",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190040007,
+        15
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190070002,
+    "name": "2星神话转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190070102,
+        4
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190070003,
+    "name": "3星神话转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190070103,
+        12
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190070004,
+    "name": "4星神话转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190070104,
+        17
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190070005,
+    "name": "5星神话转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190070105,
+        26
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190070006,
+    "name": "6星神话转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190070106,
+        39
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 190070007,
+    "name": "7星神话转生石",
+    "type": 2,
+    "subType": 2,
+    "unlock": 1,
+    "unlockData": 1,
+    "cost": [
+      [
+        190070107,
+        42
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200111401,
+    "name": "天道幡",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000015,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200112401,
+    "name": "地道幡",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000015,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200113401,
+    "name": "人道幡",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000015,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200114401,
+    "name": "雷鸣剑",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000015,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200121401,
+    "name": "秦完主魂·刚",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000016,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200122401,
+    "name": "秦完生魂·刚",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000016,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200123401,
+    "name": "秦完觉魂·刚",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000016,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200124401,
+    "name": "秦完主魂·柔",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000016,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200125401,
+    "name": "秦完生魂·柔",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000016,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200126401,
+    "name": "秦完觉魂·柔",
+    "type": 6,
+    "subType": 10001,
+    "unlock": 1,
+    "unlockData": 70,
+    "cost": [
+      [
+        200000016,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200211401,
+    "name": "赤焰剑",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000025,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200212401,
+    "name": "烈炎石",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000025,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200213401,
+    "name": "灵火法冠",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000025,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200214401,
+    "name": "炽烈镜",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000025,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200221401,
+    "name": "赵江主魂·刚",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000026,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200222401,
+    "name": "赵江生魂·刚",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000026,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200223401,
+    "name": "赵江觉魂·刚",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000026,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200224401,
+    "name": "赵江主魂·柔",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000026,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200225401,
+    "name": "赵江生魂·柔",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000026,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200226401,
+    "name": "赵江觉魂·柔",
+    "type": 6,
+    "subType": 10002,
+    "unlock": 1,
+    "unlockData": 80,
+    "cost": [
+      [
+        200000026,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200311401,
+    "name": "离火剑",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000035,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200312401,
+    "name": "他山之玉",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000035,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200313401,
+    "name": "风云冠",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000035,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200314401,
+    "name": "坎水面具",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000035,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200321401,
+    "name": "董全主魂·刚",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000036,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200322401,
+    "name": "董全生魂·刚",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000036,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200323401,
+    "name": "董全觉魂·刚",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000036,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200324401,
+    "name": "董全主魂·柔",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000036,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200325401,
+    "name": "董全生魂·柔",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000036,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200326401,
+    "name": "董全觉魂·柔",
+    "type": 6,
+    "subType": 10003,
+    "unlock": 1,
+    "unlockData": 90,
+    "cost": [
+      [
+        200000036,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200411401,
+    "name": "寒冰剑",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000045,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200412401,
+    "name": "冰霜道袍",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000045,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200413401,
+    "name": "寒冰冠",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000045,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200414401,
+    "name": "寒冰猎爪",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000045,
+        32
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200421401,
+    "name": "袁角主魂·刚",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000046,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200422401,
+    "name": "袁角生魂·刚",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000046,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200423401,
+    "name": "袁角觉魂·刚",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000046,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200424401,
+    "name": "袁角主魂·柔",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000046,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200425401,
+    "name": "袁角生魂·柔",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000046,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200426401,
+    "name": "袁角觉魂·柔",
+    "type": 6,
+    "subType": 10004,
+    "unlock": 1,
+    "unlockData": 100,
+    "cost": [
+      [
+        200000046,
+        36
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200511501,
+    "name": "金光镜",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000055,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200512501,
+    "name": "金刚绸带",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000055,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200513501,
+    "name": "金光法冠",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000055,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200514501,
+    "name": "金光吊坠",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000055,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200521501,
+    "name": "金光主魂·刚",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000056,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200522501,
+    "name": "金光生魂·刚",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000056,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200523501,
+    "name": "金光觉魂·刚",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000056,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200524501,
+    "name": "金光主魂·柔",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000056,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200525501,
+    "name": "金光生魂·柔",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000056,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200526501,
+    "name": "金光觉魂·柔",
+    "type": 6,
+    "subType": 10005,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000056,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200611501,
+    "name": "血灵刀",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000065,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200612501,
+    "name": "血魔灵珠",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000065,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200613501,
+    "name": "化血法冠",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000065,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200614501,
+    "name": "血心腰坠",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000065,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200621501,
+    "name": "化血主魂·刚",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000066,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200622501,
+    "name": "化血生魂·刚",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000066,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200623501,
+    "name": "化血觉魂·刚",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000066,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200624501,
+    "name": "化血主魂·柔",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000066,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200625501,
+    "name": "化血生魂·柔",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000066,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200626501,
+    "name": "化血觉魂·柔",
+    "type": 6,
+    "subType": 10006,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000066,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200711501,
+    "name": "烈焰幡",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000075,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200712501,
+    "name": "烈焰魂环",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000075,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200713501,
+    "name": "烈焰法冠",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000075,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200714501,
+    "name": "焰金腰坠",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000075,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200721501,
+    "name": "烈焰主魂·刚",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000076,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200722501,
+    "name": "烈焰生魂·刚",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000076,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200723501,
+    "name": "烈焰觉魂·刚",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000076,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200724501,
+    "name": "烈焰主魂·柔",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000076,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200725501,
+    "name": "烈焰生魂·柔",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000076,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200726501,
+    "name": "烈焰觉魂·柔",
+    "type": 6,
+    "subType": 10007,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000076,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200811501,
+    "name": "落魄铃",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000085,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200812501,
+    "name": "击魂之眼",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000085,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200813501,
+    "name": "冥罗之骨",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000085,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200814501,
+    "name": "燃骨魂灯",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000085,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200821501,
+    "name": "落魄主魂·刚",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000086,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200822501,
+    "name": "落魄生魂·刚",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000086,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200823501,
+    "name": "落魄觉魂·刚",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000086,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200824501,
+    "name": "落魄主魂·柔",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000086,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200825501,
+    "name": "落魄生魂·柔",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000086,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200826501,
+    "name": "落魄觉魂·柔",
+    "type": 6,
+    "subType": 10008,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000086,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200911501,
+    "name": "红水幡",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000095,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200912501,
+    "name": "赤血葫芦",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000095,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200913501,
+    "name": "彤霞水袖",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000095,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200914501,
+    "name": "赤轮法环",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000095,
+        64
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200921501,
+    "name": "红水主魂·刚",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000096,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200922501,
+    "name": "红水生魂·刚",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000096,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200923501,
+    "name": "红水觉魂·刚",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000096,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200924501,
+    "name": "红水主魂·柔",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000096,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200925501,
+    "name": "红水生魂·柔",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000096,
+        72
+      ]
+    ],
+    "probability": 1
+  },
+  {
+    "id": 200926501,
+    "name": "红水觉魂·柔",
+    "type": 6,
+    "subType": 10009,
+    "unlock": 1,
+    "unlockData": 110,
+    "cost": [
+      [
+        200000096,
+        72
+      ]
+    ],
+    "probability": 1
+  }
+]

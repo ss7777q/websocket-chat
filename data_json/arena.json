@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "散仙",
+    "resource": "xwhz001",
+    "integral": 0,
+    "historyReward": [
+      [
+        17,
+        6
+      ],
+      [
+        2,
+        6
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        20
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 2,
+    "name": "上仙",
+    "resource": "xwhz002",
+    "integral": 100,
+    "historyReward": [
+      [
+        17,
+        12
+      ],
+      [
+        2,
+        12
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        80
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 3,
+    "name": "高仙",
+    "resource": "xwhz003",
+    "integral": 300,
+    "historyReward": [
+      [
+        17,
+        24
+      ],
+      [
+        2,
+        24
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        240
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 4,
+    "name": "太仙",
+    "resource": "xwhz004",
+    "integral": 600,
+    "historyReward": [
+      [
+        17,
+        42
+      ],
+      [
+        2,
+        42
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        480
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 5,
+    "name": "玄仙",
+    "resource": "xwhz005",
+    "integral": 900,
+    "historyReward": [
+      [
+        17,
+        66
+      ],
+      [
+        2,
+        66
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        720
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 6,
+    "name": "天仙",
+    "resource": "xwhz006",
+    "integral": 1300,
+    "historyReward": [
+      [
+        17,
+        98
+      ],
+      [
+        2,
+        98
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        1040
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 7,
+    "name": "真仙",
+    "resource": "xwhz007",
+    "integral": 1700,
+    "historyReward": [
+      [
+        17,
+        132
+      ],
+      [
+        2,
+        132
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        1360
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 8,
+    "name": "神仙",
+    "resource": "xwhz008",
+    "integral": 2200,
+    "historyReward": [
+      [
+        17,
+        170
+      ],
+      [
+        2,
+        170
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        1760
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 9,
+    "name": "灵仙",
+    "resource": "xwhz009",
+    "integral": 2800,
+    "historyReward": [
+      [
+        17,
+        220
+      ],
+      [
+        2,
+        220
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        2240
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  },
+  {
+    "id": 10,
+    "name": "至仙",
+    "resource": "xwhz010",
+    "integral": 3500,
+    "historyReward": [
+      [
+        17,
+        280
+      ],
+      [
+        2,
+        280
+      ]
+    ],
+    "weekReward": [
+      [
+        17,
+        2800
+      ]
+    ],
+    "winReward": [],
+    "failReward": []
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "id": 1,
+    "name": "第1层",
+    "floor": 1,
+    "monsterRatio": {
+      "hp": 0.26,
+      "atk": 0.26
+    },
+    "group": 1,
+    "towerDrop": {
+      "firstSkillChoose": [
+        {
+          "skill": [
+            1,
+            2
+          ]
+        },
+        {
+          "skill": [
+            1,
+            2
+          ]
+        },
+        {
+          "skill": [
+            1,
+            2
+          ]
+        }
+      ],
+      "firstItemChoose": [
+        [
+          150000101,
+          1
+        ],
+        [
+          150000104,
+          1
+        ],
+        [
+          150000105,
+          1
+        ]
+      ]
+    },
+    "door1": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": false,
+      "ranPool": 0
+    }
+  },
+  {
+    "id": 2,
+    "name": "第2层",
+    "floor": 2,
+    "monsterRatio": {
+      "hp": 0.36,
+      "atk": 0.36
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100101
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3001
+    }
+  },
+  {
+    "id": 3,
+    "name": "第3层",
+    "floor": 3,
+    "monsterRatio": {
+      "hp": 0.46,
+      "atk": 0.46
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100102
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3002
+    }
+  },
+  {
+    "id": 4,
+    "name": "第4层",
+    "floor": 4,
+    "monsterRatio": {
+      "hp": 0.56,
+      "atk": 0.56
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100203
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3001
+    }
+  },
+  {
+    "id": 5,
+    "name": "第5层",
+    "floor": 5,
+    "monsterRatio": {
+      "hp": 0.66,
+      "atk": 0.66
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100104
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3002
+    }
+  },
+  {
+    "id": 6,
+    "name": "第6层",
+    "floor": 6,
+    "monsterRatio": {
+      "hp": 0.76,
+      "atk": 0.76
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100105
+    },
+    "door2": {
+      "isOpen": true,
+      "ranPool": 4000
+    },
+    "door3": {
+      "isOpen": true,
+      "ranPool": 2002
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 200305
+    }
+  },
+  {
+    "id": 7,
+    "name": "第7层",
+    "floor": 7,
+    "monsterRatio": {
+      "hp": 0.86,
+      "atk": 0.86
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100206
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3002
+    }
+  },
+  {
+    "id": 8,
+    "name": "第8层",
+    "floor": 8,
+    "monsterRatio": {
+      "hp": 0.96,
+      "atk": 0.96
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100107
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3002
+    }
+  },
+  {
+    "id": 9,
+    "name": "第9层",
+    "floor": 9,
+    "monsterRatio": {
+      "hp": 1.06,
+      "atk": 1.06
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100108
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3002
+    }
+  },
+  {
+    "id": 10,
+    "name": "第10层",
+    "floor": 10,
+    "monsterRatio": {
+      "hp": 1.16,
+      "atk": 1.16
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100209
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3002
+    }
+  },
+  {
+    "id": 11,
+    "name": "第11层",
+    "floor": 11,
+    "monsterRatio": {
+      "hp": 1.26,
+      "atk": 1.26
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100110
+    },
+    "door2": {
+      "isOpen": true,
+      "ranPool": 3003
+    },
+    "door3": {
+      "isOpen": true,
+      "ranPool": 4001
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 200310
+    }
+  },
+  {
+    "id": 12,
+    "name": "第12层",
+    "floor": 12,
+    "monsterRatio": {
+      "hp": 1.36,
+      "atk": 1.36
+    },
+    "group": 1,
+    "door1": {
+      "isOpen": true,
+      "ranPool": 100111
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": true,
+      "ranPool": 3003
+    }
+  },
+  {
+    "id": 13,
+    "name": "第13层",
+    "floor": 13,
+    "monsterRatio": {
+      "hp": 1.584,
+      "atk": 1.504,
+      "crit": 1.03,
+      "lucky": 1.03
+    },
+    "group": 1,
+    "towerDrop": {
+      "dropShop": {
+        "give": {
+          "all": [
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              3
+            ]
+          ]
+        },
+        "sell": {
+          "SpecialProp": [
+            [
+              10,
+              10
+            ],
+            [
+              4,
+              2,
+              3
+            ]
+          ]
+        }
+      },
+      "dropBookShop": {
+        "skill": [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            2,
+            3
+          ]
+        ]
+      },
+      "dropBookExchange": {
+        "1": [
+          "skill",
+          [
+            1,
+            1,
+            2
+          ]
+        ],
+        "2": [
+          "skill",
+          [
+            1,
+            2,
+            3
+          ]
+        ],
+        "3": [
+          "skill",
+          [
+            4,
+            2,
+            3
+          ]
+        ],
+        "4": [
+          "skill",
+          [
+            4,
+            5,
+            3
+          ]
+        ],
+        "5": [
+          "skill",
+          [
+            4,
+            5,
+            6
+          ]
+        ],
+        "6": [
+          "skill",
+          [
+            6,
+            5,
+            6
+          ]
+        ]
+      },
+      "stageDrop": [
+        [
+          150000103,
+          5
+        ]
+      ],
+      "fixedBox": {
+        "10383": {
+          "GodRelic": [
+            [
+              1,
+              1
+            ],
+            [
+              5
+            ]
+          ]
+        }
+      }
+    },
+    "door1": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door2": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door3": {
+      "isOpen": false,
+      "ranPool": 0
+    },
+    "door4": {
+      "isOpen": false,
+      "ranPool": 0
+    }
+  }
+]

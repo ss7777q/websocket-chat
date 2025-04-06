@@ -1,0 +1,1 @@
+var tmp=[["id","power"],[1,1e3],[2,1e3],[3,1e3],[4,1e3],[5,1e3],[6,1e3],[7,1e3],[8,1e3],[9,1e3],[10,1e3],[11,1e3],[12,1e3],[13,1e3],[14,1e3],[15,1e3],[16,1e3],[17,1e3],[18,1e3],[19,1e3],[20,-1]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.petTowerFloor=tmp);

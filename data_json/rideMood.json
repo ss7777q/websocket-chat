@@ -1,0 +1,193 @@
+[
+  {
+    "id": 10101,
+    "type": 1,
+    "show": 1,
+    "icon": "xqing007",
+    "skillProbability": 0.13,
+    "skillWeight": 0.13,
+    "desc": "全属性提升10%",
+    "attribute": [
+      "MAX_HP",
+      "HEALHP",
+      "ATK",
+      "DEF",
+      "HITVAL",
+      "DODGE",
+      "CRIT",
+      "TENACITY",
+      "LUCKY",
+      "GUARDIAN",
+      "BREAK",
+      "PROTECT"
+    ],
+    "attributeValue": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+    ]
+  },
+  {
+    "id": 10102,
+    "type": 1,
+    "show": 2,
+    "icon": "xqing005",
+    "skillProbability": 0.11,
+    "skillWeight": 0.11,
+    "desc": "全属性提升8%",
+    "attribute": [
+      "MAX_HP",
+      "HEALHP",
+      "ATK",
+      "DEF",
+      "HITVAL",
+      "DODGE",
+      "CRIT",
+      "TENACITY",
+      "LUCKY",
+      "GUARDIAN",
+      "BREAK",
+      "PROTECT"
+    ],
+    "attributeValue": [
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08
+    ]
+  },
+  {
+    "id": 10103,
+    "type": 1,
+    "show": 3,
+    "icon": "xqing006",
+    "skillProbability": 0.09,
+    "skillWeight": 0.09,
+    "desc": "全属性提升5%",
+    "attribute": [
+      "MAX_HP",
+      "HEALHP",
+      "ATK",
+      "DEF",
+      "HITVAL",
+      "DODGE",
+      "CRIT",
+      "TENACITY",
+      "LUCKY",
+      "GUARDIAN",
+      "BREAK",
+      "PROTECT"
+    ],
+    "attributeValue": [
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05
+    ]
+  },
+  {
+    "id": 10104,
+    "type": 1,
+    "show": 4,
+    "icon": "xqing004",
+    "skillProbability": 0.07,
+    "skillWeight": 0.07,
+    "desc": "无悲无喜，属性无变化"
+  },
+  {
+    "id": 10105,
+    "type": 2,
+    "show": 5,
+    "icon": "xqing003",
+    "skillProbability": 0.05,
+    "skillWeight": 0.05,
+    "desc": "防御提升10%，攻击降低10%",
+    "attribute": [
+      "DEF",
+      "ATK"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ]
+  },
+  {
+    "id": 10106,
+    "type": 2,
+    "show": 6,
+    "icon": "xqing002",
+    "skillProbability": 0.03,
+    "skillWeight": 0.03,
+    "desc": "攻击提升10%，防御降低10%",
+    "attribute": [
+      "ATK",
+      "DEF"
+    ],
+    "attributeValue": [
+      0.1,
+      -0.1
+    ]
+  },
+  {
+    "id": 10107,
+    "type": 2,
+    "show": 7,
+    "icon": "xqing001",
+    "skillProbability": 0.01,
+    "skillWeight": 0.01,
+    "desc": "全属性降低5%",
+    "attribute": [
+      "MAX_HP",
+      "HEALHP",
+      "ATK",
+      "DEF",
+      "HITVAL",
+      "DODGE",
+      "CRIT",
+      "TENACITY",
+      "LUCKY",
+      "GUARDIAN",
+      "BREAK",
+      "PROTECT"
+    ],
+    "attributeValue": [
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05,
+      -0.05
+    ]
+  }
+]

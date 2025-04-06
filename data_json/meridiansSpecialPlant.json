@@ -1,0 +1,394 @@
+[
+  {
+    "id": 133000001,
+    "type": "fire",
+    "specialPillType": 1,
+    "energy": [
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000002,
+    "type": "fire",
+    "specialPillType": 2,
+    "energy": [
+      "tenacity",
+      "guardian",
+      "hitVal"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000003,
+    "type": "fire",
+    "specialPillType": 3,
+    "energy": [
+      "guardian",
+      "hitVal",
+      "crit"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000004,
+    "type": "fire",
+    "specialPillType": 4,
+    "energy": [
+      "hitVal",
+      "crit",
+      "lucky"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000005,
+    "type": "fire",
+    "specialPillType": 5,
+    "energy": [
+      "crit",
+      "lucky",
+      "dodge"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000006,
+    "type": "fire",
+    "specialPillType": 6,
+    "energy": [
+      "lucky",
+      "dodge",
+      "tenacity"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000007,
+    "type": "fire",
+    "specialPillType": 7,
+    "energy": [
+      "dodge",
+      "crit",
+      "lucky"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000008,
+    "type": "fire",
+    "specialPillType": 8,
+    "energy": [
+      "tenacity",
+      "lucky",
+      "dodge"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000009,
+    "type": "fire",
+    "specialPillType": 9,
+    "energy": [
+      "guardian",
+      "dodge",
+      "tenacity"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000010,
+    "type": "fire",
+    "specialPillType": 10,
+    "energy": [
+      "hitVal",
+      "tenacity",
+      "guardian"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ]
+  },
+  {
+    "id": 133000011,
+    "type": "fire",
+    "specialPillType": 11,
+    "energy": [
+      "crit",
+      "guardian",
+      "hitVal"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ],
+    "close": 1
+  },
+  {
+    "id": 133000012,
+    "type": "fire",
+    "specialPillType": 12,
+    "energy": [
+      "lucky",
+      "hitVal",
+      "crit"
+    ],
+    "soulCost": 0,
+    "energyValue": [
+      20,
+      20,
+      20
+    ],
+    "close": 1
+  },
+  {
+    "id": 134000301,
+    "type": "plant",
+    "energy": [
+      "hitVal"
+    ],
+    "soulCost": 1250,
+    "energyValue": [
+      10
+    ]
+  },
+  {
+    "id": 134000302,
+    "type": "plant",
+    "energy": [
+      "crit"
+    ],
+    "soulCost": 1250,
+    "energyValue": [
+      10
+    ]
+  },
+  {
+    "id": 134000303,
+    "type": "plant",
+    "energy": [
+      "lucky"
+    ],
+    "soulCost": 1250,
+    "energyValue": [
+      10
+    ]
+  },
+  {
+    "id": 134000304,
+    "type": "plant",
+    "energy": [
+      "dodge"
+    ],
+    "soulCost": 1250,
+    "energyValue": [
+      10
+    ]
+  },
+  {
+    "id": 134000305,
+    "type": "plant",
+    "energy": [
+      "tenacity"
+    ],
+    "soulCost": 1250,
+    "energyValue": [
+      10
+    ]
+  },
+  {
+    "id": 134000306,
+    "type": "plant",
+    "energy": [
+      "guardian"
+    ],
+    "soulCost": 1250,
+    "energyValue": [
+      10
+    ]
+  },
+  {
+    "id": 134000401,
+    "type": "plant",
+    "energy": [
+      "hitVal"
+    ],
+    "soulCost": 2500,
+    "energyValue": [
+      25
+    ]
+  },
+  {
+    "id": 134000402,
+    "type": "plant",
+    "energy": [
+      "crit"
+    ],
+    "soulCost": 2500,
+    "energyValue": [
+      25
+    ]
+  },
+  {
+    "id": 134000403,
+    "type": "plant",
+    "energy": [
+      "lucky"
+    ],
+    "soulCost": 2500,
+    "energyValue": [
+      25
+    ]
+  },
+  {
+    "id": 134000404,
+    "type": "plant",
+    "energy": [
+      "dodge"
+    ],
+    "soulCost": 2500,
+    "energyValue": [
+      25
+    ]
+  },
+  {
+    "id": 134000405,
+    "type": "plant",
+    "energy": [
+      "tenacity"
+    ],
+    "soulCost": 2500,
+    "energyValue": [
+      25
+    ]
+  },
+  {
+    "id": 134000406,
+    "type": "plant",
+    "energy": [
+      "guardian"
+    ],
+    "soulCost": 2500,
+    "energyValue": [
+      25
+    ]
+  },
+  {
+    "id": 134000501,
+    "type": "plant",
+    "energy": [
+      "hitVal"
+    ],
+    "soulCost": 5000,
+    "energyValue": [
+      50
+    ]
+  },
+  {
+    "id": 134000502,
+    "type": "plant",
+    "energy": [
+      "crit"
+    ],
+    "soulCost": 5000,
+    "energyValue": [
+      50
+    ]
+  },
+  {
+    "id": 134000503,
+    "type": "plant",
+    "energy": [
+      "lucky"
+    ],
+    "soulCost": 5000,
+    "energyValue": [
+      50
+    ]
+  },
+  {
+    "id": 134000504,
+    "type": "plant",
+    "energy": [
+      "dodge"
+    ],
+    "soulCost": 5000,
+    "energyValue": [
+      50
+    ]
+  },
+  {
+    "id": 134000505,
+    "type": "plant",
+    "energy": [
+      "tenacity"
+    ],
+    "soulCost": 5000,
+    "energyValue": [
+      50
+    ]
+  },
+  {
+    "id": 134000506,
+    "type": "plant",
+    "energy": [
+      "guardian"
+    ],
+    "soulCost": 5000,
+    "energyValue": [
+      50
+    ]
+  }
+]

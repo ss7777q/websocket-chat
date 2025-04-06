@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "击退速度",
+    "prop": "hitMove",
+    "propCount": 2,
+    "show": 1,
+    "desc": "击退的速度"
+  },
+  {
+    "id": 2,
+    "name": "击退时间",
+    "prop": "hitMoveTime",
+    "propCount": 1,
+    "default": 0,
+    "show": 1,
+    "desc": "击退的时间"
+  },
+  {
+    "id": 3,
+    "name": "硬直时间",
+    "prop": "stiff",
+    "propCount": 1,
+    "default": 0,
+    "show": 1
+  },
+  {
+    "id": 4,
+    "name": "段数间隔",
+    "prop": "hitInteval",
+    "propCount": 1,
+    "default": -1,
+    "show": 1
+  },
+  {
+    "id": 5,
+    "name": "最大打击段数",
+    "prop": "maxHit",
+    "propCount": 1,
+    "default": 1,
+    "show": 1
+  },
+  {
+    "id": 6,
+    "name": "打击朝向类型",
+    "prop": "hitMoveDir",
+    "propCount": 1,
+    "default": 1,
+    "show": 1
+  },
+  {
+    "id": 7,
+    "name": "造成状态",
+    "prop": "causeState",
+    "propCount": 1,
+    "default": 1,
+    "show": 1
+  },
+  {
+    "id": 100,
+    "name": "中心点",
+    "prop": "hitMoveDirCenter",
+    "propCount": 1,
+    "default": 1,
+    "show": 1
+  }
+]

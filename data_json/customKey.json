@@ -1,0 +1,1444 @@
+[
+  {
+    "id": 1,
+    "index": 1,
+    "show": "向上移动",
+    "type": "p1",
+    "key": "w",
+    "codeKey": "w",
+    "group": 27,
+    "groupShare": [
+      19,
+      23,
+      26
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_W",
+    "param1": 0,
+    "param2": 0,
+    "keyUpEmit": "event_thumbEnd_W",
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 2,
+    "index": 2,
+    "show": "向下移动",
+    "type": "p1",
+    "key": "s",
+    "codeKey": "s",
+    "group": 28,
+    "groupShare": [
+      26
+    ],
+    "importantKey": 1,
+    "keyUpEmit": "event_thumbEnd_S",
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 3,
+    "index": 3,
+    "show": "向右移动",
+    "type": "p1",
+    "key": "d",
+    "codeKey": "d",
+    "group": 1,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_D",
+    "param1": 0,
+    "param2": 0,
+    "keyUpEmit": "event_thumbEnd_D",
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 4,
+    "index": 4,
+    "show": "向左移动",
+    "type": "p1",
+    "key": "a",
+    "codeKey": "a",
+    "group": 1,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_A",
+    "param1": 0,
+    "param2": 0,
+    "keyUpEmit": "event_thumbEnd_A",
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 5,
+    "index": 5,
+    "show": "普通攻击",
+    "type": "p1",
+    "key": "j",
+    "codeKey": "j",
+    "group": 1,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_atk",
+    "param1": 0,
+    "param2": 0,
+    "keyUpEmit": "event_thumbup_atk",
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 6,
+    "index": 6,
+    "show": "跳跃",
+    "type": "p1",
+    "key": "k",
+    "codeKey": "k",
+    "group": 1,
+    "importantKey": 1,
+    "param1": 0,
+    "param2": 0,
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 7,
+    "index": 7,
+    "show": "使用法宝",
+    "type": "p1",
+    "key": "h",
+    "codeKey": "h",
+    "group": 1,
+    "importantKey": 1,
+    "keyEmit": "event_thumb_magic",
+    "param1": 0,
+    "param2": 0,
+    "keyUpEmit": "event_thumbup_magic",
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 8,
+    "index": 8,
+    "show": "召唤坐骑",
+    "type": "p1",
+    "key": "z",
+    "codeKey": "z",
+    "group": 1,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_Z",
+    "param1": 0,
+    "param2": 0,
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 9,
+    "index": 9,
+    "show": "使用道具1",
+    "type": "p1",
+    "key": "q",
+    "codeKey": "q",
+    "group": 5,
+    "groupShare": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumb_item",
+    "param1": 0,
+    "param2": 1,
+    "upParam1": 0,
+    "upParam2": 1
+  },
+  {
+    "id": 10,
+    "index": 10,
+    "show": "使用道具2",
+    "type": "p1",
+    "key": "e",
+    "codeKey": "e",
+    "group": 5,
+    "groupShare": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumb_item",
+    "param1": 0,
+    "param2": 0,
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 11,
+    "index": 11,
+    "show": "复活",
+    "type": "p1",
+    "key": "y",
+    "codeKey": "f",
+    "group": 6,
+    "groupShare": [
+      15,
+      18,
+      19,
+      21,
+      22,
+      23,
+      25
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumb_revive",
+    "param1": 0,
+    "param2": 0,
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 12,
+    "index": 12,
+    "show": "技能1",
+    "type": "p1",
+    "key": "u",
+    "codeKey": "u",
+    "group": 2,
+    "groupShare": [
+      4
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkills",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 0,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 13,
+    "index": 13,
+    "show": "技能2",
+    "type": "p1",
+    "key": "i",
+    "codeKey": "i",
+    "group": 2,
+    "groupShare": [
+      4
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkills",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 1,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 1
+  },
+  {
+    "id": 14,
+    "index": 14,
+    "show": "技能3",
+    "type": "p1",
+    "key": "o",
+    "codeKey": "o",
+    "group": 2,
+    "groupShare": [
+      4
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkills",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 2,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 2
+  },
+  {
+    "id": 15,
+    "index": 15,
+    "show": "技能4",
+    "type": "p1",
+    "key": "l",
+    "codeKey": "l",
+    "group": 2,
+    "groupShare": [
+      4
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkills",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 3,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 3
+  },
+  {
+    "id": 16,
+    "index": 16,
+    "show": "释放无双",
+    "type": "p1",
+    "key": "space",
+    "codeKey": "space",
+    "group": 3,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 4,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 4
+  },
+  {
+    "id": 17,
+    "index": 17,
+    "show": "无双技能1",
+    "type": "p1",
+    "key": "u_1",
+    "codeKey": "u",
+    "group": 4,
+    "groupShare": [
+      2
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkillsWS",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 0,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 18,
+    "index": 18,
+    "show": "无双技能2",
+    "type": "p1",
+    "key": "i_1",
+    "codeKey": "i",
+    "group": 4,
+    "groupShare": [
+      2
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkillsWS",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 1,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 1
+  },
+  {
+    "id": 19,
+    "index": 19,
+    "show": "无双技能3",
+    "type": "p1",
+    "key": "o_1",
+    "codeKey": "o",
+    "group": 4,
+    "groupShare": [
+      2
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkillsWS",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 2,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 2
+  },
+  {
+    "id": 20,
+    "index": 20,
+    "show": "无双技能4",
+    "type": "p1",
+    "key": "l_1",
+    "codeKey": "l",
+    "group": 4,
+    "groupShare": [
+      2
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkillsWS",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 0,
+    "param2": 3,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 0,
+    "upParam2": 3
+  },
+  {
+    "id": 21,
+    "index": 21,
+    "show": "通用交互",
+    "type": "p1",
+    "key": "f_com",
+    "codeKey": "f",
+    "group": 18,
+    "groupShare": [
+      6,
+      15,
+      19,
+      21
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_special",
+    "param1": 0,
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 22,
+    "index": 22,
+    "show": "传送",
+    "type": "p1",
+    "key": "f_trans",
+    "codeKey": "f",
+    "group": 19,
+    "groupShare": [
+      6,
+      15,
+      18,
+      21,
+      26,
+      27,
+      29
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_special",
+    "param1": 0,
+    "param2": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 23,
+    "index": 23,
+    "show": "救治",
+    "type": "p1",
+    "key": "f_cure",
+    "codeKey": "f",
+    "group": 21,
+    "groupShare": [
+      6,
+      15,
+      18,
+      19
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_special",
+    "param1": 0,
+    "param2": 12,
+    "upParam2": 0
+  },
+  {
+    "id": 24,
+    "index": 25,
+    "show": "向上移动",
+    "type": "p2",
+    "key": "up",
+    "codeKey": "up",
+    "group": 29,
+    "groupShare": [
+      19,
+      23,
+      26
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_W",
+    "param1": 1,
+    "param2": 0,
+    "keyUpEmit": "event_thumbEnd_W",
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 25,
+    "index": 26,
+    "show": "向下移动",
+    "type": "p2",
+    "key": "down",
+    "codeKey": "down",
+    "group": 30,
+    "groupShare": [
+      26
+    ],
+    "importantKey": 1,
+    "keyUpEmit": "event_thumbEnd_S",
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 26,
+    "index": 27,
+    "show": "向右移动",
+    "type": "p2",
+    "key": "right",
+    "codeKey": "right",
+    "group": 7,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_D",
+    "param1": 1,
+    "param2": 0,
+    "keyUpEmit": "event_thumbEnd_D",
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 27,
+    "index": 28,
+    "show": "向左移动",
+    "type": "p2",
+    "key": "left",
+    "codeKey": "left",
+    "group": 7,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_A",
+    "param1": 1,
+    "param2": 0,
+    "keyUpEmit": "event_thumbEnd_A",
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 28,
+    "index": 29,
+    "show": "普通攻击",
+    "type": "p2",
+    "key": "num1",
+    "codeKey": "num1",
+    "group": 7,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_atk",
+    "param1": 1,
+    "param2": 0,
+    "keyUpEmit": "event_thumbup_atk",
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 29,
+    "index": 30,
+    "show": "跳跃",
+    "type": "p2",
+    "key": "num2",
+    "codeKey": "num2",
+    "group": 7,
+    "importantKey": 1,
+    "param1": 1,
+    "param2": 0,
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 30,
+    "index": 31,
+    "show": "使用法宝",
+    "type": "p2",
+    "key": "num7",
+    "codeKey": "num7",
+    "group": 7,
+    "importantKey": 1,
+    "keyEmit": "event_thumb_magic",
+    "param1": 1,
+    "param2": 0,
+    "keyUpEmit": "event_thumbup_magic",
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 31,
+    "index": 32,
+    "show": "召唤坐骑",
+    "type": "p2",
+    "key": "num9",
+    "codeKey": "num9",
+    "group": 7,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_Z",
+    "param1": 1,
+    "param2": 0,
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 32,
+    "index": 33,
+    "show": "使用道具1",
+    "type": "p2",
+    "key": "-",
+    "codeKey": "-",
+    "group": 11,
+    "groupShare": [
+      14,
+      15,
+      16
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumb_item",
+    "param1": 1,
+    "param2": 1,
+    "upParam1": 1,
+    "upParam2": 1
+  },
+  {
+    "id": 33,
+    "index": 34,
+    "show": "使用道具2",
+    "type": "p2",
+    "key": "+",
+    "codeKey": "+",
+    "group": 11,
+    "groupShare": [
+      14,
+      15,
+      16
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumb_item",
+    "param1": 1,
+    "param2": 0,
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 34,
+    "index": 35,
+    "show": "复活",
+    "type": "p2",
+    "key": "*",
+    "codeKey": "enter",
+    "group": 12,
+    "groupShare": [
+      15,
+      18,
+      19,
+      21,
+      22,
+      23,
+      25
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumb_revive",
+    "param1": 1,
+    "param2": 0,
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 35,
+    "index": 36,
+    "show": "技能1",
+    "type": "p2",
+    "key": "num3",
+    "codeKey": "num3",
+    "group": 8,
+    "groupShare": [
+      10
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkills",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 0,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 36,
+    "index": 37,
+    "show": "技能2",
+    "type": "p2",
+    "key": "num4",
+    "codeKey": "num4",
+    "group": 8,
+    "groupShare": [
+      10
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkills",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 1,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 1
+  },
+  {
+    "id": 37,
+    "index": 38,
+    "show": "技能3",
+    "type": "p2",
+    "key": "num5",
+    "codeKey": "num5",
+    "group": 8,
+    "groupShare": [
+      10
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkills",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 2,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 2
+  },
+  {
+    "id": 38,
+    "index": 39,
+    "show": "技能4",
+    "type": "p2",
+    "key": "num6",
+    "codeKey": "num6",
+    "group": 8,
+    "groupShare": [
+      10
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkills",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 3,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 3
+  },
+  {
+    "id": 39,
+    "index": 40,
+    "show": "释放无双",
+    "type": "p2",
+    "key": "num0",
+    "codeKey": "num0",
+    "group": 9,
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 4,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 4
+  },
+  {
+    "id": 40,
+    "index": 41,
+    "show": "无双技能1",
+    "type": "p2",
+    "key": "num3_1",
+    "codeKey": "num3",
+    "group": 10,
+    "groupShare": [
+      8
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkillsWS",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 0,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 0
+  },
+  {
+    "id": 41,
+    "index": 42,
+    "show": "无双技能2",
+    "type": "p2",
+    "key": "num4_2",
+    "codeKey": "num4",
+    "group": 10,
+    "groupShare": [
+      8
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkillsWS",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 1,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 1
+  },
+  {
+    "id": 42,
+    "index": 43,
+    "show": "无双技能3",
+    "type": "p2",
+    "key": "num5_3",
+    "codeKey": "num5",
+    "group": 10,
+    "groupShare": [
+      8
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkillsWS",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 2,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 2
+  },
+  {
+    "id": 43,
+    "index": 44,
+    "show": "无双技能4",
+    "type": "p2",
+    "key": "num6_4",
+    "codeKey": "num6",
+    "group": 10,
+    "groupShare": [
+      8
+    ],
+    "importantKey": 1,
+    "skillType": "keyWebSkillsWS",
+    "keyEmit": "event_thumbChange_skill",
+    "param1": 1,
+    "param2": 3,
+    "keyUpEmit": "event_thumbup_skill",
+    "upParam1": 1,
+    "upParam2": 3
+  },
+  {
+    "id": 44,
+    "index": 45,
+    "show": "通用交互",
+    "type": "p2",
+    "key": "f_com",
+    "codeKey": "enter",
+    "group": 22,
+    "groupShare": [
+      12,
+      15,
+      23,
+      25
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_special",
+    "param1": 1,
+    "param2": 0
+  },
+  {
+    "id": 45,
+    "index": 46,
+    "show": "传送",
+    "type": "p2",
+    "key": "f_trans",
+    "codeKey": "enter",
+    "group": 23,
+    "groupShare": [
+      12,
+      15,
+      22,
+      25,
+      26,
+      27,
+      29
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_special",
+    "param1": 1,
+    "param2": 1
+  },
+  {
+    "id": 46,
+    "index": 47,
+    "show": "救治",
+    "type": "p2",
+    "key": "f_cure",
+    "codeKey": "enter",
+    "group": 25,
+    "groupShare": [
+      12,
+      15,
+      22,
+      23
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_special",
+    "param1": 1,
+    "param2": 12
+  },
+  {
+    "id": 47,
+    "index": 101,
+    "show": "打开背包",
+    "type": "com",
+    "key": "c",
+    "codeKey": "c",
+    "group": 13,
+    "groupShare": [
+      14,
+      16
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 48,
+    "index": 102,
+    "show": "打开修炼",
+    "type": "com",
+    "key": "x",
+    "codeKey": "x",
+    "group": 13,
+    "groupShare": [
+      14,
+      16
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 49,
+    "index": 103,
+    "show": "打开技能",
+    "type": "com",
+    "key": "v",
+    "codeKey": "v",
+    "group": 13,
+    "groupShare": [
+      14,
+      16
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 50,
+    "index": 104,
+    "show": "打开灵侍",
+    "type": "com",
+    "key": "b",
+    "codeKey": "b",
+    "group": 13,
+    "groupShare": [
+      14,
+      16
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 51,
+    "index": 105,
+    "show": "打开灵宝",
+    "type": "com",
+    "key": "n",
+    "codeKey": "n",
+    "group": 13,
+    "groupShare": [
+      14,
+      16
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 52,
+    "index": 106,
+    "show": "打开设置",
+    "type": "com",
+    "key": "m",
+    "codeKey": "m",
+    "group": 13,
+    "groupShare": [
+      14,
+      16
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 53,
+    "index": 107,
+    "show": "使用请神券",
+    "type": "com",
+    "key": "g",
+    "codeKey": "g",
+    "group": 13,
+    "groupShare": [
+      14,
+      16,
+      26
+    ],
+    "keyEmit": "event_thumb_godplayer",
+    "param1": 0
+  },
+  {
+    "id": 54,
+    "index": 201,
+    "show": "打开战利品",
+    "type": "roguelike",
+    "key": "x",
+    "codeKey": "x",
+    "group": 14,
+    "groupShare": [
+      5,
+      11,
+      13,
+      16,
+      17
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 55,
+    "index": 202,
+    "show": "打开背包",
+    "type": "roguelike",
+    "key": "c",
+    "codeKey": "c",
+    "group": 14,
+    "groupShare": [
+      5,
+      11,
+      13,
+      16,
+      17
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 56,
+    "index": 203,
+    "show": "打开设置",
+    "type": "roguelike",
+    "key": "m",
+    "codeKey": "m",
+    "group": 14,
+    "groupShare": [
+      5,
+      11,
+      13,
+      16,
+      17
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 57,
+    "index": 204,
+    "show": "反对投票",
+    "type": "roguelike",
+    "key": "v_2",
+    "codeKey": "v",
+    "group": 14,
+    "groupShare": [
+      5,
+      11,
+      13,
+      16,
+      17
+    ],
+    "keyEmit": "event_modify_enter_roguelike_next",
+    "param1": 0,
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 58,
+    "index": 205,
+    "show": "赞成投票",
+    "type": "roguelike",
+    "key": "b_2",
+    "codeKey": "b",
+    "group": 14,
+    "groupShare": [
+      5,
+      11,
+      13,
+      16,
+      17
+    ],
+    "keyEmit": "event_ok_enter_roguelike_next",
+    "param1": 0,
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 59,
+    "index": 301,
+    "show": "建造",
+    "type": "kunlun",
+    "key": "f_build",
+    "codeKey": "f",
+    "group": 15,
+    "groupShare": [
+      6,
+      12,
+      15,
+      18,
+      19,
+      21,
+      22,
+      23,
+      25
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_thumbChange_special",
+    "param1": 0,
+    "param2": 13,
+    "upParam2": 0
+  },
+  {
+    "id": 60,
+    "index": 302,
+    "show": "升级",
+    "type": "kunlun",
+    "key": "q",
+    "codeKey": "q",
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      14,
+      17
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 61,
+    "index": 303,
+    "show": "拆除",
+    "type": "kunlun",
+    "key": "e",
+    "codeKey": "e",
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      14,
+      15
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 62,
+    "index": 304,
+    "show": "建造建筑1",
+    "type": "kunlun",
+    "key": 1,
+    "codeKey": 1,
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      14,
+      15,
+      31
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 63,
+    "index": 305,
+    "show": "建造建筑2",
+    "type": "kunlun",
+    "key": 2,
+    "codeKey": 2,
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      14,
+      15,
+      31
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 64,
+    "index": 306,
+    "show": "建造建筑3",
+    "type": "kunlun",
+    "key": 3,
+    "codeKey": 3,
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      14,
+      15,
+      31
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 65,
+    "index": 307,
+    "show": "建造建筑4",
+    "type": "kunlun",
+    "key": 4,
+    "codeKey": 4,
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      14,
+      15,
+      31
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 66,
+    "index": 308,
+    "show": "建造建筑5",
+    "type": "kunlun",
+    "key": 5,
+    "codeKey": 5,
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      14,
+      15,
+      31
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 67,
+    "index": 309,
+    "show": "建造建筑6",
+    "type": "kunlun",
+    "key": 6,
+    "codeKey": 6,
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      14,
+      15,
+      31
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 68,
+    "index": 310,
+    "show": "反对投票",
+    "type": "kunlun",
+    "key": "v_3",
+    "codeKey": "v",
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      13,
+      14,
+      15,
+      17
+    ],
+    "keyEmit": "event_no_kunlun_skip_wait",
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 69,
+    "index": 311,
+    "show": "赞成投票",
+    "type": "kunlun",
+    "key": "b_3",
+    "codeKey": "b",
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      13,
+      14,
+      15,
+      17
+    ],
+    "keyEmit": "event_ok_kunlun_skip_wait",
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 70,
+    "index": 401,
+    "show": "切换玩家显示状态",
+    "type": "worldBoss",
+    "key": "p",
+    "codeKey": "p",
+    "group": 17,
+    "groupShare": [
+      5,
+      11,
+      14,
+      15,
+      16
+    ],
+    "param2": 0,
+    "upParam2": 0
+  },
+  {
+    "id": 72,
+    "index": 501,
+    "show": "上升",
+    "type": "sacredTower",
+    "key": "w",
+    "codeKey": "w",
+    "group": 26,
+    "groupShare": [
+      19,
+      23,
+      27,
+      29
+    ],
+    "keyEmit": "event_thumbChange_special",
+    "param1": 0,
+    "param2": 15
+  },
+  {
+    "id": 73,
+    "index": 502,
+    "show": "下降",
+    "type": "sacredTower",
+    "key": "s",
+    "codeKey": "s",
+    "group": 26,
+    "groupShare": [
+      28,
+      30
+    ],
+    "keyEmit": "event_thumbChange_special",
+    "param1": 0,
+    "param2": 16
+  },
+  {
+    "id": 74,
+    "index": 108,
+    "show": "快捷使用道具",
+    "type": "com",
+    "key": "t",
+    "codeKey": "t",
+    "group": 13
+  },
+  {
+    "id": 75,
+    "index": 601,
+    "show": "衍生键位1",
+    "type": "godWar",
+    "key": 1,
+    "codeKey": 1,
+    "group": 31,
+    "groupShare": [
+      16
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_release_call_monster_function",
+    "param1": 0,
+    "param2": 0
+  },
+  {
+    "id": 76,
+    "index": 602,
+    "show": "衍生键位2",
+    "type": "godWar",
+    "key": 2,
+    "codeKey": 2,
+    "group": 31,
+    "groupShare": [
+      16
+    ],
+    "importantKey": 1,
+    "keyEmit": "event_release_call_monster_function",
+    "param1": 1,
+    "param2": 0
+  },
+  {
+    "id": 77,
+    "index": 503,
+    "show": "解锁",
+    "type": "sacredTower",
+    "key": "g",
+    "codeKey": "g",
+    "group": 26,
+    "groupShare": [
+      13
+    ]
+  },
+  {
+    "id": 78,
+    "index": 504,
+    "show": "小地图",
+    "type": "sacredTower",
+    "key": "n",
+    "codeKey": "n",
+    "group": 26
+  },
+  {
+    "id": 79,
+    "index": 109,
+    "show": "同意复活",
+    "type": "com",
+    "key": "r",
+    "codeKey": "r",
+    "group": 13
+  },
+  {
+    "id": 80,
+    "index": 110,
+    "show": "拒绝复活",
+    "type": "com",
+    "key": "y",
+    "codeKey": "y",
+    "group": 13
+  },
+  {
+    "id": 81,
+    "index": 24,
+    "show": "切换指令",
+    "type": "p1",
+    "key": "point",
+    "codeKey": ".",
+    "group": 32,
+    "keyEmit": "event_flush_call_monster_state_keyboard",
+    "param1": 0
+  },
+  {
+    "id": 82,
+    "index": 48,
+    "show": "切换指令",
+    "type": "p2",
+    "key": "/",
+    "codeKey": "/",
+    "group": 33,
+    "keyEmit": "event_flush_call_monster_state_keyboard",
+    "param1": 1
+  },
+  {
+    "id": 83,
+    "index": 312,
+    "show": "一键建造",
+    "type": "kunlun",
+    "key": "x",
+    "group": 16,
+    "groupShare": [
+      5,
+      11,
+      13,
+      14,
+      15,
+      17
+    ]
+  }
+]

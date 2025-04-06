@@ -1,0 +1,3276 @@
+[
+  {
+    "id": 1,
+    "file": "newguider1",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 2,
+    "file": "newguider2",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 3,
+    "file": "newguider3",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 4,
+    "file": "newguider4",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 5,
+    "file": "newguider5",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 6,
+    "file": "newguider6",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 7,
+    "file": "BGM_KillBoss-1",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 101,
+    "file": "01-wukong-attack1",
+    "group": 101,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 102,
+    "file": "01-wukong-attack2",
+    "group": 102,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 103,
+    "file": "01-wukong-attack3",
+    "group": 103,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 104,
+    "file": "01-wukong-attack4",
+    "group": 104,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 105,
+    "file": "01-wukong-sky_c_hit_1",
+    "group": 105,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 106,
+    "file": "01-wukong-sky_c_hit_2",
+    "group": 106,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 107,
+    "file": "01-wukong-sky_c_hit_3",
+    "group": 107,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 108,
+    "file": "01-wukong-sky_c_hit_4",
+    "group": 108,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 109,
+    "file": "01-wukong-skill1",
+    "group": 109,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 110,
+    "file": "01-wukong-skill2",
+    "group": 110,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 111,
+    "file": "01-wukong-skill3",
+    "group": 111,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 112,
+    "file": "01-wukong-skill4",
+    "group": 112,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 113,
+    "file": "01-wukong-skill5-1",
+    "group": 113,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 114,
+    "file": "01-wukong-skill5-2",
+    "group": 114,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 115,
+    "file": "01-wukong-skill4_2",
+    "group": 115,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 201,
+    "file": "101-moyuan-attack1",
+    "group": 201,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 202,
+    "file": "101-moyuan-attack2",
+    "group": 202,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 203,
+    "file": "101-moyuan-attack3",
+    "group": 203,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 204,
+    "file": "101-moyuan-attack4",
+    "group": 204,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 205,
+    "file": "101-moyuan-sky_c_hit_1",
+    "group": 205,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 206,
+    "file": "101-moyuan-skill1",
+    "group": 206,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 207,
+    "file": "101-moyuan-skill2",
+    "group": 207,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 208,
+    "file": "101-moyuan-skill3",
+    "group": 208,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 209,
+    "file": "101-moyuan-skill4",
+    "group": 209,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 301,
+    "file": "301-tangseng-attack1",
+    "group": 301,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 302,
+    "file": "302-tangseng-skill1",
+    "group": 302,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 303,
+    "file": "303-tangseng-skill2_1",
+    "group": 303,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 304,
+    "file": "304-tangseng-skill2_2",
+    "group": 303,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 305,
+    "file": "305-tangseng-skill2_3",
+    "group": 303,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 306,
+    "file": "306-tangseng-skill3",
+    "group": 306,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 307,
+    "file": "307-tangseng-skill4_1",
+    "group": 307,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 308,
+    "file": "308-tangseng-skill4_2",
+    "group": 307,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 309,
+    "file": "309-tangseng-skill5_1",
+    "group": 309,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 310,
+    "file": "310-tangseng-skill5_2",
+    "group": 310,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 401,
+    "file": "401-jinchanzi_attack1",
+    "group": 401,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 402,
+    "file": "402-jinchanzi_attack2",
+    "group": 402,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 403,
+    "file": "403-jinchanzi_skill1",
+    "group": 403,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 404,
+    "file": "404-jinchanzi_skill2",
+    "group": 404,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 405,
+    "file": "405-jinchanzi_skill3",
+    "group": 405,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 406,
+    "file": "406-jinchanzi_skill4",
+    "group": 406,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 501,
+    "file": "501-bajie-attack1",
+    "group": 501,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 502,
+    "file": "502-bajie-attack2",
+    "group": 502,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 503,
+    "file": "503-bajie-attack3",
+    "group": 503,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 504,
+    "file": "504-bajie-attack4",
+    "group": 504,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 505,
+    "file": "505-bajie-sky_c_hit_1",
+    "group": 505,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 506,
+    "file": "506-bajie-sky_c_hit_2",
+    "group": 506,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 507,
+    "file": "507-bajie-sky_c_hit_3",
+    "group": 507,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 508,
+    "file": "508-bajie-sky_c_hit_4",
+    "group": 508,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 509,
+    "file": "509-bajie-skill4_1",
+    "group": 509,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 510,
+    "file": "510-bajie-jue1_skill4_1",
+    "group": 510,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 511,
+    "file": "511-bajie-jue1_skill4_2",
+    "group": 511,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 512,
+    "file": "512-bajie-jue1_skill4_3",
+    "group": 512,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 513,
+    "file": "513-bajie-skill1",
+    "group": 513,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 514,
+    "file": "514-bajie-jue1_skill1_1",
+    "group": 514,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 515,
+    "file": "515-bajie-skill2",
+    "group": 515,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 516,
+    "file": "516-bajie-jue1_skill2_1",
+    "group": 516,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 517,
+    "file": "517-bajie-skill3_1",
+    "group": 517,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 518,
+    "file": "518-bajie-skill3_2",
+    "group": 517,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 519,
+    "file": "519-bajie-skill3_3",
+    "group": 517,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 520,
+    "file": "520-bajie-skill3_4",
+    "group": 517,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 521,
+    "file": "521-bajie-appear",
+    "group": 521,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 601,
+    "file": "601-bajie-attack1",
+    "group": 601,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 602,
+    "file": "602-bajie-attack2",
+    "group": 602,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 603,
+    "file": "603-bajie-attack3",
+    "group": 603,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 604,
+    "file": "604-bajie-attack4",
+    "group": 604,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 605,
+    "file": "605-bajie-skill1",
+    "group": 605,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 606,
+    "file": "606-bajie-skill2",
+    "group": 606,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 607,
+    "file": "607-bajie-skill3",
+    "group": 607,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 608,
+    "file": "608-bajie-skill4_1",
+    "group": 608,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 609,
+    "file": "609-bajie-skill4_2",
+    "group": 608,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 610,
+    "file": "610-bajie-skill4_3",
+    "group": 608,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 701,
+    "file": "701_longnv-attack1",
+    "group": 701,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 702,
+    "file": "702-longnv-attack2",
+    "group": 702,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 703,
+    "file": "703_longnv-attack3",
+    "group": 703,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 704,
+    "file": "704_longnv-attack4",
+    "group": 704,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 705,
+    "file": "705-longnv-sky_c_hit_1",
+    "group": 705,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 706,
+    "file": "706-longnv-sky_c_hit_2",
+    "group": 706,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 707,
+    "file": "707-longnv-sky_c_hit_3",
+    "group": 707,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 708,
+    "file": "708-longnv_skill1",
+    "group": 708,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 709,
+    "file": "709-longnv-jue1_skill1_2",
+    "group": 708,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 710,
+    "file": "710-longnv-jue2_skill1_2",
+    "group": 708,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 711,
+    "file": "711-longnv-skill2",
+    "group": 711,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 712,
+    "file": "712-longnv-jue1_skill2_1",
+    "group": 712,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 713,
+    "file": "713-longnv-jue2_skill2_1",
+    "group": 713,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 714,
+    "file": "714-longnv-vskill2_3",
+    "group": 714,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 715,
+    "file": "715-longnv-skill3_1",
+    "group": 715,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 716,
+    "file": "716-longnv-skill3_2",
+    "group": 716,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 717,
+    "file": "717-longnv-jue1_skill3_2",
+    "group": 717,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 718,
+    "file": "718-longnv-jue2_skill3_2",
+    "group": 718,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 719,
+    "file": "719-longnv-vskill3_2",
+    "group": 719,
+    "state": 0,
+    "vol": 0.2,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 720,
+    "file": "720-longnv-skill4",
+    "group": 720,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 721,
+    "file": "721-longnv-jue1_skill4",
+    "group": 721,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 722,
+    "file": "722-longnv-jue2_skill4",
+    "group": 722,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 723,
+    "file": "723-skill5",
+    "group": 723,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 724,
+    "file": "724-longnv-skill1",
+    "group": 708,
+    "state": 1,
+    "vol": 0.05,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 801,
+    "file": "801-longnv-attack1",
+    "group": 801,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 802,
+    "file": "802-longnv-attack2",
+    "group": 802,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 803,
+    "file": "803-longnv-attack3",
+    "group": 803,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 804,
+    "file": "804-longnv-attack4",
+    "group": 804,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 805,
+    "file": "805-longnv-sky_c_hit_1",
+    "group": 805,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 806,
+    "file": "806-longnv-sky_c_hit_2",
+    "group": 806,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 807,
+    "file": "807-longnv-skill1",
+    "group": 807,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 808,
+    "file": "808-longnv-skill2",
+    "group": 808,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 809,
+    "file": "809-longnv-skill3",
+    "group": 809,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 810,
+    "file": "810-longnv-skill4",
+    "group": 810,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 811,
+    "file": "811-longnv-skill4_1",
+    "group": 811,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 812,
+    "file": "812-longnv-skill4_2",
+    "group": 811,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 901,
+    "file": "901-attack1",
+    "group": 901,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 902,
+    "file": "902-attack2",
+    "group": 902,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 903,
+    "file": "903-attack3",
+    "group": 903,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 904,
+    "file": "904-attack4",
+    "group": 904,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 905,
+    "file": "905-sky_c_hit_1",
+    "group": 905,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 906,
+    "file": "906-sky_c_hit_2",
+    "group": 906,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 907,
+    "file": "907-sky_c_hit_3",
+    "group": 907,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 911,
+    "file": "911-skill1_1",
+    "group": 911,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 912,
+    "file": "912-skill1_2",
+    "group": 912,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 913,
+    "file": "913-skill1_3",
+    "group": 913,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 921,
+    "file": "921-skill2_1",
+    "group": 921,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 922,
+    "file": "922-skill2_2",
+    "group": 922,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 931,
+    "file": "931-skill3_1",
+    "group": 931,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 932,
+    "file": "932-skill3_2",
+    "group": 932,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 941,
+    "file": "941-skill4_1",
+    "group": 941,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 942,
+    "file": "942-skill4_2",
+    "group": 942,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 943,
+    "file": "943-skill4_3",
+    "group": 943,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 951,
+    "file": "951-skill5_1",
+    "group": 951,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 952,
+    "file": "952-skill5_2",
+    "group": 952,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1001,
+    "file": "1001-attack1",
+    "group": 1001,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1002,
+    "file": "1002-attack2",
+    "group": 1002,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1003,
+    "file": "1003-attack3",
+    "group": 1003,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1004,
+    "file": "1004-attack4",
+    "group": 1004,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1005,
+    "file": "1005-sky_c_hit_1",
+    "group": 1005,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1006,
+    "file": "1006-sky_c_hit_2",
+    "group": 1006,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1011,
+    "file": "1011-skill1",
+    "group": 1011,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1021,
+    "file": "1021-skill2",
+    "group": 1021,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1031,
+    "file": "1031-skill3",
+    "group": 1031,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1041,
+    "file": "1041-skill4",
+    "group": 1041,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1101,
+    "file": "1101-attack1",
+    "group": 1101,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1102,
+    "file": "1102-attack2",
+    "group": 1102,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1103,
+    "file": "1103-attack3",
+    "group": 1103,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1104,
+    "file": "1104-sky_c_hit_1",
+    "group": 1104,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1105,
+    "file": "1105-attack0",
+    "group": 1105,
+    "state": 0,
+    "vol": 0.3,
+    "loop": 1,
+    "otherVol": -1,
+    "otherData": {
+      "limitMid": 7,
+      "useArrRecord": true
+    }
+  },
+  {
+    "id": 1106,
+    "file": "1106-skill1",
+    "group": 1106,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1108,
+    "file": "1108-skill1_1-jue2",
+    "group": 1108,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1109,
+    "file": "1109-skill2",
+    "group": 1109,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1112,
+    "file": "1112-skill3",
+    "group": 1112,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1115,
+    "file": "1115-skill4",
+    "group": 1115,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1118,
+    "file": "1118-skill5",
+    "group": 1118,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1119,
+    "file": "1119-skill5_1-jue1",
+    "group": 1119,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1120,
+    "file": "1120-skill5_1-jue2",
+    "group": 1120,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1201,
+    "file": "1201-fengling-skill1",
+    "group": 1201,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1202,
+    "file": "1202-fengling-skill2",
+    "group": 1202,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1203,
+    "file": "1203-shuiling-skill1",
+    "group": 1203,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1204,
+    "file": "1204-shuiling-skill2",
+    "group": 1204,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1205,
+    "file": "1205-shiling-appear",
+    "group": 1205,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1206,
+    "file": "1206-shiling-skill1",
+    "group": 1206,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1207,
+    "file": "1207-shiling-skill2",
+    "group": 1207,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1208,
+    "file": "1208-shiling-skill3",
+    "group": 1208,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1209,
+    "file": "1208-shiling-skill3_1",
+    "group": 1209,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1301,
+    "file": "1301-attack1",
+    "group": 1301,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1302,
+    "file": "1302-attack2",
+    "group": 1302,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1303,
+    "file": "1303-attack3",
+    "group": 1303,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1304,
+    "file": "1304-sky_c_hit_1",
+    "group": 1304,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1305,
+    "file": "1305-skill1",
+    "group": 1305,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1306,
+    "file": "1306-skill2",
+    "group": 1306,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1307,
+    "file": "1307-skill3",
+    "group": 1307,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1308,
+    "file": "1308-skill4",
+    "group": 1308,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1309,
+    "file": "1305-skill0",
+    "group": 1309,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1401,
+    "file": "1401-attack1",
+    "group": 1401,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 1402,
+    "file": "1402-attack0",
+    "group": 1402,
+    "state": 0,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 1404,
+    "file": "1404-skill1",
+    "group": 1404,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3001,
+    "file": "3001-jump1",
+    "group": 3001,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3002,
+    "file": "3002-jump2",
+    "group": 3002,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3003,
+    "file": "3003-land",
+    "group": 3003,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3005,
+    "file": "3005-hurt-chui",
+    "group": 3005,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3006,
+    "file": "3006-hurt-qiang",
+    "group": 3006,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3007,
+    "file": "3007-hurt-dao",
+    "group": 3007,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3008,
+    "file": "3008-hurt-gun",
+    "group": 3008,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3009,
+    "file": "3009-hurt-quan",
+    "group": 3009,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3010,
+    "file": "3010-hurt-gedang",
+    "group": 3010,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3011,
+    "file": "3011-hurt-lei",
+    "group": 3011,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3012,
+    "file": "3012-hurt-tu",
+    "group": 3012,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3013,
+    "file": "3013-hurt-feng",
+    "group": 3013,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3014,
+    "file": "3014-hurt-huo",
+    "group": 3014,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3015,
+    "file": "3015-hurt-shui",
+    "group": 3015,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3017,
+    "file": "3017-jiguang",
+    "group": 3017,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3018,
+    "file": "3018-chilun",
+    "group": 3018,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3019,
+    "file": "3019-chilun",
+    "group": 3019,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3020,
+    "file": "520-bajie-skill3_4",
+    "group": 3020,
+    "state": 1,
+    "vol": 0.3,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3021,
+    "file": "3021-langhao",
+    "group": 3021,
+    "state": 0,
+    "vol": 0.3,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3022,
+    "file": "3022-gundongxunhuan",
+    "group": 3022,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 3023,
+    "file": "3009-hurt-quan",
+    "group": 3022,
+    "state": 1,
+    "vol": 0,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3024,
+    "file": "3024-zhenji",
+    "group": 3024,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3025,
+    "file": "3025-xuli",
+    "group": 3025,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3026,
+    "file": "520-bajie-skill3_4",
+    "group": 3025,
+    "state": 1,
+    "vol": 0.35,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3027,
+    "file": "3027-gouku",
+    "group": 3027,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3028,
+    "file": "3028-xuli",
+    "group": 3028,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 3029,
+    "file": "308-tangseng-skill4_2",
+    "group": 3028,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3030,
+    "file": "3030-mumowu",
+    "group": 3030,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3031,
+    "file": "3031-shejian",
+    "group": 3031,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3032,
+    "file": "3032-bianpao",
+    "group": 3032,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3033,
+    "file": "3033-lipao",
+    "group": 3033,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3034,
+    "file": "3034-wang",
+    "group": 3034,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3035,
+    "file": "3035-wangxiaosheng",
+    "group": 3035,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3036,
+    "file": "3036-chuiziyinxiao",
+    "group": 3036,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3037,
+    "file": "3037-heartbeat",
+    "group": 3037,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3038,
+    "file": "3028-xuli",
+    "group": 3028,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3039,
+    "file": "719-longnv-vskill3_2",
+    "group": 3039,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3040,
+    "file": "704_longnv-attack4",
+    "group": 3039,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3041,
+    "file": "3041-chongchao",
+    "group": 3041,
+    "state": 1,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 3042,
+    "file": "3042-huowuxuli",
+    "group": 3042,
+    "state": 1,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 3043,
+    "file": "3043-huowubaozha",
+    "group": 3042,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13005,
+    "file": "3005-hurt-chui",
+    "group": 13005,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13006,
+    "file": "3006-hurt-qiang",
+    "group": 13006,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13007,
+    "file": "3007-hurt-dao",
+    "group": 13007,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13008,
+    "file": "3008-hurt-gun",
+    "group": 13008,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13009,
+    "file": "3009-hurt-quan",
+    "group": 13009,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13010,
+    "file": "3010-hurt-gedang",
+    "group": 13010,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13011,
+    "file": "3011-hurt-lei",
+    "group": 13011,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13012,
+    "file": "3012-hurt-tu",
+    "group": 13012,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13013,
+    "file": "3013-hurt-feng",
+    "group": 13013,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13014,
+    "file": "3014-hurt-huo",
+    "group": 13014,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13015,
+    "file": "3015-hurt-shui",
+    "group": 13015,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 13016,
+    "file": "3016-hurt-ding",
+    "group": 13016,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 23013,
+    "file": "3013-hurt-feng",
+    "group": 23013,
+    "state": 0,
+    "vol": 0,
+    "loop": 1,
+    "otherVol": -1,
+    "otherData": {
+      "useArrRecord": true
+    }
+  },
+  {
+    "id": 23014,
+    "file": "518-bajie-skill3_2",
+    "group": 23014,
+    "state": 0,
+    "vol": 0.35,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 30001,
+    "file": "30001-zhutiqu",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 30002,
+    "file": "30002-aoxuejinghong",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 30003,
+    "file": "30003-aoshitianlong",
+    "group": 1,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  },
+  {
+    "id": 100001,
+    "file": "100001-duancutuqi",
+    "group": 100001,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100002,
+    "file": "100002-tuqi",
+    "group": 100002,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100003,
+    "file": "100003-panzisuilie",
+    "group": 100003,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100010,
+    "file": "100010-guojiangluohan_skill1_1",
+    "group": 100010,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100011,
+    "file": "100011-guojiangluohan_skill1_2",
+    "group": 100011,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100012,
+    "file": "100012-guojiangluohan_skill1_3",
+    "group": 100012,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100013,
+    "file": "100013-guojiangluohan_2_1",
+    "group": 100013,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100014,
+    "file": "100014-guojiangluohan_2_2",
+    "group": 100014,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100015,
+    "file": "100015-guojiangluohan_3_1",
+    "group": 100015,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100016,
+    "file": "100016-guojiangluohan_3_2",
+    "group": 100016,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100017,
+    "file": "100017-guojiangluohan_3_3",
+    "group": 100017,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100018,
+    "file": "100018-guojiangluohan_3_4",
+    "group": 100018,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100019,
+    "file": "100019-guojiangluohan_4_1",
+    "group": 100019,
+    "state": 0,
+    "vol": 0.7,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100020,
+    "file": "100020-guojiangluohan_juanzhou_1",
+    "group": 100020,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100021,
+    "file": "100021-donglaimao_skill_1",
+    "group": 100021,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100022,
+    "file": "100022-donglaimao_skill_2",
+    "group": 100022,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100023,
+    "file": "100023-donglaimao_skill_3",
+    "group": 100023,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100024,
+    "file": "100024-donglaimao_skill_4",
+    "group": 100024,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100030,
+    "file": "100030-nanshandawang_skill_1",
+    "group": 100030,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100031,
+    "file": "100031-pipaxiannv_skill_2",
+    "group": 100031,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100032,
+    "file": "20401-monster_cfg_shayuguai_skill1_1",
+    "group": 100032,
+    "state": 1,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100033,
+    "file": "20401-monster_cfg_shayuguai_skill1_2",
+    "group": 100033,
+    "state": 0,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100034,
+    "file": "20401-monster_cfg_shayuguai_skill1_3",
+    "group": 100034,
+    "state": 0,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100035,
+    "file": "20401-monster_cfg_shayuguai_skill1_1",
+    "group": 100032,
+    "state": 1,
+    "vol": 0,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100041,
+    "file": "6200101-tuxingsun_skill3_1",
+    "group": 100041,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100051,
+    "file": "100051-luolei",
+    "group": 100051,
+    "state": 0,
+    "vol": 0.2,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100052,
+    "file": "100052-shandian_1",
+    "group": 100052,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100053,
+    "file": "100053-shandian_2",
+    "group": 100053,
+    "state": 0,
+    "vol": 0.1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100054,
+    "file": "100054-shandian_3",
+    "group": 100054,
+    "state": 0,
+    "vol": 0.4,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100061,
+    "file": "100061-shetuxing",
+    "group": 100061,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100071,
+    "file": "100071-xunhuanhuoyan",
+    "group": 100071,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100072,
+    "file": "100071-xunhuanhuoyan",
+    "group": 100071,
+    "state": 1,
+    "vol": 0,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100073,
+    "file": "100073-zhongsheng",
+    "group": 100073,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100074,
+    "file": "100074-zhongsheng",
+    "group": 100074,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100081,
+    "file": "100081-chibangshandong",
+    "group": 100081,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100082,
+    "file": "100082-wuyajiaosheng",
+    "group": 100082,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100091,
+    "file": "100091-motuoche1",
+    "group": 100091,
+    "state": 0,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100092,
+    "file": "100092-motuoche2",
+    "group": 100092,
+    "state": 0,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100093,
+    "file": "100093-motuoche3",
+    "group": 100093,
+    "state": 0,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100094,
+    "file": "100094-motuoche4",
+    "group": 100094,
+    "state": 0,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100095,
+    "file": "100095-motuoche5",
+    "group": 100095,
+    "state": 0,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100096,
+    "file": "100096-motuoche_guadang",
+    "group": 100096,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100097,
+    "file": "100097-motuoche_danqpenshe",
+    "group": 100097,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100098,
+    "file": "100098-motuoche_daiji",
+    "group": 100098,
+    "state": 0,
+    "vol": 0.5,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 100099,
+    "file": "100099-motuoche_tansheqibu",
+    "group": 100099,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100101,
+    "file": "100101-shifa",
+    "group": 100101,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100102,
+    "file": "100102-zhendi",
+    "group": 100102,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100103,
+    "file": "100103-dazhendi",
+    "group": 100103,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100104,
+    "file": "collapse",
+    "group": 100104,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100105,
+    "file": "stone_1",
+    "group": 100105,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100106,
+    "file": "stoneDoor",
+    "group": 100106,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100107,
+    "file": "earthquake_1",
+    "group": 100107,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 100108,
+    "file": "earthquake_2",
+    "group": 100108,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200001,
+    "file": "xianyindao_C4",
+    "group": 200001,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200002,
+    "file": "xianyindao_E4",
+    "group": 200002,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200003,
+    "file": "xianyindao_G4",
+    "group": 200003,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200004,
+    "file": "xianyindao_C5",
+    "group": 200004,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200005,
+    "file": "xianyindao_E5",
+    "group": 200005,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200006,
+    "file": "xianyindao_G5",
+    "group": 200006,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200007,
+    "file": "xianyindao_C6",
+    "group": 200007,
+    "state": 0,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200008,
+    "file": "xianyindao_Error",
+    "group": 200008,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200009,
+    "file": "qiongxiaoChangeFace",
+    "group": 200009,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200010,
+    "file": "11yeaswater",
+    "group": 200010,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200011,
+    "file": "11yearspeng",
+    "group": 200011,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200012,
+    "file": "happybrithday",
+    "group": 200012,
+    "state": 1,
+    "vol": 1,
+    "loop": 1,
+    "otherVol": -1
+  },
+  {
+    "id": 200013,
+    "file": "photograph",
+    "group": 200013,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200014,
+    "file": "jianjiaoji",
+    "group": 200014,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200015,
+    "file": "999121411_flower_break",
+    "group": 200015,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200020,
+    "file": "BajieStart",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200021,
+    "file": "YanJiang",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200022,
+    "file": "TiaoXiaQu",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200023,
+    "file": "XiaoGuai",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200024,
+    "file": "JiNeng",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200025,
+    "file": "WuShuang",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200026,
+    "file": "ShaSengStart",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200027,
+    "file": "LeiYun",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200028,
+    "file": "XueXueStart",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200029,
+    "file": "BeiKe",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200030,
+    "file": "ShaMoWang",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200031,
+    "file": "floorMove",
+    "group": 200031,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200032,
+    "file": "pu",
+    "group": 200032,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200033,
+    "file": "naihe",
+    "group": 200033,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200034,
+    "file": "kaiShiShaoSheng",
+    "group": 200034,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200035,
+    "file": "jinQiuShaoSheng",
+    "group": 200035,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200036,
+    "file": "wuShuangQiuFeiXing",
+    "group": 200036,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200037,
+    "file": "zuQiuFanTan1",
+    "group": 200037,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200038,
+    "file": "zuQiuFanTan2",
+    "group": 200037,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200039,
+    "file": "zuQiuPeng1",
+    "group": 200039,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200040,
+    "file": "zuQiuPeng2",
+    "group": 200039,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200041,
+    "file": "zuQiuPeng3",
+    "group": 200039,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200042,
+    "file": "BaiLongStart",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200043,
+    "file": "YuanShui",
+    "group": 200020,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200044,
+    "file": "Xiaoyan1",
+    "group": 200040,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200045,
+    "file": "Xiaoyan2",
+    "group": 200040,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200046,
+    "file": "Xiaoyan3",
+    "group": 200040,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200047,
+    "file": "Xiaoyan4",
+    "group": 200040,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200048,
+    "file": "Xiaoyan5",
+    "group": 200040,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200049,
+    "file": "Xiaoyan6",
+    "group": 200040,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200050,
+    "file": "Drums",
+    "group": 200050,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": -1
+  },
+  {
+    "id": 200061,
+    "file": "jq_xuanxing1",
+    "group": 200060,
+    "state": 1,
+    "vol": 2,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200062,
+    "file": "jq_xuanyao1",
+    "group": 200061,
+    "state": 1,
+    "vol": 2,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200063,
+    "file": "jq_xuanxing2",
+    "group": 200062,
+    "state": 1,
+    "vol": 2,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200064,
+    "file": "jq_xuanxing3",
+    "group": 200063,
+    "state": 1,
+    "vol": 2,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200065,
+    "file": "jq_xuanyao2",
+    "group": 200064,
+    "state": 1,
+    "vol": 2,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200066,
+    "file": "jq_xuanxing4",
+    "group": 200065,
+    "state": 1,
+    "vol": 2,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200067,
+    "file": "jq_xuanyao3",
+    "group": 200066,
+    "state": 1,
+    "vol": 2,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200070,
+    "file": "jq_xuanxing_fahua1",
+    "group": 200070,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200071,
+    "file": "jq_xuanxing_fahua2",
+    "group": 200071,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200072,
+    "file": "jq_xuanxing_fahua3",
+    "group": 200072,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200073,
+    "file": "jq_xuanxing_fahua4",
+    "group": 200073,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200074,
+    "file": "jq_xuanxing_fahua5",
+    "group": 200074,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200075,
+    "file": "jq_xuanxing_fahua6",
+    "group": 200075,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200076,
+    "file": "jq_xuanxing_fahua7",
+    "group": 200076,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200077,
+    "file": "jq_xuanxing_fahua8",
+    "group": 200077,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200078,
+    "file": "jq_xuanxing_fahua9",
+    "group": 200078,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200079,
+    "file": "jq_xuanxing_fahua10",
+    "group": 200079,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200080,
+    "file": "jq_xuanyao_fahua1",
+    "group": 200080,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200081,
+    "file": "jq_xuanyao_fahua2",
+    "group": 200081,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200082,
+    "file": "jq_xuanyao_fahua3",
+    "group": 200082,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200083,
+    "file": "jq_xuanyao_fahua4",
+    "group": 200083,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200084,
+    "file": "jq_xuanyao_fahua5",
+    "group": 200084,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200085,
+    "file": "jq_xuanyao_fahua6",
+    "group": 200085,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200086,
+    "file": "jq_xuanyao_fahua7",
+    "group": 200086,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200087,
+    "file": "jq_xuanyao_fahua8",
+    "group": 200087,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 200088,
+    "file": "jq_xuanyao_fahua9",
+    "group": 200088,
+    "state": 1,
+    "vol": 3,
+    "loop": 0,
+    "otherVol": 0.4
+  },
+  {
+    "id": 2140603,
+    "file": "2140603-role_wangwang",
+    "group": 2140603,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.5
+  },
+  {
+    "id": 2140604,
+    "file": "2140604-role_wangwang",
+    "group": 2140604,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.5
+  },
+  {
+    "id": 2140605,
+    "file": "9012-role_wangwang",
+    "group": 2140605,
+    "state": 1,
+    "vol": 1,
+    "loop": 0,
+    "otherVol": 0.1
+  }
+]

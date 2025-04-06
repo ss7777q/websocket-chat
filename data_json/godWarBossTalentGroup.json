@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "talentGroups": [
+      1004,
+      1013,
+      1009
+    ],
+    "godWar": [
+      1,
+      13
+    ],
+    "limitType": [
+      [
+        1,
+        [
+          60
+        ]
+      ]
+    ],
+    "talentLimit": 1500
+  },
+  {
+    "id": 2,
+    "talentGroups": [
+      1001,
+      1003,
+      1011
+    ],
+    "godWar": [
+      4,
+      13
+    ],
+    "limitType": [
+      [
+        1,
+        [
+          90
+        ]
+      ]
+    ],
+    "talentLimit": 1500,
+    "limitRankValue": 1000
+  },
+  {
+    "id": 3,
+    "talentGroups": [
+      1005,
+      1017,
+      1012
+    ],
+    "godWar": [
+      7,
+      13
+    ],
+    "limitType": [
+      [
+        1,
+        [
+          120
+        ]
+      ]
+    ],
+    "talentLimit": 1500,
+    "limitRankValue": 1000
+  },
+  {
+    "id": 4,
+    "talentGroups": [
+      1014,
+      1015,
+      1016
+    ],
+    "godWar": [
+      10,
+      13
+    ],
+    "limitType": [
+      [
+        1,
+        [
+          150
+        ]
+      ]
+    ],
+    "talentLimit": 1500,
+    "limitRankValue": 1500
+  }
+]

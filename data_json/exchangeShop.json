@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "itemId": 1001001,
+    "shopType": "stoneShop",
+    "exchangeItem": [
+      [
+        410000,
+        3
+      ]
+    ],
+    "isShow": 1
+  },
+  {
+    "id": 2,
+    "itemId": 1002001,
+    "shopType": "stoneShop",
+    "exchangeItem": [
+      [
+        410000,
+        3
+      ]
+    ],
+    "isShow": 1
+  },
+  {
+    "id": 3,
+    "itemId": 1003001,
+    "shopType": "stoneShop",
+    "exchangeItem": [
+      [
+        410000,
+        3
+      ]
+    ],
+    "isShow": 1,
+    "timeStart": "2019-03-11 16:23:21",
+    "timeEnd": "2019-06-11 16:23:30"
+  },
+  {
+    "id": 4,
+    "itemId": 1009001,
+    "shopType": "stoneShop",
+    "exchangeItem": [
+      [
+        410000,
+        3
+      ]
+    ],
+    "isShow": 1,
+    "timeStart": "2019-06-11 16:23:30",
+    "timeEnd": "2019-09-11 16:23:36"
+  }
+]

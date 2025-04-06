@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "dropGroup": [
+      101,
+      9,
+      3,
+      6,
+      53,
+      56,
+      102,
+      103,
+      104,
+      112
+    ],
+    "typeGroupWeight": [
+      [
+        "skill",
+        "keyRoom",
+        "beskill",
+        "attribute",
+        "SpecialProp",
+        "lotus",
+        "gold"
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "dropGroup": [
+      101,
+      9,
+      4,
+      6,
+      54,
+      56,
+      102,
+      103,
+      104,
+      112
+    ],
+    "typeGroupWeight": [
+      [
+        "skill",
+        "keyRoom",
+        "beskill",
+        "attribute",
+        "SpecialProp",
+        "lotus",
+        "gold"
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "dropGroup": [
+      101,
+      3,
+      4,
+      6,
+      53,
+      54,
+      56,
+      102,
+      103,
+      104,
+      112
+    ],
+    "typeGroupWeight": [
+      [
+        "skill",
+        "keyRoom",
+        "beskill",
+        "attribute",
+        "SpecialProp",
+        "lotus",
+        "gold"
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4
+      ]
+    ]
+  }
+]

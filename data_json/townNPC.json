@@ -1,0 +1,620 @@
+[
+  {
+    "id": 9990001,
+    "name": "汪汪",
+    "function": "汪汪",
+    "town": [
+      101,
+      111,
+      121,
+      122,
+      141
+    ],
+    "preStage": 10101,
+    "canDialogue": 1,
+    "dialogue": "我可是一只很好的汪汪，让我们一起携手造梦快乐无双。",
+    "diaResource": [
+      "NPC1-9990001",
+      -190,
+      -138
+    ]
+  },
+  {
+    "id": 9990101,
+    "name": "猴长老",
+    "function": "引导、联盟",
+    "town": [
+      101
+    ],
+    "preStage": 10101,
+    "canDialogue": 1,
+    "dialogue": "我在花果山可是德高望重啊，老夫活了几百岁见证了多少大人物出世。花果山的事情就没有我不知道的。",
+    "showSysKeys": [
+      "league"
+    ],
+    "jump1": "leaguePanel",
+    "diaResource": [
+      "NPC1-000004",
+      -190,
+      -138
+    ],
+    "titleIcon": "xiulianzi"
+  },
+  {
+    "id": 9990102,
+    "name": "观音",
+    "function": "法宝相关",
+    "town": [
+      101
+    ],
+    "limitType": [
+      [
+        4,
+        [
+          160501
+        ]
+      ],
+      [
+        3,
+        [
+          102002011,
+          102002012,
+          102002033
+        ]
+      ]
+    ],
+    "limitOpposite": 1,
+    "preStage": 10301,
+    "canDialogue": 1,
+    "dialogue": "一切有为法，如梦幻泡影，如露亦如电，应做如是观。不懂没关系，我也不是很懂，你自己去找懂得人问问吧。",
+    "showSysKeys": [
+      "rubbishBox"
+    ],
+    "diaResource": [
+      "NPC1-000002",
+      -190,
+      -138
+    ],
+    "titleIcon": "fabaozi"
+  },
+  {
+    "id": 9990103,
+    "name": "公冶灵儿",
+    "function": "宠物、坐骑相关",
+    "town": [
+      101
+    ],
+    "preStage": 10401,
+    "canDialogue": 1,
+    "dialogue": "小白兔，白又白，两只耳朵竖起来。在家里呆着好无聊，好想让人带我出去玩啊。",
+    "showSysKeys": [
+      "petForest",
+      "petMatingMyMarket",
+      "petRideWarehouse"
+    ],
+    "jump1": "petForest",
+    "diaResource": [
+      "NPC1-000001",
+      -190,
+      -138
+    ],
+    "titleIcon": "chongwuzi"
+  },
+  {
+    "id": 9990104,
+    "name": "猴铁匠",
+    "function": "锻造（强化、打造）",
+    "town": [
+      101
+    ],
+    "preStage": 10501,
+    "canDialogue": 1,
+    "dialogue": "我可是花果山第一铁匠，我的手艺可是很出名的。想要强化装备找我，想要打造装备也来找我。保管让你满意啊。",
+    "showSysKeys": [
+      "equipLvChange",
+      "equipRoleChange"
+    ],
+    "jump1": "equipMake",
+    "diaResource": [
+      "NPC1-000003",
+      -190,
+      -138
+    ],
+    "titleIcon": "duanzhaozi"
+  },
+  {
+    "id": 9990105,
+    "name": "神秘商人",
+    "function": "商店",
+    "town": [
+      101,
+      111,
+      121,
+      122,
+      141
+    ],
+    "preStage": 20201,
+    "canDialogue": 1,
+    "dialogue": "上仙，买点东西吗。我可是三界最良心的商人啊，不少神兵利器，天材地宝都是从我手上卖出去的。快看看吧。",
+    "showSysKeys": [
+      "storeExchange",
+      "storeMystery"
+    ],
+    "jump1": "shopChoice",
+    "diaResource": [
+      "NPC1-000005",
+      -190,
+      -138
+    ],
+    "titleIcon": "shangdianzi"
+  },
+  {
+    "id": 9990106,
+    "name": "公告栏",
+    "function": "悬赏任务",
+    "town": [
+      101,
+      111,
+      121,
+      122,
+      141
+    ],
+    "sysId": 2,
+    "preStage": 10301,
+    "canDialogue": 0,
+    "jump1": "offerAReward",
+    "diaResource": [
+      "NPC1-000001",
+      -190,
+      -138
+    ],
+    "titleIcon": "xuanszi"
+  },
+  {
+    "id": 9990107,
+    "name": "炼丹炉",
+    "function": "合成",
+    "town": [
+      101,
+      111,
+      121,
+      122,
+      141
+    ],
+    "preStage": 10501,
+    "canDialogue": 0,
+    "showSysKeys": [
+      "compose"
+    ],
+    "jump1": "synthesisPanel",
+    "diaResource": [
+      "NPC1-000007",
+      -190,
+      -138
+    ],
+    "titleIcon": "hechengzi"
+  },
+  {
+    "id": 9990108,
+    "name": "仓库",
+    "function": "存放物品",
+    "town": [
+      101
+    ],
+    "canDialogue": 0,
+    "diaResource": [
+      "NPC1-000001",
+      -190,
+      -138
+    ]
+  },
+  {
+    "id": 9990109,
+    "name": "分水将军",
+    "function": "任务NPC",
+    "town": [
+      101
+    ],
+    "preStage": 20301,
+    "canDialogue": 1,
+    "dialogue": "上仙！此次东胜神洲遭遇此劫天庭又坐视不理，只有如此威震三界，法力通天的上仙可以拯救这个世界了。",
+    "diaResource": [
+      "NPC1-000006",
+      -190,
+      -138
+    ],
+    "titleIcon": "xuanszi"
+  },
+  {
+    "id": 9990110,
+    "name": "花果山传送门",
+    "function": "主城传送",
+    "town": [
+      101
+    ],
+    "preStage": 30501,
+    "canDialogue": 0,
+    "jump1": "town0",
+    "diaResource": [
+      "NPC1-000006",
+      -190,
+      -138
+    ],
+    "titleIcon": "chuansong"
+  },
+  {
+    "id": 9990111,
+    "name": "活动小猴子A",
+    "function": "活动宣传",
+    "town": [
+      101,
+      111,
+      121,
+      122
+    ],
+    "preStage": 30501,
+    "canDialogue": 0
+  },
+  {
+    "id": 9990112,
+    "name": "活动小猴子B",
+    "function": "活动宣传",
+    "town": [
+      101,
+      111,
+      121,
+      122
+    ],
+    "preStage": 30501,
+    "canDialogue": 0
+  },
+  {
+    "id": 9990113,
+    "name": "新仓库",
+    "function": "存放物品",
+    "town": [
+      101,
+      111,
+      121,
+      122,
+      141
+    ],
+    "preStage": 10101,
+    "canDialogue": 0,
+    "jump1": "storehousePanel",
+    "diaResource": [
+      "NPC1-000001",
+      -190,
+      -138
+    ],
+    "titleIcon": "cangku"
+  },
+  {
+    "id": 9990114,
+    "name": "黎山老母",
+    "function": "黎山老母",
+    "town": [
+      101
+    ],
+    "limitType": [
+      [
+        4,
+        [
+          160501
+        ]
+      ],
+      [
+        3,
+        [
+          102002011,
+          102002012,
+          102002033
+        ]
+      ]
+    ],
+    "canDialogue": 1,
+    "dialogue": "玄者，自然之师祖，而万殊之大宗也。既为仙神，理应守护这天下众生。",
+    "showSysKeys": [
+      "rubbishBox"
+    ],
+    "diaResource": [
+      "NPC1-9990114",
+      -190,
+      -138
+    ]
+  },
+  {
+    "id": 9990201,
+    "name": "魏征",
+    "function": "存放物品",
+    "town": [
+      111
+    ],
+    "preStage": 30501,
+    "canDialogue": 1,
+    "dialogue": "地府遭此大劫，我等小仙法力低微又被困在地府，无法向外求救。只盼上仙能够拯救地府脱此困局。",
+    "showSysKeys": [
+      "tenjinArena"
+    ],
+    "diaResource": [
+      "9990201",
+      -190,
+      -138
+    ],
+    "titleIcon": "xuanszi"
+  },
+  {
+    "id": 9990202,
+    "name": "地藏菩萨",
+    "function": "存放物品",
+    "town": [
+      111
+    ],
+    "limitType": [
+      [
+        4,
+        [
+          160501
+        ]
+      ],
+      [
+        3,
+        [
+          102002111
+        ]
+      ]
+    ],
+    "limitOpposite": 1,
+    "preStage": 50201,
+    "canDialogue": 1,
+    "dialogue": "一切法都依妄心为本而生，但是妄心并无自体，它也是依妄境而有。",
+    "diaResource": [
+      "9990202",
+      -190,
+      -138
+    ],
+    "titleIcon": "xuanszi"
+  },
+  {
+    "id": 9990203,
+    "name": "黑市商人",
+    "function": "存放物品",
+    "town": [
+      111,
+      121,
+      122,
+      141
+    ],
+    "preStage": 40301,
+    "canDialogue": 1,
+    "dialogue": "上仙，来不来买些东西啊。我这里可都是好东西。不买也可以来看看吗。",
+    "showSysKeys": [
+      "storeBlack"
+    ],
+    "diaResource": [
+      "9990203",
+      -190,
+      -138
+    ],
+    "titleIcon": "xuanszi"
+  },
+  {
+    "id": 9990204,
+    "name": "排行榜",
+    "function": "查看战力排行",
+    "town": [
+      111,
+      121,
+      122,
+      141
+    ],
+    "sysId": 39,
+    "canDialogue": 0,
+    "jump1": "worldRankPanel",
+    "diaResource": [
+      "NPC1-000007",
+      -190,
+      -138
+    ],
+    "titleIcon": "paihangb"
+  },
+  {
+    "id": 9990205,
+    "name": "地府传送门",
+    "function": "主城传送",
+    "town": [
+      111
+    ],
+    "preStage": 30501,
+    "canDialogue": 0,
+    "jump1": "town0",
+    "diaResource": [
+      "NPC1-000006",
+      -190,
+      -138
+    ],
+    "titleIcon": "chuansong"
+  },
+  {
+    "id": 9990301,
+    "name": "瑶池仙女",
+    "function": "存放物品",
+    "town": [
+      121,
+      122
+    ],
+    "canDialogue": 1,
+    "dialogue": "这昆仑虚有上古先天大阵守护，能暂时躲过二郎神的入侵。但也只是暂时，还要尽快想办法解天庭危机。",
+    "showSysKeys": [
+      "defenKunLun"
+    ],
+    "diaResource": [
+      "yaochixiannv",
+      -190,
+      -138
+    ],
+    "titleIcon": "xuanszi"
+  },
+  {
+    "id": 9990302,
+    "name": "太白金星",
+    "function": "存放物品",
+    "town": [
+      121,
+      122
+    ],
+    "preStage": 70101,
+    "canDialogue": 1,
+    "dialogue": "老夫整日东奔西跑，还不是为了三界太平，很多人就是不懂，总说我游手好闲。哎……",
+    "showSysKeys": [
+      "tenjinArena"
+    ],
+    "diaResource": [
+      "taibaijinxing",
+      -190,
+      -138
+    ],
+    "titleIcon": "xuanszi"
+  },
+  {
+    "id": 9990303,
+    "name": "瑶池仙女",
+    "function": "守卫昆仑山",
+    "town": [
+      121,
+      122
+    ],
+    "canDialogue": 1,
+    "dialogue": "感谢上仙的保护，一定要阻止他们破坏昆仑大阵。否则仙界将失去最后一片安宁之地。",
+    "diaResource": [
+      "yaochixiannv",
+      -190,
+      -138
+    ],
+    "titleIcon": "xuanszi"
+  },
+  {
+    "id": 9990304,
+    "name": "招摇山",
+    "function": "招摇山",
+    "town": [
+      121,
+      122
+    ],
+    "preStage": 70101,
+    "canDialogue": 0,
+    "jump1": "zhaoYaoMountainUi",
+    "diaResource": [
+      "NPC1-000001",
+      -190,
+      -138
+    ],
+    "titleIcon": "zhaoyaoshanzi"
+  },
+  {
+    "id": 19900101,
+    "name": "幽怜",
+    "function": "书商",
+    "town": [],
+    "canDialogue": 1,
+    "dialogue": "小女子收尽天下藏书，上仙参与玲珑挑战。是否有兴趣用行囊中的书籍与小女子交换。",
+    "diaResource": [
+      "19900101",
+      -190,
+      -138
+    ]
+  },
+  {
+    "id": 19900201,
+    "name": "捧珠龙女",
+    "function": "捧珠龙女",
+    "town": [],
+    "canDialogue": 0,
+    "diaResource": [
+      "19900201",
+      -190,
+      -138
+    ]
+  },
+  {
+    "id": 9991700011,
+    "name": "渔夫",
+    "function": "渔夫",
+    "town": [
+      999170001
+    ],
+    "canDialogue": 1,
+    "dialogue": "老朽在这里钓鱼上千年，却一条鱼也钓不上来。不知道是我不行，还是这水不行。",
+    "diaResource": [
+      "9991700011",
+      -190,
+      -138
+    ]
+  },
+  {
+    "id": 9991700021,
+    "name": "矿主",
+    "function": "矿主",
+    "town": [
+      999170002
+    ],
+    "canDialogue": 1,
+    "dialogue": "我想要的我自己挖，无论多少年我一定能挖到。",
+    "diaResource": [
+      "9991700021",
+      -190,
+      -138
+    ]
+  },
+  {
+    "id": 9991700022,
+    "name": "蓝晶采矿机",
+    "function": "蓝晶采矿机",
+    "town": [
+      999170002
+    ],
+    "canDialogue": 1
+  },
+  {
+    "id": 9991700023,
+    "name": "绿水采矿机",
+    "function": "绿水采矿机",
+    "town": [
+      999170002
+    ],
+    "canDialogue": 1
+  },
+  {
+    "id": 9991700024,
+    "name": "紫岩采矿机",
+    "function": "紫岩采矿机",
+    "town": [
+      999170002
+    ],
+    "canDialogue": 1
+  },
+  {
+    "id": 9991700025,
+    "name": "红焰采矿机",
+    "function": "红焰采矿机",
+    "town": [
+      999170002
+    ],
+    "canDialogue": 1
+  },
+  {
+    "id": 9991700031,
+    "name": "灵仙子",
+    "function": "灵仙子",
+    "town": [
+      999170003
+    ],
+    "canDialogue": 1,
+    "dialogue": "自己的土，自己的地。种什么倒是无所谓了！",
+    "diaResource": [
+      "9991700031",
+      -190,
+      -138
+    ]
+  }
+]

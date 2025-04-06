@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "friendValue": [
+      0,
+      200
+    ],
+    "iconFile": "psxf"
+  },
+  {
+    "id": 2,
+    "friendValue": [
+      200,
+      600
+    ],
+    "iconFile": "xjhw"
+  },
+  {
+    "id": 3,
+    "friendValue": [
+      600,
+      2500
+    ],
+    "iconFile": "ztdh"
+  },
+  {
+    "id": 4,
+    "friendValue": [
+      2500,
+      5000
+    ],
+    "iconFile": "gdxz"
+  },
+  {
+    "id": 5,
+    "friendValue": [
+      5000,
+      10000
+    ],
+    "iconFile": "mnzj"
+  },
+  {
+    "id": 6,
+    "friendValue": [
+      10000,
+      20000
+    ],
+    "iconFile": "ssbl",
+    "isMaxLevel": 1
+  }
+]

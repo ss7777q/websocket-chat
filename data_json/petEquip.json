@@ -1,0 +1,12866 @@
+[
+  {
+    "id": 210101,
+    "part": "head",
+    "type": 11,
+    "level": 1,
+    "upgradeModulus": 10,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        338,
+        608
+      ]
+    ],
+    "bestValue": [
+      [
+        608,
+        675
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 0,
+    "affixLevel": 1010,
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead1",
+    "sellCost": [
+      [
+        210000,
+        [
+          9,
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210102,
+    "part": "armor",
+    "type": 11,
+    "level": 1,
+    "upgradeModulus": 10,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        6,
+        10
+      ]
+    ],
+    "bestValue": [
+      [
+        10,
+        11
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 0,
+    "affixLevel": 1010,
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor1",
+    "sellCost": [
+      [
+        210000,
+        [
+          9,
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210103,
+    "part": "hand",
+    "type": 11,
+    "level": 1,
+    "upgradeModulus": 10,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        19,
+        34
+      ]
+    ],
+    "bestValue": [
+      [
+        34,
+        38
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 0,
+    "affixLevel": 1010,
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand1",
+    "sellCost": [
+      [
+        210000,
+        [
+          9,
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210104,
+    "part": "foot",
+    "type": 11,
+    "level": 1,
+    "upgradeModulus": 10,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        17,
+        31
+      ]
+    ],
+    "bestValue": [
+      [
+        31,
+        34
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 0,
+    "affixLevel": 1010,
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot1",
+    "sellCost": [
+      [
+        210000,
+        [
+          9,
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210201,
+    "part": "head",
+    "type": 11,
+    "level": 10,
+    "upgradeModulus": 20,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        713,
+        945
+      ],
+      [
+        40,
+        52
+      ]
+    ],
+    "bestValue": [
+      [
+        945,
+        1050
+      ],
+      [
+        52,
+        58
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 0,
+    "affixLevel": 11020,
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead2",
+    "sellCost": [
+      [
+        210000,
+        [
+          12,
+          13
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210202,
+    "part": "armor",
+    "type": 11,
+    "level": 10,
+    "upgradeModulus": 20,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        713,
+        945
+      ],
+      [
+        12,
+        16
+      ]
+    ],
+    "bestValue": [
+      [
+        945,
+        1050
+      ],
+      [
+        16,
+        18
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 0,
+    "affixLevel": 11020,
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor2",
+    "sellCost": [
+      [
+        210000,
+        [
+          12,
+          13
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210203,
+    "part": "hand",
+    "type": 11,
+    "level": 10,
+    "upgradeModulus": 20,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        36,
+        48
+      ],
+      [
+        40,
+        52
+      ]
+    ],
+    "bestValue": [
+      [
+        48,
+        53
+      ],
+      [
+        52,
+        58
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 0,
+    "affixLevel": 11020,
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand2",
+    "sellCost": [
+      [
+        210000,
+        [
+          12,
+          13
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210204,
+    "part": "foot",
+    "type": 11,
+    "level": 10,
+    "upgradeModulus": 20,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        36,
+        48
+      ],
+      [
+        12,
+        16
+      ]
+    ],
+    "bestValue": [
+      [
+        48,
+        53
+      ],
+      [
+        16,
+        18
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 0,
+    "affixLevel": 11020,
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot2",
+    "sellCost": [
+      [
+        210000,
+        [
+          12,
+          13
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210301,
+    "part": "head",
+    "type": 11,
+    "level": 20,
+    "upgradeModulus": 30,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1088,
+        1283
+      ],
+      [
+        60,
+        71
+      ]
+    ],
+    "bestValue": [
+      [
+        1283,
+        1425
+      ],
+      [
+        71,
+        79
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 1,
+    "affixLevel": 21030,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead3",
+    "sellCost": [
+      [
+        210000,
+        [
+          14,
+          17
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210302,
+    "part": "armor",
+    "type": 11,
+    "level": 20,
+    "upgradeModulus": 30,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1088,
+        1283
+      ],
+      [
+        18,
+        22
+      ]
+    ],
+    "bestValue": [
+      [
+        1283,
+        1425
+      ],
+      [
+        22,
+        24
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 1,
+    "affixLevel": 21030,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor3",
+    "sellCost": [
+      [
+        210000,
+        [
+          14,
+          17
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210303,
+    "part": "hand",
+    "type": 11,
+    "level": 20,
+    "upgradeModulus": 30,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        54,
+        64
+      ],
+      [
+        60,
+        71
+      ]
+    ],
+    "bestValue": [
+      [
+        64,
+        71
+      ],
+      [
+        71,
+        79
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 1,
+    "affixLevel": 21030,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand3",
+    "sellCost": [
+      [
+        210000,
+        [
+          14,
+          17
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210304,
+    "part": "foot",
+    "type": 11,
+    "level": 20,
+    "upgradeModulus": 30,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        54,
+        64
+      ],
+      [
+        18,
+        22
+      ]
+    ],
+    "bestValue": [
+      [
+        64,
+        71
+      ],
+      [
+        22,
+        24
+      ]
+    ],
+    "bestProbable": 0.7,
+    "affixNum": 1,
+    "affixLevel": 21030,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot3",
+    "sellCost": [
+      [
+        210000,
+        [
+          14,
+          17
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210401,
+    "part": "head",
+    "type": 11,
+    "level": 30,
+    "upgradeModulus": 40,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1463,
+        1620
+      ],
+      [
+        81,
+        90
+      ]
+    ],
+    "bestValue": [
+      [
+        1620,
+        1800
+      ],
+      [
+        90,
+        100
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 2,
+    "affixLevel": 31040,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead4",
+    "sellCost": [
+      [
+        210000,
+        [
+          18,
+          22
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210402,
+    "part": "armor",
+    "type": 11,
+    "level": 30,
+    "upgradeModulus": 40,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1463,
+        1620
+      ],
+      [
+        24,
+        27
+      ]
+    ],
+    "bestValue": [
+      [
+        1620,
+        1800
+      ],
+      [
+        27,
+        30
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 2,
+    "affixLevel": 31040,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor4",
+    "sellCost": [
+      [
+        210000,
+        [
+          18,
+          22
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210403,
+    "part": "hand",
+    "type": 11,
+    "level": 30,
+    "upgradeModulus": 40,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        73,
+        81
+      ],
+      [
+        81,
+        90
+      ]
+    ],
+    "bestValue": [
+      [
+        81,
+        90
+      ],
+      [
+        90,
+        100
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 2,
+    "affixLevel": 31040,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand4",
+    "sellCost": [
+      [
+        210000,
+        [
+          18,
+          22
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210404,
+    "part": "foot",
+    "type": 11,
+    "level": 30,
+    "upgradeModulus": 40,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        73,
+        81
+      ],
+      [
+        24,
+        27
+      ]
+    ],
+    "bestValue": [
+      [
+        81,
+        90
+      ],
+      [
+        27,
+        30
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 2,
+    "affixLevel": 31040,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot4",
+    "sellCost": [
+      [
+        210000,
+        [
+          18,
+          22
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210501,
+    "part": "head",
+    "type": 11,
+    "level": 40,
+    "upgradeModulus": 50,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1842,
+        2041
+      ],
+      [
+        102,
+        113
+      ]
+    ],
+    "bestValue": [
+      [
+        2041,
+        2268
+      ],
+      [
+        113,
+        126
+      ]
+    ],
+    "bestProbable": 0.175,
+    "affixNum": 2,
+    "affixLevel": 41050,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead5",
+    "sellCost": [
+      [
+        210000,
+        [
+          23,
+          27
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210502,
+    "part": "armor",
+    "type": 11,
+    "level": 40,
+    "upgradeModulus": 50,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1842,
+        2041
+      ],
+      [
+        31,
+        34
+      ]
+    ],
+    "bestValue": [
+      [
+        2041,
+        2268
+      ],
+      [
+        34,
+        38
+      ]
+    ],
+    "bestProbable": 0.175,
+    "affixNum": 2,
+    "affixLevel": 41050,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor5",
+    "sellCost": [
+      [
+        210000,
+        [
+          23,
+          27
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210503,
+    "part": "hand",
+    "type": 11,
+    "level": 40,
+    "upgradeModulus": 50,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        92,
+        102
+      ],
+      [
+        102,
+        113
+      ]
+    ],
+    "bestValue": [
+      [
+        102,
+        113
+      ],
+      [
+        113,
+        126
+      ]
+    ],
+    "bestProbable": 0.175,
+    "affixNum": 2,
+    "affixLevel": 41050,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand5",
+    "sellCost": [
+      [
+        210000,
+        [
+          23,
+          27
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210504,
+    "part": "foot",
+    "type": 11,
+    "level": 40,
+    "upgradeModulus": 50,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        92,
+        102
+      ],
+      [
+        31,
+        34
+      ]
+    ],
+    "bestValue": [
+      [
+        102,
+        113
+      ],
+      [
+        34,
+        38
+      ]
+    ],
+    "bestProbable": 0.175,
+    "affixNum": 2,
+    "affixLevel": 41050,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot5",
+    "sellCost": [
+      [
+        210000,
+        [
+          23,
+          27
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210601,
+    "part": "head",
+    "type": 11,
+    "level": 50,
+    "upgradeModulus": 56,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        2321,
+        2345
+      ],
+      [
+        129,
+        131
+      ]
+    ],
+    "bestValue": [
+      [
+        2345,
+        2605
+      ],
+      [
+        131,
+        145
+      ]
+    ],
+    "bestProbable": 0.116667,
+    "affixNum": 3,
+    "affixLevel": 51056,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead6",
+    "sellCost": [
+      [
+        210000,
+        [
+          28,
+          34
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210602,
+    "part": "armor",
+    "type": 11,
+    "level": 50,
+    "upgradeModulus": 56,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        2321,
+        2345
+      ],
+      [
+        38,
+        39
+      ]
+    ],
+    "bestValue": [
+      [
+        2345,
+        2605
+      ],
+      [
+        39,
+        43
+      ]
+    ],
+    "bestProbable": 0.116667,
+    "affixNum": 3,
+    "affixLevel": 51056,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor6",
+    "sellCost": [
+      [
+        210000,
+        [
+          28,
+          34
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210603,
+    "part": "hand",
+    "type": 11,
+    "level": 50,
+    "upgradeModulus": 56,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        116,
+        117
+      ],
+      [
+        129,
+        131
+      ]
+    ],
+    "bestValue": [
+      [
+        117,
+        130
+      ],
+      [
+        131,
+        145
+      ]
+    ],
+    "bestProbable": 0.116667,
+    "affixNum": 3,
+    "affixLevel": 51056,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand6",
+    "sellCost": [
+      [
+        210000,
+        [
+          28,
+          34
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210604,
+    "part": "foot",
+    "type": 11,
+    "level": 50,
+    "upgradeModulus": 56,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        116,
+        117
+      ],
+      [
+        38,
+        39
+      ]
+    ],
+    "bestValue": [
+      [
+        117,
+        130
+      ],
+      [
+        39,
+        43
+      ]
+    ],
+    "bestProbable": 0.116667,
+    "affixNum": 3,
+    "affixLevel": 51056,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot6",
+    "sellCost": [
+      [
+        210000,
+        [
+          28,
+          34
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210651,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 50,
+    "upgradeModulus": 60,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        2666,
+        2721
+      ],
+      [
+        129,
+        143
+      ]
+    ],
+    "bestValue": [
+      [
+        2721,
+        2857
+      ],
+      [
+        143,
+        159
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 51060,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        51061,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            2
+          ]
+        ]
+      ],
+      [
+        51062,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            4
+          ]
+        ]
+      ],
+      [
+        51063,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            5
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210652,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 50,
+    "upgradeModulus": 60,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        2666,
+        2721
+      ],
+      [
+        39,
+        43
+      ]
+    ],
+    "bestValue": [
+      [
+        2721,
+        2857
+      ],
+      [
+        43,
+        48
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 51060,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        51061,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            2
+          ]
+        ]
+      ],
+      [
+        51062,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            4
+          ]
+        ]
+      ],
+      [
+        51063,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            5
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210653,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 50,
+    "upgradeModulus": 60,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        133,
+        136
+      ],
+      [
+        129,
+        143
+      ]
+    ],
+    "bestValue": [
+      [
+        136,
+        143
+      ],
+      [
+        143,
+        159
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 51060,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        51061,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            2
+          ]
+        ]
+      ],
+      [
+        51062,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            4
+          ]
+        ]
+      ],
+      [
+        51063,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            5
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210654,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 50,
+    "upgradeModulus": 60,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        133,
+        136
+      ],
+      [
+        39,
+        43
+      ]
+    ],
+    "bestValue": [
+      [
+        136,
+        143
+      ],
+      [
+        43,
+        48
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 51060,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        51061,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            2
+          ]
+        ]
+      ],
+      [
+        51062,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            4
+          ]
+        ]
+      ],
+      [
+        51063,
+        [
+          [
+            3,
+            1100
+          ],
+          [
+            11901,
+            5
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        8
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        12
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210701,
+    "part": "head",
+    "type": 11,
+    "level": 60,
+    "upgradeModulus": 66,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        2924,
+        2954
+      ],
+      [
+        162,
+        164
+      ]
+    ],
+    "bestValue": [
+      [
+        2954,
+        3282
+      ],
+      [
+        164,
+        182
+      ]
+    ],
+    "bestProbable": 0.0875,
+    "affixNum": 3,
+    "affixLevel": 61066,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead7",
+    "sellCost": [
+      [
+        210000,
+        [
+          36,
+          44
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210702,
+    "part": "armor",
+    "type": 11,
+    "level": 60,
+    "upgradeModulus": 66,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        2924,
+        2954
+      ],
+      [
+        49,
+        50
+      ]
+    ],
+    "bestValue": [
+      [
+        2954,
+        3282
+      ],
+      [
+        50,
+        55
+      ]
+    ],
+    "bestProbable": 0.0875,
+    "affixNum": 3,
+    "affixLevel": 61066,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor7",
+    "sellCost": [
+      [
+        210000,
+        [
+          36,
+          44
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210703,
+    "part": "hand",
+    "type": 11,
+    "level": 60,
+    "upgradeModulus": 66,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        146,
+        148
+      ],
+      [
+        162,
+        164
+      ]
+    ],
+    "bestValue": [
+      [
+        148,
+        164
+      ],
+      [
+        164,
+        182
+      ]
+    ],
+    "bestProbable": 0.0875,
+    "affixNum": 3,
+    "affixLevel": 61066,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand7",
+    "sellCost": [
+      [
+        210000,
+        [
+          36,
+          44
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210704,
+    "part": "foot",
+    "type": 11,
+    "level": 60,
+    "upgradeModulus": 66,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        146,
+        148
+      ],
+      [
+        49,
+        50
+      ]
+    ],
+    "bestValue": [
+      [
+        148,
+        164
+      ],
+      [
+        50,
+        55
+      ]
+    ],
+    "bestProbable": 0.0875,
+    "affixNum": 3,
+    "affixLevel": 61066,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot7",
+    "sellCost": [
+      [
+        210000,
+        [
+          36,
+          44
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210751,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 60,
+    "upgradeModulus": 70,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        3359,
+        3429
+      ],
+      [
+        162,
+        180
+      ]
+    ],
+    "bestValue": [
+      [
+        3429,
+        3600
+      ],
+      [
+        180,
+        200
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 61070,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        61071,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            4
+          ]
+        ]
+      ],
+      [
+        61072,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            7
+          ]
+        ]
+      ],
+      [
+        61073,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            11
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210752,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 60,
+    "upgradeModulus": 70,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        3359,
+        3429
+      ],
+      [
+        49,
+        54
+      ]
+    ],
+    "bestValue": [
+      [
+        3429,
+        3600
+      ],
+      [
+        54,
+        60
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 61070,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        61071,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            4
+          ]
+        ]
+      ],
+      [
+        61072,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            7
+          ]
+        ]
+      ],
+      [
+        61073,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            11
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210753,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 60,
+    "upgradeModulus": 70,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        168,
+        171
+      ],
+      [
+        162,
+        180
+      ]
+    ],
+    "bestValue": [
+      [
+        171,
+        180
+      ],
+      [
+        180,
+        200
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 61070,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        61071,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            4
+          ]
+        ]
+      ],
+      [
+        61072,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            7
+          ]
+        ]
+      ],
+      [
+        61073,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            11
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210754,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 60,
+    "upgradeModulus": 70,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        168,
+        171
+      ],
+      [
+        49,
+        54
+      ]
+    ],
+    "bestValue": [
+      [
+        171,
+        180
+      ],
+      [
+        54,
+        60
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 61070,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        61071,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            4
+          ]
+        ]
+      ],
+      [
+        61072,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            7
+          ]
+        ]
+      ],
+      [
+        61073,
+        [
+          [
+            3,
+            1800
+          ],
+          [
+            11901,
+            11
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        11
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        17
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210801,
+    "part": "head",
+    "type": 11,
+    "level": 70,
+    "upgradeModulus": 76,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        3684,
+        3722
+      ],
+      [
+        205,
+        207
+      ]
+    ],
+    "bestValue": [
+      [
+        3722,
+        4135
+      ],
+      [
+        207,
+        230
+      ]
+    ],
+    "bestProbable": 0.07,
+    "affixNum": 3,
+    "affixLevel": 71076,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead8",
+    "sellCost": [
+      [
+        210000,
+        [
+          45,
+          55
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210802,
+    "part": "armor",
+    "type": 11,
+    "level": 70,
+    "upgradeModulus": 76,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        3684,
+        3722
+      ],
+      [
+        61,
+        62
+      ]
+    ],
+    "bestValue": [
+      [
+        3722,
+        4135
+      ],
+      [
+        62,
+        69
+      ]
+    ],
+    "bestProbable": 0.07,
+    "affixNum": 3,
+    "affixLevel": 71076,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor8",
+    "sellCost": [
+      [
+        210000,
+        [
+          45,
+          55
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210803,
+    "part": "hand",
+    "type": 11,
+    "level": 70,
+    "upgradeModulus": 76,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        184,
+        186
+      ],
+      [
+        205,
+        207
+      ]
+    ],
+    "bestValue": [
+      [
+        186,
+        207
+      ],
+      [
+        207,
+        230
+      ]
+    ],
+    "bestProbable": 0.07,
+    "affixNum": 3,
+    "affixLevel": 71076,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand8",
+    "sellCost": [
+      [
+        210000,
+        [
+          45,
+          55
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210804,
+    "part": "foot",
+    "type": 11,
+    "level": 70,
+    "upgradeModulus": 76,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        184,
+        186
+      ],
+      [
+        61,
+        62
+      ]
+    ],
+    "bestValue": [
+      [
+        186,
+        207
+      ],
+      [
+        62,
+        69
+      ]
+    ],
+    "bestProbable": 0.07,
+    "affixNum": 3,
+    "affixLevel": 71076,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot8",
+    "sellCost": [
+      [
+        210000,
+        [
+          45,
+          55
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210851,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 70,
+    "upgradeModulus": 80,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        4232,
+        4320
+      ],
+      [
+        205,
+        227
+      ]
+    ],
+    "bestValue": [
+      [
+        4320,
+        4536
+      ],
+      [
+        227,
+        252
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 71080,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        71081,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            6
+          ]
+        ]
+      ],
+      [
+        71082,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            12
+          ]
+        ]
+      ],
+      [
+        71083,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            18
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210852,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 70,
+    "upgradeModulus": 80,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        4232,
+        4320
+      ],
+      [
+        61,
+        68
+      ]
+    ],
+    "bestValue": [
+      [
+        4320,
+        4536
+      ],
+      [
+        68,
+        76
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 71080,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        71081,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            6
+          ]
+        ]
+      ],
+      [
+        71082,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            12
+          ]
+        ]
+      ],
+      [
+        71083,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            18
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210853,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 70,
+    "upgradeModulus": 80,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        212,
+        216
+      ],
+      [
+        205,
+        227
+      ]
+    ],
+    "bestValue": [
+      [
+        216,
+        227
+      ],
+      [
+        227,
+        252
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 71080,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        71081,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            6
+          ]
+        ]
+      ],
+      [
+        71082,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            12
+          ]
+        ]
+      ],
+      [
+        71083,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            18
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210854,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 70,
+    "upgradeModulus": 80,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        212,
+        216
+      ],
+      [
+        61,
+        68
+      ]
+    ],
+    "bestValue": [
+      [
+        216,
+        227
+      ],
+      [
+        68,
+        76
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 71080,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        71081,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            6
+          ]
+        ]
+      ],
+      [
+        71082,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            12
+          ]
+        ]
+      ],
+      [
+        71083,
+        [
+          [
+            3,
+            2800
+          ],
+          [
+            11901,
+            18
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        13
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210901,
+    "part": "head",
+    "type": 11,
+    "level": 80,
+    "upgradeModulus": 86,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        4642,
+        4689
+      ],
+      [
+        258,
+        260
+      ]
+    ],
+    "bestValue": [
+      [
+        4689,
+        5210
+      ],
+      [
+        260,
+        289
+      ]
+    ],
+    "bestProbable": 0.058333,
+    "affixNum": 3,
+    "affixLevel": 81086,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead9",
+    "sellCost": [
+      [
+        210000,
+        [
+          57,
+          69
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210902,
+    "part": "armor",
+    "type": 11,
+    "level": 80,
+    "upgradeModulus": 86,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        4642,
+        4689
+      ],
+      [
+        77,
+        78
+      ]
+    ],
+    "bestValue": [
+      [
+        4689,
+        5210
+      ],
+      [
+        78,
+        87
+      ]
+    ],
+    "bestProbable": 0.058333,
+    "affixNum": 3,
+    "affixLevel": 81086,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor9",
+    "sellCost": [
+      [
+        210000,
+        [
+          57,
+          69
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210903,
+    "part": "hand",
+    "type": 11,
+    "level": 80,
+    "upgradeModulus": 86,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        232,
+        235
+      ],
+      [
+        258,
+        260
+      ]
+    ],
+    "bestValue": [
+      [
+        235,
+        261
+      ],
+      [
+        260,
+        289
+      ]
+    ],
+    "bestProbable": 0.058333,
+    "affixNum": 3,
+    "affixLevel": 81086,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand9",
+    "sellCost": [
+      [
+        210000,
+        [
+          57,
+          69
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210904,
+    "part": "foot",
+    "type": 11,
+    "level": 80,
+    "upgradeModulus": 86,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        232,
+        235
+      ],
+      [
+        77,
+        78
+      ]
+    ],
+    "bestValue": [
+      [
+        235,
+        261
+      ],
+      [
+        78,
+        87
+      ]
+    ],
+    "bestProbable": 0.058333,
+    "affixNum": 3,
+    "affixLevel": 81086,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot9",
+    "sellCost": [
+      [
+        210000,
+        [
+          57,
+          69
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 210951,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 80,
+    "upgradeModulus": 90,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        5332,
+        5443
+      ],
+      [
+        258,
+        285
+      ]
+    ],
+    "bestValue": [
+      [
+        5443,
+        5715
+      ],
+      [
+        285,
+        317
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 81090,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        81091,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            10
+          ]
+        ]
+      ],
+      [
+        81092,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            19
+          ]
+        ]
+      ],
+      [
+        81093,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            29
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210952,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 80,
+    "upgradeModulus": 90,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        5332,
+        5443
+      ],
+      [
+        77,
+        86
+      ]
+    ],
+    "bestValue": [
+      [
+        5443,
+        5715
+      ],
+      [
+        86,
+        95
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 81090,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        81091,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            10
+          ]
+        ]
+      ],
+      [
+        81092,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            19
+          ]
+        ]
+      ],
+      [
+        81093,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            29
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210953,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 80,
+    "upgradeModulus": 90,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        267,
+        272
+      ],
+      [
+        258,
+        285
+      ]
+    ],
+    "bestValue": [
+      [
+        272,
+        286
+      ],
+      [
+        285,
+        317
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 81090,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        81091,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            10
+          ]
+        ]
+      ],
+      [
+        81092,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            19
+          ]
+        ]
+      ],
+      [
+        81093,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            29
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 210954,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 80,
+    "upgradeModulus": 90,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        267,
+        272
+      ],
+      [
+        77,
+        86
+      ]
+    ],
+    "bestValue": [
+      [
+        272,
+        286
+      ],
+      [
+        86,
+        95
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 81090,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        81091,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            10
+          ]
+        ]
+      ],
+      [
+        81092,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            19
+          ]
+        ]
+      ],
+      [
+        81093,
+        [
+          [
+            3,
+            4200
+          ],
+          [
+            11901,
+            29
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        15
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        23
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211001,
+    "part": "head",
+    "type": 11,
+    "level": 90,
+    "upgradeModulus": 96,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        5848,
+        5908
+      ],
+      [
+        325,
+        329
+      ]
+    ],
+    "bestValue": [
+      [
+        5908,
+        6564
+      ],
+      [
+        329,
+        365
+      ]
+    ],
+    "bestProbable": 0.05,
+    "affixNum": 3,
+    "affixLevel": 91096,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead10",
+    "sellCost": [
+      [
+        210000,
+        [
+          72,
+          88
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211002,
+    "part": "armor",
+    "type": 11,
+    "level": 90,
+    "upgradeModulus": 96,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        5848,
+        5908
+      ],
+      [
+        97,
+        98
+      ]
+    ],
+    "bestValue": [
+      [
+        5908,
+        6564
+      ],
+      [
+        98,
+        109
+      ]
+    ],
+    "bestProbable": 0.05,
+    "affixNum": 3,
+    "affixLevel": 91096,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor10",
+    "sellCost": [
+      [
+        210000,
+        [
+          72,
+          88
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211003,
+    "part": "hand",
+    "type": 11,
+    "level": 90,
+    "upgradeModulus": 96,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        292,
+        295
+      ],
+      [
+        325,
+        329
+      ]
+    ],
+    "bestValue": [
+      [
+        295,
+        328
+      ],
+      [
+        329,
+        365
+      ]
+    ],
+    "bestProbable": 0.05,
+    "affixNum": 3,
+    "affixLevel": 91096,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand10",
+    "sellCost": [
+      [
+        210000,
+        [
+          72,
+          88
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211004,
+    "part": "foot",
+    "type": 11,
+    "level": 90,
+    "upgradeModulus": 96,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        292,
+        295
+      ],
+      [
+        97,
+        98
+      ]
+    ],
+    "bestValue": [
+      [
+        295,
+        328
+      ],
+      [
+        98,
+        109
+      ]
+    ],
+    "bestProbable": 0.05,
+    "affixNum": 3,
+    "affixLevel": 91096,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot10",
+    "sellCost": [
+      [
+        210000,
+        [
+          72,
+          88
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211051,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 90,
+    "upgradeModulus": 100,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        6718,
+        6857
+      ],
+      [
+        325,
+        360
+      ]
+    ],
+    "bestValue": [
+      [
+        6857,
+        7200
+      ],
+      [
+        360,
+        400
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 910100,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        910101,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            14
+          ]
+        ]
+      ],
+      [
+        910102,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            28
+          ]
+        ]
+      ],
+      [
+        910103,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            42
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211052,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 90,
+    "upgradeModulus": 100,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        6718,
+        6857
+      ],
+      [
+        97,
+        108
+      ]
+    ],
+    "bestValue": [
+      [
+        6857,
+        7200
+      ],
+      [
+        108,
+        120
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 910100,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        910101,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            14
+          ]
+        ]
+      ],
+      [
+        910102,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            28
+          ]
+        ]
+      ],
+      [
+        910103,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            42
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211053,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 90,
+    "upgradeModulus": 100,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        336,
+        343
+      ],
+      [
+        325,
+        360
+      ]
+    ],
+    "bestValue": [
+      [
+        343,
+        360
+      ],
+      [
+        360,
+        400
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 910100,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        910101,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            14
+          ]
+        ]
+      ],
+      [
+        910102,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            28
+          ]
+        ]
+      ],
+      [
+        910103,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            42
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211054,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 90,
+    "upgradeModulus": 100,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        336,
+        343
+      ],
+      [
+        97,
+        108
+      ]
+    ],
+    "bestValue": [
+      [
+        343,
+        360
+      ],
+      [
+        108,
+        120
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 910100,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        910101,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            14
+          ]
+        ]
+      ],
+      [
+        910102,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            28
+          ]
+        ]
+      ],
+      [
+        910103,
+        [
+          [
+            3,
+            6200
+          ],
+          [
+            11901,
+            42
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        18
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        27
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211101,
+    "part": "head",
+    "type": 11,
+    "level": 100,
+    "upgradeModulus": 106,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        7368,
+        7444
+      ],
+      [
+        409,
+        413
+      ]
+    ],
+    "bestValue": [
+      [
+        7444,
+        8271
+      ],
+      [
+        413,
+        459
+      ]
+    ],
+    "bestProbable": 0.04375,
+    "affixNum": 3,
+    "affixLevel": 1010106,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead11",
+    "sellCost": [
+      [
+        210000,
+        [
+          90,
+          110
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211102,
+    "part": "armor",
+    "type": 11,
+    "level": 100,
+    "upgradeModulus": 106,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        7368,
+        7444
+      ],
+      [
+        123,
+        124
+      ]
+    ],
+    "bestValue": [
+      [
+        7444,
+        8271
+      ],
+      [
+        124,
+        138
+      ]
+    ],
+    "bestProbable": 0.04375,
+    "affixNum": 3,
+    "affixLevel": 1010106,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor11",
+    "sellCost": [
+      [
+        210000,
+        [
+          90,
+          110
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211103,
+    "part": "hand",
+    "type": 11,
+    "level": 100,
+    "upgradeModulus": 106,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        368,
+        373
+      ],
+      [
+        409,
+        413
+      ]
+    ],
+    "bestValue": [
+      [
+        373,
+        414
+      ],
+      [
+        413,
+        459
+      ]
+    ],
+    "bestProbable": 0.04375,
+    "affixNum": 3,
+    "affixLevel": 1010106,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand11",
+    "sellCost": [
+      [
+        210000,
+        [
+          90,
+          110
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211104,
+    "part": "foot",
+    "type": 11,
+    "level": 100,
+    "upgradeModulus": 106,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        368,
+        373
+      ],
+      [
+        123,
+        124
+      ]
+    ],
+    "bestValue": [
+      [
+        373,
+        414
+      ],
+      [
+        124,
+        138
+      ]
+    ],
+    "bestProbable": 0.04375,
+    "affixNum": 3,
+    "affixLevel": 1010106,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot11",
+    "sellCost": [
+      [
+        210000,
+        [
+          90,
+          110
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211151,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 100,
+    "upgradeModulus": 110,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        8464,
+        8639
+      ],
+      [
+        409,
+        454
+      ]
+    ],
+    "bestValue": [
+      [
+        8639,
+        9071
+      ],
+      [
+        454,
+        504
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1010110,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1010111,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            19
+          ]
+        ]
+      ],
+      [
+        1010112,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            38
+          ]
+        ]
+      ],
+      [
+        1010113,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            56
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211152,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 100,
+    "upgradeModulus": 110,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        8464,
+        8639
+      ],
+      [
+        123,
+        136
+      ]
+    ],
+    "bestValue": [
+      [
+        8639,
+        9071
+      ],
+      [
+        136,
+        151
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1010110,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1010111,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            19
+          ]
+        ]
+      ],
+      [
+        1010112,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            38
+          ]
+        ]
+      ],
+      [
+        1010113,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            56
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211153,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 100,
+    "upgradeModulus": 110,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        423,
+        432
+      ],
+      [
+        409,
+        454
+      ]
+    ],
+    "bestValue": [
+      [
+        432,
+        454
+      ],
+      [
+        454,
+        504
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1010110,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1010111,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            19
+          ]
+        ]
+      ],
+      [
+        1010112,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            38
+          ]
+        ]
+      ],
+      [
+        1010113,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            56
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211154,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 100,
+    "upgradeModulus": 110,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        423,
+        432
+      ],
+      [
+        123,
+        136
+      ]
+    ],
+    "bestValue": [
+      [
+        432,
+        454
+      ],
+      [
+        136,
+        151
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1010110,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1010111,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            19
+          ]
+        ]
+      ],
+      [
+        1010112,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            38
+          ]
+        ]
+      ],
+      [
+        1010113,
+        [
+          [
+            3,
+            8300
+          ],
+          [
+            11901,
+            56
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        20
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        30
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211201,
+    "part": "head",
+    "type": 11,
+    "level": 110,
+    "upgradeModulus": 116,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        9283,
+        9378
+      ],
+      [
+        516,
+        521
+      ]
+    ],
+    "bestValue": [
+      [
+        9378,
+        10420
+      ],
+      [
+        521,
+        579
+      ]
+    ],
+    "bestProbable": 0.038889,
+    "affixNum": 3,
+    "affixLevel": 1110116,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead12",
+    "sellCost": [
+      [
+        210000,
+        [
+          114,
+          139
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211202,
+    "part": "armor",
+    "type": 11,
+    "level": 110,
+    "upgradeModulus": 116,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        9283,
+        9378
+      ],
+      [
+        155,
+        157
+      ]
+    ],
+    "bestValue": [
+      [
+        9378,
+        10420
+      ],
+      [
+        157,
+        174
+      ]
+    ],
+    "bestProbable": 0.038889,
+    "affixNum": 3,
+    "affixLevel": 1110116,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor12",
+    "sellCost": [
+      [
+        210000,
+        [
+          114,
+          139
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211203,
+    "part": "hand",
+    "type": 11,
+    "level": 110,
+    "upgradeModulus": 116,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        464,
+        469
+      ],
+      [
+        516,
+        521
+      ]
+    ],
+    "bestValue": [
+      [
+        469,
+        521
+      ],
+      [
+        521,
+        579
+      ]
+    ],
+    "bestProbable": 0.038889,
+    "affixNum": 3,
+    "affixLevel": 1110116,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand12",
+    "sellCost": [
+      [
+        210000,
+        [
+          114,
+          139
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211204,
+    "part": "foot",
+    "type": 11,
+    "level": 110,
+    "upgradeModulus": 116,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        464,
+        469
+      ],
+      [
+        155,
+        157
+      ]
+    ],
+    "bestValue": [
+      [
+        469,
+        521
+      ],
+      [
+        157,
+        174
+      ]
+    ],
+    "bestProbable": 0.038889,
+    "affixNum": 3,
+    "affixLevel": 1110116,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot12",
+    "sellCost": [
+      [
+        210000,
+        [
+          114,
+          139
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211251,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 110,
+    "upgradeModulus": 120,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        10664,
+        10885
+      ],
+      [
+        516,
+        572
+      ]
+    ],
+    "bestValue": [
+      [
+        10885,
+        11429
+      ],
+      [
+        572,
+        635
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1110120,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1110121,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            24
+          ]
+        ]
+      ],
+      [
+        1110122,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            48
+          ]
+        ]
+      ],
+      [
+        1110123,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            71
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211252,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 110,
+    "upgradeModulus": 120,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        10664,
+        10885
+      ],
+      [
+        155,
+        171
+      ]
+    ],
+    "bestValue": [
+      [
+        10885,
+        11429
+      ],
+      [
+        171,
+        190
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1110120,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1110121,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            24
+          ]
+        ]
+      ],
+      [
+        1110122,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            48
+          ]
+        ]
+      ],
+      [
+        1110123,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            71
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211253,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 110,
+    "upgradeModulus": 120,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        533,
+        544
+      ],
+      [
+        516,
+        572
+      ]
+    ],
+    "bestValue": [
+      [
+        544,
+        571
+      ],
+      [
+        572,
+        635
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1110120,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1110121,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            24
+          ]
+        ]
+      ],
+      [
+        1110122,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            48
+          ]
+        ]
+      ],
+      [
+        1110123,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            71
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211254,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 110,
+    "upgradeModulus": 120,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        533,
+        544
+      ],
+      [
+        155,
+        171
+      ]
+    ],
+    "bestValue": [
+      [
+        544,
+        571
+      ],
+      [
+        171,
+        190
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1110120,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1110121,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            24
+          ]
+        ]
+      ],
+      [
+        1110122,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            48
+          ]
+        ]
+      ],
+      [
+        1110123,
+        [
+          [
+            3,
+            11200
+          ],
+          [
+            11901,
+            71
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        21
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        32
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211301,
+    "part": "head",
+    "type": 11,
+    "level": 120,
+    "upgradeModulus": 126,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        11696,
+        11816
+      ],
+      [
+        650,
+        656
+      ]
+    ],
+    "bestValue": [
+      [
+        11816,
+        13129
+      ],
+      [
+        656,
+        729
+      ]
+    ],
+    "bestProbable": 0.035,
+    "affixNum": 3,
+    "affixLevel": 1210126,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead13",
+    "sellCost": [
+      [
+        210000,
+        [
+          144,
+          176
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211302,
+    "part": "armor",
+    "type": 11,
+    "level": 120,
+    "upgradeModulus": 126,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        11696,
+        11816
+      ],
+      [
+        195,
+        197
+      ]
+    ],
+    "bestValue": [
+      [
+        11816,
+        13129
+      ],
+      [
+        197,
+        219
+      ]
+    ],
+    "bestProbable": 0.035,
+    "affixNum": 3,
+    "affixLevel": 1210126,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor13",
+    "sellCost": [
+      [
+        210000,
+        [
+          144,
+          176
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211303,
+    "part": "hand",
+    "type": 11,
+    "level": 120,
+    "upgradeModulus": 126,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        585,
+        590
+      ],
+      [
+        650,
+        656
+      ]
+    ],
+    "bestValue": [
+      [
+        590,
+        656
+      ],
+      [
+        656,
+        729
+      ]
+    ],
+    "bestProbable": 0.035,
+    "affixNum": 3,
+    "affixLevel": 1210126,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand13",
+    "sellCost": [
+      [
+        210000,
+        [
+          144,
+          176
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211304,
+    "part": "foot",
+    "type": 11,
+    "level": 120,
+    "upgradeModulus": 126,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        585,
+        590
+      ],
+      [
+        195,
+        197
+      ]
+    ],
+    "bestValue": [
+      [
+        590,
+        656
+      ],
+      [
+        197,
+        219
+      ]
+    ],
+    "bestProbable": 0.035,
+    "affixNum": 3,
+    "affixLevel": 1210126,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot13",
+    "sellCost": [
+      [
+        210000,
+        [
+          144,
+          176
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211351,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 120,
+    "upgradeModulus": 130,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        13436,
+        13714
+      ],
+      [
+        650,
+        720
+      ]
+    ],
+    "bestValue": [
+      [
+        13714,
+        14400
+      ],
+      [
+        720,
+        800
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1210130,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1210131,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            29
+          ]
+        ]
+      ],
+      [
+        1210132,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            58
+          ]
+        ]
+      ],
+      [
+        1210133,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            88
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211352,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 120,
+    "upgradeModulus": 130,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        13436,
+        13714
+      ],
+      [
+        195,
+        216
+      ]
+    ],
+    "bestValue": [
+      [
+        13714,
+        14400
+      ],
+      [
+        216,
+        240
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1210130,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1210131,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            29
+          ]
+        ]
+      ],
+      [
+        1210132,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            58
+          ]
+        ]
+      ],
+      [
+        1210133,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            88
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211353,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 120,
+    "upgradeModulus": 130,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        672,
+        686
+      ],
+      [
+        650,
+        720
+      ]
+    ],
+    "bestValue": [
+      [
+        686,
+        720
+      ],
+      [
+        720,
+        800
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1210130,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1210131,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            29
+          ]
+        ]
+      ],
+      [
+        1210132,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            58
+          ]
+        ]
+      ],
+      [
+        1210133,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            88
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211354,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 120,
+    "upgradeModulus": 130,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        672,
+        686
+      ],
+      [
+        195,
+        216
+      ]
+    ],
+    "bestValue": [
+      [
+        686,
+        720
+      ],
+      [
+        216,
+        240
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1210130,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1210131,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            29
+          ]
+        ]
+      ],
+      [
+        1210132,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            58
+          ]
+        ]
+      ],
+      [
+        1210133,
+        [
+          [
+            3,
+            15000
+          ],
+          [
+            11901,
+            88
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        22
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        33
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211401,
+    "part": "head",
+    "type": 11,
+    "level": 130,
+    "upgradeModulus": 136,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        14737,
+        14887
+      ],
+      [
+        819,
+        827
+      ]
+    ],
+    "bestValue": [
+      [
+        14887,
+        16541
+      ],
+      [
+        827,
+        919
+      ]
+    ],
+    "bestProbable": 0.031818,
+    "affixNum": 3,
+    "affixLevel": 1310136,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead14",
+    "sellCost": [
+      [
+        210000,
+        [
+          181,
+          221
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211402,
+    "part": "armor",
+    "type": 11,
+    "level": 130,
+    "upgradeModulus": 136,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        14737,
+        14887
+      ],
+      [
+        246,
+        248
+      ]
+    ],
+    "bestValue": [
+      [
+        14887,
+        16541
+      ],
+      [
+        248,
+        276
+      ]
+    ],
+    "bestProbable": 0.031818,
+    "affixNum": 3,
+    "affixLevel": 1310136,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor14",
+    "sellCost": [
+      [
+        210000,
+        [
+          181,
+          221
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211403,
+    "part": "hand",
+    "type": 11,
+    "level": 130,
+    "upgradeModulus": 136,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        737,
+        744
+      ],
+      [
+        819,
+        827
+      ]
+    ],
+    "bestValue": [
+      [
+        744,
+        827
+      ],
+      [
+        827,
+        919
+      ]
+    ],
+    "bestProbable": 0.031818,
+    "affixNum": 3,
+    "affixLevel": 1310136,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand14",
+    "sellCost": [
+      [
+        210000,
+        [
+          181,
+          221
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211404,
+    "part": "foot",
+    "type": 11,
+    "level": 130,
+    "upgradeModulus": 136,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        737,
+        744
+      ],
+      [
+        246,
+        248
+      ]
+    ],
+    "bestValue": [
+      [
+        744,
+        827
+      ],
+      [
+        248,
+        276
+      ]
+    ],
+    "bestProbable": 0.031818,
+    "affixNum": 3,
+    "affixLevel": 1310136,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot14",
+    "sellCost": [
+      [
+        210000,
+        [
+          181,
+          221
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211451,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 130,
+    "upgradeModulus": 140,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        16928,
+        17279
+      ],
+      [
+        819,
+        907
+      ]
+    ],
+    "bestValue": [
+      [
+        17279,
+        18143
+      ],
+      [
+        907,
+        1008
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1310140,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1310141,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            35
+          ]
+        ]
+      ],
+      [
+        1310142,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            70
+          ]
+        ]
+      ],
+      [
+        1310143,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            105
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211452,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 130,
+    "upgradeModulus": 140,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        16928,
+        17279
+      ],
+      [
+        246,
+        272
+      ]
+    ],
+    "bestValue": [
+      [
+        17279,
+        18143
+      ],
+      [
+        272,
+        302
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1310140,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1310141,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            35
+          ]
+        ]
+      ],
+      [
+        1310142,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            70
+          ]
+        ]
+      ],
+      [
+        1310143,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            105
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211453,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 130,
+    "upgradeModulus": 140,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        846,
+        864
+      ],
+      [
+        819,
+        907
+      ]
+    ],
+    "bestValue": [
+      [
+        864,
+        907
+      ],
+      [
+        907,
+        1008
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1310140,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1310141,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            35
+          ]
+        ]
+      ],
+      [
+        1310142,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            70
+          ]
+        ]
+      ],
+      [
+        1310143,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            105
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211454,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 130,
+    "upgradeModulus": 140,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        846,
+        864
+      ],
+      [
+        246,
+        272
+      ]
+    ],
+    "bestValue": [
+      [
+        864,
+        907
+      ],
+      [
+        272,
+        302
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1310140,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1310141,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            35
+          ]
+        ]
+      ],
+      [
+        1310142,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            70
+          ]
+        ]
+      ],
+      [
+        1310143,
+        [
+          [
+            3,
+            20000
+          ],
+          [
+            11901,
+            105
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        24
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        36
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211501,
+    "part": "head",
+    "type": 11,
+    "level": 140,
+    "upgradeModulus": 146,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        18567,
+        18757
+      ],
+      [
+        1031,
+        1042
+      ]
+    ],
+    "bestValue": [
+      [
+        18757,
+        20841
+      ],
+      [
+        1042,
+        1158
+      ]
+    ],
+    "bestProbable": 0.029167,
+    "affixNum": 3,
+    "affixLevel": 1410146,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead15",
+    "sellCost": [
+      [
+        210000,
+        [
+          228,
+          279
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211502,
+    "part": "armor",
+    "type": 11,
+    "level": 140,
+    "upgradeModulus": 146,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        18567,
+        18757
+      ],
+      [
+        309,
+        312
+      ]
+    ],
+    "bestValue": [
+      [
+        18757,
+        20841
+      ],
+      [
+        312,
+        347
+      ]
+    ],
+    "bestProbable": 0.029167,
+    "affixNum": 3,
+    "affixLevel": 1410146,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor15",
+    "sellCost": [
+      [
+        210000,
+        [
+          228,
+          279
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211503,
+    "part": "hand",
+    "type": 11,
+    "level": 140,
+    "upgradeModulus": 146,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        928,
+        938
+      ],
+      [
+        1031,
+        1042
+      ]
+    ],
+    "bestValue": [
+      [
+        938,
+        1042
+      ],
+      [
+        1042,
+        1158
+      ]
+    ],
+    "bestProbable": 0.029167,
+    "affixNum": 3,
+    "affixLevel": 1410146,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand15",
+    "sellCost": [
+      [
+        210000,
+        [
+          228,
+          279
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211504,
+    "part": "foot",
+    "type": 11,
+    "level": 140,
+    "upgradeModulus": 146,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        928,
+        938
+      ],
+      [
+        309,
+        312
+      ]
+    ],
+    "bestValue": [
+      [
+        938,
+        1042
+      ],
+      [
+        312,
+        347
+      ]
+    ],
+    "bestProbable": 0.029167,
+    "affixNum": 3,
+    "affixLevel": 1410146,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot15",
+    "sellCost": [
+      [
+        210000,
+        [
+          228,
+          279
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211551,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 140,
+    "upgradeModulus": 150,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        21328,
+        21770
+      ],
+      [
+        1031,
+        1143
+      ]
+    ],
+    "bestValue": [
+      [
+        21770,
+        22859
+      ],
+      [
+        1143,
+        1270
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1410150,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1410151,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            41
+          ]
+        ]
+      ],
+      [
+        1410152,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            82
+          ]
+        ]
+      ],
+      [
+        1410153,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            123
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211552,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 140,
+    "upgradeModulus": 150,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        21328,
+        21770
+      ],
+      [
+        309,
+        343
+      ]
+    ],
+    "bestValue": [
+      [
+        21770,
+        22859
+      ],
+      [
+        343,
+        381
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1410150,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1410151,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            41
+          ]
+        ]
+      ],
+      [
+        1410152,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            82
+          ]
+        ]
+      ],
+      [
+        1410153,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            123
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211553,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 140,
+    "upgradeModulus": 150,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1066,
+        1089
+      ],
+      [
+        1031,
+        1143
+      ]
+    ],
+    "bestValue": [
+      [
+        1089,
+        1143
+      ],
+      [
+        1143,
+        1270
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1410150,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1410151,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            41
+          ]
+        ]
+      ],
+      [
+        1410152,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            82
+          ]
+        ]
+      ],
+      [
+        1410153,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            123
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211554,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 140,
+    "upgradeModulus": 150,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1066,
+        1089
+      ],
+      [
+        309,
+        343
+      ]
+    ],
+    "bestValue": [
+      [
+        1089,
+        1143
+      ],
+      [
+        343,
+        381
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1410150,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1410151,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            41
+          ]
+        ]
+      ],
+      [
+        1410152,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            82
+          ]
+        ]
+      ],
+      [
+        1410153,
+        [
+          [
+            3,
+            26600
+          ],
+          [
+            11901,
+            123
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        25
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        38
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211601,
+    "part": "head",
+    "type": 11,
+    "level": 150,
+    "upgradeModulus": 156,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        22267,
+        24823
+      ],
+      [
+        1237,
+        1379
+      ]
+    ],
+    "bestValue": [
+      [
+        24823,
+        26065
+      ],
+      [
+        1379,
+        1448
+      ]
+    ],
+    "bestProbable": 0.026923,
+    "affixNum": 3,
+    "affixLevel": 1510156,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead16",
+    "sellCost": [
+      [
+        210000,
+        [
+          288,
+          352
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211602,
+    "part": "armor",
+    "type": 11,
+    "level": 150,
+    "upgradeModulus": 156,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        22267,
+        24823
+      ],
+      [
+        371,
+        413
+      ]
+    ],
+    "bestValue": [
+      [
+        24823,
+        26065
+      ],
+      [
+        413,
+        434
+      ]
+    ],
+    "bestProbable": 0.026923,
+    "affixNum": 3,
+    "affixLevel": 1510156,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor16",
+    "sellCost": [
+      [
+        210000,
+        [
+          288,
+          352
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211603,
+    "part": "hand",
+    "type": 11,
+    "level": 150,
+    "upgradeModulus": 156,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1113,
+        1240
+      ],
+      [
+        1237,
+        1379
+      ]
+    ],
+    "bestValue": [
+      [
+        1240,
+        1303
+      ],
+      [
+        1379,
+        1448
+      ]
+    ],
+    "bestProbable": 0.026923,
+    "affixNum": 3,
+    "affixLevel": 1510156,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand16",
+    "sellCost": [
+      [
+        210000,
+        [
+          288,
+          352
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211604,
+    "part": "foot",
+    "type": 11,
+    "level": 150,
+    "upgradeModulus": 156,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1113,
+        1240
+      ],
+      [
+        371,
+        413
+      ]
+    ],
+    "bestValue": [
+      [
+        1240,
+        1303
+      ],
+      [
+        413,
+        434
+      ]
+    ],
+    "bestProbable": 0.026923,
+    "affixNum": 3,
+    "affixLevel": 1510156,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot16",
+    "sellCost": [
+      [
+        210000,
+        [
+          288,
+          352
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211651,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 150,
+    "upgradeModulus": 160,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        25348,
+        26951
+      ],
+      [
+        1237,
+        1497
+      ]
+    ],
+    "bestValue": [
+      [
+        26951,
+        28299
+      ],
+      [
+        1497,
+        1572
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1510160,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1510161,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            47
+          ]
+        ]
+      ],
+      [
+        1510162,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            95
+          ]
+        ]
+      ],
+      [
+        1510163,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            142
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211652,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 150,
+    "upgradeModulus": 160,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        25348,
+        26951
+      ],
+      [
+        371,
+        450
+      ]
+    ],
+    "bestValue": [
+      [
+        26951,
+        28299
+      ],
+      [
+        450,
+        472
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1510160,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1510161,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            47
+          ]
+        ]
+      ],
+      [
+        1510162,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            95
+          ]
+        ]
+      ],
+      [
+        1510163,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            142
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211653,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 150,
+    "upgradeModulus": 160,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1267,
+        1347
+      ],
+      [
+        1237,
+        1497
+      ]
+    ],
+    "bestValue": [
+      [
+        1347,
+        1415
+      ],
+      [
+        1497,
+        1572
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1510160,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1510161,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            47
+          ]
+        ]
+      ],
+      [
+        1510162,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            95
+          ]
+        ]
+      ],
+      [
+        1510163,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            142
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211654,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 150,
+    "upgradeModulus": 160,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1267,
+        1347
+      ],
+      [
+        371,
+        450
+      ]
+    ],
+    "bestValue": [
+      [
+        1347,
+        1415
+      ],
+      [
+        450,
+        472
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1510160,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1510161,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            47
+          ]
+        ]
+      ],
+      [
+        1510162,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            95
+          ]
+        ]
+      ],
+      [
+        1510163,
+        [
+          [
+            3,
+            35000
+          ],
+          [
+            11901,
+            142
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211701,
+    "part": "head",
+    "type": 11,
+    "level": 160,
+    "upgradeModulus": 165,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        27493,
+        29713
+      ],
+      [
+        1527,
+        1650
+      ]
+    ],
+    "bestValue": [
+      [
+        29713,
+        31199
+      ],
+      [
+        1650,
+        1733
+      ]
+    ],
+    "bestProbable": 0.025,
+    "affixNum": 3,
+    "affixLevel": 1610165,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead17",
+    "sellCost": [
+      [
+        210000,
+        [
+          362,
+          443
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211702,
+    "part": "armor",
+    "type": 11,
+    "level": 160,
+    "upgradeModulus": 165,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        27493,
+        29713
+      ],
+      [
+        458,
+        495
+      ]
+    ],
+    "bestValue": [
+      [
+        29713,
+        31199
+      ],
+      [
+        495,
+        520
+      ]
+    ],
+    "bestProbable": 0.025,
+    "affixNum": 3,
+    "affixLevel": 1610165,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor17",
+    "sellCost": [
+      [
+        210000,
+        [
+          362,
+          443
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211703,
+    "part": "hand",
+    "type": 11,
+    "level": 160,
+    "upgradeModulus": 165,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1374,
+        1485
+      ],
+      [
+        1527,
+        1650
+      ]
+    ],
+    "bestValue": [
+      [
+        1485,
+        1560
+      ],
+      [
+        1650,
+        1733
+      ]
+    ],
+    "bestProbable": 0.025,
+    "affixNum": 3,
+    "affixLevel": 1610165,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand17",
+    "sellCost": [
+      [
+        210000,
+        [
+          362,
+          443
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211704,
+    "part": "foot",
+    "type": 11,
+    "level": 160,
+    "upgradeModulus": 165,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1374,
+        1485
+      ],
+      [
+        458,
+        495
+      ]
+    ],
+    "bestValue": [
+      [
+        1485,
+        1560
+      ],
+      [
+        495,
+        520
+      ]
+    ],
+    "bestProbable": 0.025,
+    "affixNum": 3,
+    "affixLevel": 1610165,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot17",
+    "sellCost": [
+      [
+        210000,
+        [
+          362,
+          443
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211751,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 160,
+    "upgradeModulus": 170,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        30280,
+        32600
+      ],
+      [
+        1527,
+        1811
+      ]
+    ],
+    "bestValue": [
+      [
+        32600,
+        34230
+      ],
+      [
+        1811,
+        1902
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1610170,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1610171,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            54
+          ]
+        ]
+      ],
+      [
+        1610172,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            107
+          ]
+        ]
+      ],
+      [
+        1610173,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            161
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211752,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 160,
+    "upgradeModulus": 170,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        30280,
+        32600
+      ],
+      [
+        458,
+        544
+      ]
+    ],
+    "bestValue": [
+      [
+        32600,
+        34230
+      ],
+      [
+        544,
+        571
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1610170,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1610171,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            54
+          ]
+        ]
+      ],
+      [
+        1610172,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            107
+          ]
+        ]
+      ],
+      [
+        1610173,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            161
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211753,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 160,
+    "upgradeModulus": 170,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1514,
+        1630
+      ],
+      [
+        1527,
+        1811
+      ]
+    ],
+    "bestValue": [
+      [
+        1630,
+        1712
+      ],
+      [
+        1811,
+        1902
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1610170,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1610171,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            54
+          ]
+        ]
+      ],
+      [
+        1610172,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            107
+          ]
+        ]
+      ],
+      [
+        1610173,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            161
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211754,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 160,
+    "upgradeModulus": 170,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1514,
+        1630
+      ],
+      [
+        458,
+        544
+      ]
+    ],
+    "bestValue": [
+      [
+        1630,
+        1712
+      ],
+      [
+        544,
+        571
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1610170,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1610171,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            54
+          ]
+        ]
+      ],
+      [
+        1610172,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            107
+          ]
+        ]
+      ],
+      [
+        1610173,
+        [
+          [
+            3,
+            42700
+          ],
+          [
+            11901,
+            161
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211801,
+    "part": "head",
+    "type": 11,
+    "level": 170,
+    "upgradeModulus": 175,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        33191,
+        35610
+      ],
+      [
+        1843,
+        1978
+      ]
+    ],
+    "bestValue": [
+      [
+        35610,
+        37391
+      ],
+      [
+        1978,
+        2077
+      ]
+    ],
+    "bestProbable": 0.023333,
+    "affixNum": 3,
+    "affixLevel": 1710175,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead18",
+    "sellCost": [
+      [
+        210000,
+        [
+          457,
+          558
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211802,
+    "part": "armor",
+    "type": 11,
+    "level": 170,
+    "upgradeModulus": 175,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        33191,
+        35610
+      ],
+      [
+        553,
+        593
+      ]
+    ],
+    "bestValue": [
+      [
+        35610,
+        37391
+      ],
+      [
+        593,
+        623
+      ]
+    ],
+    "bestProbable": 0.023333,
+    "affixNum": 3,
+    "affixLevel": 1710175,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor18",
+    "sellCost": [
+      [
+        210000,
+        [
+          457,
+          558
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211803,
+    "part": "hand",
+    "type": 11,
+    "level": 170,
+    "upgradeModulus": 175,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1660,
+        1780
+      ],
+      [
+        1843,
+        1978
+      ]
+    ],
+    "bestValue": [
+      [
+        1780,
+        1870
+      ],
+      [
+        1978,
+        2077
+      ]
+    ],
+    "bestProbable": 0.023333,
+    "affixNum": 3,
+    "affixLevel": 1710175,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand18",
+    "sellCost": [
+      [
+        210000,
+        [
+          457,
+          558
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211804,
+    "part": "foot",
+    "type": 11,
+    "level": 170,
+    "upgradeModulus": 175,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1660,
+        1780
+      ],
+      [
+        553,
+        593
+      ]
+    ],
+    "bestValue": [
+      [
+        1780,
+        1870
+      ],
+      [
+        593,
+        623
+      ]
+    ],
+    "bestProbable": 0.023333,
+    "affixNum": 3,
+    "affixLevel": 1710175,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot18",
+    "sellCost": [
+      [
+        210000,
+        [
+          457,
+          558
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211851,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 170,
+    "upgradeModulus": 180,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        36229,
+        38758
+      ],
+      [
+        1843,
+        2153
+      ]
+    ],
+    "bestValue": [
+      [
+        38758,
+        40696
+      ],
+      [
+        2153,
+        2261
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1710180,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1710181,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            60
+          ]
+        ]
+      ],
+      [
+        1710182,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            120
+          ]
+        ]
+      ],
+      [
+        1710183,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            180
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211852,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 170,
+    "upgradeModulus": 180,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        36229,
+        38758
+      ],
+      [
+        553,
+        646
+      ]
+    ],
+    "bestValue": [
+      [
+        38758,
+        40696
+      ],
+      [
+        646,
+        678
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1710180,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1710181,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            60
+          ]
+        ]
+      ],
+      [
+        1710182,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            120
+          ]
+        ]
+      ],
+      [
+        1710183,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            180
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211853,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 170,
+    "upgradeModulus": 180,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1811,
+        1938
+      ],
+      [
+        1843,
+        2153
+      ]
+    ],
+    "bestValue": [
+      [
+        1938,
+        2035
+      ],
+      [
+        2153,
+        2261
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1710180,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1710181,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            60
+          ]
+        ]
+      ],
+      [
+        1710182,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            120
+          ]
+        ]
+      ],
+      [
+        1710183,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            180
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211854,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 170,
+    "upgradeModulus": 180,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1811,
+        1938
+      ],
+      [
+        553,
+        646
+      ]
+    ],
+    "bestValue": [
+      [
+        1938,
+        2035
+      ],
+      [
+        646,
+        678
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1710180,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1710181,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            60
+          ]
+        ]
+      ],
+      [
+        1710182,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            120
+          ]
+        ]
+      ],
+      [
+        1710183,
+        [
+          [
+            3,
+            51200
+          ],
+          [
+            11901,
+            180
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211901,
+    "part": "head",
+    "type": 11,
+    "level": 180,
+    "upgradeModulus": 185,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        39402,
+        42040
+      ],
+      [
+        2189,
+        2335
+      ]
+    ],
+    "bestValue": [
+      [
+        42040,
+        44143
+      ],
+      [
+        2335,
+        2452
+      ]
+    ],
+    "bestProbable": 0.021875,
+    "affixNum": 3,
+    "affixLevel": 1810185,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHead19",
+    "sellCost": [
+      [
+        210000,
+        [
+          576,
+          704
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211902,
+    "part": "armor",
+    "type": 11,
+    "level": 180,
+    "upgradeModulus": 185,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        39402,
+        42040
+      ],
+      [
+        657,
+        701
+      ]
+    ],
+    "bestValue": [
+      [
+        42040,
+        44143
+      ],
+      [
+        701,
+        736
+      ]
+    ],
+    "bestProbable": 0.021875,
+    "affixNum": 3,
+    "affixLevel": 1810185,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petArmor19",
+    "sellCost": [
+      [
+        210000,
+        [
+          576,
+          704
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211903,
+    "part": "hand",
+    "type": 11,
+    "level": 180,
+    "upgradeModulus": 185,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1970,
+        2101
+      ],
+      [
+        2189,
+        2335
+      ]
+    ],
+    "bestValue": [
+      [
+        2101,
+        2207
+      ],
+      [
+        2335,
+        2452
+      ]
+    ],
+    "bestProbable": 0.021875,
+    "affixNum": 3,
+    "affixLevel": 1810185,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petHand19",
+    "sellCost": [
+      [
+        210000,
+        [
+          576,
+          704
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211904,
+    "part": "foot",
+    "type": 11,
+    "level": 180,
+    "upgradeModulus": 185,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1970,
+        2101
+      ],
+      [
+        657,
+        701
+      ]
+    ],
+    "bestValue": [
+      [
+        2101,
+        2207
+      ],
+      [
+        701,
+        736
+      ]
+    ],
+    "bestProbable": 0.021875,
+    "affixNum": 3,
+    "affixLevel": 1810185,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "icon": "petFoot19",
+    "sellCost": [
+      [
+        210000,
+        [
+          576,
+          704
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211951,
+    "quality": 5,
+    "part": "head",
+    "type": 11,
+    "level": 180,
+    "upgradeModulus": 190,
+    "attribute": [
+      "hp",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        42715,
+        45472
+      ],
+      [
+        2189,
+        2527
+      ]
+    ],
+    "bestValue": [
+      [
+        45472,
+        47746
+      ],
+      [
+        2527,
+        2653
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1810190,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1810191,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            66
+          ]
+        ]
+      ],
+      [
+        1810192,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            133
+          ]
+        ]
+      ],
+      [
+        1810193,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            199
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211952,
+    "quality": 5,
+    "part": "armor",
+    "type": 11,
+    "level": 180,
+    "upgradeModulus": 190,
+    "attribute": [
+      "hp",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        42715,
+        45472
+      ],
+      [
+        657,
+        758
+      ]
+    ],
+    "bestValue": [
+      [
+        45472,
+        47746
+      ],
+      [
+        758,
+        796
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1810190,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1810191,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            66
+          ]
+        ]
+      ],
+      [
+        1810192,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            133
+          ]
+        ]
+      ],
+      [
+        1810193,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            199
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211953,
+    "quality": 5,
+    "part": "hand",
+    "type": 11,
+    "level": 180,
+    "upgradeModulus": 190,
+    "attribute": [
+      "atk",
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        2136,
+        2273
+      ],
+      [
+        2189,
+        2527
+      ]
+    ],
+    "bestValue": [
+      [
+        2273,
+        2387
+      ],
+      [
+        2527,
+        2653
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1810190,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1810191,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            66
+          ]
+        ]
+      ],
+      [
+        1810192,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            133
+          ]
+        ]
+      ],
+      [
+        1810193,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            199
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  },
+  {
+    "id": 211954,
+    "quality": 5,
+    "part": "foot",
+    "type": 11,
+    "level": 180,
+    "upgradeModulus": 190,
+    "attribute": [
+      "atk",
+      "def"
+    ],
+    "attributeValue": [
+      [
+        2136,
+        2273
+      ],
+      [
+        657,
+        758
+      ]
+    ],
+    "bestValue": [
+      [
+        2273,
+        2387
+      ],
+      [
+        758,
+        796
+      ]
+    ],
+    "bestProbable": 0.35,
+    "affixNum": 3,
+    "affixLevel": 1810190,
+    "affixRandom": [
+      "hitVal",
+      "crit",
+      "lucky",
+      "dodge",
+      "tenacity",
+      "guardian"
+    ],
+    "affixNumMinus": 0,
+    "affixInjectCost": [
+      [
+        1810191,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            66
+          ]
+        ]
+      ],
+      [
+        1810192,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            133
+          ]
+        ]
+      ],
+      [
+        1810193,
+        [
+          [
+            3,
+            60400
+          ],
+          [
+            11901,
+            199
+          ]
+        ]
+      ]
+    ],
+    "allBaptizeCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valueBaptizeCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "fixedCost": [
+      [
+        11904,
+        26
+      ]
+    ],
+    "valuefixedCost": [
+      [
+        11904,
+        39
+      ]
+    ],
+    "affixResetWeight": [
+      [
+        [
+          0,
+          100
+        ]
+      ],
+      [
+        1
+      ]
+    ],
+    "affixShow": 1
+  }
+]

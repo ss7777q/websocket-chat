@@ -1,0 +1,1647 @@
+[
+  {
+    "id": 1,
+    "roleType": 1,
+    "roleId": 1,
+    "skill1": [
+      1001150,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      1001154,
+      1001153
+    ],
+    "skill2": [
+      1001160,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      1001162,
+      1001161
+    ],
+    "skill3": [
+      1001170,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      1001172,
+      1001171
+    ],
+    "skill4": [
+      1001180,
+      1,
+      1
+    ],
+    "skill4Awaken": [
+      1001182,
+      1001181
+    ],
+    "trick": [
+      1001190,
+      1,
+      1
+    ],
+    "trickAwaken": [
+      1001192,
+      1001193
+    ],
+    "skillExtra": [
+      2180101010101,
+      2180201010101
+    ],
+    "transSkill1": [
+      1002250,
+      1,
+      1
+    ],
+    "transSkill1Awaken": [],
+    "transSkill2": [
+      1002260,
+      1,
+      1
+    ],
+    "transSkill2Awaken": [],
+    "transSkill3": [
+      1002270,
+      1,
+      1
+    ],
+    "transSkill3Awaken": [],
+    "transSkill4": [
+      1002280,
+      1,
+      1
+    ],
+    "transSkill4Awaken": [],
+    "soul": 201,
+    "continuousUse": [
+      "s3"
+    ]
+  },
+  {
+    "id": 2,
+    "roleType": 2,
+    "roleId": 2,
+    "skill1": [
+      2001030,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      2001031,
+      2001034
+    ],
+    "skill2": [
+      2001040,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      2001041,
+      2001044
+    ],
+    "skill3": [
+      2001050,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      2001052,
+      2001051,
+      2001054
+    ],
+    "skill4": [
+      2001060,
+      1,
+      1
+    ],
+    "skill4Awaken": [
+      2001062,
+      2001064
+    ],
+    "trick": [
+      2001070,
+      1,
+      1
+    ],
+    "trickAwaken": [
+      2001072,
+      2001073
+    ],
+    "skillExtra": [
+      2180101010102,
+      2180201010102
+    ],
+    "transSkill1": [
+      2001240,
+      1,
+      1
+    ],
+    "transSkill1Awaken": [],
+    "transSkill2": [
+      2001230,
+      1,
+      1
+    ],
+    "transSkill2Awaken": [],
+    "transSkill3": [
+      2001260,
+      1,
+      1
+    ],
+    "transSkill3Awaken": [],
+    "transSkill4": [
+      2001250,
+      1,
+      1
+    ],
+    "transSkill4Awaken": [],
+    "soul": 202,
+    "continuousUse": [
+      "s3"
+    ]
+  },
+  {
+    "id": 3,
+    "roleType": 3,
+    "roleId": 3,
+    "skill1": [
+      3001060,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      3001062,
+      3001067
+    ],
+    "skill2": [
+      3001030,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      3001031,
+      3001032
+    ],
+    "skill3": [
+      3001040,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      3001041,
+      3001042
+    ],
+    "skill4": [
+      3001050,
+      1,
+      1
+    ],
+    "skill4Awaken": [
+      3001081,
+      3001085
+    ],
+    "trick": [
+      3001070,
+      1,
+      1
+    ],
+    "trickAwaken": [
+      3001072,
+      3001073
+    ],
+    "skillExtra": [
+      2180101010103,
+      2180201010103
+    ],
+    "transSkill1": [
+      3001230,
+      1,
+      1
+    ],
+    "transSkill1Awaken": [],
+    "transSkill2": [
+      3001250,
+      1,
+      1
+    ],
+    "transSkill2Awaken": [],
+    "transSkill3": [
+      3001240,
+      1,
+      1
+    ],
+    "transSkill3Awaken": [],
+    "transSkill4": [
+      3001260,
+      1,
+      1
+    ],
+    "transSkill4Awaken": [],
+    "soul": 203,
+    "continuousUse": [
+      "s3"
+    ]
+  },
+  {
+    "id": 4,
+    "roleType": 4,
+    "roleId": 4,
+    "skill1": [
+      4001030,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      4001034,
+      4001037
+    ],
+    "skill2": [
+      4001040,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      4001044,
+      4001047
+    ],
+    "skill3": [
+      4001050,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      4001054,
+      4001057
+    ],
+    "skill4": [
+      4001060,
+      1,
+      1
+    ],
+    "skill4Awaken": [
+      4001064,
+      4001067
+    ],
+    "otherData": {
+      "replaceSkill": {
+        "13": {
+          "4001047": 4001046,
+          "4001050": 4001051,
+          "4001054": 4001055,
+          "limitSubTypes": [
+            130001,
+            130002,
+            130003,
+            130004
+          ]
+        }
+      }
+    },
+    "trick": [
+      4001070,
+      1,
+      1
+    ],
+    "trickAwaken": [
+      4001071,
+      4001072
+    ],
+    "skillExtra": [
+      2180101010104,
+      2180201010104
+    ],
+    "transSkill1": [
+      4001230,
+      1,
+      1
+    ],
+    "transSkill1Awaken": [],
+    "transSkill2": [
+      4001240,
+      1,
+      1
+    ],
+    "transSkill2Awaken": [],
+    "transSkill3": [
+      4001250,
+      1,
+      1
+    ],
+    "transSkill3Awaken": [],
+    "transSkill4": [
+      4001260,
+      1,
+      1
+    ],
+    "transSkill4Awaken": [],
+    "soul": 204,
+    "continuousUse": [
+      "s3"
+    ]
+  },
+  {
+    "id": 5,
+    "roleType": 5,
+    "roleId": 5,
+    "skill1": [
+      5001030,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      5001031,
+      5001035
+    ],
+    "skill2": [
+      5001040,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      5001041,
+      5001045
+    ],
+    "skill3": [
+      5001050,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      5001052,
+      5001055
+    ],
+    "skill4": [
+      5001060,
+      1,
+      1
+    ],
+    "skill4Awaken": [
+      5001061,
+      5001068
+    ],
+    "trick": [
+      5001070,
+      1,
+      1
+    ],
+    "trickAwaken": [
+      5001071,
+      5001075
+    ],
+    "skillExtra": [
+      2180101010105,
+      2180201010105
+    ],
+    "transSkill1": [
+      5001230,
+      1,
+      1
+    ],
+    "transSkill1Awaken": [],
+    "transSkill2": [
+      5001240,
+      1,
+      1
+    ],
+    "transSkill2Awaken": [],
+    "transSkill3": [
+      5001251,
+      1,
+      1
+    ],
+    "transSkill3Awaken": [],
+    "transSkill4": [
+      5001260,
+      1,
+      1
+    ],
+    "transSkill4Awaken": [],
+    "soul": 205,
+    "continuousUse": [
+      "s3"
+    ]
+  },
+  {
+    "id": 6,
+    "roleType": 6,
+    "roleId": 6,
+    "skill1": [
+      6001030,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      6001031,
+      6001036
+    ],
+    "skill2": [
+      6001040,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      6001041,
+      6001046
+    ],
+    "skill3": [
+      6001050,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      6001051,
+      6001056
+    ],
+    "skill4": [
+      6001060,
+      1,
+      1
+    ],
+    "skill4Awaken": [
+      6001061,
+      6001066
+    ],
+    "trick": [
+      6001070,
+      1,
+      1
+    ],
+    "trickAwaken": [
+      6001071,
+      6001076
+    ],
+    "skillExtra": [
+      2180101010106,
+      2180201010106
+    ],
+    "transSkill1": [
+      6001230,
+      1,
+      1
+    ],
+    "transSkill1Awaken": [],
+    "transSkill2": [
+      6001240,
+      1,
+      1
+    ],
+    "transSkill2Awaken": [],
+    "transSkill3": [
+      6001250,
+      1,
+      1
+    ],
+    "transSkill3Awaken": [],
+    "transSkill4": [
+      6001260,
+      1,
+      1
+    ],
+    "transSkill4Awaken": [],
+    "soul": 206,
+    "continuousUse": [
+      "s3"
+    ]
+  },
+  {
+    "id": 7,
+    "roleType": 7,
+    "roleId": 7,
+    "skill1": [
+      7001030,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      7001031,
+      7001036
+    ],
+    "skill2": [
+      7001040,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      7001041,
+      7001046
+    ],
+    "skill3": [
+      7001050,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      7001051,
+      7001056
+    ],
+    "skill4": [
+      7001060,
+      1,
+      1
+    ],
+    "skill4Awaken": [
+      7001061,
+      7001066
+    ],
+    "otherData": {
+      "7001040": [
+        171,
+        [
+          7171010
+        ]
+      ],
+      "7001041": [
+        172,
+        [
+          7172010
+        ]
+      ],
+      "7001046": [
+        173,
+        [
+          7173010,
+          7173020
+        ]
+      ],
+      "7001050": [
+        174,
+        [
+          7174011
+        ]
+      ],
+      "7001051": [
+        175,
+        [
+          7175011
+        ]
+      ],
+      "7001056": [
+        176,
+        [
+          7176011
+        ]
+      ],
+      "7001060": [
+        177,
+        [
+          7177010
+        ]
+      ],
+      "7001061": [
+        178,
+        [
+          7178010,
+          7178020
+        ]
+      ],
+      "7001066": [
+        179,
+        [
+          7179010,
+          7179020
+        ]
+      ]
+    },
+    "trick": [
+      7001070,
+      1,
+      1
+    ],
+    "trickAwaken": [
+      7001071,
+      7001076
+    ],
+    "skillExtra": [
+      2180101010107,
+      2180201010107
+    ],
+    "transSkill1": [
+      7001230,
+      1,
+      1
+    ],
+    "transSkill1Awaken": [],
+    "transSkill1Switch": {
+      "7001076": 7001431
+    },
+    "transSkill2": [
+      7001240,
+      1,
+      1
+    ],
+    "transSkill2Awaken": [],
+    "transSkill2Switch": {
+      "7001076": 7001441
+    },
+    "transSkill3": [
+      7001250,
+      1,
+      1
+    ],
+    "transSkill3Awaken": [],
+    "transSkill3Switch": {
+      "7001076": 7001451
+    },
+    "transSkill4": [
+      7001260,
+      1,
+      1
+    ],
+    "transSkill4Awaken": [],
+    "transSkill4Switch": {
+      "7001076": 7001461
+    },
+    "soul": 207,
+    "continuousUse": [
+      "s3"
+    ]
+  },
+  {
+    "id": 6000100,
+    "roleType": 6000100,
+    "roleId": 6000100,
+    "skill1": [
+      60001000101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60001000106
+    ],
+    "skill2": [
+      60001000201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60001000206
+    ],
+    "skill3": [
+      60001000301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60001000306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000101,
+    "roleType": 6000101,
+    "roleId": 6000101,
+    "skill1": [
+      60001010101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60001010106
+    ],
+    "skill2": [
+      60001010201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60001010206
+    ],
+    "skill3": [
+      60001010301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60001010306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000111,
+    "roleType": 6000111,
+    "roleId": 6000111,
+    "skill1": [
+      60001110101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60001110106
+    ],
+    "skill2": [
+      60001110201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60001110206
+    ],
+    "skill3": [
+      60001110301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60001110306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000121,
+    "roleType": 6000121,
+    "roleId": 6000121,
+    "skill1": [
+      60001210101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60001210106
+    ],
+    "skill2": [
+      60001210201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60001210206
+    ],
+    "skill3": [
+      60001210301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60001210306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000131,
+    "roleType": 6000131,
+    "roleId": 6000131,
+    "skill1": [
+      60001310101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60001310106
+    ],
+    "skill2": [
+      60001310201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60001310206
+    ],
+    "skill3": [
+      60001310301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60001310306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000141,
+    "roleType": 6000141,
+    "roleId": 6000141,
+    "skill1": [
+      60001410101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60001410106
+    ],
+    "skill2": [
+      60001410201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60001410206
+    ],
+    "skill3": [
+      60001410301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60001410306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000200,
+    "roleType": 6000200,
+    "roleId": 6000200,
+    "skill1": [
+      60002000101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60002000106
+    ],
+    "skill2": [
+      60002000201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60002000206
+    ],
+    "skill3": [
+      60002000301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60002000306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000201,
+    "roleType": 6000201,
+    "roleId": 6000201,
+    "skill1": [
+      60002010101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60002010106
+    ],
+    "skill2": [
+      60002010201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60002010206
+    ],
+    "skill3": [
+      60002010301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60002010306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000211,
+    "roleType": 6000211,
+    "roleId": 6000211,
+    "skill1": [
+      60002110101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60002110106
+    ],
+    "skill2": [
+      60002110201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60002110206
+    ],
+    "skill3": [
+      60002110301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60002110306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000221,
+    "roleType": 6000221,
+    "roleId": 6000221,
+    "skill1": [
+      60002210101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60002210106
+    ],
+    "skill2": [
+      60002210201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60002210206
+    ],
+    "skill3": [
+      60002210301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60002210306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000231,
+    "roleType": 6000231,
+    "roleId": 6000231,
+    "skill1": [
+      60002310101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60002310106
+    ],
+    "skill2": [
+      60002310201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60002310206
+    ],
+    "skill3": [
+      60002310301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60002310306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000241,
+    "roleType": 6000241,
+    "roleId": 6000241,
+    "skill1": [
+      60002410101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60002410106
+    ],
+    "skill2": [
+      60002410201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60002410206
+    ],
+    "skill3": [
+      60002410301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60002410306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000300,
+    "roleType": 6000300,
+    "roleId": 6000300,
+    "skill1": [
+      60003000101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60003000106
+    ],
+    "skill2": [
+      60003000201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60003000206
+    ],
+    "skill3": [
+      60003000301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60003000306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000301,
+    "roleType": 6000301,
+    "roleId": 6000301,
+    "skill1": [
+      60003010101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60003010106
+    ],
+    "skill2": [
+      60003010201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60003010206
+    ],
+    "skill3": [
+      60003010301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60003010306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000311,
+    "roleType": 6000311,
+    "roleId": 6000311,
+    "skill1": [
+      60003110101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60003110106
+    ],
+    "skill2": [
+      60003110201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60003110206
+    ],
+    "skill3": [
+      60003110301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60003110306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000321,
+    "roleType": 6000321,
+    "roleId": 6000321,
+    "skill1": [
+      60003210101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60003210106
+    ],
+    "skill2": [
+      60003210201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60003210206
+    ],
+    "skill3": [
+      60003210301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60003210306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000331,
+    "roleType": 6000331,
+    "roleId": 6000331,
+    "skill1": [
+      60003310101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60003310106
+    ],
+    "skill2": [
+      60003310201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60003310206
+    ],
+    "skill3": [
+      60003310301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60003310306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000341,
+    "roleType": 6000341,
+    "roleId": 6000341,
+    "skill1": [
+      60003410101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60003410106
+    ],
+    "skill2": [
+      60003410201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60003410206
+    ],
+    "skill3": [
+      60003410301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60003410306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000400,
+    "roleType": 6000400,
+    "roleId": 6000400,
+    "skill1": [
+      60004000101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60004000106
+    ],
+    "skill2": [
+      60004000201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60004000206
+    ],
+    "skill3": [
+      60004000301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60004000306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000401,
+    "roleType": 6000401,
+    "roleId": 6000401,
+    "skill1": [
+      60004010101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60004010106
+    ],
+    "skill2": [
+      60004010201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60004010206
+    ],
+    "skill3": [
+      60004010301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60004010306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000411,
+    "roleType": 6000411,
+    "roleId": 6000411,
+    "skill1": [
+      60004110101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60004110106
+    ],
+    "skill2": [
+      60004110201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60004110206
+    ],
+    "skill3": [
+      60004110301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60004110306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000421,
+    "roleType": 6000421,
+    "roleId": 6000421,
+    "skill1": [
+      60004210101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60004210106
+    ],
+    "skill2": [
+      60004210201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60004210206
+    ],
+    "skill3": [
+      60004210301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60004210306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000431,
+    "roleType": 6000431,
+    "roleId": 6000431,
+    "skill1": [
+      60004310101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60004310106
+    ],
+    "skill2": [
+      60004310201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60004310206
+    ],
+    "skill3": [
+      60004310301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60004310306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  },
+  {
+    "id": 6000441,
+    "roleType": 6000441,
+    "roleId": 6000441,
+    "skill1": [
+      60004410101,
+      1,
+      1
+    ],
+    "skill1Awaken": [
+      60004410106
+    ],
+    "skill2": [
+      60004410201,
+      1,
+      1
+    ],
+    "skill2Awaken": [
+      60004410206
+    ],
+    "skill3": [
+      60004410301,
+      1,
+      1
+    ],
+    "skill3Awaken": [
+      60004410306
+    ],
+    "skill4": [],
+    "skill4Awaken": [],
+    "trick": [],
+    "trickAwaken": [],
+    "transSkill1": [],
+    "transSkill1Awaken": [],
+    "transSkill2": [],
+    "transSkill2Awaken": [],
+    "transSkill3": [],
+    "transSkill3Awaken": [],
+    "transSkill4": [],
+    "transSkill4Awaken": []
+  }
+]

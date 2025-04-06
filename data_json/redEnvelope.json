@@ -1,0 +1,546 @@
+[
+  {
+    "id": 60000,
+    "name": "测试红包",
+    "type": 3,
+    "kind": 2,
+    "show": [
+      [
+        2,
+        10000
+      ],
+      20
+    ],
+    "bgName": [
+      "3_b_cl",
+      "3_b_op"
+    ],
+    "data": [
+      [
+        2,
+        10000
+      ],
+      20
+    ],
+    "channel": [
+      "teacher",
+      "student"
+    ],
+    "text": "师门谢礼",
+    "isClose": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "effect": "shituda"
+  },
+  {
+    "id": 60001,
+    "name": "天官赐福",
+    "type": 1,
+    "kind": 1,
+    "show": [
+      [
+        2,
+        10000
+      ],
+      20
+    ],
+    "bgName": [
+      "1_b_cl",
+      "1_b_op"
+    ],
+    "data": [
+      {
+        "drop": [
+          2,
+          2000
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          1500
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          1200
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          1000
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          800
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          600
+        ],
+        "num": 1
+      },
+      {
+        "drop": [
+          2,
+          500
+        ],
+        "num": 1
+      },
+      {
+        "drop": [
+          2,
+          400
+        ],
+        "num": 1
+      },
+      {
+        "drop": [
+          2,
+          300
+        ],
+        "num": 2
+      },
+      {
+        "drop": [
+          2,
+          200
+        ],
+        "num": 4
+      },
+      {
+        "drop": [
+          2,
+          100
+        ],
+        "num": 6
+      }
+    ],
+    "channel": [
+      "world"
+    ],
+    "startTime": "9:00:00",
+    "endTime": "23:00:00",
+    "text": "天官赐福，财源滚滚！",
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "effect": "shijieda"
+  },
+  {
+    "id": 60002,
+    "name": "山河相伴",
+    "type": 2,
+    "kind": 2,
+    "show": [
+      [
+        2,
+        30000
+      ],
+      50
+    ],
+    "bgName": [
+      "2_b_cl",
+      "2_b_op"
+    ],
+    "data": [
+      [
+        2,
+        30000
+      ],
+      50
+    ],
+    "channel": [
+      "league"
+    ],
+    "text": "山河如故，相伴此间！",
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "effect": "lianmengda"
+  },
+  {
+    "id": 60003,
+    "name": "天运福祉",
+    "type": 1,
+    "kind": 1,
+    "show": [
+      [
+        2,
+        10000
+      ],
+      20
+    ],
+    "bgName": [
+      "1_b_cl",
+      "1_b_op"
+    ],
+    "data": [
+      {
+        "drop": [
+          2,
+          2000
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          1500
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          1200
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          1000
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          800
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          600
+        ],
+        "num": 1
+      },
+      {
+        "drop": [
+          2,
+          500
+        ],
+        "num": 1
+      },
+      {
+        "drop": [
+          2,
+          400
+        ],
+        "num": 1
+      },
+      {
+        "drop": [
+          2,
+          300
+        ],
+        "num": 2
+      },
+      {
+        "drop": [
+          2,
+          200
+        ],
+        "num": 4
+      },
+      {
+        "drop": [
+          2,
+          100
+        ],
+        "num": 6
+      }
+    ],
+    "channel": [
+      "world"
+    ],
+    "startTime": "9:00:00",
+    "endTime": "23:00:00",
+    "text": "天运福祉，旺从天降",
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "effect": "shijieda"
+  },
+  {
+    "id": 60004,
+    "name": "山盟之约",
+    "type": 2,
+    "kind": 1,
+    "show": [
+      [
+        2,
+        6000
+      ],
+      12
+    ],
+    "bgName": [
+      "2_b_cl",
+      "2_b_op"
+    ],
+    "data": [
+      {
+        "drop": [
+          2,
+          2000
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          1200
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          800
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          500
+        ],
+        "num": 1
+      },
+      {
+        "drop": [
+          2,
+          300
+        ],
+        "num": 2
+      },
+      {
+        "drop": [
+          2,
+          200
+        ],
+        "num": 3
+      },
+      {
+        "drop": [
+          2,
+          100
+        ],
+        "num": 3
+      }
+    ],
+    "channel": [
+      "league"
+    ],
+    "startTime": "9:00:00",
+    "endTime": "23:00:00",
+    "text": "山盟之约，有福共享！",
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "effect": "lianmengda"
+  },
+  {
+    "id": 60005,
+    "name": "老友归来",
+    "type": 2,
+    "kind": 1,
+    "show": [
+      [
+        2,
+        3500
+      ],
+      19
+    ],
+    "bgName": [
+      "2_b_cl",
+      "2_b_op"
+    ],
+    "data": [
+      {
+        "drop": [
+          2,
+          500
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          300
+        ],
+        "num": 3
+      },
+      {
+        "drop": [
+          2,
+          200
+        ],
+        "num": 6
+      },
+      {
+        "drop": [
+          2,
+          100
+        ],
+        "num": 9
+      }
+    ],
+    "channel": [
+      "league"
+    ],
+    "startTime": "9:00:00",
+    "endTime": "23:00:00",
+    "text": "恭喜发财",
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "effect": "lianmengda"
+  },
+  {
+    "id": 60006,
+    "name": "测试红包",
+    "type": 1,
+    "kind": 2,
+    "show": [
+      [
+        2,
+        30000
+      ],
+      2
+    ],
+    "bgName": [
+      "2_b_cl",
+      "2_b_op"
+    ],
+    "data": [
+      [
+        2,
+        30000
+      ],
+      2
+    ],
+    "channel": [
+      "world"
+    ],
+    "text": "恭喜发财",
+    "isClose": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "effect": "shijieda"
+  },
+  {
+    "id": 60007,
+    "name": "测试红包",
+    "type": 2,
+    "kind": 1,
+    "show": [
+      [
+        2,
+        10000
+      ],
+      2
+    ],
+    "bgName": [
+      "1_b_cl",
+      "1_b_op"
+    ],
+    "data": [
+      {
+        "drop": [
+          2,
+          2000
+        ],
+        "num": 1,
+        "first": true
+      },
+      {
+        "drop": [
+          2,
+          1500
+        ],
+        "num": 1,
+        "first": true
+      }
+    ],
+    "channel": [
+      "league"
+    ],
+    "text": "长假快乐",
+    "isClose": 1,
+    "limitType": [
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "effect": "lianmengda"
+  }
+]

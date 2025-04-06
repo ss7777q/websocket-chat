@@ -1,0 +1,1 @@
+var tmp=[["id","number"],[1,10],[2,10],[3,14],[4,4],[5,8],[6,10],[7,8],[8,10],[9,10]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.starHavocEventNumber=tmp);

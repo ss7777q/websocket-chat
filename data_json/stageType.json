@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "group": 1,
+    "name": "主线关卡",
+    "stageType": [
+      1,
+      37
+    ],
+    "order": 5,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 2,
+    "group": 1,
+    "name": "噩梦关卡",
+    "stageType": [
+      6
+    ],
+    "order": 6,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 3,
+    "group": 1,
+    "name": "西行幻境关卡",
+    "stageType": [
+      2,
+      3
+    ],
+    "order": 7,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 4,
+    "group": 1,
+    "name": "罗汉堂关卡",
+    "stageType": [
+      4
+    ],
+    "order": 8,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 5,
+    "group": 1,
+    "name": "神兽森林",
+    "stageType": [
+      5
+    ],
+    "order": 25,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 6,
+    "group": 1,
+    "name": "悬赏任务关卡",
+    "stageType": [
+      7
+    ],
+    "order": 11,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 7,
+    "group": 2,
+    "name": "神魔战场",
+    "stageType": [
+      13,
+      42
+    ],
+    "order": 14,
+    "leagueShow": -1,
+    "titleShow": -1
+  },
+  {
+    "id": 8,
+    "group": 2,
+    "name": "仙位竞技场",
+    "stageType": [
+      10
+    ],
+    "order": 13,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 9,
+    "group": 2,
+    "name": "天神斗场",
+    "stageType": [
+      24,
+      25,
+      26
+    ],
+    "order": 15,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 10,
+    "group": 2,
+    "name": "切磋",
+    "stageType": [
+      11
+    ],
+    "order": 17,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 11,
+    "group": 1,
+    "name": "联盟任务关卡",
+    "stageType": [
+      16
+    ],
+    "order": 12,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 12,
+    "group": 1,
+    "name": "活动类关卡",
+    "stageType": [
+      18,
+      19,
+      22,
+      27,
+      28,
+      32,
+      34,
+      35,
+      36,
+      38,
+      39,
+      44
+    ],
+    "order": 10,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 13,
+    "group": 2,
+    "name": "仙位试炼场",
+    "stageType": [
+      17
+    ],
+    "order": 18,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 14,
+    "group": 1,
+    "name": "守护昆仑关卡",
+    "stageType": [
+      23
+    ],
+    "order": 9,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 15,
+    "group": 2,
+    "name": "天道之战",
+    "stageType": [
+      15
+    ],
+    "order": 16,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 16,
+    "group": 2,
+    "name": "天神乱斗",
+    "stageType": [
+      29
+    ],
+    "order": 19,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 17,
+    "group": 1,
+    "name": "天机灵域·和平房",
+    "stageType": [
+      101
+    ],
+    "order": 21,
+    "leagueShow": 0,
+    "titleShow": 0
+  },
+  {
+    "id": 18,
+    "group": 2,
+    "name": "天机灵域·自由房",
+    "stageType": [
+      102
+    ],
+    "order": 22,
+    "leagueShow": 0,
+    "titleShow": 0
+  },
+  {
+    "id": 19,
+    "group": 1,
+    "name": "讨伐凶兽",
+    "stageType": [
+      33
+    ],
+    "order": 20,
+    "leagueShow": 0,
+    "titleShow": 1
+  },
+  {
+    "id": 20,
+    "group": 1,
+    "name": "天机灵域·噩梦房",
+    "stageType": [
+      104
+    ],
+    "order": 23,
+    "leagueShow": 0,
+    "titleShow": 0
+  },
+  {
+    "id": 21,
+    "group": 2,
+    "name": "天机灵域·势力房",
+    "stageType": [
+      103
+    ],
+    "order": 24,
+    "leagueShow": 0,
+    "titleShow": 0
+  },
+  {
+    "id": 22,
+    "group": 3,
+    "name": "主城",
+    "stageType": [
+      "mainCity"
+    ],
+    "order": 1,
+    "leagueShow": 1,
+    "titleShow": 1
+  },
+  {
+    "id": 23,
+    "group": 3,
+    "name": "联盟领地",
+    "stageType": [
+      "league"
+    ],
+    "order": 2,
+    "leagueShow": 1,
+    "titleShow": 1
+  },
+  {
+    "id": 24,
+    "group": 3,
+    "name": "梼杌沼泽",
+    "stageType": [
+      "leagueBossReal"
+    ],
+    "order": 3,
+    "leagueShow": -1,
+    "titleShow": 1
+  },
+  {
+    "id": 25,
+    "group": 3,
+    "name": "无量山",
+    "stageType": [
+      1001
+    ],
+    "order": 4,
+    "leagueShow": -1,
+    "titleShow": 1
+  },
+  {
+    "id": 26,
+    "group": 3,
+    "name": "天街",
+    "stageType": [
+      "skyStreet"
+    ],
+    "order": 26,
+    "leagueShow": 1,
+    "titleShow": 1
+  },
+  {
+    "id": 27,
+    "group": 1,
+    "name": "兜率宫",
+    "stageType": [
+      1002
+    ],
+    "order": 27,
+    "leagueShow": 0,
+    "titleShow": 0
+  },
+  {
+    "id": 28,
+    "group": 2,
+    "name": "混乱空间",
+    "stageType": [
+      105
+    ],
+    "order": 28,
+    "leagueShow": 0,
+    "titleShow": 0
+  },
+  {
+    "id": 29,
+    "group": 1,
+    "name": "招摇山",
+    "stageType": [
+      43
+    ],
+    "order": 29,
+    "leagueShow": 0,
+    "titleShow": 0
+  },
+  {
+    "id": 30,
+    "group": 1,
+    "name": "七星浩劫",
+    "stageType": [
+      45
+    ],
+    "order": 30,
+    "leagueShow": 0,
+    "titleShow": 0
+  }
+]

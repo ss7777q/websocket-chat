@@ -1,0 +1,226 @@
+[
+  {
+    "id": 0,
+    "rideLimit": 0,
+    "upgradeCost": [
+      [
+        3,
+        180
+      ]
+    ],
+    "levelLimit": 1
+  },
+  {
+    "id": 1,
+    "rideLimit": 10,
+    "upgradeCost": [
+      [
+        3,
+        1000
+      ]
+    ],
+    "levelLimit": 10
+  },
+  {
+    "id": 2,
+    "rideLimit": 20,
+    "upgradeCost": [
+      [
+        3,
+        3100
+      ]
+    ],
+    "levelLimit": 20
+  },
+  {
+    "id": 3,
+    "rideLimit": 30,
+    "upgradeCost": [
+      [
+        3,
+        8000
+      ]
+    ],
+    "levelLimit": 30
+  },
+  {
+    "id": 4,
+    "rideLimit": 40,
+    "upgradeCost": [
+      [
+        3,
+        20000
+      ]
+    ],
+    "levelLimit": 40
+  },
+  {
+    "id": 5,
+    "rideLimit": 50,
+    "upgradeCost": [
+      [
+        3,
+        37800
+      ]
+    ],
+    "levelLimit": 50
+  },
+  {
+    "id": 6,
+    "rideLimit": 60,
+    "upgradeCost": [
+      [
+        3,
+        63500
+      ]
+    ],
+    "levelLimit": 60
+  },
+  {
+    "id": 7,
+    "rideLimit": 70,
+    "upgradeCost": [
+      [
+        3,
+        100000
+      ]
+    ],
+    "levelLimit": 70
+  },
+  {
+    "id": 8,
+    "rideLimit": 80,
+    "upgradeCost": [
+      [
+        3,
+        151000
+      ]
+    ],
+    "levelLimit": 80
+  },
+  {
+    "id": 9,
+    "rideLimit": 90,
+    "upgradeCost": [
+      [
+        3,
+        222000
+      ]
+    ],
+    "levelLimit": 90
+  },
+  {
+    "id": 10,
+    "rideLimit": 100,
+    "upgradeCost": [
+      [
+        3,
+        320000
+      ]
+    ],
+    "levelLimit": 100
+  },
+  {
+    "id": 11,
+    "rideLimit": 110,
+    "upgradeCost": [
+      [
+        3,
+        453000
+      ]
+    ],
+    "levelLimit": 110
+  },
+  {
+    "id": 12,
+    "rideLimit": 120,
+    "upgradeCost": [
+      [
+        3,
+        635000
+      ]
+    ],
+    "levelLimit": 120
+  },
+  {
+    "id": 13,
+    "rideLimit": 130,
+    "upgradeCost": [
+      [
+        3,
+        880000
+      ]
+    ],
+    "levelLimit": 130
+  },
+  {
+    "id": 14,
+    "rideLimit": 140,
+    "upgradeCost": [
+      [
+        3,
+        1209000
+      ]
+    ],
+    "levelLimit": 140
+  },
+  {
+    "id": 15,
+    "rideLimit": 150,
+    "upgradeCost": [
+      [
+        3,
+        1651000
+      ]
+    ],
+    "levelLimit": 150
+  },
+  {
+    "id": 16,
+    "rideLimit": 160,
+    "upgradeCost": [
+      [
+        3,
+        2240000
+      ]
+    ],
+    "levelLimit": 160
+  },
+  {
+    "id": 17,
+    "rideLimit": 170,
+    "upgradeCost": [
+      [
+        3,
+        3023000
+      ]
+    ],
+    "levelLimit": 170
+  },
+  {
+    "id": 18,
+    "rideLimit": 180,
+    "upgradeCost": [
+      [
+        3,
+        4063000
+      ]
+    ],
+    "levelLimit": 180
+  },
+  {
+    "id": 19,
+    "rideLimit": 190,
+    "upgradeCost": [
+      [
+        3,
+        5439000
+      ]
+    ],
+    "levelLimit": 190
+  },
+  {
+    "id": 20,
+    "rideLimit": 200
+  }
+]

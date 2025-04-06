@@ -1,0 +1,3156 @@
+[
+  {
+    "id": 1001,
+    "name": "救世圣莲",
+    "phases": 1,
+    "weaponFashionIds": [
+      100101,
+      100102
+    ],
+    "groupId": 1,
+    "lvLimit": 10,
+    "synthetic": 1,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      2800,
+      2800,
+      2800,
+      1333,
+      267
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "缓慢恢复生命值，持续10秒",
+    "skillFllow": 1,
+    "monsterId": 2030101,
+    "unlockType": 0,
+    "number": 0,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        5625
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        3750
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        3750
+      ]
+    ],
+    "postposition": 1002,
+    "positionCost": [
+      [
+        3,
+        200
+      ],
+      [
+        400201,
+        1
+      ]
+    ],
+    "growth": [
+      35,
+      75
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.034,
+    "hpAdd": 0.344,
+    "defAdd": 0.011,
+    "mpAdd": 0.172,
+    "healHpAdd": 0.029,
+    "healMpAdd": 0.014,
+    "unlockSoulCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "slouLevelLimit": 1,
+    "unlockSoulSkill": [
+      1,
+      3
+    ],
+    "icon": "jiushishenglian",
+    "showFile": "jiushishenglian",
+    "itemIcon": 1001,
+    "childAI": 2030111
+  },
+  {
+    "id": 1002,
+    "name": "二阶救世圣莲",
+    "phases": 2,
+    "groupId": 1,
+    "lvLimit": 10,
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      2800,
+      2800,
+      2800,
+      1333,
+      267
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "缓慢恢复生命值，持续10秒",
+    "skillFllow": 1,
+    "monsterId": 2030101,
+    "unlockType": 4,
+    "number": 0,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        5625
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        3750
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        3750
+      ]
+    ],
+    "postposition": 0,
+    "growth": [
+      35,
+      75
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.034,
+    "hpAdd": 0.344,
+    "defAdd": 0.011,
+    "mpAdd": 0.172,
+    "healHpAdd": 0.029,
+    "healMpAdd": 0.014,
+    "unlockSoulCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "slouLevelLimit": 1,
+    "unlockSoulSkill": [
+      1,
+      3
+    ],
+    "icon": "jiushishenglian",
+    "showFile": "jiushishenglian",
+    "itemIcon": 1001,
+    "childAI": 2030111
+  },
+  {
+    "id": 2001,
+    "name": "地煞葫芦",
+    "phases": 1,
+    "showLimit": [
+      [
+        5,
+        [
+          102002012
+        ]
+      ]
+    ],
+    "groupId": 2,
+    "lvLimit": 10,
+    "synthetic": 2,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      3172,
+      2791,
+      2537,
+      1250,
+      250
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "可将怪物吸至面前，若吸的怪物为宠物则可以开启捕捉界面",
+    "skillFllow": 0,
+    "monsterId": 2030201,
+    "unlockType": 1,
+    "number": 5,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        6000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        4000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        4000
+      ]
+    ],
+    "postposition": 2002,
+    "positionCost": [
+      [
+        3,
+        400
+      ],
+      [
+        400201,
+        1
+      ]
+    ],
+    "growth": [
+      40,
+      80
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.036,
+    "hpAdd": 0.36,
+    "defAdd": 0.012,
+    "mpAdd": 0.18,
+    "healHpAdd": 0.03,
+    "healMpAdd": 0.015,
+    "unlockSoulCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "slouLevelLimit": 1,
+    "unlockSoulSkill": [
+      1,
+      3
+    ],
+    "icon": "dishahulu",
+    "showFile": "dishahulu",
+    "itemIcon": 2001,
+    "childAI": 2030211
+  },
+  {
+    "id": 2002,
+    "name": "二阶地煞葫芦",
+    "phases": 2,
+    "groupId": 2,
+    "lvLimit": 10,
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      3172,
+      2791,
+      2537,
+      1250,
+      250
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "可将怪物吸至面前，若吸的怪物为宠物则可以开启捕捉界面",
+    "skillFllow": 0,
+    "monsterId": 2030201,
+    "unlockType": 4,
+    "number": 0,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        6000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        4000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        4000
+      ]
+    ],
+    "postposition": 0,
+    "growth": [
+      40,
+      80
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.036,
+    "hpAdd": 0.36,
+    "defAdd": 0.012,
+    "mpAdd": 0.18,
+    "healHpAdd": 0.03,
+    "healMpAdd": 0.015,
+    "unlockSoulCost": [
+      [
+        141000000,
+        1
+      ]
+    ],
+    "slouLevelLimit": 1,
+    "unlockSoulSkill": [
+      1,
+      3
+    ],
+    "icon": "dishahulu",
+    "showFile": "dishahulu",
+    "itemIcon": 2001,
+    "childAI": 2030211
+  },
+  {
+    "id": 3001,
+    "name": "青玉宝瓶",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          20101
+        ]
+      ],
+      [
+        1,
+        [
+          10
+        ]
+      ]
+    ],
+    "groupId": 3,
+    "lvLimit": 10,
+    "synthetic": 3,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      3482,
+      2785,
+      2321,
+      1176,
+      235
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "缓慢恢复魔法值，持续4秒",
+    "skillFllow": 1,
+    "monsterId": 2030301,
+    "unlockType": 1,
+    "number": 10,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        6375
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        4250
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        4250
+      ]
+    ],
+    "postposition": 3002,
+    "positionCost": [
+      [
+        3,
+        200
+      ],
+      [
+        400201,
+        1
+      ]
+    ],
+    "growth": [
+      40,
+      85
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.038,
+    "hpAdd": 0.376,
+    "defAdd": 0.013,
+    "mpAdd": 0.188,
+    "healHpAdd": 0.031,
+    "healMpAdd": 0.016,
+    "unlockSoulCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "slouLevelLimit": 1,
+    "unlockSoulSkill": [
+      1,
+      3
+    ],
+    "icon": "qingyubaoping",
+    "showFile": "qingyubaoping",
+    "itemIcon": 3001,
+    "childAI": 2030311
+  },
+  {
+    "id": 3002,
+    "name": "二阶青玉宝瓶",
+    "phases": 2,
+    "groupId": 3,
+    "lvLimit": 10,
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      3482,
+      2785,
+      2321,
+      1176,
+      235
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "缓慢恢复魔法值，持续4秒",
+    "skillFllow": 1,
+    "monsterId": 2030301,
+    "unlockType": 4,
+    "number": 0,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        6375
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        4250
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        4250
+      ]
+    ],
+    "postposition": 0,
+    "growth": [
+      40,
+      85
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.038,
+    "hpAdd": 0.376,
+    "defAdd": 0.013,
+    "mpAdd": 0.188,
+    "healHpAdd": 0.031,
+    "healMpAdd": 0.016,
+    "unlockSoulCost": [
+      [
+        141000000,
+        2
+      ]
+    ],
+    "slouLevelLimit": 1,
+    "unlockSoulSkill": [
+      1,
+      3
+    ],
+    "icon": "qingyubaoping",
+    "showFile": "qingyubaoping",
+    "itemIcon": 3001,
+    "childAI": 2030311
+  },
+  {
+    "id": 4001,
+    "name": "天煞古剑",
+    "phases": 1,
+    "weaponFashionIds": [
+      400101
+    ],
+    "showLimit": [
+      [
+        4,
+        [
+          30101
+        ]
+      ],
+      [
+        1,
+        [
+          20
+        ]
+      ]
+    ],
+    "groupId": 4,
+    "lvLimit": 10,
+    "synthetic": 4,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      3745,
+      2782,
+      2140,
+      1111,
+      222
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 0,
+    "text": "古剑射出对前方敌人造成伤害。再次按下技能键瞬移至古剑上跟随古剑一起飞行。",
+    "skillPos": [
+      1,
+      [
+        0,
+        30
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2030401,
+    "unlockType": 1,
+    "number": 20,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        6750
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        4500
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        4500
+      ]
+    ],
+    "postposition": 4002,
+    "positionCost": [
+      [
+        3,
+        400
+      ],
+      [
+        400201,
+        1
+      ]
+    ],
+    "growth": [
+      45,
+      90
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.039,
+    "hpAdd": 0.39,
+    "defAdd": 0.013,
+    "mpAdd": 0.195,
+    "healHpAdd": 0.032,
+    "healMpAdd": 0.016,
+    "unlockSoulCost": [
+      [
+        141000000,
+        4
+      ]
+    ],
+    "slouLevelLimit": 2,
+    "unlockSoulSkill": [
+      2,
+      3
+    ],
+    "icon": "tianshagujian",
+    "showFile": "tianshagujian",
+    "itemIcon": 4001,
+    "childAI": 2030411
+  },
+  {
+    "id": 4002,
+    "name": "二阶天煞古剑",
+    "phases": 2,
+    "groupId": 4,
+    "lvLimit": 10,
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      3745,
+      2782,
+      2140,
+      1111,
+      222
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 0,
+    "text": "古剑射出对前方敌人造成伤害。再次按下技能键瞬移至古剑上跟随古剑一起飞行。",
+    "skillPos": [
+      1,
+      [
+        0,
+        30
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2030401,
+    "unlockType": 4,
+    "number": 0,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        6750
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        4500
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        4500
+      ]
+    ],
+    "postposition": 0,
+    "growth": [
+      45,
+      90
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.039,
+    "hpAdd": 0.39,
+    "defAdd": 0.013,
+    "mpAdd": 0.195,
+    "healHpAdd": 0.032,
+    "healMpAdd": 0.016,
+    "unlockSoulCost": [
+      [
+        141000000,
+        4
+      ]
+    ],
+    "slouLevelLimit": 2,
+    "unlockSoulSkill": [
+      2,
+      3
+    ],
+    "icon": "tianshagujian",
+    "showFile": "tianshagujian",
+    "itemIcon": 4001,
+    "childAI": 2030411
+  },
+  {
+    "id": 5001,
+    "name": "白霜镜",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          40101
+        ]
+      ],
+      [
+        1,
+        [
+          30
+        ]
+      ]
+    ],
+    "groupId": 5,
+    "lvLimit": 10,
+    "synthetic": 5,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      3971,
+      2780,
+      1986,
+      1053,
+      211
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "白霜镜10秒内自动追击附近敌人，对其持续造成伤害，累计5次伤害后则冰冻2秒。",
+    "skillFllow": 0,
+    "monsterId": 2030501,
+    "unlockType": 1,
+    "number": 30,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        7125
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        4750
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        4750
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      45,
+      95
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.04,
+    "hpAdd": 0.403,
+    "defAdd": 0.013,
+    "mpAdd": 0.202,
+    "healHpAdd": 0.034,
+    "healMpAdd": 0.017,
+    "unlockSoulCost": [
+      [
+        141000000,
+        8
+      ]
+    ],
+    "slouLevelLimit": 2,
+    "unlockSoulSkill": [
+      2,
+      3
+    ],
+    "icon": "baishuangjing",
+    "showFile": "baishuangjing",
+    "itemIcon": 5001,
+    "childAI": 2030511
+  },
+  {
+    "id": 6001,
+    "name": "罗刹妖伞",
+    "phases": 1,
+    "weaponFashionIds": [
+      600101
+    ],
+    "showLimit": [
+      [
+        4,
+        [
+          50101
+        ]
+      ],
+      [
+        1,
+        [
+          40
+        ]
+      ]
+    ],
+    "groupId": 6,
+    "lvLimit": 10,
+    "synthetic": 6,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      3971,
+      2780,
+      1986,
+      1053,
+      211
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "妖伞飞起，发出数道毒针，命中后造成中毒状态。",
+    "skillFllow": 0,
+    "monsterId": 2030601,
+    "unlockType": 1,
+    "number": 40,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        7500
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        5000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        5000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      45,
+      95
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.04,
+    "hpAdd": 0.403,
+    "defAdd": 0.013,
+    "mpAdd": 0.202,
+    "healHpAdd": 0.034,
+    "healMpAdd": 0.017,
+    "unlockSoulCost": [
+      [
+        141000000,
+        17
+      ]
+    ],
+    "slouLevelLimit": 2,
+    "unlockSoulSkill": [
+      2,
+      3
+    ],
+    "icon": "luochayaosan",
+    "showFile": "luochayaosan",
+    "itemIcon": 6001,
+    "childAI": 2030611
+  },
+  {
+    "id": 7001,
+    "name": "幽冥鬼爪",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          60101
+        ]
+      ],
+      [
+        1,
+        [
+          50
+        ]
+      ]
+    ],
+    "groupId": 7,
+    "lvLimit": 10,
+    "synthetic": 7,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      4168,
+      2779,
+      1853,
+      1000,
+      200
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "被鬼爪束缚者若使用攻击或技能会受到鬼爪的反噬伤害。",
+    "skillPos": [
+      1,
+      [
+        -50,
+        60
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2030701,
+    "unlockType": 1,
+    "number": 50,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        9000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        6000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        6000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      60,
+      120
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.044,
+    "hpAdd": 0.437,
+    "defAdd": 0.015,
+    "mpAdd": 0.218,
+    "healHpAdd": 0.036,
+    "healMpAdd": 0.018,
+    "unlockSoulCost": [
+      [
+        141000000,
+        28
+      ]
+    ],
+    "slouLevelLimit": 3,
+    "unlockSoulSkill": [
+      3,
+      3
+    ],
+    "icon": "youmingguizhua",
+    "showFile": "youmingguizhua",
+    "itemIcon": 7001,
+    "childAI": 2030711
+  },
+  {
+    "id": 8001,
+    "name": "宣花锤",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          70101
+        ]
+      ],
+      [
+        1,
+        [
+          60
+        ]
+      ]
+    ],
+    "groupId": 8,
+    "lvLimit": 10,
+    "synthetic": 8,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      4412,
+      2824,
+      1765,
+      833,
+      167
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "被宣花锤击中的目标会进入混乱状态。",
+    "skillPos": [
+      1,
+      [
+        -50,
+        60
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2030801,
+    "unlockType": 1,
+    "number": 60,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        10500
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        7000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        7000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      70,
+      140
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.047,
+    "hpAdd": 0.472,
+    "defAdd": 0.016,
+    "mpAdd": 0.236,
+    "healHpAdd": 0.039,
+    "healMpAdd": 0.02,
+    "unlockSoulCost": [
+      [
+        141000000,
+        40
+      ]
+    ],
+    "slouLevelLimit": 3,
+    "unlockSoulSkill": [
+      3,
+      3
+    ],
+    "icon": "xuanhuachui",
+    "showFile": "xuanhuachui",
+    "itemIcon": 8001,
+    "childAI": 2030811
+  },
+  {
+    "id": 9001,
+    "name": "混元珍珠伞",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          80101
+        ]
+      ],
+      [
+        1,
+        [
+          70
+        ]
+      ]
+    ],
+    "groupId": 9,
+    "lvLimit": 10,
+    "synthetic": 9,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      4613,
+      2852,
+      1678,
+      714,
+      143
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后获得护盾吸收伤害，护盾存在时拥有霸体，持续5秒",
+    "skillFllow": 1,
+    "monsterId": 2030901,
+    "unlockType": 1,
+    "number": 70,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        12750
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        8500
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        8500
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      85,
+      170
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.049,
+    "hpAdd": 0.489,
+    "defAdd": 0.016,
+    "mpAdd": 0.245,
+    "healHpAdd": 0.041,
+    "healMpAdd": 0.02,
+    "unlockSoulCost": [
+      [
+        141000000,
+        54
+      ]
+    ],
+    "slouLevelLimit": 3,
+    "unlockSoulSkill": [
+      3,
+      3
+    ],
+    "icon": "hunyuansan",
+    "showFile": "hunyuansan",
+    "itemIcon": 9001,
+    "childAI": 2030911
+  },
+  {
+    "id": 10001,
+    "name": "紫金铃铛",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          90101
+        ]
+      ],
+      [
+        1,
+        [
+          80
+        ]
+      ]
+    ],
+    "groupId": 10,
+    "lvLimit": 10,
+    "synthetic": 10,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      4807,
+      2884,
+      1602,
+      588,
+      118
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后，强化当前宠物：霸体，宠物体型变大，提升攻击力，持续10秒。",
+    "skillFllow": 0,
+    "monsterId": 2031001,
+    "unlockType": 1,
+    "number": 80,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        15000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        10000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        10000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      100,
+      200
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.052,
+    "hpAdd": 0.524,
+    "defAdd": 0.017,
+    "mpAdd": 0.262,
+    "healHpAdd": 0.044,
+    "healMpAdd": 0.022,
+    "unlockSoulCost": [
+      [
+        141000000,
+        89
+      ]
+    ],
+    "slouLevelLimit": 4,
+    "unlockSoulSkill": [
+      4,
+      3
+    ],
+    "icon": "zijinlingdang",
+    "showFile": "zijinlingdang",
+    "itemIcon": 10001,
+    "childAI": 2031011
+  },
+  {
+    "id": 11001,
+    "name": "火龙令",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          100101
+        ]
+      ],
+      [
+        1,
+        [
+          90
+        ]
+      ]
+    ],
+    "groupId": 11,
+    "lvLimit": 10,
+    "synthetic": 11,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      4967,
+      2904,
+      1528,
+      500,
+      100
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "召唤火龙环绕自身燃烧周围敌人，并吞噬自身灼烧状态，持续10秒。",
+    "skillPos": [
+      1,
+      [
+        0,
+        35
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031101,
+    "unlockType": 1,
+    "number": 90,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        18000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        12000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        12000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      120,
+      240
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.055,
+    "hpAdd": 0.55,
+    "defAdd": 0.018,
+    "mpAdd": 0.275,
+    "healHpAdd": 0.046,
+    "healMpAdd": 0.023,
+    "unlockSoulCost": [
+      [
+        141000000,
+        143
+      ]
+    ],
+    "slouLevelLimit": 5,
+    "unlockSoulSkill": [
+      5,
+      3
+    ],
+    "icon": "huolongling",
+    "showFile": "huolongling",
+    "itemIcon": 11001,
+    "childAI": 2031111
+  },
+  {
+    "id": 14001,
+    "name": "九龙行瘟幡",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          110101
+        ]
+      ],
+      [
+        1,
+        [
+          100
+        ]
+      ]
+    ],
+    "groupId": 12,
+    "lvLimit": 10,
+    "synthetic": 12,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5115,
+      2923,
+      1462,
+      417,
+      83
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后，立即驱散并免疫瘟疫状态，攻击时附加瘟疫效果，持续10秒",
+    "skillPos": [
+      1,
+      [
+        -50,
+        60
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2031401,
+    "unlockType": 1,
+    "number": 100,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        21000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        14000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        14000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      140,
+      280
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.059,
+    "hpAdd": 0.594,
+    "defAdd": 0.02,
+    "mpAdd": 0.297,
+    "healHpAdd": 0.05,
+    "healMpAdd": 0.025,
+    "unlockSoulCost": [
+      [
+        141000000,
+        194
+      ]
+    ],
+    "slouLevelLimit": 6,
+    "unlockSoulSkill": [
+      6,
+      3
+    ],
+    "icon": "jiulongxingwenfan",
+    "showFile": "jiulongxingwenfan",
+    "itemIcon": 14001,
+    "childAI": 2031411
+  },
+  {
+    "id": 15001,
+    "name": "三霄镇魂坠",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          120101
+        ]
+      ],
+      [
+        1,
+        [
+          110
+        ]
+      ]
+    ],
+    "groupId": 13,
+    "lvLimit": 10,
+    "synthetic": 13,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5240,
+      2934,
+      1397,
+      357,
+      71
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "发出镇魂之音催眠周身的敌人，且使其防御下降，一段时间后或受到攻击时会苏醒，苏醒2秒后防御力恢复",
+    "skillPos": [
+      1,
+      [
+        50,
+        30
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2031501,
+    "unlockType": 1,
+    "number": 110,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        24750
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        16500
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        16500
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      165,
+      330
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.064,
+    "hpAdd": 0.635,
+    "defAdd": 0.021,
+    "mpAdd": 0.318,
+    "healHpAdd": 0.053,
+    "healMpAdd": 0.026,
+    "unlockSoulCost": [
+      [
+        141000000,
+        260
+      ]
+    ],
+    "slouLevelLimit": 7,
+    "unlockSoulSkill": [
+      7,
+      3
+    ],
+    "icon": "sanxiaozhenhunzhui",
+    "showFile": "sanxiaozhenhunzhui",
+    "itemIcon": 15001,
+    "childAI": 2031511
+  },
+  {
+    "id": 16001,
+    "name": "仙鞘虫玉",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          130101
+        ]
+      ],
+      [
+        1,
+        [
+          120
+        ]
+      ]
+    ],
+    "groupId": 14,
+    "lvLimit": 10,
+    "synthetic": 14,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5354,
+      2944,
+      1338,
+      303,
+      61
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后，立即进入5秒隐身状态。前1.5秒不会显形且闪避较高，隐身1.5秒后受击或攻击将会显形",
+    "skillPos": [
+      1,
+      [
+        50,
+        30
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2031701,
+    "unlockType": 1,
+    "number": 120,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        28500
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        19000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        19000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      190,
+      380
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.069,
+    "hpAdd": 0.695,
+    "defAdd": 0.023,
+    "mpAdd": 0.347,
+    "healHpAdd": 0.058,
+    "healMpAdd": 0.029,
+    "unlockSoulCost": [
+      [
+        141000000,
+        348
+      ]
+    ],
+    "slouLevelLimit": 8,
+    "unlockSoulSkill": [
+      8,
+      3
+    ],
+    "icon": "bahuangchongyu",
+    "showFile": "bahuangchongyu",
+    "itemIcon": 16001,
+    "childAI": 2031711
+  },
+  {
+    "id": 17001,
+    "name": "灵鳌盾甲",
+    "phases": 1,
+    "weaponFashionIds": [
+      1700101
+    ],
+    "showLimit": [
+      [
+        4,
+        [
+          140101
+        ]
+      ],
+      [
+        1,
+        [
+          130
+        ]
+      ]
+    ],
+    "groupId": 15,
+    "lvLimit": 10,
+    "synthetic": 15,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5451,
+      2950,
+      1283,
+      263,
+      53
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "生成一道盾甲阻挡敌人及弹道技能，持续5秒（生成的盾甲可被破坏）",
+    "skillPos": [
+      1,
+      [
+        50,
+        30
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2031901,
+    "unlockType": 1,
+    "number": 130,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        33000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        22000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        22000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      220,
+      440
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.076,
+    "hpAdd": 0.756,
+    "defAdd": 0.025,
+    "mpAdd": 0.378,
+    "healHpAdd": 0.063,
+    "healMpAdd": 0.032,
+    "unlockSoulCost": [
+      [
+        141000000,
+        516
+      ]
+    ],
+    "slouLevelLimit": 9,
+    "unlockSoulSkill": [
+      9,
+      3
+    ],
+    "icon": "lingaodunjia",
+    "showFile": "lingaodunjia",
+    "itemIcon": 17001,
+    "childAI": 2031911
+  },
+  {
+    "id": 18001,
+    "name": "金仙斩魔刀",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          150101
+        ]
+      ],
+      [
+        1,
+        [
+          140
+        ]
+      ]
+    ],
+    "groupId": 16,
+    "lvLimit": 10,
+    "synthetic": 16,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5541,
+      2955,
+      1231,
+      227,
+      45
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后，向前方斩出一道弧形斩击（对召唤物，宠物，坐骑，中立怪物造成额外伤害）",
+    "skillFllow": 0,
+    "monsterId": 2032001,
+    "unlockType": 1,
+    "number": 140,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        37500
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        25000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        25000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      250,
+      500
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.084,
+    "hpAdd": 0.838,
+    "defAdd": 0.028,
+    "mpAdd": 0.419,
+    "healHpAdd": 0.07,
+    "healMpAdd": 0.035,
+    "unlockSoulCost": [
+      [
+        141000000,
+        618
+      ]
+    ],
+    "slouLevelLimit": 10,
+    "unlockSoulSkill": [
+      10,
+      3
+    ],
+    "icon": "qixiandao",
+    "showFile": "qixiandao",
+    "itemIcon": 18001,
+    "childAI": 2032011
+  },
+  {
+    "id": 19001,
+    "name": "究天古剑",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          160101
+        ]
+      ],
+      [
+        1,
+        [
+          150
+        ]
+      ]
+    ],
+    "groupId": 17,
+    "lvLimit": 10,
+    "synthetic": 17,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5619,
+      2958,
+      1183,
+      200,
+      40
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后，古剑闪现至身前，随后分裂在身前扩展出剑域，降低处于剑域敌人的韧性和移动速度。",
+    "skillFllow": 0,
+    "monsterId": 2032201,
+    "unlockType": 1,
+    "number": 150,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        42000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        28000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        28000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      280,
+      560
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.086,
+    "hpAdd": 0.864,
+    "defAdd": 0.029,
+    "mpAdd": 0.432,
+    "healHpAdd": 0.072,
+    "healMpAdd": 0.036,
+    "unlockSoulCost": [
+      [
+        141000000,
+        819
+      ]
+    ],
+    "slouLevelLimit": 11,
+    "unlockSoulSkill": [
+      11,
+      3
+    ],
+    "icon": "jiutiangujian",
+    "showFile": "jiutiangujian",
+    "itemIcon": 19001,
+    "childAI": 2032211
+  },
+  {
+    "id": 20001,
+    "name": "摩愿佛珠",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          170101
+        ]
+      ],
+      [
+        1,
+        [
+          160
+        ]
+      ]
+    ],
+    "groupId": 18,
+    "lvLimit": 10,
+    "synthetic": 18,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5689,
+      2958,
+      1138,
+      179,
+      36
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后，朝敌人射出8颗佛珠，命中地形后能进行多次弹射，佛珠经过5秒或在打击敌人3次后消失。在佛珠全部消失时，造成1段额外伤害和度化效果，命中次数不同，伤害和度化效果也不同",
+    "skillPos": [
+      1,
+      [
+        -50,
+        60
+      ]
+    ],
+    "skillFllow": 0,
+    "monsterId": 2032301,
+    "unlockType": 1,
+    "number": 160,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        46500
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        31000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        31000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      310,
+      620
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.085,
+    "hpAdd": 0.85,
+    "defAdd": 0.028,
+    "mpAdd": 0.425,
+    "healHpAdd": 0.071,
+    "healMpAdd": 0.035,
+    "unlockSoulCost": [
+      [
+        141000000,
+        1032
+      ]
+    ],
+    "slouLevelLimit": 12,
+    "unlockSoulSkill": [
+      12,
+      3
+    ],
+    "icon": "moyuanfozhu",
+    "showFile": "moyuanfozhu",
+    "itemIcon": 20001,
+    "childAI": 2032311
+  },
+  {
+    "id": 21001,
+    "name": "罗悲净瓶",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          180101
+        ]
+      ],
+      [
+        1,
+        [
+          170
+        ]
+      ]
+    ],
+    "groupId": 19,
+    "lvLimit": 10,
+    "synthetic": 19,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5752,
+      2958,
+      1096,
+      161,
+      32
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "驱散身上最近添加的1个负面异常状态，并在接下来的一段时间内免疫该异常状态，并获得一段时间回魔属性的提升。",
+    "skillFllow": 1,
+    "monsterId": 2032501,
+    "unlockType": 1,
+    "number": 170,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        51000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        34000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        34000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      340,
+      680
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.085,
+    "hpAdd": 0.845,
+    "defAdd": 0.028,
+    "mpAdd": 0.423,
+    "healHpAdd": 0.07,
+    "healMpAdd": 0.035,
+    "unlockSoulCost": [
+      [
+        141000000,
+        1300
+      ]
+    ],
+    "slouLevelLimit": 13,
+    "unlockSoulSkill": [
+      13,
+      3
+    ],
+    "icon": "luobeijingping",
+    "showFile": "luobeijingping",
+    "itemIcon": 21001,
+    "childAI": 2032511
+  },
+  {
+    "id": 22001,
+    "name": "浮行如意",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          190101
+        ]
+      ],
+      [
+        1,
+        [
+          180
+        ]
+      ]
+    ],
+    "groupId": 20,
+    "lvLimit": 10,
+    "synthetic": 20,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5810,
+      2958,
+      1056,
+      147,
+      29
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后，在脚底形成火焰轨迹，移动时将会持续生成火焰轨迹\n对处于火焰轨迹的敌人持续造成伤害并叠加灼烧点，灼烧点达到一定层数后，触发爆燃效果\n处于爆燃状态的敌人，无法累加来自同一个玩家的灼烧点",
+    "skillPos": [
+      1,
+      [
+        -50,
+        60
+      ]
+    ],
+    "skillFllow": 1,
+    "monsterId": 2032601,
+    "unlockType": 1,
+    "number": 180,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        55500
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        37000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        37000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      370,
+      740
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.085,
+    "hpAdd": 0.847,
+    "defAdd": 0.028,
+    "mpAdd": 0.423,
+    "healHpAdd": 0.071,
+    "healMpAdd": 0.035,
+    "unlockSoulCost": [
+      [
+        141000000,
+        1638
+      ]
+    ],
+    "slouLevelLimit": 14,
+    "unlockSoulSkill": [
+      14,
+      3
+    ],
+    "closeSoul": 1,
+    "icon": "fuxingruyi",
+    "showFile": "fuxingruyi",
+    "itemIcon": 22001,
+    "childAI": 2032611
+  },
+  {
+    "id": 23001,
+    "name": "多智石莲",
+    "phases": 1,
+    "showLimit": [
+      [
+        4,
+        [
+          200101
+        ]
+      ],
+      [
+        1,
+        [
+          190
+        ]
+      ]
+    ],
+    "groupId": 21,
+    "lvLimit": 10,
+    "synthetic": 21,
+    "syntheticAdd": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "blessing": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blessWeight": [
+      5862,
+      2956,
+      1019,
+      135,
+      27
+    ],
+    "interval": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "disableObstracle": 1,
+    "text": "使用后，获得一段时间的防御力提升效果\n多智石莲效果会随携带时间增加切换阶段(仅在未进入冷却时计算携带时间)",
+    "skillFllow": 0,
+    "monsterId": 2032701,
+    "unlockType": 1,
+    "number": 190,
+    "baptize": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "blessingCost": [
+      [
+        409992,
+        1
+      ]
+    ],
+    "baptizeGrow": [
+      [
+        409993,
+        1
+      ]
+    ],
+    "baptizeLuck": [
+      [
+        29,
+        60000
+      ]
+    ],
+    "blessingCostLuck": [
+      [
+        29,
+        40000
+      ]
+    ],
+    "baptizeGrowLuck": [
+      [
+        29,
+        40000
+      ]
+    ],
+    "postposition": 0,
+    "positionCost": [
+      []
+    ],
+    "growth": [
+      400,
+      800
+    ],
+    "atk": 0,
+    "hp": 0,
+    "def": 0,
+    "mp": 0,
+    "healHp": 0,
+    "healMp": 0,
+    "atkAdd": 0.085,
+    "hpAdd": 0.854,
+    "defAdd": 0.028,
+    "mpAdd": 0.427,
+    "healHpAdd": 0.071,
+    "healMpAdd": 0.036,
+    "unlockSoulCost": [
+      [
+        141000000,
+        2064
+      ]
+    ],
+    "slouLevelLimit": 15,
+    "unlockSoulSkill": [
+      15,
+      3
+    ],
+    "closeSoul": 1,
+    "icon": "duozhishilian",
+    "showFile": "duozhishilian",
+    "itemIcon": 23001,
+    "childAI": 2032711
+  }
+]

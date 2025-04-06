@@ -1,0 +1,588 @@
+[
+  {
+    "id": 100101,
+    "rewardGroup": 1001,
+    "value": 150,
+    "reward": 810101,
+    "power": 1283000,
+    "sweepPowerOpen": [
+      1399000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100102,
+    "rewardGroup": 1001,
+    "value": 160,
+    "reward": 810102,
+    "power": 1565000,
+    "sweepPowerOpen": [
+      1726000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100103,
+    "rewardGroup": 1001,
+    "value": 170,
+    "reward": 810103,
+    "power": 1939000,
+    "sweepPowerOpen": [
+      2105000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100104,
+    "rewardGroup": 1001,
+    "value": 180,
+    "reward": 810104,
+    "power": 2314000,
+    "sweepPowerOpen": [
+      2515000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100105,
+    "rewardGroup": 1001,
+    "value": 190,
+    "reward": 810105,
+    "power": 2748000,
+    "sweepPowerOpen": [
+      2991000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100106,
+    "rewardGroup": 1001,
+    "value": 200,
+    "reward": 810106,
+    "power": 3246000,
+    "sweepPowerOpen": [
+      3524000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100201,
+    "rewardGroup": 1002,
+    "value": 150,
+    "reward": 810201,
+    "power": 1234000,
+    "sweepPowerOpen": [
+      1296000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100202,
+    "rewardGroup": 1002,
+    "value": 160,
+    "reward": 810202,
+    "power": 1489000,
+    "sweepPowerOpen": [
+      1563000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100203,
+    "rewardGroup": 1002,
+    "value": 170,
+    "reward": 810203,
+    "power": 1874000,
+    "sweepPowerOpen": [
+      1967000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100204,
+    "rewardGroup": 1002,
+    "value": 180,
+    "reward": 810204,
+    "power": 2235000,
+    "sweepPowerOpen": [
+      2347000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100205,
+    "rewardGroup": 1002,
+    "value": 190,
+    "reward": 810205,
+    "power": 2650000,
+    "sweepPowerOpen": [
+      2783000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100206,
+    "rewardGroup": 1002,
+    "value": 200,
+    "reward": 810206,
+    "power": 3142000,
+    "sweepPowerOpen": [
+      3299000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100301,
+    "rewardGroup": 1003,
+    "value": 150,
+    "reward": 810301,
+    "power": 1122000,
+    "sweepPowerOpen": [
+      1178000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100302,
+    "rewardGroup": 1003,
+    "value": 160,
+    "reward": 810302,
+    "power": 1353000,
+    "sweepPowerOpen": [
+      1421000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100303,
+    "rewardGroup": 1003,
+    "value": 170,
+    "reward": 810303,
+    "power": 1703000,
+    "sweepPowerOpen": [
+      1789000,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 100304,
+    "rewardGroup": 1003,
+    "value": 180,
+    "reward": 810304,
+    "power": 2032000,
+    "sweepPowerOpen": [
+      2134000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100305,
+    "rewardGroup": 1003,
+    "value": 190,
+    "reward": 810305,
+    "power": 2409000,
+    "sweepPowerOpen": [
+      2530000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100306,
+    "rewardGroup": 1003,
+    "value": 200,
+    "reward": 810306,
+    "power": 2856000,
+    "sweepPowerOpen": [
+      2999000,
+      1,
+      1
+    ],
+    "close": 1
+  },
+  {
+    "id": 100401,
+    "rewardGroup": 1004,
+    "value": 150,
+    "reward": 810401
+  },
+  {
+    "id": 100402,
+    "rewardGroup": 1004,
+    "value": 160,
+    "reward": 810402
+  },
+  {
+    "id": 100403,
+    "rewardGroup": 1004,
+    "value": 170,
+    "reward": 810403
+  },
+  {
+    "id": 100404,
+    "rewardGroup": 1004,
+    "value": 180,
+    "reward": 810404,
+    "close": 1
+  },
+  {
+    "id": 100405,
+    "rewardGroup": 1004,
+    "value": 190,
+    "reward": 810405,
+    "close": 1
+  },
+  {
+    "id": 100406,
+    "rewardGroup": 1004,
+    "value": 200,
+    "reward": 810406,
+    "close": 1
+  },
+  {
+    "id": 100501,
+    "rewardGroup": 1005,
+    "value": 150,
+    "reward": 810501
+  },
+  {
+    "id": 100502,
+    "rewardGroup": 1005,
+    "value": 160,
+    "reward": 810502
+  },
+  {
+    "id": 100503,
+    "rewardGroup": 1005,
+    "value": 170,
+    "reward": 810503
+  },
+  {
+    "id": 100504,
+    "rewardGroup": 1005,
+    "value": 180,
+    "reward": 810504,
+    "close": 1
+  },
+  {
+    "id": 100505,
+    "rewardGroup": 1005,
+    "value": 190,
+    "reward": 810505,
+    "close": 1
+  },
+  {
+    "id": 100506,
+    "rewardGroup": 1005,
+    "value": 200,
+    "reward": 810506,
+    "close": 1
+  },
+  {
+    "id": 100601,
+    "rewardGroup": 1006,
+    "value": 150,
+    "reward": 810601
+  },
+  {
+    "id": 100602,
+    "rewardGroup": 1006,
+    "value": 160,
+    "reward": 810602
+  },
+  {
+    "id": 100603,
+    "rewardGroup": 1006,
+    "value": 170,
+    "reward": 810603
+  },
+  {
+    "id": 100604,
+    "rewardGroup": 1006,
+    "value": 180,
+    "reward": 810604,
+    "close": 1
+  },
+  {
+    "id": 100605,
+    "rewardGroup": 1006,
+    "value": 190,
+    "reward": 810605,
+    "close": 1
+  },
+  {
+    "id": 100606,
+    "rewardGroup": 1006,
+    "value": 200,
+    "reward": 810606,
+    "close": 1
+  },
+  {
+    "id": 100701,
+    "rewardGroup": 1007,
+    "value": 150,
+    "reward": 810701
+  },
+  {
+    "id": 100702,
+    "rewardGroup": 1007,
+    "value": 160,
+    "reward": 810702
+  },
+  {
+    "id": 100703,
+    "rewardGroup": 1007,
+    "value": 170,
+    "reward": 810703
+  },
+  {
+    "id": 100704,
+    "rewardGroup": 1007,
+    "value": 180,
+    "reward": 810704,
+    "close": 1
+  },
+  {
+    "id": 100705,
+    "rewardGroup": 1007,
+    "value": 190,
+    "reward": 810705,
+    "close": 1
+  },
+  {
+    "id": 100706,
+    "rewardGroup": 1007,
+    "value": 200,
+    "reward": 810706,
+    "close": 1
+  },
+  {
+    "id": 100801,
+    "rewardGroup": 1008,
+    "value": 150,
+    "reward": 810801
+  },
+  {
+    "id": 100802,
+    "rewardGroup": 1008,
+    "value": 160,
+    "reward": 810802
+  },
+  {
+    "id": 100803,
+    "rewardGroup": 1008,
+    "value": 170,
+    "reward": 810803
+  },
+  {
+    "id": 100804,
+    "rewardGroup": 1008,
+    "value": 180,
+    "reward": 810804,
+    "close": 1
+  },
+  {
+    "id": 100805,
+    "rewardGroup": 1008,
+    "value": 190,
+    "reward": 810805,
+    "close": 1
+  },
+  {
+    "id": 100806,
+    "rewardGroup": 1008,
+    "value": 200,
+    "reward": 810806,
+    "close": 1
+  },
+  {
+    "id": 100901,
+    "rewardGroup": 1009,
+    "value": 150,
+    "reward": 810901
+  },
+  {
+    "id": 100902,
+    "rewardGroup": 1009,
+    "value": 160,
+    "reward": 810902
+  },
+  {
+    "id": 100903,
+    "rewardGroup": 1009,
+    "value": 170,
+    "reward": 810903
+  },
+  {
+    "id": 100904,
+    "rewardGroup": 1009,
+    "value": 180,
+    "reward": 810904,
+    "close": 1
+  },
+  {
+    "id": 100905,
+    "rewardGroup": 1009,
+    "value": 190,
+    "reward": 810905,
+    "close": 1
+  },
+  {
+    "id": 100906,
+    "rewardGroup": 1009,
+    "value": 200,
+    "reward": 810906,
+    "close": 1
+  },
+  {
+    "id": 110101,
+    "rewardGroup": 1101,
+    "value": 150,
+    "reward": 810001,
+    "power": 1333000
+  },
+  {
+    "id": 110102,
+    "rewardGroup": 1101,
+    "value": 160,
+    "reward": 810002,
+    "power": 1643000
+  },
+  {
+    "id": 110103,
+    "rewardGroup": 1101,
+    "value": 170,
+    "reward": 810003,
+    "power": 2005000
+  },
+  {
+    "id": 110104,
+    "rewardGroup": 1101,
+    "value": 180,
+    "reward": 810004,
+    "power": 2396000,
+    "close": 1
+  },
+  {
+    "id": 110105,
+    "rewardGroup": 1101,
+    "value": 190,
+    "reward": 810005,
+    "power": 2848000,
+    "close": 1
+  },
+  {
+    "id": 110201,
+    "rewardGroup": 1102,
+    "value": 150,
+    "reward": 811001,
+    "power": 1283000
+  },
+  {
+    "id": 110202,
+    "rewardGroup": 1102,
+    "value": 160,
+    "reward": 811002,
+    "power": 1565000
+  },
+  {
+    "id": 110203,
+    "rewardGroup": 1102,
+    "value": 170,
+    "reward": 811003,
+    "power": 1939000
+  },
+  {
+    "id": 110204,
+    "rewardGroup": 1102,
+    "value": 180,
+    "reward": 811004,
+    "power": 2314000,
+    "close": 1
+  },
+  {
+    "id": 110205,
+    "rewardGroup": 1102,
+    "value": 190,
+    "reward": 811005,
+    "power": 2748000,
+    "close": 1
+  },
+  {
+    "id": 110206,
+    "rewardGroup": 1102,
+    "value": 200,
+    "reward": 811006,
+    "power": 3246000,
+    "close": 1
+  },
+  {
+    "id": 110301,
+    "rewardGroup": 1103,
+    "value": 150,
+    "reward": 811101,
+    "power": 1234000
+  },
+  {
+    "id": 110302,
+    "rewardGroup": 1103,
+    "value": 160,
+    "reward": 811102,
+    "power": 1489000
+  },
+  {
+    "id": 110303,
+    "rewardGroup": 1103,
+    "value": 170,
+    "reward": 811103,
+    "power": 1874000
+  },
+  {
+    "id": 110304,
+    "rewardGroup": 1103,
+    "value": 180,
+    "reward": 811104,
+    "power": 2235000,
+    "close": 1
+  },
+  {
+    "id": 110305,
+    "rewardGroup": 1103,
+    "value": 190,
+    "reward": 811105,
+    "power": 2650000,
+    "close": 1
+  },
+  {
+    "id": 110306,
+    "rewardGroup": 1103,
+    "value": 200,
+    "reward": 811106,
+    "power": 3142000,
+    "close": 1
+  }
+]

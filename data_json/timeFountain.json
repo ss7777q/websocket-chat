@@ -1,0 +1,688 @@
+[
+  {
+    "id": 0,
+    "energyVal": [
+      100,
+      "huoli",
+      [
+        "stage"
+      ],
+      100
+    ],
+    "wantedRewardLimit": [
+      6,
+      "xuanshang",
+      [
+        "offerAReward"
+      ],
+      6
+    ],
+    "wanLingTaLimit": [
+      4,
+      "wanlingta",
+      [
+        "Tower_Hole",
+        1
+      ],
+      4
+    ],
+    "nightmareLimit": [
+      2,
+      "emengguanqia",
+      [
+        "stageChallenge",
+        6
+      ],
+      2
+    ],
+    "godWarBlessing1": [
+      1,
+      "tianshenzhufu",
+      [
+        "huntEntrance"
+      ],
+      1
+    ],
+    "godWarBlessing2": [
+      1,
+      "tianmozhufu",
+      [
+        "huntEntrance"
+      ],
+      1
+    ],
+    "rogueLikeLimit": [
+      3,
+      "shiguanghuanjing",
+      [
+        "stageChallenge",
+        2
+      ],
+      3
+    ],
+    "luoHanNum": [
+      3,
+      "luohantang",
+      [
+        "stageChallenge",
+        4
+      ],
+      3
+    ],
+    "alchemyLimit": [
+      2,
+      "doushuaigong",
+      [
+        "stageChallenge",
+        1002
+      ],
+      2
+    ],
+    "torchNum": [
+      4,
+      "wudidong",
+      [
+        "Tower_Hole",
+        2
+      ],
+      4
+    ],
+    "klTowerLimit": [
+      1,
+      "shouhukunlun",
+      [
+        "stageChallenge",
+        23
+      ],
+      1
+    ]
+  },
+  {
+    "id": 1,
+    "energyVal": [
+      100,
+      "huoli",
+      [
+        "stage"
+      ],
+      100
+    ],
+    "wantedRewardLimit": [
+      6,
+      "xuanshang",
+      [
+        "offerAReward"
+      ],
+      6
+    ],
+    "wanLingTaLimit": [
+      4,
+      "wanlingta",
+      [
+        "Tower_Hole",
+        1
+      ],
+      4
+    ],
+    "nightmareLimit": [
+      2,
+      "emengguanqia",
+      [
+        "stageChallenge",
+        6
+      ],
+      2
+    ],
+    "godWarBlessing1": [
+      1,
+      "tianshenzhufu",
+      [
+        "huntEntrance"
+      ],
+      1
+    ],
+    "godWarBlessing2": [
+      1,
+      "tianmozhufu",
+      [
+        "huntEntrance"
+      ],
+      1
+    ],
+    "rogueLikeLimit": [
+      3,
+      "shiguanghuanjing",
+      [
+        "stageChallenge",
+        2
+      ],
+      3
+    ],
+    "luoHanNum": [
+      3,
+      "luohantang",
+      [
+        "stageChallenge",
+        4
+      ],
+      3
+    ],
+    "alchemyLimit": [
+      2,
+      "doushuaigong",
+      [
+        "stageChallenge",
+        1002
+      ],
+      2
+    ],
+    "torchNum": [
+      4,
+      "wudidong",
+      [
+        "Tower_Hole",
+        2
+      ],
+      4
+    ],
+    "klTowerLimit": [
+      1,
+      "shouhukunlun",
+      [
+        "stageChallenge",
+        23
+      ],
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "energyVal": [
+      200,
+      "huoli",
+      [
+        "stage"
+      ],
+      0
+    ],
+    "wantedRewardLimit": [
+      12,
+      "xuanshang",
+      [
+        "offerAReward"
+      ],
+      0
+    ],
+    "wanLingTaLimit": [
+      8,
+      "wanlingta",
+      [
+        "Tower_Hole",
+        1
+      ],
+      0
+    ],
+    "nightmareLimit": [
+      4,
+      "emengguanqia",
+      [
+        "stageChallenge",
+        6
+      ],
+      0
+    ],
+    "godWarBlessing1": [
+      2,
+      "tianshenzhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "godWarBlessing2": [
+      2,
+      "tianmozhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "rogueLikeLimit": [
+      6,
+      "shiguanghuanjing",
+      [
+        "stageChallenge",
+        2
+      ],
+      0
+    ],
+    "luoHanNum": [
+      6,
+      "luohantang",
+      [
+        "stageChallenge",
+        4
+      ],
+      0
+    ],
+    "alchemyLimit": [
+      4,
+      "doushuaigong",
+      [
+        "stageChallenge",
+        1002
+      ],
+      0
+    ],
+    "torchNum": [
+      8,
+      "wudidong",
+      [
+        "Tower_Hole",
+        2
+      ],
+      0
+    ],
+    "klTowerLimit": [
+      2,
+      "shouhukunlun",
+      [
+        "stageChallenge",
+        23
+      ],
+      0
+    ]
+  },
+  {
+    "id": 3,
+    "energyVal": [
+      300,
+      "huoli",
+      [
+        "stage"
+      ],
+      0
+    ],
+    "wantedRewardLimit": [
+      18,
+      "xuanshang",
+      [
+        "offerAReward"
+      ],
+      0
+    ],
+    "wanLingTaLimit": [
+      12,
+      "wanlingta",
+      [
+        "Tower_Hole",
+        1
+      ],
+      0
+    ],
+    "nightmareLimit": [
+      6,
+      "emengguanqia",
+      [
+        "stageChallenge",
+        6
+      ],
+      0
+    ],
+    "godWarBlessing1": [
+      3,
+      "tianshenzhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "godWarBlessing2": [
+      3,
+      "tianmozhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "rogueLikeLimit": [
+      9,
+      "shiguanghuanjing",
+      [
+        "stageChallenge",
+        2
+      ],
+      0
+    ],
+    "luoHanNum": [
+      9,
+      "luohantang",
+      [
+        "stageChallenge",
+        4
+      ],
+      0
+    ],
+    "alchemyLimit": [
+      6,
+      "doushuaigong",
+      [
+        "stageChallenge",
+        1002
+      ],
+      0
+    ],
+    "torchNum": [
+      12,
+      "wudidong",
+      [
+        "Tower_Hole",
+        2
+      ],
+      0
+    ],
+    "klTowerLimit": [
+      3,
+      "shouhukunlun",
+      [
+        "stageChallenge",
+        23
+      ],
+      0
+    ]
+  },
+  {
+    "id": 4,
+    "energyVal": [
+      400,
+      "huoli",
+      [
+        "stage"
+      ],
+      0
+    ],
+    "wantedRewardLimit": [
+      24,
+      "xuanshang",
+      [
+        "offerAReward"
+      ],
+      0
+    ],
+    "wanLingTaLimit": [
+      16,
+      "wanlingta",
+      [
+        "Tower_Hole",
+        1
+      ],
+      0
+    ],
+    "nightmareLimit": [
+      8,
+      "emengguanqia",
+      [
+        "stageChallenge",
+        6
+      ],
+      0
+    ],
+    "godWarBlessing1": [
+      4,
+      "tianshenzhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "godWarBlessing2": [
+      4,
+      "tianmozhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "rogueLikeLimit": [
+      12,
+      "shiguanghuanjing",
+      [
+        "stageChallenge",
+        2
+      ],
+      0
+    ],
+    "luoHanNum": [
+      12,
+      "luohantang",
+      [
+        "stageChallenge",
+        4
+      ],
+      0
+    ],
+    "alchemyLimit": [
+      8,
+      "doushuaigong",
+      [
+        "stageChallenge",
+        1002
+      ],
+      0
+    ],
+    "torchNum": [
+      16,
+      "wudidong",
+      [
+        "Tower_Hole",
+        2
+      ],
+      0
+    ],
+    "klTowerLimit": [
+      4,
+      "shouhukunlun",
+      [
+        "stageChallenge",
+        23
+      ],
+      0
+    ]
+  },
+  {
+    "id": 5,
+    "energyVal": [
+      500,
+      "huoli",
+      [
+        "stage"
+      ],
+      0
+    ],
+    "wantedRewardLimit": [
+      30,
+      "xuanshang",
+      [
+        "offerAReward"
+      ],
+      0
+    ],
+    "wanLingTaLimit": [
+      20,
+      "wanlingta",
+      [
+        "Tower_Hole",
+        1
+      ],
+      0
+    ],
+    "nightmareLimit": [
+      10,
+      "emengguanqia",
+      [
+        "stageChallenge",
+        6
+      ],
+      0
+    ],
+    "godWarBlessing1": [
+      5,
+      "tianshenzhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "godWarBlessing2": [
+      5,
+      "tianmozhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "rogueLikeLimit": [
+      15,
+      "shiguanghuanjing",
+      [
+        "stageChallenge",
+        2
+      ],
+      0
+    ],
+    "luoHanNum": [
+      15,
+      "luohantang",
+      [
+        "stageChallenge",
+        4
+      ],
+      0
+    ],
+    "alchemyLimit": [
+      10,
+      "doushuaigong",
+      [
+        "stageChallenge",
+        1002
+      ],
+      0
+    ],
+    "torchNum": [
+      20,
+      "wudidong",
+      [
+        "Tower_Hole",
+        2
+      ],
+      0
+    ],
+    "klTowerLimit": [
+      5,
+      "shouhukunlun",
+      [
+        "stageChallenge",
+        23
+      ],
+      0
+    ]
+  },
+  {
+    "id": 6,
+    "energyVal": [
+      600,
+      "huoli",
+      [
+        "stage"
+      ],
+      0
+    ],
+    "wantedRewardLimit": [
+      36,
+      "xuanshang",
+      [
+        "offerAReward"
+      ],
+      0
+    ],
+    "wanLingTaLimit": [
+      24,
+      "wanlingta",
+      [
+        "Tower_Hole",
+        1
+      ],
+      0
+    ],
+    "nightmareLimit": [
+      12,
+      "emengguanqia",
+      [
+        "stageChallenge",
+        6
+      ],
+      0
+    ],
+    "godWarBlessing1": [
+      6,
+      "tianshenzhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "godWarBlessing2": [
+      6,
+      "tianmozhufu",
+      [
+        "huntEntrance"
+      ],
+      0
+    ],
+    "rogueLikeLimit": [
+      18,
+      "shiguanghuanjing",
+      [
+        "stageChallenge",
+        2
+      ],
+      0
+    ],
+    "luoHanNum": [
+      18,
+      "luohantang",
+      [
+        "stageChallenge",
+        4
+      ],
+      0
+    ],
+    "alchemyLimit": [
+      12,
+      "doushuaigong",
+      [
+        "stageChallenge",
+        1002
+      ],
+      0
+    ],
+    "torchNum": [
+      24,
+      "wudidong",
+      [
+        "Tower_Hole",
+        2
+      ],
+      0
+    ],
+    "klTowerLimit": [
+      6,
+      "shouhukunlun",
+      [
+        "stageChallenge",
+        23
+      ],
+      0
+    ]
+  }
+]

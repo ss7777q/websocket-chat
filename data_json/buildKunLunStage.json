@@ -1,0 +1,230 @@
+[
+  {
+    "id": 101,
+    "group": 1,
+    "name": "昆仑西城",
+    "groupName": "青鸾来袭",
+    "level": 60,
+    "unlock": [
+      [
+        1,
+        [
+          60
+        ]
+      ]
+    ],
+    "stageId": 999140101,
+    "initMoney": 400,
+    "stageSpeedId": 999142101,
+    "initMoneySpeed": 8200
+  },
+  {
+    "id": 102,
+    "group": 1,
+    "name": "昆仑东城",
+    "groupName": "青鸾来袭",
+    "level": 70,
+    "unlock": [
+      [
+        1,
+        [
+          70
+        ]
+      ]
+    ],
+    "stageId": 999140102,
+    "initMoney": 400,
+    "stageSpeedId": 999142102,
+    "initMoneySpeed": 10000
+  },
+  {
+    "id": 103,
+    "group": 1,
+    "name": "昆仑湖",
+    "groupName": "青鸾来袭",
+    "level": 80,
+    "unlock": [
+      [
+        1,
+        [
+          80
+        ]
+      ]
+    ],
+    "stageId": 999140103,
+    "initMoney": 400,
+    "stageSpeedId": 999142103,
+    "initMoneySpeed": 8800
+  },
+  {
+    "id": 201,
+    "group": 2,
+    "name": "昆仑岩城",
+    "groupName": "赤凤来袭",
+    "level": 90,
+    "unlock": [
+      [
+        1,
+        [
+          90
+        ]
+      ]
+    ],
+    "stageId": 999140201,
+    "initMoney": 400,
+    "stageSpeedId": 999142201,
+    "initMoneySpeed": 12400
+  },
+  {
+    "id": 202,
+    "group": 2,
+    "name": "昆仑山城",
+    "groupName": "赤凤来袭",
+    "level": 100,
+    "unlock": [
+      [
+        1,
+        [
+          100
+        ]
+      ]
+    ],
+    "stageId": 999140202,
+    "initMoney": 400,
+    "stageSpeedId": 999142202,
+    "initMoneySpeed": 15850
+  },
+  {
+    "id": 203,
+    "group": 2,
+    "name": "昆仑天池",
+    "groupName": "赤凤来袭",
+    "level": 110,
+    "unlock": [
+      [
+        1,
+        [
+          110
+        ]
+      ]
+    ],
+    "stageId": 999140203,
+    "initMoney": 400,
+    "stageSpeedId": 999142203,
+    "initMoneySpeed": 16000
+  },
+  {
+    "id": 301,
+    "group": 3,
+    "name": "玉虚峰",
+    "groupName": "鹓雏来袭",
+    "level": 120,
+    "unlock": [
+      [
+        1,
+        [
+          120
+        ]
+      ]
+    ],
+    "stageId": 999140301,
+    "initMoney": 400,
+    "stageSpeedId": 999142301,
+    "initMoneySpeed": 14200
+  },
+  {
+    "id": 302,
+    "group": 3,
+    "name": "玉珠峰",
+    "groupName": "鹓雏来袭",
+    "level": 130,
+    "unlock": [
+      [
+        1,
+        [
+          130
+        ]
+      ]
+    ],
+    "stageId": 999140302,
+    "initMoney": 400,
+    "stageSpeedId": 999142302,
+    "initMoneySpeed": 14700
+  },
+  {
+    "id": 303,
+    "group": 3,
+    "name": "玉清峰",
+    "groupName": "鹓雏来袭",
+    "level": 140,
+    "unlock": [
+      [
+        1,
+        [
+          140
+        ]
+      ]
+    ],
+    "stageId": 999140303,
+    "initMoney": 400,
+    "stageSpeedId": 999142303,
+    "initMoneySpeed": 11200
+  },
+  {
+    "id": 401,
+    "group": 4,
+    "name": "悬圃-下层",
+    "groupName": "鸿鹄来袭",
+    "level": 150,
+    "unlock": [
+      [
+        1,
+        [
+          150
+        ]
+      ]
+    ],
+    "stageId": 999140401,
+    "initMoney": 400,
+    "stageSpeedId": 999142401,
+    "initMoneySpeed": 8350
+  },
+  {
+    "id": 402,
+    "group": 4,
+    "name": "悬圃-中层",
+    "groupName": "鸿鹄来袭",
+    "level": 160,
+    "unlock": [
+      [
+        1,
+        [
+          160
+        ]
+      ]
+    ],
+    "stageId": 999140402,
+    "initMoney": 400,
+    "stageSpeedId": 999142402,
+    "initMoneySpeed": 13700
+  },
+  {
+    "id": 403,
+    "group": 4,
+    "name": "悬圃-上层",
+    "groupName": "鸿鹄来袭",
+    "level": 170,
+    "unlock": [
+      [
+        1,
+        [
+          170
+        ]
+      ]
+    ],
+    "stageId": 999140403,
+    "initMoney": 400,
+    "stageSpeedId": 999142403,
+    "initMoneySpeed": 16200
+  }
+]

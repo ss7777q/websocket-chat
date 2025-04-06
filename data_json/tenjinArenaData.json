@@ -1,0 +1,920 @@
+[
+  {
+    "id": 101,
+    "name": "孙悟空",
+    "type": "role",
+    "key": 1,
+    "val": 160,
+    "otherData": {
+      "monsterId": 6116,
+      "skillLvLimit": 33
+    }
+  },
+  {
+    "id": 102,
+    "name": "唐三藏",
+    "type": "role",
+    "key": 2,
+    "val": 160,
+    "otherData": {
+      "monsterId": 6216,
+      "skillLvLimit": 33
+    }
+  },
+  {
+    "id": 103,
+    "name": "猪八戒",
+    "type": "role",
+    "key": 3,
+    "val": 160,
+    "otherData": {
+      "monsterId": 6316,
+      "skillLvLimit": 33
+    }
+  },
+  {
+    "id": 104,
+    "name": "沙悟净",
+    "type": "role",
+    "key": 4,
+    "val": 160,
+    "otherData": {
+      "monsterId": 6416,
+      "skillLvLimit": 33
+    }
+  },
+  {
+    "id": 105,
+    "name": "敖雪",
+    "type": "role",
+    "key": 5,
+    "val": 160,
+    "otherData": {
+      "monsterId": 6516,
+      "skillLvLimit": 33
+    }
+  },
+  {
+    "id": 106,
+    "name": "敖烈",
+    "type": "role",
+    "key": 6,
+    "val": 160,
+    "otherData": {
+      "monsterId": 6616,
+      "skillLvLimit": 33
+    }
+  },
+  {
+    "id": 107,
+    "name": "萧嫣",
+    "type": "role",
+    "key": 7,
+    "val": 160,
+    "otherData": {
+      "monsterId": 6716,
+      "skillLvLimit": 33
+    }
+  },
+  {
+    "id": 101001,
+    "name": "救世圣莲",
+    "type": "magic",
+    "key": 1001,
+    "val": 10
+  },
+  {
+    "id": 101002,
+    "name": "地煞葫芦",
+    "type": "magic",
+    "key": 2001,
+    "val": 10
+  },
+  {
+    "id": 101003,
+    "name": "青玉宝瓶",
+    "type": "magic",
+    "key": 3001,
+    "val": 10
+  },
+  {
+    "id": 101004,
+    "name": "天煞古剑",
+    "type": "magic",
+    "key": 4001,
+    "val": 10
+  },
+  {
+    "id": 101005,
+    "name": "白霜镜",
+    "type": "magic",
+    "key": 5001,
+    "val": 10
+  },
+  {
+    "id": 101006,
+    "name": "罗刹妖伞",
+    "type": "magic",
+    "key": 6001,
+    "val": 10
+  },
+  {
+    "id": 101007,
+    "name": "幽冥鬼爪",
+    "type": "magic",
+    "key": 7001,
+    "val": 10
+  },
+  {
+    "id": 101008,
+    "name": "宣花锤",
+    "type": "magic",
+    "key": 8001,
+    "val": 10
+  },
+  {
+    "id": 101009,
+    "name": "混元珍珠伞",
+    "type": "magic",
+    "key": 9001,
+    "val": 10
+  },
+  {
+    "id": 101010,
+    "name": "紫金铃铛",
+    "type": "magic",
+    "key": 10001,
+    "val": 10
+  },
+  {
+    "id": 101011,
+    "name": "火龙令",
+    "type": "magic",
+    "key": 11001,
+    "val": 10
+  },
+  {
+    "id": 101012,
+    "name": "九龙行瘟幡",
+    "type": "magic",
+    "key": 14001,
+    "val": 10
+  },
+  {
+    "id": 101013,
+    "name": "三霄镇魂坠",
+    "type": "magic",
+    "key": 15001,
+    "val": 10
+  },
+  {
+    "id": 101014,
+    "name": "仙鞘虫玉",
+    "type": "magic",
+    "key": 16001,
+    "val": 10
+  },
+  {
+    "id": 101015,
+    "name": "灵鳌盾甲",
+    "type": "magic",
+    "key": 17001,
+    "val": 10
+  },
+  {
+    "id": 101016,
+    "name": "金仙斩魔刀",
+    "type": "magic",
+    "key": 18001,
+    "val": 10
+  },
+  {
+    "id": 101017,
+    "name": "究天古剑",
+    "type": "magic",
+    "key": 19001,
+    "val": 10
+  },
+  {
+    "id": 102001,
+    "name": "渊邪",
+    "type": "godWeapon",
+    "key": 101003,
+    "val": 10,
+    "close": 1
+  },
+  {
+    "id": 102002,
+    "name": "衍星录",
+    "type": "godWeapon",
+    "key": 102003,
+    "val": 5,
+    "close": 1
+  },
+  {
+    "id": 102003,
+    "name": "花宴",
+    "type": "godWeapon",
+    "key": 103001,
+    "val": 20,
+    "close": 1
+  },
+  {
+    "id": 102004,
+    "name": "蹴球",
+    "type": "godWeapon",
+    "key": 104001,
+    "val": 11,
+    "close": 1
+  },
+  {
+    "id": 102005,
+    "name": "气球",
+    "type": "godWeapon",
+    "key": 105003,
+    "val": 12,
+    "close": 1
+  },
+  {
+    "id": 103001,
+    "name": "地狱马",
+    "type": "ride",
+    "key": 201021,
+    "val": 20102116,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 4,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103002,
+    "name": "至尊魔睛兽",
+    "type": "ride",
+    "key": 201034,
+    "val": 20103216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103003,
+    "name": "至尊金睛兽",
+    "type": "ride",
+    "key": 201044,
+    "val": 20104216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103004,
+    "name": "胖呆",
+    "type": "ride",
+    "key": 201051,
+    "val": 20105116,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 5,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103005,
+    "name": "极寒天马",
+    "type": "ride",
+    "key": 201061,
+    "val": 20106116,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 5,
+      "energy": 14850,
+      "energyAdd": 120
+    }
+  },
+  {
+    "id": 103006,
+    "name": "上古年兽",
+    "type": "ride",
+    "key": 201072,
+    "val": 20107216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103007,
+    "name": "超级汪",
+    "type": "ride",
+    "key": 201092,
+    "val": 20109216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103008,
+    "name": "上古梼杌",
+    "type": "ride",
+    "key": 201102,
+    "val": 20110216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103009,
+    "name": "赤炎凤凰",
+    "type": "ride",
+    "key": 201202,
+    "val": 20120216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 180
+    }
+  },
+  {
+    "id": 103010,
+    "name": "寒冰凤凰",
+    "type": "ride",
+    "key": 201212,
+    "val": 20121216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 180
+    }
+  },
+  {
+    "id": 103011,
+    "name": "九幽谛听",
+    "type": "ride",
+    "key": 201302,
+    "val": 20130216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103012,
+    "name": "九曜谛听",
+    "type": "ride",
+    "key": 201304,
+    "val": 20130416,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103013,
+    "name": "赤烟神驹",
+    "type": "ride",
+    "key": 201402,
+    "val": 20140216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 103014,
+    "name": "噬天混沌",
+    "type": "ride",
+    "key": 201502,
+    "val": 20150216,
+    "otherData": {
+      "rideSkillLimit": 1,
+      "skillLv": 32,
+      "star": 7,
+      "energy": 14850,
+      "energyAdd": 240
+    }
+  },
+  {
+    "id": 104001,
+    "name": "醒狮",
+    "type": "rideFashion",
+    "key": 201072,
+    "val": 20107201
+  },
+  {
+    "id": 104002,
+    "name": "单身狗的愤怒",
+    "type": "rideFashion",
+    "key": 201092,
+    "val": 20109201
+  },
+  {
+    "id": 104003,
+    "name": "圣诞老汪汪",
+    "type": "rideFashion",
+    "key": 201092,
+    "val": 20109202
+  },
+  {
+    "id": 104004,
+    "name": "萌虎闹新春",
+    "type": "rideFashion",
+    "key": 201092,
+    "val": 20109203
+  },
+  {
+    "id": 104005,
+    "name": "哈士汪",
+    "type": "rideFashion",
+    "key": 201092,
+    "val": 20109204
+  },
+  {
+    "id": 104006,
+    "name": "喵喵汪",
+    "type": "rideFashion",
+    "key": 201092,
+    "val": 20109205
+  },
+  {
+    "id": 105001,
+    "name": "天绝阵",
+    "type": "matrix",
+    "key": 10001,
+    "val": 10001410
+  },
+  {
+    "id": 105002,
+    "name": "地烈阵",
+    "type": "matrix",
+    "key": 10002,
+    "val": 10002410
+  },
+  {
+    "id": 105003,
+    "name": "风吼阵",
+    "type": "matrix",
+    "key": 10003,
+    "val": 10003410
+  },
+  {
+    "id": 105004,
+    "name": "寒冰阵",
+    "type": "matrix",
+    "key": 10004,
+    "val": 10004410
+  },
+  {
+    "id": 105005,
+    "name": "金光阵",
+    "type": "matrix",
+    "key": 10005,
+    "val": 10005510
+  },
+  {
+    "id": 105006,
+    "name": "化血阵",
+    "type": "matrix",
+    "key": 10006,
+    "val": 10006510
+  },
+  {
+    "id": 105007,
+    "name": "烈焰阵",
+    "type": "matrix",
+    "key": 10007,
+    "val": 10007510
+  },
+  {
+    "id": 106001,
+    "name": "燕之翼",
+    "type": "wing",
+    "key": 101,
+    "val": 10
+  },
+  {
+    "id": 106002,
+    "name": "轮之翼",
+    "type": "wing",
+    "key": 102,
+    "val": 10
+  },
+  {
+    "id": 106003,
+    "name": "旗之翼",
+    "type": "wing",
+    "key": 103,
+    "val": 10
+  },
+  {
+    "id": 106004,
+    "name": "鹤之翼",
+    "type": "wing",
+    "key": 104,
+    "val": 10
+  },
+  {
+    "id": 106005,
+    "name": "龙之翼",
+    "type": "wing",
+    "key": 105,
+    "val": 10
+  },
+  {
+    "id": 106006,
+    "name": "龟之翼",
+    "type": "wing",
+    "key": 106,
+    "val": 10
+  },
+  {
+    "id": 107001,
+    "name": "15级白蛇丹元",
+    "type": "danyuan",
+    "key": 170010615,
+    "val": 1
+  },
+  {
+    "id": 107002,
+    "name": "15级苍狼丹元",
+    "type": "danyuan",
+    "key": 170020615,
+    "val": 2
+  },
+  {
+    "id": 107003,
+    "name": "15级黑熊丹元",
+    "type": "danyuan",
+    "key": 170030615,
+    "val": 2
+  },
+  {
+    "id": 107004,
+    "name": "15级白骨丹元",
+    "type": "danyuan",
+    "key": 170040615,
+    "val": 1
+  },
+  {
+    "id": 107005,
+    "name": "15级黄袍丹元",
+    "type": "danyuan",
+    "key": 170050615,
+    "val": 2
+  },
+  {
+    "id": 107006,
+    "name": "15级金角丹元",
+    "type": "danyuan",
+    "key": 170060615,
+    "val": 2
+  },
+  {
+    "id": 107007,
+    "name": "15级银角丹元",
+    "type": "danyuan",
+    "key": 170070615,
+    "val": 1
+  },
+  {
+    "id": 107008,
+    "name": "15级真火丹元",
+    "type": "danyuan",
+    "key": 170080615,
+    "val": 1
+  },
+  {
+    "id": 107009,
+    "name": "15级牵牛丹元",
+    "type": "danyuan",
+    "key": 170090615,
+    "val": 2
+  },
+  {
+    "id": 107010,
+    "name": "15级织女丹元",
+    "type": "danyuan",
+    "key": 170110615,
+    "val": 1
+  },
+  {
+    "id": 107011,
+    "name": "15级羊力丹元",
+    "type": "danyuan",
+    "key": 170120615,
+    "val": 1
+  },
+  {
+    "id": 107012,
+    "name": "15级虎力丹元",
+    "type": "danyuan",
+    "key": 170130615,
+    "val": 2
+  },
+  {
+    "id": 107013,
+    "name": "15级鹿力丹元",
+    "type": "danyuan",
+    "key": 170140615,
+    "val": 2
+  },
+  {
+    "id": 107014,
+    "name": "15级鱼涡丹元",
+    "type": "danyuan",
+    "key": 170150615,
+    "val": 1
+  },
+  {
+    "id": 107015,
+    "name": "15级独角丹元",
+    "type": "danyuan",
+    "key": 170160615,
+    "val": 1
+  },
+  {
+    "id": 107016,
+    "name": "15级真泉丹元",
+    "type": "danyuan",
+    "key": 170170615,
+    "val": 2
+  },
+  {
+    "id": 107017,
+    "name": "15级毒蝎丹元",
+    "type": "danyuan",
+    "key": 170180615,
+    "val": 1
+  },
+  {
+    "id": 107018,
+    "name": "15级巨牛丹元",
+    "type": "danyuan",
+    "key": 170190615,
+    "val": 2
+  },
+  {
+    "id": 107019,
+    "name": "15级九虫丹元",
+    "type": "danyuan",
+    "key": 170200615,
+    "val": 1
+  },
+  {
+    "id": 107020,
+    "name": "15级木仙丹元",
+    "type": "danyuan",
+    "key": 170210615,
+    "val": 2
+  },
+  {
+    "id": 107021,
+    "name": "15级纳魔丹元",
+    "type": "danyuan",
+    "key": 170220615,
+    "val": 1
+  },
+  {
+    "id": 107022,
+    "name": "15级蛇蜕丹元",
+    "type": "danyuan",
+    "key": 170230615,
+    "val": 2
+  },
+  {
+    "id": 201001,
+    "name": "刑天",
+    "type": "godWarBoss",
+    "key": 221301
+  },
+  {
+    "id": 201002,
+    "name": "夸父",
+    "type": "godWarBoss",
+    "key": 221302
+  },
+  {
+    "id": 201003,
+    "name": "后羿",
+    "type": "godWarBoss",
+    "key": 221303
+  },
+  {
+    "id": 201004,
+    "name": "牛魔王",
+    "type": "godWarBoss",
+    "key": 221304
+  },
+  {
+    "id": 201005,
+    "name": "季禺",
+    "type": "godWarBoss",
+    "key": 221315
+  },
+  {
+    "id": 201006,
+    "name": "山鬼",
+    "type": "godWarBoss",
+    "key": 221316
+  },
+  {
+    "id": 201007,
+    "name": "太子长琴",
+    "type": "godWarBoss",
+    "key": 221318
+  },
+  {
+    "id": 201008,
+    "name": "逄蒙",
+    "type": "godWarBoss",
+    "key": 221320
+  },
+  {
+    "id": 201009,
+    "name": "鲧",
+    "type": "godWarBoss",
+    "key": 221322
+  },
+  {
+    "id": 201010,
+    "name": "骄虫",
+    "type": "godWarBoss",
+    "key": 221330
+  },
+  {
+    "id": 202001,
+    "name": "无头骑士",
+    "type": "godWarBossFashion",
+    "key": 991001,
+    "val": 221302
+  },
+  {
+    "id": 202002,
+    "name": "炼狱修罗",
+    "type": "godWarBossFashion",
+    "key": 991002,
+    "val": 221302
+  },
+  {
+    "id": 202003,
+    "name": "厄运邪神",
+    "type": "godWarBossFashion",
+    "key": 991003,
+    "val": 221302
+  },
+  {
+    "id": 202004,
+    "name": "凶狱鬼王",
+    "type": "godWarBossFashion",
+    "key": 99102001,
+    "val": 221303
+  },
+  {
+    "id": 202005,
+    "name": "冥夜驰雷",
+    "type": "godWarBossFashion",
+    "key": 99103001001,
+    "val": 221304
+  },
+  {
+    "id": 202006,
+    "name": "冰狱鬼火",
+    "type": "godWarBossFashion",
+    "key": 99105001001,
+    "val": 221316
+  },
+  {
+    "id": 202007,
+    "name": "巾帼舞狮",
+    "type": "godWarBossFashion",
+    "key": 99106001001,
+    "val": 221301
+  },
+  {
+    "id": 202008,
+    "name": "凛冬猎灵",
+    "type": "godWarBossFashion",
+    "key": 99106001002,
+    "val": 221301
+  },
+  {
+    "id": 202009,
+    "name": "月之狩",
+    "type": "godWarBossFashion",
+    "key": 99106001003,
+    "val": 221301
+  },
+  {
+    "id": 202010,
+    "name": "山海神音",
+    "type": "godWarBossFashion",
+    "key": 99107001001,
+    "val": 221318
+  },
+  {
+    "id": 202011,
+    "name": "堕魔猎手",
+    "type": "godWarBossFashion",
+    "key": 99108001001,
+    "val": 221320
+  },
+  {
+    "id": 202012,
+    "name": "醒狮山河",
+    "type": "godWarBossFashion",
+    "key": 99109001001,
+    "val": 221322
+  },
+  {
+    "id": 202013,
+    "name": "邪身恶灵",
+    "type": "godWarBossFashion",
+    "key": 99110001001,
+    "val": 221330
+  },
+  {
+    "id": 203001,
+    "name": "魔王疾行",
+    "type": "bossMagicWeapon",
+    "key": 94001
+  },
+  {
+    "id": 203002,
+    "name": "天魔之跃",
+    "type": "bossMagicWeapon",
+    "key": 95001
+  },
+  {
+    "id": 203003,
+    "name": "风魔召来",
+    "type": "bossMagicWeapon",
+    "key": 91001
+  },
+  {
+    "id": 203004,
+    "name": "水魔庇护",
+    "type": "bossMagicWeapon",
+    "key": 92001
+  },
+  {
+    "id": 203005,
+    "name": "雷魔之咬",
+    "type": "bossMagicWeapon",
+    "key": 93001
+  },
+  {
+    "id": 203006,
+    "name": "横行霸道",
+    "type": "bossMagicWeapon",
+    "key": 96001
+  },
+  {
+    "id": 203007,
+    "name": "阎魔辟地",
+    "type": "bossMagicWeapon",
+    "key": 97001
+  },
+  {
+    "id": 203008,
+    "name": "魔王降临",
+    "type": "bossMagicWeapon",
+    "key": 98001
+  }
+]

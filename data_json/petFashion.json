@@ -1,0 +1,656 @@
+[
+  {
+    "id": 19000011,
+    "name": "无光者",
+    "order": 1,
+    "group": 1900001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "laoshu_4_wuguangzhe",
+    "file": "2040104-anyeshuwang_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000003,
+    "gender": 0
+  },
+  {
+    "id": 19000012,
+    "name": "无光者",
+    "order": 1,
+    "group": 1900001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "laoshu_5_wuguangzhe",
+    "file": "2040105-anyeshuwang_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000003,
+    "gender": 1
+  },
+  {
+    "id": 19020011,
+    "name": "泷梦莹裳",
+    "order": 1,
+    "group": 1902001,
+    "label": "shishi",
+    "new": 1,
+    "icon": "qingshe_4_longmengyingshang",
+    "viewType": 1,
+    "file": "2040304-lingmushewang_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000023,
+    "gender": 0
+  },
+  {
+    "id": 19020012,
+    "name": "泷梦莹裳",
+    "order": 1,
+    "group": 1902001,
+    "label": "shishi",
+    "new": 1,
+    "icon": "qingshe_5_longmengyingshang",
+    "viewType": 1,
+    "file": "2040305-lingmushewang_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000023,
+    "gender": 1
+  },
+  {
+    "id": 19030011,
+    "name": "花间雪",
+    "order": 1,
+    "group": 1903001,
+    "label": "chuanshuo",
+    "new": 0,
+    "icon": "bingbing_4_huajianxue",
+    "bulletChange": 1,
+    "file": "2040406-qiannianbinghu_nan-2",
+    "bulletFile": {
+      "2040401-jibinghu_texiao": "2040401-jibinghu_texiao-2"
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000033,
+    "gender": 0
+  },
+  {
+    "id": 19030012,
+    "name": "花间雪",
+    "order": 1,
+    "group": 1903001,
+    "label": "chuanshuo",
+    "new": 0,
+    "icon": "bingbing_5_huajianxue",
+    "bulletChange": 1,
+    "file": "2040407-qiannianbinghu_nv-2",
+    "bulletFile": {
+      "2040401-jibinghu_texiao": "2040401-jibinghu_texiao-2"
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000033,
+    "gender": 1
+  },
+  {
+    "id": 19030021,
+    "name": "幻蝶",
+    "order": 2,
+    "group": 1903002,
+    "label": "shishi",
+    "new": 0,
+    "icon": "bingbing_4_huandie",
+    "file": "2040406-qiannianbinghu_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000033,
+    "gender": 0
+  },
+  {
+    "id": 19030022,
+    "name": "幻蝶",
+    "order": 2,
+    "group": 1903002,
+    "label": "shishi",
+    "new": 0,
+    "icon": "bingbing_5_huandie",
+    "file": "2040407-qiannianbinghu_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000033,
+    "gender": 1
+  },
+  {
+    "id": 19040011,
+    "name": "寒月凌霜",
+    "order": 1,
+    "group": 1904001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "yutu_5_hanyuelingshuang",
+    "file": "2040504-yutu_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000043,
+    "gender": 0
+  },
+  {
+    "id": 19040012,
+    "name": "寒月凌霜",
+    "order": 1,
+    "group": 1904001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "yutu_6_hanyuelingshuang",
+    "file": "2040505-yutu_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000043,
+    "gender": 1
+  },
+  {
+    "id": 19040021,
+    "name": "踏雪寻梅",
+    "order": 2,
+    "group": 1904002,
+    "label": "shishi",
+    "new": 0,
+    "icon": "yutu_5_taxuexunmei",
+    "file": "2040504-yutu_nan-2",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000043,
+    "gender": 0
+  },
+  {
+    "id": 19040022,
+    "name": "踏雪寻梅",
+    "order": 2,
+    "group": 1904002,
+    "label": "shishi",
+    "new": 0,
+    "icon": "yutu_6_taxuexunmei",
+    "file": "2040505-yutu_nv-2",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000043,
+    "gender": 1
+  },
+  {
+    "id": 19050011,
+    "name": "甜品圆圆",
+    "order": 1,
+    "group": 1905001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "xueren_5_tianpinyuanyuan",
+    "file": "2040604-xuerenwang_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000053,
+    "gender": 0
+  },
+  {
+    "id": 19050012,
+    "name": "甜品圆圆",
+    "order": 1,
+    "group": 1905001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "xueren_6_tianpinyuanyuan",
+    "file": "2040605-xuerenwang_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000053,
+    "gender": 1
+  },
+  {
+    "id": 19060011,
+    "name": "极地晶岩",
+    "order": 1,
+    "group": 1906001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "niuniu_4_hanjin",
+    "file": "2040704_niu_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000063,
+    "gender": 0
+  },
+  {
+    "id": 19060012,
+    "name": "极地晶岩",
+    "order": 1,
+    "group": 1906001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "niuniu_5_hanjin",
+    "file": "2040705_niu_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000063,
+    "gender": 1
+  },
+  {
+    "id": 19070011,
+    "name": "一只小蜜蜂",
+    "order": 1,
+    "group": 1907001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "huahua_4_smallpee",
+    "file": "2040804_hua_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000073,
+    "gender": 0
+  },
+  {
+    "id": 19070012,
+    "name": "一只小蜜蜂",
+    "order": 1,
+    "group": 1907001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "huahua_5_smallpee",
+    "file": "2040805_hua_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000073,
+    "gender": 1
+  },
+  {
+    "id": 19080011,
+    "name": "超量子相位机甲",
+    "order": 1,
+    "group": 1908001,
+    "label": "chuanshuo",
+    "new": 1,
+    "icon": "xuanwu_4_cangleiyinjia",
+    "bulletChange": 1,
+    "file": "2040904-xuanwu_nan-1",
+    "bulletFile": {
+      "2040902-xuanwu_texiao": "2040902-xuanwu_texiao-1"
+    },
+    "tokenFile": {
+      "2040907": "2040907-shuishe-1"
+    },
+    "buffEffectId": {
+      "254": 781,
+      "256": 780,
+      "574": 779
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000083,
+    "gender": 0
+  },
+  {
+    "id": 19080012,
+    "name": "超量子相位机甲",
+    "order": 1,
+    "group": 1908001,
+    "label": "chuanshuo",
+    "new": 1,
+    "icon": "xuanwu_5_cangleiyinjia",
+    "bulletChange": 1,
+    "file": "2040905-xuanwu_nv-1",
+    "bulletFile": {
+      "2040902-xuanwu_texiao": "2040902-xuanwu_texiao-1"
+    },
+    "tokenFile": {
+      "2040907": "2040907-shuishe-1"
+    },
+    "buffEffectId": {
+      "254": 781,
+      "256": 780,
+      "574": 779
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000083,
+    "gender": 1
+  },
+  {
+    "id": 19090011,
+    "name": "霜翼寒刃",
+    "order": 1,
+    "group": 1909001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "baihu_4_icetiger",
+    "file": "2041004-icetiger_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000093,
+    "gender": 0
+  },
+  {
+    "id": 19090012,
+    "name": "霜翼寒刃",
+    "order": 1,
+    "group": 1909001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "baihu_5_icetiger",
+    "file": "2041005-icetiger_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000093,
+    "gender": 1
+  },
+  {
+    "id": 19100011,
+    "name": "缘蝶之梦",
+    "order": 1,
+    "group": 1910001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "hudie_4_dreambutterfly",
+    "file": "2041104-hudie_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000103,
+    "gender": 0
+  },
+  {
+    "id": 19100012,
+    "name": "缘蝶之梦",
+    "order": 1,
+    "group": 1910001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "hudie_5_dreambutterfly",
+    "file": "2041105-hudie_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000103,
+    "gender": 1
+  },
+  {
+    "id": 19110011,
+    "name": "紫霄星羽",
+    "order": 1,
+    "group": 1911001,
+    "label": "chuanshuo",
+    "new": 0,
+    "icon": "zhuque_4_ziyunitian",
+    "bulletChange": 1,
+    "viewType": 1,
+    "bulletFileViewType": 1,
+    "file": "2041204-zhuqueyanhuang_nan-1",
+    "bulletFile": {
+      "2041201-yanhuangque_texiao2": "2041201-yanhuangque_texiao2-1"
+    },
+    "buffEffectId": {
+      "424": 759,
+      "425": 760
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000113,
+    "gender": 0
+  },
+  {
+    "id": 19110012,
+    "name": "紫霄星羽",
+    "order": 1,
+    "group": 1911001,
+    "label": "chuanshuo",
+    "new": 0,
+    "icon": "zhuque_5_ziyunitian",
+    "bulletChange": 1,
+    "viewType": 1,
+    "bulletFileViewType": 1,
+    "file": "2041205-zhuqueyanhuang_nv-1",
+    "bulletFile": {
+      "2041201-yanhuangque_texiao2": "2041201-yanhuangque_texiao2-1"
+    },
+    "buffEffectId": {
+      "424": 759,
+      "425": 760
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000113,
+    "gender": 1
+  },
+  {
+    "id": 19130011,
+    "name": "黯熔绝影",
+    "order": 1,
+    "group": 1913001,
+    "label": "chuanshuo",
+    "new": 0,
+    "icon": "qinglong_4_heilongjijia",
+    "bulletChange": 1,
+    "viewType": 1,
+    "file": "2041404-qinglongyaosheng_nan-1",
+    "bulletFile": {
+      "2041402-qinglongjiangjun_nan_texiao": "2041402-qinglongjiangjun_nan_texiao-1",
+      "2041402-qinglongjiangjun_nan_texiao_skill5": "2041402-qinglongjiangjun_nan_texiao_skill5-1"
+    },
+    "tokenFile": {
+      "2041414": "2041404-qinglongyaosheng_nan-1"
+    },
+    "tokenBulletFile": {
+      "2041414": {
+        "2041402-qinglongjiangjun_nan_texiao": "2041402-qinglongjiangjun_nan_texiao-1"
+      },
+      "2041415": {
+        "2041402-qinglongjiangjun_nan_texiao": "2041402-qinglongjiangjun_nan_texiao-1"
+      }
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000133,
+    "gender": 0
+  },
+  {
+    "id": 19130012,
+    "name": "黯熔绝影",
+    "order": 1,
+    "group": 1913001,
+    "label": "chuanshuo",
+    "new": 0,
+    "icon": "qinglong_5_heilongjijia",
+    "bulletChange": 1,
+    "viewType": 1,
+    "file": "2041405-qinglongyaosheng_nv-1",
+    "bulletFile": {
+      "2041402-qinglongjiangjun_nan_texiao": "2041402-qinglongjiangjun_nan_texiao-1",
+      "2041402-qinglongjiangjun_nan_texiao_skill5": "2041402-qinglongjiangjun_nan_texiao_skill5-1"
+    },
+    "tokenFile": {
+      "2041415": "2041405-qinglongyaosheng_nv-1"
+    },
+    "tokenBulletFile": {
+      "2041414": {
+        "2041402-qinglongjiangjun_nan_texiao": "2041402-qinglongjiangjun_nan_texiao-1"
+      },
+      "2041415": {
+        "2041402-qinglongjiangjun_nan_texiao": "2041402-qinglongjiangjun_nan_texiao-1"
+      }
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000133,
+    "gender": 1
+  },
+  {
+    "id": 19140011,
+    "name": "无光者",
+    "order": 1,
+    "group": 1900001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "shuilishu_4_wuguangzhe",
+    "viewType": 1,
+    "file": "2041504-mingjiashuwang_nan-1",
+    "tokenFile": {
+      "2041514": "2041504-mingjiashuwang_nan-1"
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000143,
+    "gender": 0
+  },
+  {
+    "id": 19140012,
+    "name": "无光者",
+    "order": 1,
+    "group": 1900001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "shuilishu_5_wuguangzhe",
+    "viewType": 1,
+    "file": "2041505-mingjiashuwang_nv-1",
+    "tokenFile": {
+      "2041515": "2041505-mingjiashuwang_nv-1"
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000143,
+    "gender": 1
+  },
+  {
+    "id": 19150011,
+    "name": "寒月凌霜",
+    "order": 1,
+    "group": 1904001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "yingyuetu_4_hanyuelingshuang",
+    "viewType": 1,
+    "file": "2041604-anyuetuhuang_nan-1",
+    "bulletFile": {
+      "2041604-anyuetuhuang_nan": "2041604-anyuetuhuang_nan-1"
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000153,
+    "gender": 0
+  },
+  {
+    "id": 19150012,
+    "name": "寒月凌霜",
+    "order": 1,
+    "group": 1904001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "yingyuetu_5_hanyuelingshuang",
+    "viewType": 1,
+    "file": "2041605-anyuetuhuang_nv-1",
+    "bulletFile": {
+      "2041605-anyuetuhuang_nv": "2041605-anyuetuhuang_nv-1"
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000153,
+    "gender": 1
+  },
+  {
+    "id": 19150021,
+    "name": "踏雪寻梅",
+    "order": 2,
+    "group": 1904002,
+    "label": "shishi",
+    "new": 0,
+    "icon": "yingyuetu_4_taxuexunmei",
+    "viewType": 1,
+    "file": "2041604-anyuetuhuang_nan-2",
+    "bulletFile": {
+      "2041604-anyuetuhuang_nan": "2041604-anyuetuhuang_nan-2"
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000153,
+    "gender": 0
+  },
+  {
+    "id": 19150022,
+    "name": "踏雪寻梅",
+    "order": 2,
+    "group": 1904002,
+    "label": "shishi",
+    "new": 0,
+    "icon": "yingyuetu_5_taxuexunmei",
+    "viewType": 1,
+    "file": "2041605-anyuetuhuang_nv-2",
+    "bulletFile": {
+      "2041605-anyuetuhuang_nv": "2041605-anyuetuhuang_nv-2"
+    },
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000153,
+    "gender": 1
+  },
+  {
+    "id": 19160011,
+    "name": "泷梦莹裳",
+    "order": 1,
+    "group": 1902001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "shenshashe_4_longmengyingshang",
+    "viewType": 1,
+    "file": "2041704-shenshashewang_nan-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000163,
+    "gender": 0
+  },
+  {
+    "id": 19160012,
+    "name": "泷梦莹裳",
+    "order": 1,
+    "group": 1902001,
+    "label": "shishi",
+    "new": 0,
+    "icon": "shenshashe_5_longmengyingshang",
+    "viewType": 1,
+    "file": "2041705-shenshashewang_nv-1",
+    "scale": 1,
+    "spd": 220,
+    "open": 1,
+    "petId": 190000163,
+    "gender": 1
+  }
+]

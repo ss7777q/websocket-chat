@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "content": "what your name?",
+    "link": 2
+  },
+  {
+    "id": 2,
+    "content": "My name is monkey,thanks!",
+    "sayer": "剧情NPC-小猴子",
+    "link": 3
+  },
+  {
+    "id": 3,
+    "content": "Get out~~~~~!"
+  }
+]

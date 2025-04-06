@@ -1,0 +1,479 @@
+[
+  {
+    "id": "dailyAheadReset",
+    "Type": 1,
+    "CircleType": 2,
+    "Time": [
+      "23:55:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "玩家每日23点55分重置"
+  },
+  {
+    "id": "dailyReset",
+    "Type": 1,
+    "CircleType": 2,
+    "Time": [
+      "00:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "玩家每日0点重置"
+  },
+  {
+    "id": "sysDailyReset",
+    "Type": 2,
+    "CircleType": 2,
+    "Time": [
+      "00:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "全局功能系统每日0点刷新(排行榜，联盟商店)"
+  },
+  {
+    "id": "playerWeekReset",
+    "Type": 1,
+    "CircleType": 3,
+    "Time": [
+      1,
+      "00:00:05"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "玩家每周重置"
+  },
+  {
+    "id": "weekReset",
+    "Type": 2,
+    "CircleType": 3,
+    "Time": [
+      1,
+      "00:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "全局每周重置"
+  },
+  {
+    "id": "refreshblackList",
+    "Type": 1,
+    "CircleType": 2,
+    "Time": [
+      "6:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "黑市商店刷新"
+  },
+  {
+    "id": "fightpointRankBak",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2024-07-12 23:59:59"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": 0,
+    "Desc": "战力排行奖励备份数据时间"
+  },
+  {
+    "id": "petFightpointRankBak",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2024-07-11 23:59:59"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": 0,
+    "Desc": "宠物战力排行榜备份数据时间"
+  },
+  {
+    "id": "leagueDuanwuRankBak",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-05-01 23:59:59"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": 0,
+    "Desc": "龙舟联盟赛排行"
+  },
+  {
+    "id": "skyWarReset",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2023-03-30 06:10:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "天道之战赛季重置时间"
+  },
+  {
+    "id": "matrix",
+    "Type": 2,
+    "CircleType": 2,
+    "Time": [
+      "10:00:00",
+      "10:15:00",
+      "10:30:00",
+      "10:45:00",
+      "11:00:00",
+      "11:15:00",
+      "11:30:00",
+      "11:45:00",
+      "12:00:00",
+      "12:15:00",
+      "12:30:00",
+      "12:45:00",
+      "13:00:00",
+      "13:15:00",
+      "13:30:00",
+      "13:45:00",
+      "14:00:00",
+      "14:15:00",
+      "14:30:00",
+      "14:45:00",
+      "15:00:00",
+      "15:15:00",
+      "15:30:00",
+      "15:45:00",
+      "16:00:00",
+      "16:15:00",
+      "16:30:00",
+      "16:45:00",
+      "17:00:00",
+      "17:15:00",
+      "17:30:00",
+      "17:45:00",
+      "18:00:00",
+      "18:15:00",
+      "18:30:00",
+      "18:45:00",
+      "19:00:00",
+      "19:15:00",
+      "19:30:00",
+      "19:45:00",
+      "20:00:00",
+      "20:15:00",
+      "20:30:00",
+      "20:45:00",
+      "21:00:00",
+      "21:15:00",
+      "21:30:00",
+      "21:45:00",
+      "22:00:00",
+      "22:15:00",
+      "22:30:00",
+      "22:45:00",
+      "23:00:00",
+      "23:15:00",
+      "23:30:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "定时开启关闭状态的阵法房间"
+  },
+  {
+    "id": "fightUpdate",
+    "Type": 1,
+    "CircleType": 2,
+    "Time": [
+      "23:59:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "非实时排行榜更新时间"
+  },
+  {
+    "id": "dailyTitleReset",
+    "Type": 1,
+    "CircleType": 2,
+    "Time": [
+      "00:05:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "称号重置"
+  },
+  {
+    "id": "nightEighteen",
+    "Type": 1,
+    "CircleType": 2,
+    "Time": [
+      "18:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "晚间登录"
+  },
+  {
+    "id": "sysMonthReset",
+    "Type": 2,
+    "CircleType": 5,
+    "Time": [
+      1,
+      "00:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "全局每月重置"
+  },
+  {
+    "id": "pvpDropItem",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2019-05-09 00:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 14,
+    "ContinueTime": 1209599,
+    "Desc": "坠龙之地击杀英雄/野怪掉落道具/通关文牒"
+  },
+  {
+    "id": "naiheqiao",
+    "Type": 2,
+    "CircleType": 3,
+    "Time": [
+      1,
+      "04:00:00",
+      3,
+      "04:00:00",
+      5,
+      "04:00:00",
+      7,
+      "04:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 1,
+    "ContinueTime": 86399,
+    "Desc": "开启时间：奈何桥"
+  },
+  {
+    "id": "petChampion",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-02-28 17:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛活动开始，锁定灵宠天梯阵容"
+  },
+  {
+    "id": "petChampionEnd",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-06 20:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛第一阶段结束"
+  },
+  {
+    "id": "petChampionGroup256",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-06 20:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "龙争虎斗256强阵容锁定"
+  },
+  {
+    "id": "petChampionGroup128",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-06 21:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛龙争虎斗决出128强"
+  },
+  {
+    "id": "petChampionGroup64",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-07 14:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛龙争虎斗决出64强"
+  },
+  {
+    "id": "petChampionGroup32",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-07 16:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛龙争虎斗决出32强"
+  },
+  {
+    "id": "petChampionFinal16",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-07 18:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛龙争虎斗决出16强"
+  },
+  {
+    "id": "petChampionFinal8",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-08 10:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛万兽之巅决出8强"
+  },
+  {
+    "id": "petChampionFinal4",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-08 16:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛万兽之巅决出4强"
+  },
+  {
+    "id": "petChampionFinal2",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-09 10:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛万兽之巅决出前2"
+  },
+  {
+    "id": "petChampionFinal1",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2025-03-09 16:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "宠物擂台赛万兽之巅决出冠军"
+  },
+  {
+    "id": "peachBanquetBak",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2024-10-17 22:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "第一届蟠桃大会冲榜"
+  },
+  {
+    "id": "task24Hour",
+    "Type": 2,
+    "CircleType": 1,
+    "Time": [
+      3600
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "每小时刷新"
+  },
+  {
+    "id": "activityVoteGacha",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2024-08-19 00:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "投票活动抽奖",
+    "otherInfo": {
+      "promotionId": 2000073
+    }
+  },
+  {
+    "id": "weekRankBak",
+    "Type": 2,
+    "CircleType": 3,
+    "Time": [
+      7,
+      "22:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "角色排行榜每周日22点结榜"
+  },
+  {
+    "id": "climbingWeekReward",
+    "Type": 2,
+    "CircleType": 3,
+    "Time": [
+      1,
+      "2:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "挑战积分榜每周日22点结榜"
+  },
+  {
+    "id": "valentineTeamRank5",
+    "Type": 2,
+    "CircleType": 4,
+    "Time": [
+      "2024-08-26 2:00:00"
+    ],
+    "OfflineTimes": 1,
+    "Text": 0,
+    "ContinueTime": -1,
+    "Desc": "七夕活动结榜"
+  }
+]

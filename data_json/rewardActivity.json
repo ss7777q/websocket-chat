@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1001,
+    "stageActivityId": 103001,
+    "sort": 1,
+    "limitType": 1,
+    "limitValue": 500,
+    "reward": [
+      10716
+    ]
+  },
+  {
+    "id": 1002,
+    "stageActivityId": 103001,
+    "sort": 2,
+    "limitType": 1,
+    "limitValue": 1000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1003,
+    "stageActivityId": 103001,
+    "sort": 3,
+    "limitType": 1,
+    "limitValue": 2000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1004,
+    "stageActivityId": 103001,
+    "sort": 4,
+    "limitType": 1,
+    "limitValue": 3000,
+    "reward": [
+      10717
+    ]
+  },
+  {
+    "id": 1005,
+    "stageActivityId": 103001,
+    "sort": 5,
+    "limitType": 1,
+    "limitValue": 4000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1006,
+    "stageActivityId": 103001,
+    "sort": 6,
+    "limitType": 1,
+    "limitValue": 5000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1007,
+    "stageActivityId": 103001,
+    "sort": 7,
+    "limitType": 1,
+    "limitValue": 6000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1008,
+    "stageActivityId": 103001,
+    "sort": 8,
+    "limitType": 1,
+    "limitValue": 7000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1009,
+    "stageActivityId": 103001,
+    "sort": 9,
+    "limitType": 1,
+    "limitValue": 8000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1010,
+    "stageActivityId": 103001,
+    "sort": 10,
+    "limitType": 1,
+    "limitValue": 9000,
+    "reward": [
+      10720
+    ]
+  },
+  {
+    "id": 1011,
+    "stageActivityId": 103001,
+    "sort": 11,
+    "limitType": 1,
+    "limitValue": 10000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1012,
+    "stageActivityId": 103001,
+    "sort": 12,
+    "limitType": 1,
+    "limitValue": 11000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1013,
+    "stageActivityId": 103001,
+    "sort": 13,
+    "limitType": 1,
+    "limitValue": 12000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1014,
+    "stageActivityId": 103001,
+    "sort": 14,
+    "limitType": 1,
+    "limitValue": 13000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1015,
+    "stageActivityId": 103001,
+    "sort": 15,
+    "limitType": 1,
+    "limitValue": 14000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1016,
+    "stageActivityId": 103001,
+    "sort": 16,
+    "limitType": 1,
+    "limitValue": 15000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1017,
+    "stageActivityId": 103001,
+    "sort": 17,
+    "limitType": 1,
+    "limitValue": 16000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1018,
+    "stageActivityId": 103001,
+    "sort": 18,
+    "limitType": 1,
+    "limitValue": 17000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1019,
+    "stageActivityId": 103001,
+    "sort": 19,
+    "limitType": 1,
+    "limitValue": 18000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1020,
+    "stageActivityId": 103001,
+    "sort": 20,
+    "limitType": 1,
+    "limitValue": 19000,
+    "reward": [
+      10720
+    ]
+  },
+  {
+    "id": 1021,
+    "stageActivityId": 103001,
+    "sort": 21,
+    "limitType": 1,
+    "limitValue": 20000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1022,
+    "stageActivityId": 103001,
+    "sort": 22,
+    "limitType": 1,
+    "limitValue": 21000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1023,
+    "stageActivityId": 103001,
+    "sort": 23,
+    "limitType": 1,
+    "limitValue": 22000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1024,
+    "stageActivityId": 103001,
+    "sort": 24,
+    "limitType": 1,
+    "limitValue": 23000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1025,
+    "stageActivityId": 103001,
+    "sort": 25,
+    "limitType": 1,
+    "limitValue": 24000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1026,
+    "stageActivityId": 103001,
+    "sort": 26,
+    "limitType": 1,
+    "limitValue": 25000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1027,
+    "stageActivityId": 103001,
+    "sort": 27,
+    "limitType": 1,
+    "limitValue": 26000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1028,
+    "stageActivityId": 103001,
+    "sort": 28,
+    "limitType": 1,
+    "limitValue": 27000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1029,
+    "stageActivityId": 103001,
+    "sort": 29,
+    "limitType": 1,
+    "limitValue": 28000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1030,
+    "stageActivityId": 103001,
+    "sort": 30,
+    "limitType": 1,
+    "limitValue": 29000,
+    "reward": [
+      10720
+    ]
+  },
+  {
+    "id": 1031,
+    "stageActivityId": 103001,
+    "sort": 31,
+    "limitType": 1,
+    "limitValue": 30000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1032,
+    "stageActivityId": 103001,
+    "sort": 32,
+    "limitType": 1,
+    "limitValue": 31000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1033,
+    "stageActivityId": 103001,
+    "sort": 33,
+    "limitType": 1,
+    "limitValue": 32000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1034,
+    "stageActivityId": 103001,
+    "sort": 34,
+    "limitType": 1,
+    "limitValue": 33000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1035,
+    "stageActivityId": 103001,
+    "sort": 35,
+    "limitType": 1,
+    "limitValue": 34000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1036,
+    "stageActivityId": 103001,
+    "sort": 36,
+    "limitType": 1,
+    "limitValue": 35000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1037,
+    "stageActivityId": 103001,
+    "sort": 37,
+    "limitType": 1,
+    "limitValue": 36000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1038,
+    "stageActivityId": 103001,
+    "sort": 38,
+    "limitType": 1,
+    "limitValue": 37000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1039,
+    "stageActivityId": 103001,
+    "sort": 39,
+    "limitType": 1,
+    "limitValue": 38000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1040,
+    "stageActivityId": 103001,
+    "sort": 40,
+    "limitType": 1,
+    "limitValue": 39000,
+    "reward": [
+      10720
+    ]
+  },
+  {
+    "id": 1041,
+    "stageActivityId": 103001,
+    "sort": 41,
+    "limitType": 1,
+    "limitValue": 40000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1042,
+    "stageActivityId": 103001,
+    "sort": 42,
+    "limitType": 1,
+    "limitValue": 41000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1043,
+    "stageActivityId": 103001,
+    "sort": 43,
+    "limitType": 1,
+    "limitValue": 42000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1044,
+    "stageActivityId": 103001,
+    "sort": 44,
+    "limitType": 1,
+    "limitValue": 43000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1045,
+    "stageActivityId": 103001,
+    "sort": 45,
+    "limitType": 1,
+    "limitValue": 44000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1046,
+    "stageActivityId": 103001,
+    "sort": 46,
+    "limitType": 1,
+    "limitValue": 45000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1047,
+    "stageActivityId": 103001,
+    "sort": 47,
+    "limitType": 1,
+    "limitValue": 46000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1048,
+    "stageActivityId": 103001,
+    "sort": 48,
+    "limitType": 1,
+    "limitValue": 47000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1049,
+    "stageActivityId": 103001,
+    "sort": 49,
+    "limitType": 1,
+    "limitValue": 48000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1050,
+    "stageActivityId": 103001,
+    "sort": 50,
+    "limitType": 1,
+    "limitValue": 49000,
+    "reward": [
+      10720
+    ]
+  },
+  {
+    "id": 1051,
+    "stageActivityId": 103001,
+    "sort": 51,
+    "limitType": 1,
+    "limitValue": 50000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1052,
+    "stageActivityId": 103001,
+    "sort": 52,
+    "limitType": 1,
+    "limitValue": 51000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1053,
+    "stageActivityId": 103001,
+    "sort": 53,
+    "limitType": 1,
+    "limitValue": 52000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1054,
+    "stageActivityId": 103001,
+    "sort": 54,
+    "limitType": 1,
+    "limitValue": 53000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1055,
+    "stageActivityId": 103001,
+    "sort": 55,
+    "limitType": 1,
+    "limitValue": 54000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1056,
+    "stageActivityId": 103001,
+    "sort": 56,
+    "limitType": 1,
+    "limitValue": 55000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1057,
+    "stageActivityId": 103001,
+    "sort": 57,
+    "limitType": 1,
+    "limitValue": 56000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1058,
+    "stageActivityId": 103001,
+    "sort": 58,
+    "limitType": 1,
+    "limitValue": 57000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1059,
+    "stageActivityId": 103001,
+    "sort": 59,
+    "limitType": 1,
+    "limitValue": 58000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1060,
+    "stageActivityId": 103001,
+    "sort": 60,
+    "limitType": 1,
+    "limitValue": 59000,
+    "reward": [
+      10720
+    ]
+  },
+  {
+    "id": 1061,
+    "stageActivityId": 103001,
+    "sort": 61,
+    "limitType": 1,
+    "limitValue": 60000,
+    "reward": [
+      10719
+    ]
+  },
+  {
+    "id": 1062,
+    "stageActivityId": 103001,
+    "sort": 62,
+    "limitType": 1,
+    "limitValue": 61000,
+    "reward": [
+      10718
+    ]
+  },
+  {
+    "id": 1063,
+    "stageActivityId": 103001,
+    "sort": 63,
+    "limitType": 1,
+    "limitValue": 62000,
+    "reward": [
+      10719
+    ]
+  }
+]

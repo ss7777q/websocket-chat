@@ -1,0 +1,1 @@
+var tmp=[["id","name","unlock"],[1,"空空"],[2,"雪雪"],[3,"特殊"]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.emojiGroup=tmp);

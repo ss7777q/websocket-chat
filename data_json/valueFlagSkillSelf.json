@@ -1,0 +1,533 @@
+[
+  {
+    "id": 715010101,
+    "initVal": 12,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": 6,
+    "noDoVal": 0
+  },
+  {
+    "id": 715010201,
+    "initVal": 12,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": 6,
+    "noDoVal": 0
+  },
+  {
+    "id": 715010301,
+    "initVal": 12,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": 6,
+    "noDoVal": 0
+  },
+  {
+    "id": 5001011,
+    "initVal": 0,
+    "addVal": 583,
+    "maxAdd": 583,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001012,
+    "initVal": 0,
+    "addVal": 316,
+    "maxAdd": 632,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001013,
+    "initVal": 0,
+    "addVal": 324,
+    "maxAdd": 972,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001014,
+    "initVal": 0,
+    "addVal": 631,
+    "maxAdd": 631,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001020,
+    "initVal": 0,
+    "addVal": 631,
+    "maxAdd": 631,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001021,
+    "initVal": 0,
+    "addVal": 631,
+    "maxAdd": 631,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001022,
+    "initVal": 0,
+    "addVal": 437,
+    "maxAdd": 437,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001023,
+    "initVal": 0,
+    "addVal": 437,
+    "maxAdd": 437,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001024,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001030,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001031,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001032,
+    "initVal": 0,
+    "addVal": 1619,
+    "maxAdd": 1619,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001035,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001036,
+    "initVal": 0,
+    "addVal": 971,
+    "maxAdd": 971,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001040,
+    "initVal": 0,
+    "addVal": 437,
+    "maxAdd": 1748,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001041,
+    "initVal": 0,
+    "addVal": 525,
+    "maxAdd": 2625,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001045,
+    "initVal": 0,
+    "addVal": 313,
+    "maxAdd": 1878,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001046,
+    "initVal": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001050,
+    "initVal": 0,
+    "addVal": 194,
+    "maxAdd": 582,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001051,
+    "initVal": 0,
+    "addVal": 1813,
+    "maxAdd": 1813,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001052,
+    "initVal": 0,
+    "addVal": 291,
+    "maxAdd": 873,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001053,
+    "initVal": 0,
+    "addVal": 544,
+    "maxAdd": 2720,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001055,
+    "initVal": 0,
+    "addVal": 583,
+    "maxAdd": 583,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001056,
+    "initVal": 0,
+    "addVal": 1813,
+    "maxAdd": 1813,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001060,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001061,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001065,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001068,
+    "initVal": 0,
+    "addVal": 475,
+    "maxAdd": 2850,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001070,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001071,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 5001075,
+    "initVal": 0,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": "ws10001",
+    "noDoVal": 0
+  },
+  {
+    "id": 1316020102,
+    "initVal": 0,
+    "addVal": 10,
+    "maxAdd": 60,
+    "valueFlagId": 34,
+    "noDoVal": 0
+  },
+  {
+    "id": 1316020201,
+    "initVal": 0,
+    "addVal": 3,
+    "maxAdd": 66,
+    "valueFlagId": 34,
+    "noDoVal": 0
+  },
+  {
+    "id": 1316020302,
+    "initVal": 0,
+    "addVal": 25,
+    "maxAdd": 50,
+    "valueFlagId": 34,
+    "noDoVal": 0
+  },
+  {
+    "id": 1316020401,
+    "initVal": 0,
+    "addVal": 10,
+    "maxAdd": 60,
+    "valueFlagId": 34,
+    "noDoVal": 0
+  },
+  {
+    "id": 1316020501,
+    "initVal": 0,
+    "addVal": 6,
+    "maxAdd": 100,
+    "valueFlagId": 34,
+    "noDoVal": 0
+  },
+  {
+    "id": 80006010101,
+    "initVal": 13,
+    "addVal": 13,
+    "maxAdd": 52,
+    "valueFlagId": 47
+  },
+  {
+    "id": 80006010201,
+    "initVal": 13,
+    "addVal": 0,
+    "maxAdd": 13,
+    "valueFlagId": 47
+  },
+  {
+    "id": 80006010202,
+    "initVal": 0,
+    "addVal": 13,
+    "maxAdd": 13,
+    "valueFlagId": 47
+  },
+  {
+    "id": 80006010203,
+    "initVal": 0,
+    "addVal": 26,
+    "maxAdd": 26,
+    "valueFlagId": 47
+  },
+  {
+    "id": 80006010301,
+    "initVal": 20,
+    "addVal": 38,
+    "maxAdd": 58,
+    "valueFlagId": 47
+  },
+  {
+    "id": 80006010401,
+    "initVal": 32,
+    "addVal": 0,
+    "maxAdd": 63,
+    "valueFlagId": 47
+  },
+  {
+    "id": 80006010402,
+    "initVal": 0,
+    "addVal": 6,
+    "maxAdd": 60,
+    "valueFlagId": 47
+  },
+  {
+    "id": 20415020001,
+    "initVal": 0,
+    "addVal": 18,
+    "maxAdd": 88,
+    "valueFlagId": 65
+  },
+  {
+    "id": 20415020103,
+    "initVal": 0,
+    "addVal": 64,
+    "maxAdd": 192,
+    "valueFlagId": 65
+  },
+  {
+    "id": 20415020204,
+    "initVal": 0,
+    "addVal": 58,
+    "maxAdd": 58,
+    "valueFlagId": 65
+  },
+  {
+    "id": 20415020302,
+    "initVal": 0,
+    "addVal": 19,
+    "maxAdd": 220,
+    "valueFlagId": 65
+  },
+  {
+    "id": 96105010101,
+    "initVal": 12,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": 69,
+    "noDoVal": 0
+  },
+  {
+    "id": 96105010201,
+    "initVal": 12,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": 69,
+    "noDoVal": 0
+  },
+  {
+    "id": 96105010301,
+    "initVal": 12,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": 69,
+    "noDoVal": 0
+  },
+  {
+    "id": 96105010401,
+    "initVal": 12,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": 69,
+    "noDoVal": 0
+  },
+  {
+    "id": 96105010501,
+    "initVal": 12,
+    "addVal": 0,
+    "maxAdd": 0,
+    "valueFlagId": 69,
+    "noDoVal": 0
+  },
+  {
+    "id": 97102010001,
+    "initVal": 0,
+    "addVal": 125,
+    "maxAdd": 1000,
+    "valueFlagId": 105,
+    "noDoVal": 0,
+    "otherData": {
+      "hurtEntityConditions": [
+        "aromr"
+      ]
+    }
+  },
+  {
+    "id": 97102010104,
+    "initVal": 0,
+    "addVal": 1000,
+    "maxAdd": 1000,
+    "valueFlagId": 105,
+    "noDoVal": 0,
+    "otherData": {
+      "hurtEntityConditions": [
+        "aromr"
+      ]
+    }
+  },
+  {
+    "id": 97102010108,
+    "initVal": 0,
+    "addVal": 111,
+    "maxAdd": 1443,
+    "valueFlagId": 105,
+    "noDoVal": 0,
+    "otherData": {
+      "hurtEntityConditions": [
+        "aromr"
+      ]
+    }
+  },
+  {
+    "id": 97102010109,
+    "initVal": 0,
+    "addVal": 1000,
+    "maxAdd": 1000,
+    "valueFlagId": 105,
+    "noDoVal": 0,
+    "otherData": {
+      "hurtEntityConditions": [
+        "aromr"
+      ]
+    }
+  },
+  {
+    "id": 97102010201,
+    "initVal": 0,
+    "addVal": 500,
+    "maxAdd": 1000,
+    "valueFlagId": 105,
+    "noDoVal": 0,
+    "otherData": {
+      "hurtEntityConditions": [
+        "aromr"
+      ]
+    }
+  },
+  {
+    "id": 97102010302,
+    "initVal": 0,
+    "addVal": 100,
+    "maxAdd": 1900,
+    "valueFlagId": 105,
+    "noDoVal": 0,
+    "otherData": {
+      "hurtEntityConditions": [
+        "aromr"
+      ]
+    }
+  },
+  {
+    "id": 97102010303,
+    "initVal": 0,
+    "addVal": 1000,
+    "maxAdd": 1000,
+    "valueFlagId": 105,
+    "noDoVal": 0,
+    "otherData": {
+      "hurtEntityConditions": [
+        "aromr"
+      ]
+    }
+  },
+  {
+    "id": 97102010304,
+    "initVal": 0,
+    "addVal": 1000,
+    "maxAdd": 1000,
+    "valueFlagId": 105,
+    "noDoVal": 0,
+    "otherData": {
+      "hurtEntityConditions": [
+        "aromr"
+      ]
+    }
+  }
+]

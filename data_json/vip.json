@@ -1,0 +1,2359 @@
+[
+  {
+    "id": 0,
+    "vipExp": 0,
+    "resurrectionLimit": 1,
+    "secretBuyLimit": 5,
+    "petLimit": 5,
+    "rideLimit": 5,
+    "nightmareConfig": 0,
+    "rogueConfig": 0,
+    "energyBuyLimit": 0,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 0,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 0,
+    "arenaConfig": 0,
+    "petArenaConfig": 0,
+    "taskMoneyNum": 0,
+    "sacredTowerTimes": 0,
+    "freePetQuality": 0,
+    "freeRideQuality": 0,
+    "freeMagicWeaponQuality": 0,
+    "freeRideMood": 0,
+    "freeBlackShop": 0,
+    "skyWarProtect": 0,
+    "stageTimes": 0,
+    "friendNum": 150,
+    "godWarGodSoldier": 0,
+    "godWarDevil": 0,
+    "guardKunlun": 0,
+    "arenaShield": 0,
+    "limitArenaShield": 0,
+    "petArenaShield": 0,
+    "limitPetArenaShield": 0,
+    "vipReplaceItem": {
+      "1015": 0,
+      "4311": 0
+    },
+    "overallBuff": 0,
+    "rewardVip": [
+      [
+        1005,
+        1
+      ],
+      [
+        1004,
+        1
+      ],
+      [
+        3,
+        500
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        1005,
+        1
+      ],
+      [
+        1004,
+        1
+      ],
+      [
+        3,
+        500
+      ]
+    ],
+    "exTalentPage": 0,
+    "petExpShare": 0,
+    "rideExpShare": 0,
+    "vipDisplay": 0,
+    "autoBanDay": 30,
+    "displayText": [
+      [
+        "i_fuhuo",
+        "免费复活次数:1"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:5"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:5"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:150"
+      ],
+      [
+        "i_tianmoxiang",
+        "天魔祝福战损返还:1级"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_shenmi",
+        "神秘商店购买次数:5"
+      ]
+    ],
+    "vipCoin": [
+      0,
+      0
+    ],
+    "surpriseBoxNum": 4
+  },
+  {
+    "id": 1,
+    "vipExp": 10,
+    "resurrectionLimit": 1,
+    "secretBuyLimit": 8,
+    "petLimit": 5,
+    "rideLimit": 5,
+    "nightmareConfig": 1,
+    "rogueConfig": 0,
+    "energyBuyLimit": 1,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 0,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 0,
+    "arenaConfig": 0,
+    "petArenaConfig": 0,
+    "taskMoneyNum": 1,
+    "sacredTowerTimes": 0,
+    "freePetQuality": 0,
+    "freeRideQuality": 0,
+    "freeMagicWeaponQuality": 0,
+    "freeRideMood": 0,
+    "freeBlackShop": 0,
+    "skyWarProtect": 0,
+    "stageTimes": 2,
+    "friendNum": 170,
+    "godWarGodSoldier": 0,
+    "godWarDevil": 0,
+    "guardKunlun": 0,
+    "arenaShield": 0,
+    "limitArenaShield": 0,
+    "petArenaShield": 0,
+    "limitPetArenaShield": 0,
+    "vipReplaceItem": {
+      "1015": 0,
+      "4311": 0
+    },
+    "overallBuff": 10010001,
+    "rewardVip": [
+      [
+        1002,
+        3
+      ],
+      [
+        1100,
+        1
+      ],
+      [
+        430032,
+        1
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        1002,
+        1
+      ],
+      [
+        1102,
+        5
+      ],
+      [
+        3,
+        1000
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 4,
+      "equipResolve": 4
+    },
+    "exTalentPage": 0,
+    "petExpShare": 0.5,
+    "rideExpShare": 0,
+    "vipDisplay": 0,
+    "autoBanDay": 30,
+    "displayText": [
+      [
+        "VIP1CH",
+        "VIP1称号激活",
+        "xinz"
+      ],
+      [
+        "VIP1TXK",
+        "VIP1头像框激活",
+        "xinz"
+      ],
+      [
+        "VIP1LTK",
+        "VIP1聊天框激活",
+        "xinz"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:5%",
+        "xinz"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:5%",
+        "xinz"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:2",
+        "xinz"
+      ],
+      [
+        "i_chongwu",
+        "万灵塔快速挑战",
+        "xinz"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会快速挑战",
+        "xinz"
+      ],
+      [
+        "i_chongwu",
+        "葬灵洞快速挑战",
+        "xinz"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:170",
+        "shenj"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:1"
+      ],
+      [
+        "i_tianmoxiang",
+        "天魔祝福战损返还:2级",
+        "shenj"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:5"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:5"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "xinz",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得50%经验",
+        "xinz"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数200\n点数累积上限400",
+        "xinz"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限5",
+        "xinz"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能",
+        "xinz"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_huoli",
+        "活力购买次数:1",
+        "xinz"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:1",
+        "xinz"
+      ],
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:1",
+        "xinz"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:8",
+        "shenj"
+      ]
+    ],
+    "vipCoin": [
+      200,
+      400
+    ],
+    "surpriseBoxNum": 5
+  },
+  {
+    "id": 2,
+    "vipExp": 50,
+    "resurrectionLimit": 2,
+    "secretBuyLimit": 8,
+    "petLimit": 5,
+    "rideLimit": 5,
+    "nightmareConfig": 2,
+    "rogueConfig": 0,
+    "energyBuyLimit": 2,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 1,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 0,
+    "arenaConfig": 0,
+    "petArenaConfig": 0,
+    "taskMoneyNum": 2,
+    "sacredTowerTimes": 0,
+    "freePetQuality": 0,
+    "freeRideQuality": 0,
+    "freeMagicWeaponQuality": 0,
+    "freeRideMood": 0,
+    "freeBlackShop": 0,
+    "skyWarProtect": 0,
+    "stageTimes": 4,
+    "friendNum": 190,
+    "godWarGodSoldier": 0,
+    "godWarDevil": 0,
+    "guardKunlun": 1,
+    "arenaShield": 0,
+    "limitArenaShield": 0,
+    "petArenaShield": 0,
+    "limitPetArenaShield": 0,
+    "vipReplaceItem": {
+      "1015": 0,
+      "4311": 4
+    },
+    "overallBuff": 10010002,
+    "rewardVip": [
+      [
+        1005003,
+        1
+      ],
+      [
+        1006003,
+        1
+      ],
+      [
+        1007003,
+        1
+      ],
+      [
+        400101,
+        6
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        409991,
+        1
+      ],
+      [
+        1006003,
+        1
+      ],
+      [
+        3,
+        2000
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 8,
+      "equipResolve": 8
+    },
+    "exTalentPage": 0,
+    "petExpShare": 0.5,
+    "rideExpShare": 0,
+    "vipDisplay": 0,
+    "autoBanDay": 14,
+    "displayText": [
+      [
+        "VIP2CH",
+        "VIP2称号激活",
+        "shenj"
+      ],
+      [
+        "VIP2TXK",
+        "VIP2头像框激活",
+        "shenj"
+      ],
+      [
+        "VIP2LTK",
+        "VIP2聊天框激活",
+        "shenj"
+      ],
+      [
+        "i_hunyuanzhu",
+        "每周混元珠抵用:4",
+        "xinz"
+      ],
+      [
+        "i_xianwei",
+        "仙位竞技碾压挑战",
+        "xinz"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:2",
+        "shenj"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:10%",
+        "shenj"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:190",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:10%",
+        "shenj"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:4",
+        "shenj"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:5"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:5"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "shenj",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得50%经验"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数350\n点数累积上限700",
+        "shenj"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限5"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_huoli",
+        "活力购买次数:2",
+        "shenj"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:2",
+        "shenj"
+      ],
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:2",
+        "shenj"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:8"
+      ],
+      [
+        "i_shouhukunlun",
+        "守护昆仑购买次数:1",
+        "xinz"
+      ],
+      [
+        "i_doushuaigong",
+        "兜率宫购买次数:1",
+        "xinz"
+      ]
+    ],
+    "vipCoin": [
+      350,
+      700
+    ],
+    "surpriseBoxNum": 5
+  },
+  {
+    "id": 3,
+    "vipExp": 100,
+    "resurrectionLimit": 2,
+    "secretBuyLimit": 8,
+    "petLimit": 10,
+    "rideLimit": 5,
+    "nightmareConfig": 3,
+    "rogueConfig": 3,
+    "energyBuyLimit": 2,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 2,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 2,
+    "arenaConfig": 0,
+    "petArenaConfig": 0,
+    "taskMoneyNum": 3,
+    "sacredTowerTimes": 0,
+    "freePetQuality": 0,
+    "freeRideQuality": 0,
+    "freeMagicWeaponQuality": 1,
+    "freeRideMood": 0,
+    "freeBlackShop": 0,
+    "skyWarProtect": 1,
+    "stageTimes": 6,
+    "friendNum": 210,
+    "godWarGodSoldier": 0,
+    "godWarDevil": 0,
+    "guardKunlun": 1,
+    "arenaShield": 5,
+    "limitArenaShield": 0,
+    "petArenaShield": 0,
+    "limitPetArenaShield": 0,
+    "vipReplaceItem": {
+      "1015": 2,
+      "4311": 8
+    },
+    "overallBuff": 10010003,
+    "rewardVip": [
+      [
+        1003003,
+        1
+      ],
+      [
+        1001003,
+        1
+      ],
+      [
+        1009003,
+        1
+      ],
+      [
+        400101,
+        9
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        1001003,
+        1
+      ],
+      [
+        1003003,
+        1
+      ],
+      [
+        400101,
+        2
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 12,
+      "equipResolve": 12
+    },
+    "exTalentPage": 0,
+    "petExpShare": 0.5,
+    "rideExpShare": 0,
+    "vipDisplay": 0,
+    "autoBanDay": 14,
+    "displayText": [
+      [
+        "VIP3CH",
+        "VIP3称号激活",
+        "shenj"
+      ],
+      [
+        "VIP3TXK",
+        "VIP3头像框激活",
+        "shenj"
+      ],
+      [
+        "VIP3LTK",
+        "VIP3聊天框激活",
+        "shenj"
+      ],
+      [
+        "i_tiandaoshouhu",
+        "天道失利积分保护:1",
+        "xinz"
+      ],
+      [
+        "i_xilianshi",
+        "法宝免费重置:1",
+        "xinz"
+      ],
+      [
+        "i_xuanshangling",
+        "每周悬赏令抵用:2",
+        "xinz"
+      ],
+      [
+        "i_shiguangzhiquan",
+        "时光之泉等级+1",
+        "shenj"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:210",
+        "shenj"
+      ],
+      [
+        "i_tianmoxiang",
+        "天魔祝福战损返还:3级",
+        "shenj"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:10",
+        "shenj"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:15%",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:15%",
+        "shenj"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:6",
+        "shenj"
+      ],
+      [
+        "i_hunyuanzhu",
+        "每周混元珠抵用:8",
+        "shenj"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:2"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:5"
+      ],
+      [
+        "i_xianwei",
+        "仙位竞技场保护次数:5",
+        "xinz"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "shenj",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得50%经验"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数500\n点数累积上限1000",
+        "shenj"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限6",
+        "shenj"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_emeng",
+        "西行幻境购买次数:3",
+        "xinz"
+      ],
+      [
+        "i_zangling",
+        "葬灵洞购买次数:2",
+        "xinz"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:3",
+        "shenj"
+      ],
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:3",
+        "shenj"
+      ],
+      [
+        "i_doushuaigong",
+        "兜率宫购买次数:2",
+        "shenj"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:8"
+      ],
+      [
+        "i_huoli",
+        "活力购买次数:2"
+      ],
+      [
+        "i_shouhukunlun",
+        "守护昆仑购买次数:1"
+      ]
+    ],
+    "vipCoin": [
+      500,
+      1000
+    ],
+    "surpriseBoxNum": 6
+  },
+  {
+    "id": 4,
+    "vipExp": 200,
+    "resurrectionLimit": 3,
+    "secretBuyLimit": 10,
+    "petLimit": 10,
+    "rideLimit": 10,
+    "nightmareConfig": 4,
+    "rogueConfig": 3,
+    "energyBuyLimit": 3,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 3,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 4,
+    "arenaConfig": 5,
+    "petArenaConfig": 5,
+    "taskMoneyNum": 4,
+    "sacredTowerTimes": 0,
+    "freePetQuality": 1,
+    "freeRideQuality": 0,
+    "freeMagicWeaponQuality": 1,
+    "freeRideMood": 0,
+    "freeBlackShop": 0,
+    "skyWarProtect": 1,
+    "stageTimes": 8,
+    "friendNum": 230,
+    "godWarGodSoldier": 0,
+    "godWarDevil": 0,
+    "guardKunlun": 2,
+    "arenaShield": 5,
+    "limitArenaShield": 5,
+    "petArenaShield": 0,
+    "limitPetArenaShield": 0,
+    "vipReplaceItem": {
+      "1015": 2,
+      "4311": 12
+    },
+    "overallBuff": 10010004,
+    "rewardVip": [
+      [
+        1001004,
+        1
+      ],
+      [
+        1003004,
+        1
+      ],
+      [
+        8989998,
+        18
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        1001004,
+        1
+      ],
+      [
+        1003004,
+        1
+      ],
+      [
+        400101,
+        3
+      ],
+      [
+        1005,
+        10
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 16,
+      "equipResolve": 16
+    },
+    "exTalentPage": 0,
+    "petExpShare": 0.5,
+    "rideExpShare": 0.5,
+    "vipDisplay": 0,
+    "autoBanDay": 7,
+    "displayText": [
+      [
+        "VIP4CH",
+        "VIP4称号激活",
+        "shenj"
+      ],
+      [
+        "VIP4TXK",
+        "VIP4头像框激活",
+        "shenj"
+      ],
+      [
+        "VIP4LTK",
+        "VIP4聊天框激活",
+        "shenj"
+      ],
+      [
+        "i_chongwu",
+        "宠物资质洗炼免费:1",
+        "xinz"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:230",
+        "shenj"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:3",
+        "shenj"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:20%",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:20%",
+        "shenj"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:8",
+        "shenj"
+      ],
+      [
+        "i_hunyuanzhu",
+        "每周混元珠抵用:12",
+        "shenj"
+      ],
+      [
+        "i_xuanshangling",
+        "每周悬赏令抵用:2"
+      ],
+      [
+        "i_tiandaoshouhu",
+        "天道失利积分保护:1"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:10"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:10",
+        "shenj"
+      ],
+      [
+        "i_xilianshi",
+        "法宝免费重置:1"
+      ],
+      [
+        "i_xianwei",
+        "仙位竞技场保护次数:5"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "shenj",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得50%经验"
+      ],
+      [
+        "i_expShare",
+        "坐骑育灵获得50%经验",
+        "xinz"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数650\n点数累积上限1300",
+        "shenj"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限6"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_xianwei",
+        "仙位挑战购买次数:5",
+        "xinz"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会购买次数:5",
+        "xinz"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:10",
+        "shenj"
+      ],
+      [
+        "i_huoli",
+        "活力购买次数:3",
+        "shenj"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:4",
+        "shenj"
+      ],
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:4",
+        "shenj"
+      ],
+      [
+        "i_zangling",
+        "葬灵洞购买次数:4",
+        "shenj"
+      ],
+      [
+        "i_doushuaigong",
+        "兜率宫购买次数:3",
+        "shenj"
+      ],
+      [
+        "i_emeng",
+        "西行幻境购买次数:3"
+      ],
+      [
+        "i_shouhukunlun",
+        "守护昆仑购买次数:2",
+        "shenj"
+      ],
+      [
+        "i_xianwei",
+        "仙位保护购买次数:5",
+        "xinz"
+      ]
+    ],
+    "vipCoin": [
+      650,
+      1300
+    ],
+    "surpriseBoxNum": 6
+  },
+  {
+    "id": 5,
+    "vipExp": 500,
+    "resurrectionLimit": 3,
+    "secretBuyLimit": 10,
+    "petLimit": 10,
+    "rideLimit": 10,
+    "nightmareConfig": 6,
+    "rogueConfig": 3,
+    "energyBuyLimit": 4,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 4,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 6,
+    "arenaConfig": 10,
+    "petArenaConfig": 10,
+    "taskMoneyNum": 5,
+    "sacredTowerTimes": 0,
+    "freePetQuality": 1,
+    "freeRideQuality": 0,
+    "freeMagicWeaponQuality": 1,
+    "freeRideMood": 0,
+    "freeBlackShop": 1,
+    "skyWarProtect": 1,
+    "stageTimes": 10,
+    "friendNum": 250,
+    "godWarGodSoldier": 0,
+    "godWarDevil": 7,
+    "guardKunlun": 3,
+    "arenaShield": 10,
+    "limitArenaShield": 5,
+    "petArenaShield": 5,
+    "limitPetArenaShield": 10,
+    "vipReplaceItem": {
+      "1015": 4,
+      "4311": 18
+    },
+    "overallBuff": 10010005,
+    "rewardVip": [
+      [
+        460008,
+        1
+      ],
+      [
+        11402,
+        1
+      ],
+      [
+        11501,
+        1
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        460008,
+        1
+      ],
+      [
+        11401,
+        1
+      ],
+      [
+        11600,
+        1
+      ],
+      [
+        11501,
+        1
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 20,
+      "equipResolve": 20
+    },
+    "exTalentPage": 0,
+    "petExpShare": 0.5,
+    "rideExpShare": 0.5,
+    "vipDisplay": 0,
+    "autoBanDay": 7,
+    "displayText": [
+      [
+        "VIP5CH",
+        "VIP5称号激活",
+        "shenj"
+      ],
+      [
+        "VIP5TXK",
+        "VIP5头像框激活",
+        "shenj"
+      ],
+      [
+        "VIP5LTK",
+        "VIP5聊天框激活",
+        "shenj"
+      ],
+      [
+        "i_heishi",
+        "黑市免费立即上架:1",
+        "xinz"
+      ],
+      [
+        "i_tianmoxiang",
+        "天魔祝福战损返还:4级",
+        "shenj"
+      ],
+      [
+        "i_shiguangzhiquan",
+        "时光之泉等级+1",
+        "shenj"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:10"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:250",
+        "shenj"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:25%",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:25%",
+        "shenj"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:10",
+        "shenj"
+      ],
+      [
+        "i_hunyuanzhu",
+        "每周混元珠抵用:18",
+        "shenj"
+      ],
+      [
+        "i_xuanshangling",
+        "每周悬赏令抵用:4",
+        "shenj"
+      ],
+      [
+        "i_tiandaoshouhu",
+        "天道失利积分保护:1"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:3"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:10"
+      ],
+      [
+        "i_xilianshi",
+        "法宝免费重置:1"
+      ],
+      [
+        "i_chongwu",
+        "宠物资质洗炼免费:1"
+      ],
+      [
+        "i_xianwei",
+        "仙位竞技场保护次数:10",
+        "shenj"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会保护次数:5",
+        "xinz"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "shenj",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得50%经验"
+      ],
+      [
+        "i_expShare",
+        "坐骑育灵获得50%经验"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数1000\n点数累积上限2000",
+        "shenj"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限7",
+        "shenj"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_tianmoxiang",
+        "天魔祝福购买次数:7",
+        "xinz"
+      ],
+      [
+        "i_huoli",
+        "活力购买次数:4",
+        "shenj"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:5",
+        "shenj"
+      ],
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:6",
+        "shenj"
+      ],
+      [
+        "i_zangling",
+        "葬灵洞购买次数:6",
+        "shenj"
+      ],
+      [
+        "i_xianwei",
+        "仙位挑战购买次数:10",
+        "shenj"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会购买次数:10",
+        "shenj"
+      ],
+      [
+        "i_doushuaigong",
+        "兜率宫购买次数:4",
+        "shenj"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:10"
+      ],
+      [
+        "i_emeng",
+        "西行幻境购买次数:3"
+      ],
+      [
+        "i_shouhukunlun",
+        "守护昆仑购买次数:3",
+        "shenj"
+      ],
+      [
+        "i_xianwei",
+        "仙位保护购买次数:5"
+      ],
+      [
+        "i_douchong",
+        "斗宠保护购买次数:10",
+        "xinz"
+      ]
+    ],
+    "vipCoin": [
+      1000,
+      2000
+    ],
+    "surpriseBoxNum": 7
+  },
+  {
+    "id": 6,
+    "vipExp": 1000,
+    "resurrectionLimit": 3,
+    "secretBuyLimit": 10,
+    "petLimit": 15,
+    "rideLimit": 15,
+    "nightmareConfig": 8,
+    "rogueConfig": 6,
+    "energyBuyLimit": 5,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 5,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 8,
+    "arenaConfig": 15,
+    "petArenaConfig": 15,
+    "taskMoneyNum": 6,
+    "sacredTowerTimes": 1,
+    "freePetQuality": 1,
+    "freeRideQuality": 1,
+    "freeMagicWeaponQuality": 2,
+    "freeRideMood": 1,
+    "freeBlackShop": 1,
+    "skyWarProtect": 2,
+    "stageTimes": 12,
+    "friendNum": 270,
+    "godWarGodSoldier": 7,
+    "godWarDevil": 7,
+    "guardKunlun": 4,
+    "arenaShield": 15,
+    "limitArenaShield": 5,
+    "petArenaShield": 5,
+    "limitPetArenaShield": 15,
+    "vipReplaceItem": {
+      "1015": 6,
+      "4311": 24
+    },
+    "overallBuff": 10010006,
+    "rewardVip": [
+      [
+        420104,
+        1
+      ],
+      [
+        420105,
+        1
+      ],
+      [
+        420106,
+        1
+      ],
+      [
+        420177,
+        1
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        420104,
+        1
+      ],
+      [
+        420105,
+        1
+      ],
+      [
+        420106,
+        1
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 24,
+      "equipResolve": 24
+    },
+    "exTalentPage": 0,
+    "petExpShare": 1,
+    "rideExpShare": 0.5,
+    "vipDisplay": 1,
+    "autoBanDay": 3,
+    "displayText": [
+      [
+        "VIP6CH",
+        "VIP6称号激活",
+        "shenj"
+      ],
+      [
+        "VIP6TXK",
+        "VIP6头像框激活",
+        "shenj"
+      ],
+      [
+        "VIP6LTK",
+        "VIP6聊天框激活",
+        "shenj"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑资质洗炼免费:1",
+        "xinz"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑心情重置免费:1",
+        "xinz"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:15",
+        "shenj"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:270",
+        "shenj"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:30%",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:30%",
+        "shenj"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:12",
+        "shenj"
+      ],
+      [
+        "i_xilianshi",
+        "法宝免费重置:2",
+        "shenj"
+      ],
+      [
+        "i_tiandaoshouhu",
+        "天道失利积分保护:2",
+        "shenj"
+      ],
+      [
+        "i_hunyuanzhu",
+        "每周混元珠抵用:24",
+        "shenj"
+      ],
+      [
+        "i_xuanshangling",
+        "每周悬赏令抵用:6",
+        "shenj"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:3"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:10"
+      ],
+      [
+        "i_chongwu",
+        "宠物资质洗炼免费:1"
+      ],
+      [
+        "i_heishi",
+        "黑市免费立即上架:1"
+      ],
+      [
+        "i_xianwei",
+        "仙位竞技场保护次数:15",
+        "shenj"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会保护次数:5"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "shenj",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得100%经验",
+        "shenj"
+      ],
+      [
+        "i_expShare",
+        "坐骑育灵获得50%经验"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数1800\n点数累积上限3600",
+        "shenj"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限7"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_tianshenxiang",
+        "天神祝福购买次数:7",
+        "xinz"
+      ],
+      [
+        "i_linglongbaota",
+        "玲珑宝塔购买次数:1",
+        "xinz"
+      ],
+      [
+        "i_huoli",
+        "活力购买次数:5",
+        "shenj"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:6",
+        "shenj"
+      ],
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:8",
+        "shenj"
+      ],
+      [
+        "i_emeng",
+        "西行幻境购买次数:6",
+        "shenj"
+      ],
+      [
+        "i_zangling",
+        "葬灵洞购买次数:8",
+        "shenj"
+      ],
+      [
+        "i_xianwei",
+        "仙位挑战购买次数:15",
+        "shenj"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会购买次数:15",
+        "shenj"
+      ],
+      [
+        "i_doushuaigong",
+        "兜率宫购买次数:5",
+        "shenj"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:10"
+      ],
+      [
+        "i_tianmoxiang",
+        "天魔祝福购买次数:7"
+      ],
+      [
+        "i_shouhukunlun",
+        "守护昆仑购买次数:4",
+        "shenj"
+      ],
+      [
+        "i_xianwei",
+        "仙位保护购买次数:5"
+      ],
+      [
+        "i_douchong",
+        "斗宠保护购买次数:15",
+        "shenj"
+      ]
+    ],
+    "vipCoin": [
+      1800,
+      3600
+    ],
+    "surpriseBoxNum": 7
+  },
+  {
+    "id": 7,
+    "vipExp": 2000,
+    "resurrectionLimit": 3,
+    "secretBuyLimit": 10,
+    "petLimit": 15,
+    "rideLimit": 15,
+    "nightmareConfig": 10,
+    "rogueConfig": 6,
+    "energyBuyLimit": 5,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 6,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 8,
+    "arenaConfig": 20,
+    "petArenaConfig": 20,
+    "taskMoneyNum": 6,
+    "sacredTowerTimes": 1,
+    "freePetQuality": 2,
+    "freeRideQuality": 1,
+    "freeMagicWeaponQuality": 2,
+    "freeRideMood": 1,
+    "freeBlackShop": 2,
+    "skyWarProtect": 2,
+    "stageTimes": 15,
+    "friendNum": 290,
+    "godWarGodSoldier": 7,
+    "godWarDevil": 7,
+    "guardKunlun": 5,
+    "arenaShield": 15,
+    "limitArenaShield": 10,
+    "petArenaShield": 10,
+    "limitPetArenaShield": 15,
+    "vipReplaceItem": {
+      "1015": 8,
+      "4311": 30
+    },
+    "overallBuff": 10010007,
+    "rewardVip": [
+      [
+        420178,
+        1
+      ],
+      [
+        480089,
+        1
+      ],
+      [
+        501002,
+        6
+      ],
+      [
+        501201,
+        6
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        420177,
+        1
+      ],
+      [
+        420178,
+        1
+      ],
+      [
+        501002,
+        3
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 28,
+      "equipResolve": 28
+    },
+    "exTalentPage": 0,
+    "petExpShare": 1,
+    "rideExpShare": 0.5,
+    "vipDisplay": 2,
+    "autoBanDay": 3,
+    "displayText": [
+      [
+        "VIP7CH",
+        "VIP7称号激活",
+        "shenj"
+      ],
+      [
+        "VIP7TXK",
+        "VIP7头像框激活",
+        "shenj"
+      ],
+      [
+        "VIP7LTK",
+        "VIP7聊天框激活",
+        "shenj"
+      ],
+      [
+        "i_shiguangzhiquan",
+        "时光之泉等级+1",
+        "shenj"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:15",
+        "shenj"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:35%",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:35%",
+        "shenj"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:15",
+        "shenj"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:290",
+        "shenj"
+      ],
+      [
+        "i_chongwu",
+        "宠物资质洗炼免费:2",
+        "shenj"
+      ],
+      [
+        "i_heishi",
+        "黑市免费立即上架:2",
+        "shenj"
+      ],
+      [
+        "i_hunyuanzhu",
+        "每周混元珠抵用:30",
+        "shenj"
+      ],
+      [
+        "i_xuanshangling",
+        "每周悬赏令抵用:8",
+        "shenj"
+      ],
+      [
+        "i_tiandaoshouhu",
+        "天道失利积分保护:2"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:3"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:15"
+      ],
+      [
+        "i_xilianshi",
+        "法宝免费重置:2"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑资质洗炼免费:1"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑心情重置免费:1"
+      ],
+      [
+        "i_xianwei",
+        "仙位竞技场保护次数:15"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会保护次数:10",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "shenj",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得100%经验"
+      ],
+      [
+        "i_expShare",
+        "坐骑育灵获得50%经验"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数2800\n点数累积上限5600",
+        "shenj"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限7"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:10",
+        "shenj"
+      ],
+      [
+        "i_xianwei",
+        "仙位挑战购买次数:20",
+        "shenj"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会购买次数:20",
+        "shenj"
+      ],
+      [
+        "i_doushuaigong",
+        "兜率宫购买次数:6",
+        "shenj"
+      ],
+      [
+        "i_linglongbaota",
+        "玲珑宝塔购买次数:1"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:10"
+      ],
+      [
+        "i_huoli",
+        "活力购买次数:5"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:6"
+      ],
+      [
+        "i_emeng",
+        "西行幻境购买次数:6"
+      ],
+      [
+        "i_zangling",
+        "葬灵洞购买次数:8"
+      ],
+      [
+        "i_tianmoxiang",
+        "天魔祝福购买次数:7"
+      ],
+      [
+        "i_tianshenxiang",
+        "天神祝福购买次数:7"
+      ],
+      [
+        "i_shouhukunlun",
+        "守护昆仑购买次数:5",
+        "shenj"
+      ],
+      [
+        "i_xianwei",
+        "仙位保护购买次数:10"
+      ],
+      [
+        "i_douchong",
+        "斗宠保护购买次数:15"
+      ]
+    ],
+    "vipCoin": [
+      2800,
+      5600
+    ],
+    "surpriseBoxNum": 7
+  },
+  {
+    "id": 8,
+    "vipExp": 5000,
+    "resurrectionLimit": 3,
+    "secretBuyLimit": 10,
+    "petLimit": 15,
+    "rideLimit": 15,
+    "nightmareConfig": 10,
+    "rogueConfig": 6,
+    "energyBuyLimit": 5,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 6,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 8,
+    "arenaConfig": 25,
+    "petArenaConfig": 25,
+    "taskMoneyNum": 6,
+    "sacredTowerTimes": 1,
+    "freePetQuality": 2,
+    "freeRideQuality": 2,
+    "freeMagicWeaponQuality": 2,
+    "freeRideMood": 2,
+    "freeBlackShop": 2,
+    "skyWarProtect": 2,
+    "stageTimes": 18,
+    "friendNum": 310,
+    "godWarGodSoldier": 7,
+    "godWarDevil": 14,
+    "guardKunlun": 5,
+    "arenaShield": 20,
+    "limitArenaShield": 10,
+    "petArenaShield": 10,
+    "limitPetArenaShield": 20,
+    "vipReplaceItem": {
+      "1015": 10,
+      "4311": 38
+    },
+    "overallBuff": 10010008,
+    "rewardVip": [
+      [
+        2100305,
+        1
+      ],
+      [
+        2100205,
+        1
+      ],
+      [
+        2100505,
+        1
+      ],
+      [
+        480158,
+        1
+      ],
+      [
+        480169,
+        80
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        2100305,
+        1
+      ],
+      [
+        2100205,
+        1
+      ],
+      [
+        2100505,
+        1
+      ],
+      [
+        480089,
+        1
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 32,
+      "equipResolve": 32
+    },
+    "exTalentPage": 0,
+    "petExpShare": 1,
+    "rideExpShare": 0.5,
+    "vipDisplay": 3,
+    "autoBanDay": 1,
+    "displayText": [
+      [
+        "VIP8CH",
+        "VIP8称号激活",
+        "shenj"
+      ],
+      [
+        "VIP8TXK",
+        "VIP8头像框激活",
+        "shenj"
+      ],
+      [
+        "VIP8LTK",
+        "VIP8聊天框激活",
+        "shenj"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:40%",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:40%",
+        "shenj"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:18",
+        "shenj"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:310",
+        "shenj"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑资质洗炼免费:2",
+        "shenj"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑心情重置免费:2",
+        "shenj"
+      ],
+      [
+        "i_hunyuanzhu",
+        "每周混元珠抵用:38",
+        "shenj"
+      ],
+      [
+        "i_xuanshangling",
+        "每周悬赏令抵用:10",
+        "shenj"
+      ],
+      [
+        "i_tiandaoshouhu",
+        "天道失利积分保护:2"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:3"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:15"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:15"
+      ],
+      [
+        "i_xilianshi",
+        "法宝免费重置:2"
+      ],
+      [
+        "i_chongwu",
+        "宠物资质洗炼免费:2"
+      ],
+      [
+        "i_heishi",
+        "黑市免费立即上架:2"
+      ],
+      [
+        "i_xianwei",
+        "仙位竞技场保护次数:20",
+        "shenj"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会保护次数:10"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "shenj",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得100%经验"
+      ],
+      [
+        "i_expShare",
+        "坐骑育灵获得50%经验"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数4500\n点数累积上限9000",
+        "shenj"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限8",
+        "shenj"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_xianwei",
+        "仙位挑战购买次数:25",
+        "shenj"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会购买次数:25",
+        "shenj"
+      ],
+      [
+        "i_tianmoxiang",
+        "天魔祝福购买次数:14",
+        "shenj"
+      ],
+      [
+        "i_doushuaigong",
+        "兜率宫购买次数:6"
+      ],
+      [
+        "i_linglongbaota",
+        "玲珑宝塔购买次数:1"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:10"
+      ],
+      [
+        "i_huoli",
+        "活力购买次数:5"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:6"
+      ],
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:10"
+      ],
+      [
+        "i_emeng",
+        "西行幻境购买次数:6"
+      ],
+      [
+        "i_zangling",
+        "葬灵洞购买次数:8"
+      ],
+      [
+        "i_tianshenxiang",
+        "天神祝福购买次数:7"
+      ],
+      [
+        "i_shouhukunlun",
+        "守护昆仑购买次数:5"
+      ],
+      [
+        "i_xianwei",
+        "仙位保护购买次数:10"
+      ],
+      [
+        "i_douchong",
+        "斗宠保护购买次数:20",
+        "shenj"
+      ]
+    ],
+    "vipCoin": [
+      4500,
+      9000
+    ],
+    "surpriseBoxNum": 8
+  },
+  {
+    "id": 9,
+    "vipExp": 10000,
+    "resurrectionLimit": 3,
+    "secretBuyLimit": 10,
+    "petLimit": 15,
+    "rideLimit": 15,
+    "nightmareConfig": 10,
+    "rogueConfig": 6,
+    "energyBuyLimit": 5,
+    "arhatRoomConfig": 9999,
+    "alchemyRoomConfig": 6,
+    "soulTownConfig": 9999,
+    "holeBuyLimit": 8,
+    "arenaConfig": 25,
+    "petArenaConfig": 25,
+    "taskMoneyNum": 6,
+    "sacredTowerTimes": 1,
+    "freePetQuality": 2,
+    "freeRideQuality": 2,
+    "freeMagicWeaponQuality": 2,
+    "freeRideMood": 2,
+    "freeBlackShop": 3,
+    "skyWarProtect": 3,
+    "stageTimes": 20,
+    "friendNum": 330,
+    "godWarGodSoldier": 14,
+    "godWarDevil": 14,
+    "guardKunlun": 5,
+    "arenaShield": 20,
+    "limitArenaShield": 15,
+    "petArenaShield": 15,
+    "limitPetArenaShield": 20,
+    "vipReplaceItem": {
+      "1015": 12,
+      "4311": 46
+    },
+    "overallBuff": 10010009,
+    "rewardVip": [
+      [
+        40016,
+        1
+      ],
+      [
+        40011,
+        160
+      ]
+    ],
+    "rewardVipOld": [
+      [
+        40016,
+        1
+      ],
+      [
+        40011,
+        160
+      ]
+    ],
+    "soulOff": {
+      "equipRefine": 36,
+      "equipResolve": 36
+    },
+    "exTalentPage": 0,
+    "petExpShare": 1,
+    "rideExpShare": 1,
+    "vipDisplay": 4,
+    "autoBanDay": 1,
+    "displayText": [
+      [
+        "VIP9CH",
+        "VIP9称号激活",
+        "shenj"
+      ],
+      [
+        "VIP9TXK",
+        "VIP9头像框激活",
+        "shenj"
+      ],
+      [
+        "VIP9LTK",
+        "VIP9聊天框激活",
+        "shenj"
+      ],
+      [
+        "i_zhuangbei",
+        "极品装备掉率提升:45%",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "主线灵魂掉落提升:45%",
+        "shenj"
+      ],
+      [
+        "i_saodang",
+        "免道具扫荡次数:20",
+        "shenj"
+      ],
+      [
+        "i_heishi",
+        "黑市免费立即上架:3",
+        "shenj"
+      ],
+      [
+        "i_haoyou",
+        "好友数量上限:330",
+        "shenj"
+      ],
+      [
+        "i_tiandaoshouhu",
+        "天道失利积分保护:3",
+        "shenj"
+      ],
+      [
+        "i_hunyuanzhu",
+        "每周混元珠抵用:46",
+        "shenj"
+      ],
+      [
+        "i_xuanshangling",
+        "每周悬赏令抵用:12",
+        "shenj"
+      ],
+      [
+        "i_fuhuo",
+        "免费复活次数:3"
+      ],
+      [
+        "i_chongwu",
+        "宠物数量上限:15"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑数量上限:15"
+      ],
+      [
+        "i_xilianshi",
+        "法宝免费重置:2"
+      ],
+      [
+        "i_chongwu",
+        "宠物资质洗炼免费:2"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑资质洗炼免费:2"
+      ],
+      [
+        "i_zuoqi",
+        "坐骑心情重置免费:2"
+      ],
+      [
+        "i_xianwei",
+        "仙位竞技场保护次数:20"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会保护次数:15",
+        "shenj"
+      ],
+      [
+        "i_linghun",
+        "灵魂折扣",
+        "shenj",
+        1
+      ],
+      [
+        "i_expShare",
+        "宠物育灵获得100%经验"
+      ],
+      [
+        "i_expShare",
+        "坐骑育灵获得100%经验",
+        "shenj"
+      ],
+      [
+        "i_zhizun",
+        "每周增加至尊点数7000\n点数累积上限14000",
+        "shenj"
+      ],
+      [
+        "i_baoku",
+        "宝库位置上限8"
+      ],
+      [
+        "i_autoFight",
+        "自动战斗功能"
+      ]
+    ],
+    "displayText2": [
+      [
+        "i_tianshenxiang",
+        "天神祝福购买次数:14",
+        "shenj"
+      ],
+      [
+        "i_doushuaigong",
+        "兜率宫购买次数:6"
+      ],
+      [
+        "i_linglongbaota",
+        "玲珑宝塔购买次数:1"
+      ],
+      [
+        "i_shenmi",
+        "神秘商店购买次数:10"
+      ],
+      [
+        "i_huoli",
+        "活力购买次数:5"
+      ],
+      [
+        "i_xuanshang",
+        "悬赏次数购买:6"
+      ],
+      [
+        "i_emeng",
+        "噩梦关卡购买次数:10"
+      ],
+      [
+        "i_emeng",
+        "西行幻境购买次数:6"
+      ],
+      [
+        "i_zangling",
+        "葬灵洞购买次数:8"
+      ],
+      [
+        "i_xianwei",
+        "仙位挑战购买次数:25"
+      ],
+      [
+        "i_douchong",
+        "斗宠大会购买次数:25"
+      ],
+      [
+        "i_tianmoxiang",
+        "天魔祝福购买次数:14"
+      ],
+      [
+        "i_shouhukunlun",
+        "守护昆仑购买次数:5"
+      ],
+      [
+        "i_xianwei",
+        "仙位保护购买次数:15",
+        "shenj"
+      ],
+      [
+        "i_douchong",
+        "斗宠保护购买次数:20"
+      ]
+    ],
+    "vipCoin": [
+      7000,
+      14000
+    ],
+    "surpriseBoxNum": 8
+  }
+]

@@ -1,0 +1,6130 @@
+{
+  "1010001": {
+    "id": 1010001,
+    "group": 1010001,
+    "name": "vip1",
+    "resource": "vip1",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 1,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010001,
+    "getDesc": "VIP等级达到1级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1010002": {
+    "id": 1010002,
+    "group": 1010002,
+    "name": "vip2",
+    "resource": "vip2",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 2,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010002,
+    "getDesc": "VIP等级达到2级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1010003": {
+    "id": 1010003,
+    "group": 1010003,
+    "name": "vip3",
+    "resource": "vip3",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 3,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010003,
+    "getDesc": "VIP等级达到3级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1010004": {
+    "id": 1010004,
+    "group": 1010004,
+    "name": "vip4",
+    "resource": "vip4",
+    "resourceSp": "vip4",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 4,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010004,
+    "getDesc": "VIP等级达到4级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1010005": {
+    "id": 1010005,
+    "group": 1010005,
+    "name": "vip5",
+    "resource": "vip5",
+    "resourceSp": "vip5",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 5,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010005,
+    "getDesc": "VIP等级达到5级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1010006": {
+    "id": 1010006,
+    "group": 1010006,
+    "name": "vip6",
+    "resource": "vip6",
+    "resourceSp": "vip6",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 6,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010006,
+    "getDesc": "VIP等级达到6级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1010007": {
+    "id": 1010007,
+    "group": 1010007,
+    "name": "vip7",
+    "resource": "vip7",
+    "resourceSp": "vip7",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 7,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010007,
+    "getDesc": "VIP等级达到7级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1010008": {
+    "id": 1010008,
+    "group": 1010008,
+    "name": "vip8",
+    "resource": "vip8",
+    "resourceSp": "vip8",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 8,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010008,
+    "getDesc": "VIP等级达到8级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1010009": {
+    "id": 1010009,
+    "group": 1010009,
+    "name": "vip9",
+    "resource": "vip9",
+    "resourceSp": "vip9",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 1,
+    "type": 6,
+    "value": 9,
+    "isAuto": 1,
+    "resetText": "VIP等级变更时失效",
+    "buteId": 1010009,
+    "getDesc": "VIP等级达到9级",
+    "jump": "#VIP等级不匹配",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020001": {
+    "id": 1020001,
+    "group": 1020001,
+    "name": "造梦先锋",
+    "resource": "zaomengjixianfeng",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470001,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "预约礼包获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020002": {
+    "id": 1020002,
+    "group": 1020002,
+    "name": "战力之王",
+    "resource": "zhanli01",
+    "resourceSp": "zhanlizhiwang",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470002,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "战力冲榜1~20名获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020003": {
+    "id": 1020003,
+    "group": 1020003,
+    "name": "战力先锋",
+    "resource": "zhanli02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470003,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "战力冲榜21~200名获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020004": {
+    "id": 1020004,
+    "group": 1020004,
+    "name": "战力斗士",
+    "resource": "zhanli03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470004,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "战力冲榜201~2000名获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020005": {
+    "id": 1020005,
+    "group": 1020005,
+    "name": "驭宠之王",
+    "resource": "chongwuzhanli01",
+    "resourceSp": "yuchongzhiwang",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470005,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "宠物战力冲榜1~20名获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020006": {
+    "id": 1020006,
+    "group": 1020006,
+    "name": "驭宠先锋",
+    "resource": "chongwuzhanli02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470006,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "宠物战力冲榜21~200名获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020007": {
+    "id": 1020007,
+    "group": 1020007,
+    "name": "驭宠斗士",
+    "resource": "chongwuzhanli03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470007,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "宠物战力冲榜201~2000名获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020008": {
+    "id": 1020008,
+    "group": 1020008,
+    "name": "豆战胜佛",
+    "resource": "douzhanshengfo",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470008,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "游戏盒专属礼包获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020009": {
+    "id": 1020009,
+    "group": 1020009,
+    "name": "无双爆行者",
+    "resource": "wushuangbaoxingzhe",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470009,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "好游快爆专属礼包获得",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020010": {
+    "id": 1020010,
+    "group": 1020010,
+    "name": "造梦管理员",
+    "resource": "zaomengguanliyuan",
+    "resourceSp": "chenghao_GM",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470010,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "造梦管理员专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020011": {
+    "id": 1020011,
+    "group": 1020011,
+    "name": "创作初行者",
+    "resource": "chuangzuochuxingzhe",
+    "level": 1,
+    "nextId": 1020111,
+    "rankCost": [
+      [
+        470011,
+        8
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470011,
+        4
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "创作者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020012": {
+    "id": 1020012,
+    "group": 1020012,
+    "name": "神仙眷侣",
+    "resource": "shenxianjuanlv",
+    "level": 1,
+    "nextId": 1020013,
+    "rankCost": [
+      [
+        470012,
+        6
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470012,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020121,
+    "getDesc": "七夕活动道具激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020013": {
+    "id": 1020013,
+    "group": 1020012,
+    "name": "神仙眷侣",
+    "resource": "shenxianjuanlv2",
+    "level": 2,
+    "nextId": 1020014,
+    "rankCost": [
+      [
+        470012,
+        12
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020122,
+    "getDesc": "七夕活动道具激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020014": {
+    "id": 1020014,
+    "group": 1020012,
+    "name": "神仙眷侣",
+    "resource": "shenxianjuanlv3",
+    "level": 3,
+    "nextId": 1020015,
+    "rankCost": [
+      [
+        470012,
+        18
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020123,
+    "getDesc": "七夕活动道具激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020015": {
+    "id": 1020015,
+    "group": 1020012,
+    "name": "神仙眷侣",
+    "resource": "shenxianjuanlv4",
+    "level": 4,
+    "nextId": 1020016,
+    "rankCost": [
+      [
+        470012,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020124,
+    "getDesc": "七夕活动道具激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020016": {
+    "id": 1020016,
+    "group": 1020012,
+    "name": "神仙眷侣",
+    "resource": "shenxianjuanlv5",
+    "level": 5,
+    "nextId": 1020017,
+    "rankCost": [
+      [
+        470012,
+        27
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020125,
+    "getDesc": "七夕活动道具激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020017": {
+    "id": 1020017,
+    "group": 1020012,
+    "name": "神仙眷侣",
+    "resource": "shenxianjuanlv6",
+    "level": 6,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020126,
+    "getDesc": "七夕活动道具激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020111": {
+    "id": 1020111,
+    "group": 1020011,
+    "name": "创作引领者",
+    "resource": "chuangzuoyinlingzhe",
+    "level": 2,
+    "nextId": 1020112,
+    "rankCost": [
+      [
+        470011,
+        12
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "创作者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020112": {
+    "id": 1020112,
+    "group": 1020011,
+    "name": "创作之星",
+    "resource": "chuangzuozhixing",
+    "level": 3,
+    "nextId": 1020113,
+    "rankCost": [
+      [
+        470011,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "创作者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020113": {
+    "id": 1020113,
+    "group": 1020011,
+    "name": "创作大师",
+    "resource": "chuangzuodashi",
+    "resourceSp": "chuangzuodashi",
+    "level": 4,
+    "nextId": 1020114,
+    "rankCost": [
+      [
+        470011,
+        48
+      ]
+    ],
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "创作者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020114": {
+    "id": 1020114,
+    "group": 1020011,
+    "name": "创作宗师",
+    "resource": "chuangzuozongshi",
+    "resourceSp": "chuangzuozongshi",
+    "level": 5,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "创作者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020131": {
+    "id": 1020131,
+    "group": 1020131,
+    "name": "无双守护者",
+    "resource": "wushuangshouhuzhe01",
+    "level": 1,
+    "nextId": 1020132,
+    "rankCost": [
+      [
+        470013,
+        32
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470013,
+        16
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "无双守护者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020132": {
+    "id": 1020132,
+    "group": 1020131,
+    "name": "无双守护者",
+    "resource": "wushuangshouhuzhe02",
+    "level": 2,
+    "nextId": 1020133,
+    "rankCost": [
+      [
+        470013,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "无双守护者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020133": {
+    "id": 1020133,
+    "group": 1020131,
+    "name": "无双守护者",
+    "resource": "wushuangshouhuzhe03",
+    "resourceSp": "shouhuzhe3",
+    "level": 3,
+    "nextId": 1020134,
+    "rankCost": [
+      [
+        470013,
+        96
+      ]
+    ],
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "无双守护者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020134": {
+    "id": 1020134,
+    "group": 1020131,
+    "name": "无双守护者",
+    "resource": "wushuangshouhuzhe04",
+    "resourceSp": "shouhuzhe4",
+    "level": 4,
+    "nextId": 1020135,
+    "rankCost": [
+      [
+        470013,
+        144
+      ]
+    ],
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "无双守护者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020135": {
+    "id": 1020135,
+    "group": 1020131,
+    "name": "无双守护者",
+    "resource": "wushuangshouhuzhe05",
+    "resourceSp": "shouhuzhe5",
+    "level": 5,
+    "nextId": 1020136,
+    "rankCost": [
+      [
+        470013,
+        192
+      ]
+    ],
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "无双守护者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020136": {
+    "id": 1020136,
+    "group": 1020131,
+    "name": "无双守护者",
+    "resource": "wushuangshouhuzhe06",
+    "resourceSp": "shouhuzhe6",
+    "level": 6,
+    "nextId": 1020137,
+    "rankCost": [
+      [
+        470013,
+        192
+      ]
+    ],
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "无双守护者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020137": {
+    "id": 1020137,
+    "group": 1020131,
+    "name": "无双守护者",
+    "resource": "wushuangshouhuzhe07",
+    "resourceSp": "shouhuzhe7",
+    "level": 7,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "无双守护者专属称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020141": {
+    "id": 1020141,
+    "group": 1020141,
+    "name": "大闹天庭",
+    "resource": "danaotianting",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470014,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "大闹天庭版本预约称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020151": {
+    "id": 1020151,
+    "group": 1020151,
+    "name": "秋月长圆",
+    "resource": "qiuyuechangyuan",
+    "level": 1,
+    "nextId": 1020152,
+    "rankCost": [
+      [
+        3113,
+        10
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        3113,
+        4
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020151,
+    "getDesc": "中秋活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020152": {
+    "id": 1020152,
+    "group": 1020151,
+    "name": "秋月长圆",
+    "resource": "qiuyuechangyuan2",
+    "level": 2,
+    "nextId": 1020153,
+    "rankCost": [
+      [
+        3113,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020152,
+    "getDesc": "中秋活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020153": {
+    "id": 1020153,
+    "group": 1020151,
+    "name": "秋月长圆",
+    "resource": "qiuyuechangyuan3",
+    "level": 3,
+    "nextId": 1020154,
+    "rankCost": [
+      [
+        3113,
+        36
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020153,
+    "getDesc": "中秋活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020154": {
+    "id": 1020154,
+    "group": 1020151,
+    "name": "秋月长圆",
+    "resource": "qiuyuechangyuan4",
+    "level": 4,
+    "nextId": 1020155,
+    "rankCost": [
+      [
+        3113,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020154,
+    "getDesc": "中秋活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020155": {
+    "id": 1020155,
+    "group": 1020151,
+    "name": "秋月长圆",
+    "resource": "qiuyuechangyuan5",
+    "level": 5,
+    "nextId": 1020156,
+    "rankCost": [
+      [
+        3113,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020155,
+    "getDesc": "中秋活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020156": {
+    "id": 1020156,
+    "group": 1020151,
+    "name": "秋月长圆",
+    "resource": "qiuyuechangyuan6",
+    "level": 6,
+    "nextId": 1020157,
+    "rankCost": [
+      [
+        3113,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020156,
+    "getDesc": "中秋活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020157": {
+    "id": 1020157,
+    "group": 1020151,
+    "name": "秋月长圆",
+    "resource": "qiuyuechangyuan7",
+    "level": 7,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020157,
+    "getDesc": "中秋活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020161": {
+    "id": 1020161,
+    "group": 1020161,
+    "name": "萌新主播",
+    "resource": "zhubo01",
+    "level": 1,
+    "nextId": 1020162,
+    "rankCost": [
+      [
+        470015,
+        32
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470015,
+        16
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "主播称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020162": {
+    "id": 1020162,
+    "group": 1020161,
+    "name": "闪耀主播",
+    "resource": "zhubo02",
+    "level": 2,
+    "nextId": 1020163,
+    "rankCost": [
+      [
+        470015,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "主播称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020163": {
+    "id": 1020163,
+    "group": 1020161,
+    "name": "天秀主播",
+    "resource": "zhubo03",
+    "level": 3,
+    "nextId": 1020164,
+    "rankCost": [
+      [
+        470015,
+        96
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "主播称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020164": {
+    "id": 1020164,
+    "group": 1020161,
+    "name": "王牌主播",
+    "resource": "zhubo04",
+    "level": 4,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "主播称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020171": {
+    "id": 1020171,
+    "group": 1020171,
+    "name": "单身汪",
+    "resource": "wangwang01",
+    "level": 1,
+    "nextId": 1020172,
+    "rankCost": [
+      [
+        470017,
+        11
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470016,
+        11
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020171,
+    "getDesc": "汪汪称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020172": {
+    "id": 1020172,
+    "group": 1020171,
+    "name": "不屑汪",
+    "resource": "wangwang02",
+    "resourceSp": "buxiewang",
+    "level": 2,
+    "nextId": 1020173,
+    "rankCost": [
+      [
+        470018,
+        11
+      ]
+    ],
+    "resourceType": 1,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020172,
+    "getDesc": "汪汪称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020173": {
+    "id": 1020173,
+    "group": 1020171,
+    "name": "含羞汪",
+    "resource": "wangwang03",
+    "resourceSp": "hanxiuwang",
+    "level": 3,
+    "nextId": 1020174,
+    "rankCost": [
+      [
+        470019,
+        11
+      ]
+    ],
+    "resourceType": 1,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020173,
+    "getDesc": "汪汪称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020174": {
+    "id": 1020174,
+    "group": 1020171,
+    "name": "爱慕汪",
+    "resource": "wangwang04",
+    "resourceSp": "aimuwang",
+    "level": 4,
+    "nextId": 1020175,
+    "rankCost": [
+      [
+        470028,
+        11
+      ]
+    ],
+    "resourceType": 1,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020174,
+    "getDesc": "汪汪称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020175": {
+    "id": 1020175,
+    "group": 1020171,
+    "name": "难受汪",
+    "resource": "wangwang05",
+    "resourceSp": "nanshouwang",
+    "level": 5,
+    "nextId": 1020176,
+    "rankCost": [
+      [
+        470029,
+        11
+      ]
+    ],
+    "resourceType": 1,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020175,
+    "getDesc": "汪汪称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020176": {
+    "id": 1020176,
+    "group": 1020171,
+    "name": "怨念汪",
+    "resource": "wangwang06",
+    "resourceSp": "yuannianwang",
+    "level": 6,
+    "nextId": 1020177,
+    "rankCost": [
+      [
+        470030,
+        11
+      ]
+    ],
+    "resourceType": 1,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020176,
+    "getDesc": "汪汪称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020177": {
+    "id": 1020177,
+    "group": 1020171,
+    "name": "独孤汪",
+    "resource": "wangwang07",
+    "resourceSp": "duguwang",
+    "level": 7,
+    "resourceType": 1,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020177,
+    "getDesc": "汪汪称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020181": {
+    "id": 1020181,
+    "group": 1020181,
+    "name": "潮玩新型",
+    "resource": "chaowan01",
+    "level": 1,
+    "nextId": 1020182,
+    "rankCost": [
+      [
+        470020,
+        32
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470020,
+        16
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "潮玩称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020182": {
+    "id": 1020182,
+    "group": 1020181,
+    "name": "潮玩高手",
+    "resource": "chaowan02",
+    "level": 2,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "潮玩称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020191": {
+    "id": 1020191,
+    "group": 1020191,
+    "name": "圣诞老公公",
+    "resource": "shengdan01",
+    "level": 1,
+    "nextId": 1020192,
+    "rankCost": [
+      [
+        470021,
+        10
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470021,
+        4
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020191,
+    "getDesc": "圣诞老公公",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020192": {
+    "id": 1020192,
+    "group": 1020191,
+    "name": "圣诞老公公",
+    "resource": "shengdan02",
+    "level": 2,
+    "nextId": 1020193,
+    "rankCost": [
+      [
+        470021,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020192,
+    "getDesc": "圣诞老公公",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020193": {
+    "id": 1020193,
+    "group": 1020191,
+    "name": "圣诞老公公",
+    "resource": "shengdan03",
+    "level": 3,
+    "nextId": 1020194,
+    "rankCost": [
+      [
+        470021,
+        36
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020193,
+    "getDesc": "圣诞老公公",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020194": {
+    "id": 1020194,
+    "group": 1020191,
+    "name": "圣诞老公公",
+    "resource": "shengdan04",
+    "level": 4,
+    "nextId": 1020195,
+    "rankCost": [
+      [
+        470021,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020194,
+    "getDesc": "圣诞老公公",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020195": {
+    "id": 1020195,
+    "group": 1020191,
+    "name": "圣诞老公公",
+    "resource": "shengdan05",
+    "level": 5,
+    "nextId": 1020196,
+    "rankCost": [
+      [
+        470021,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020195,
+    "getDesc": "圣诞老公公",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020196": {
+    "id": 1020196,
+    "group": 1020191,
+    "name": "圣诞老公公",
+    "resource": "shengdan06",
+    "level": 6,
+    "nextId": 1020197,
+    "rankCost": [
+      [
+        470021,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020196,
+    "getDesc": "圣诞老公公",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020197": {
+    "id": 1020197,
+    "group": 1020191,
+    "name": "圣诞老公公",
+    "resource": "shengdan07",
+    "level": 7,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020197,
+    "getDesc": "圣诞老公公",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020201": {
+    "id": 1020201,
+    "group": 1020201,
+    "name": "新春鸿运",
+    "resource": "xinchun01",
+    "level": 1,
+    "nextId": 1020202,
+    "rankCost": [
+      [
+        470022,
+        10
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470022,
+        4
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020201,
+    "getDesc": "新春鸿运",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020202": {
+    "id": 1020202,
+    "group": 1020201,
+    "name": "新春鸿运",
+    "resource": "xinchun02",
+    "level": 2,
+    "nextId": 1020203,
+    "rankCost": [
+      [
+        470022,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020202,
+    "getDesc": "新春鸿运",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020203": {
+    "id": 1020203,
+    "group": 1020201,
+    "name": "新春鸿运",
+    "resource": "xinchun03",
+    "level": 3,
+    "nextId": 1020204,
+    "rankCost": [
+      [
+        470022,
+        36
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020203,
+    "getDesc": "新春鸿运",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020204": {
+    "id": 1020204,
+    "group": 1020201,
+    "name": "新春鸿运",
+    "resource": "xinchun04",
+    "level": 4,
+    "nextId": 1020205,
+    "rankCost": [
+      [
+        470022,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020204,
+    "getDesc": "新春鸿运",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020205": {
+    "id": 1020205,
+    "group": 1020201,
+    "name": "新春鸿运",
+    "resource": "xinchun05",
+    "level": 5,
+    "nextId": 1020206,
+    "rankCost": [
+      [
+        470022,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020205,
+    "getDesc": "新春鸿运",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020206": {
+    "id": 1020206,
+    "group": 1020201,
+    "name": "新春鸿运",
+    "resource": "xinchun06",
+    "level": 6,
+    "nextId": 1020207,
+    "rankCost": [
+      [
+        470022,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020206,
+    "getDesc": "新春鸿运",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020207": {
+    "id": 1020207,
+    "group": 1020201,
+    "name": "新春鸿运",
+    "resource": "xinchun07",
+    "level": 7,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020207,
+    "getDesc": "新春鸿运",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020301": {
+    "id": 1020301,
+    "group": 1020301,
+    "name": "开灯祈福",
+    "resource": "yuanxiao01",
+    "level": 1,
+    "nextId": 1020302,
+    "rankCost": [
+      [
+        470023,
+        5
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470023,
+        2
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020301,
+    "getDesc": "开灯祈福",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020302": {
+    "id": 1020302,
+    "group": 1020301,
+    "name": "开灯祈福",
+    "resource": "yuanxiao02",
+    "level": 2,
+    "nextId": 1020303,
+    "rankCost": [
+      [
+        470023,
+        12
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020302,
+    "getDesc": "开灯祈福",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020303": {
+    "id": 1020303,
+    "group": 1020301,
+    "name": "开灯祈福",
+    "resource": "yuanxiao03",
+    "level": 3,
+    "nextId": 1020304,
+    "rankCost": [
+      [
+        470023,
+        18
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020303,
+    "getDesc": "开灯祈福",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020304": {
+    "id": 1020304,
+    "group": 1020301,
+    "name": "开灯祈福",
+    "resource": "yuanxiao04",
+    "level": 4,
+    "nextId": 1020305,
+    "rankCost": [
+      [
+        470023,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020304,
+    "getDesc": "开灯祈福",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020305": {
+    "id": 1020305,
+    "group": 1020301,
+    "name": "开灯祈福",
+    "resource": "yuanxiao05",
+    "level": 5,
+    "nextId": 1020306,
+    "rankCost": [
+      [
+        470023,
+        27
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020305,
+    "getDesc": "开灯祈福",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020306": {
+    "id": 1020306,
+    "group": 1020301,
+    "name": "开灯祈福",
+    "resource": "yuanxiao06",
+    "level": 6,
+    "nextId": 1020307,
+    "rankCost": [
+      [
+        470023,
+        27
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020306,
+    "getDesc": "开灯祈福",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020307": {
+    "id": 1020307,
+    "group": 1020301,
+    "name": "开灯祈福",
+    "resource": "yuanxiao07",
+    "level": 7,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020307,
+    "getDesc": "开灯祈福",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020401": {
+    "id": 1020401,
+    "group": 1020401,
+    "name": "杏花微雨",
+    "resource": "qingming01",
+    "level": 1,
+    "nextId": 1020402,
+    "rankCost": [
+      [
+        470024,
+        10
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470024,
+        4
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020401,
+    "getDesc": "杏花微雨",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020402": {
+    "id": 1020402,
+    "group": 1020401,
+    "name": "杏花微雨",
+    "resource": "qingming02",
+    "level": 2,
+    "nextId": 1020403,
+    "rankCost": [
+      [
+        470024,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020402,
+    "getDesc": "杏花微雨",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020403": {
+    "id": 1020403,
+    "group": 1020401,
+    "name": "杏花微雨",
+    "resource": "qingming03",
+    "level": 3,
+    "nextId": 1020404,
+    "rankCost": [
+      [
+        470024,
+        36
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020403,
+    "getDesc": "杏花微雨",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020404": {
+    "id": 1020404,
+    "group": 1020401,
+    "name": "杏花微雨",
+    "resource": "qingming04",
+    "level": 4,
+    "nextId": 1020405,
+    "rankCost": [
+      [
+        470024,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020404,
+    "getDesc": "杏花微雨",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020405": {
+    "id": 1020405,
+    "group": 1020401,
+    "name": "杏花微雨",
+    "resource": "qingming05",
+    "level": 5,
+    "nextId": 1020406,
+    "rankCost": [
+      [
+        470024,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020405,
+    "getDesc": "杏花微雨",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020406": {
+    "id": 1020406,
+    "group": 1020401,
+    "name": "杏花微雨",
+    "resource": "qingming06",
+    "level": 6,
+    "nextId": 1020407,
+    "rankCost": [
+      [
+        470024,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020406,
+    "getDesc": "杏花微雨",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020407": {
+    "id": 1020407,
+    "group": 1020401,
+    "name": "杏花微雨",
+    "resource": "qingming07",
+    "level": 7,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020407,
+    "getDesc": "杏花微雨",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020501": {
+    "id": 1020501,
+    "group": 1020501,
+    "name": "劳动最光荣",
+    "resource": "laodong01",
+    "level": 1,
+    "nextId": 1020502,
+    "rankCost": [
+      [
+        470025,
+        10
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470025,
+        4
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020501,
+    "getDesc": "劳动最光荣",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020502": {
+    "id": 1020502,
+    "group": 1020501,
+    "name": "劳动最光荣",
+    "resource": "laodong02",
+    "level": 2,
+    "nextId": 1020503,
+    "rankCost": [
+      [
+        470025,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020502,
+    "getDesc": "劳动最光荣",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020503": {
+    "id": 1020503,
+    "group": 1020501,
+    "name": "劳动最光荣",
+    "resource": "laodong03",
+    "level": 3,
+    "nextId": 1020504,
+    "rankCost": [
+      [
+        470025,
+        36
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020503,
+    "getDesc": "劳动最光荣",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020504": {
+    "id": 1020504,
+    "group": 1020501,
+    "name": "劳动最光荣",
+    "resource": "laodong04",
+    "level": 4,
+    "nextId": 1020505,
+    "rankCost": [
+      [
+        470025,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020504,
+    "getDesc": "劳动最光荣",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020505": {
+    "id": 1020505,
+    "group": 1020501,
+    "name": "劳动最光荣",
+    "resource": "laodong05",
+    "level": 5,
+    "nextId": 1020506,
+    "rankCost": [
+      [
+        470025,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020505,
+    "getDesc": "劳动最光荣",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020506": {
+    "id": 1020506,
+    "group": 1020501,
+    "name": "劳动最光荣",
+    "resource": "laodong06",
+    "level": 6,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020506,
+    "getDesc": "劳动最光荣",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020601": {
+    "id": 1020601,
+    "group": 1020601,
+    "name": "快乐小仙童",
+    "resource": "liuyi01",
+    "level": 1,
+    "nextId": 1020602,
+    "rankCost": [
+      [
+        470026,
+        5
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470026,
+        2
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020601,
+    "getDesc": "快乐小仙童",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020602": {
+    "id": 1020602,
+    "group": 1020601,
+    "name": "快乐小仙童",
+    "resource": "liuyi02",
+    "level": 2,
+    "nextId": 1020603,
+    "rankCost": [
+      [
+        470026,
+        12
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020602,
+    "getDesc": "快乐小仙童",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020603": {
+    "id": 1020603,
+    "group": 1020601,
+    "name": "快乐小仙童",
+    "resource": "liuyi03",
+    "level": 3,
+    "nextId": 1020604,
+    "rankCost": [
+      [
+        470026,
+        18
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020603,
+    "getDesc": "快乐小仙童",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020604": {
+    "id": 1020604,
+    "group": 1020601,
+    "name": "快乐小仙童",
+    "resource": "liuyi04",
+    "level": 4,
+    "nextId": 1020605,
+    "rankCost": [
+      [
+        470026,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020604,
+    "getDesc": "快乐小仙童",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020605": {
+    "id": 1020605,
+    "group": 1020601,
+    "name": "快乐小仙童",
+    "resource": "liuyi05",
+    "level": 5,
+    "nextId": 1020606,
+    "rankCost": [
+      [
+        470026,
+        27
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020605,
+    "getDesc": "快乐小仙童",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020606": {
+    "id": 1020606,
+    "group": 1020601,
+    "name": "快乐小仙童",
+    "resource": "liuyi06",
+    "level": 6,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020606,
+    "getDesc": "快乐小仙童",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020701": {
+    "id": 1020701,
+    "group": 1020701,
+    "name": "粽香入梦",
+    "resource": "duanwu01",
+    "level": 1,
+    "nextId": 1020702,
+    "rankCost": [
+      [
+        470027,
+        10
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 1,
+    "value": [
+      [
+        470027,
+        4
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1020701,
+    "getDesc": "粽香入梦",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020702": {
+    "id": 1020702,
+    "group": 1020701,
+    "name": "粽香入梦",
+    "resource": "duanwu02",
+    "level": 2,
+    "nextId": 1020703,
+    "rankCost": [
+      [
+        470027,
+        24
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020702,
+    "getDesc": "粽香入梦",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020703": {
+    "id": 1020703,
+    "group": 1020701,
+    "name": "粽香入梦",
+    "resource": "duanwu03",
+    "level": 3,
+    "nextId": 1020704,
+    "rankCost": [
+      [
+        470027,
+        36
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020703,
+    "getDesc": "粽香入梦",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020704": {
+    "id": 1020704,
+    "group": 1020701,
+    "name": "粽香入梦",
+    "resource": "duanwu04",
+    "level": 4,
+    "nextId": 1020705,
+    "rankCost": [
+      [
+        470027,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020704,
+    "getDesc": "粽香入梦",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020705": {
+    "id": 1020705,
+    "group": 1020701,
+    "name": "粽香入梦",
+    "resource": "duanwu05",
+    "level": 5,
+    "nextId": 1020706,
+    "rankCost": [
+      [
+        470027,
+        54
+      ]
+    ],
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020705,
+    "getDesc": "粽香入梦",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020706": {
+    "id": 1020706,
+    "group": 1020701,
+    "name": "粽香入梦",
+    "resource": "duanwu06",
+    "level": 6,
+    "resourceType": 2,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "buteId": 1020706,
+    "getDesc": "粽香入梦",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020801": {
+    "id": 1020801,
+    "group": 1020801,
+    "name": "造梦小助手",
+    "resource": "zaomengzhushou01",
+    "level": 1,
+    "nextId": 1020802,
+    "rankCost": [
+      [
+        470093,
+        32
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470093,
+        16
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "造梦小助手",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020802": {
+    "id": 1020802,
+    "group": 1020801,
+    "name": "造梦小助手",
+    "resource": "zaomengzhushou02",
+    "level": 2,
+    "nextId": 1020803,
+    "rankCost": [
+      [
+        470093,
+        48
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "造梦小助手",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020803": {
+    "id": 1020803,
+    "group": 1020801,
+    "name": "造梦小助手",
+    "resource": "zaomengzhushou03",
+    "level": 3,
+    "nextId": 1020804,
+    "rankCost": [
+      [
+        470093,
+        96
+      ]
+    ],
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "造梦小助手",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1020804": {
+    "id": 1020804,
+    "group": 1020801,
+    "name": "造梦助手",
+    "resource": "zaomengzhushou04",
+    "level": 4,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 0,
+    "value": 0,
+    "isAuto": 0,
+    "getDesc": "造梦助手",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029001": {
+    "id": 1029001,
+    "group": 1029001,
+    "name": "造梦10周年",
+    "resource": "10zhounian",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470090,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "overBuffInfo": {
+      "type": "fixed",
+      "time": 1621180800000,
+      "buffIds": [
+        200002
+      ]
+    },
+    "specialText": "周年庆期间有隐藏效果（持续到2021年5月16日）",
+    "getDesc": "造梦10周年活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029002": {
+    "id": 1029002,
+    "group": 1029002,
+    "name": "梦开始的地方",
+    "resource": "mengkaishidedifang",
+    "resourceSp": "mengkaishidedifang",
+    "level": 0,
+    "resourceType": 1,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470091,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "造梦纪念称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029003": {
+    "id": 1029003,
+    "group": 1029003,
+    "name": "轻潮无双",
+    "resource": "qingchaowushuang",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470092,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "2021年ChinaJoy纪念称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029004": {
+    "id": 1029004,
+    "group": 1029004,
+    "name": "造梦11周年",
+    "resource": "11zhounian",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470094,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "overBuffInfo": {
+      "type": "fixed",
+      "time": 1653840000000,
+      "buffIds": [
+        200002
+      ]
+    },
+    "specialText": "周年庆期间有隐藏效果（持续到2022年5月29日）",
+    "getDesc": "造梦11周年活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029005": {
+    "id": 1029005,
+    "group": 1029005,
+    "name": "造梦12周年",
+    "resource": "12zhounian",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470099,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "overBuffInfo": {
+      "type": "fixed",
+      "time": 1685289599000,
+      "buffIds": [
+        200002
+      ]
+    },
+    "specialText": "周年庆期间有隐藏效果（持续到2023年5月28日）",
+    "getDesc": "造梦12周年活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029006": {
+    "id": 1029006,
+    "group": 1029006,
+    "name": "洪荒大劫",
+    "resource": "honghuangdajie",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470100,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "造梦纪念称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029007": {
+    "id": 1029007,
+    "group": 1029007,
+    "name": "初梦的镌刻",
+    "resource": "chumengdejuanke",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470101,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "初梦的镌刻",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029008": {
+    "id": 1029008,
+    "group": 1029008,
+    "name": "绿茵神话",
+    "resource": "lvyinshenhua",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470102,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "绿茵神话",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029009": {
+    "id": 1029009,
+    "group": 1029009,
+    "name": "日月争辉",
+    "resource": "riyuezhenghui",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470103,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "getDesc": "日月争辉",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029010": {
+    "id": 1029010,
+    "group": 1029010,
+    "name": "造梦13周年",
+    "resource": "13zhounian",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470104,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "overBuffInfo": {
+      "type": "fixed",
+      "time": 1716739199000,
+      "buffIds": [
+        200002
+      ]
+    },
+    "specialText": "周年庆期间有隐藏效果（持续到2024年5月26日）",
+    "getDesc": "造梦13周年活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1029011": {
+    "id": 1029011,
+    "group": 1029011,
+    "name": "光影巨匠",
+    "resource": "guangyingjujiang",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 1,
+    "value": [
+      [
+        470105,
+        1
+      ],
+      [
+        470106,
+        1
+      ],
+      [
+        470107,
+        1
+      ],
+      [
+        470108,
+        1
+      ],
+      [
+        470109,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "time": [
+      {
+        "day": 7
+      },
+      {
+        "day": 15
+      },
+      {
+        "day": 30
+      },
+      {
+        "day": 60
+      },
+      {
+        "day": 90
+      }
+    ],
+    "getDesc": "运营活动称号",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040001": {
+    "id": 1040001,
+    "group": 1040001,
+    "name": "猴山老大",
+    "resource": "houshanlaoda",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        10501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040001,
+    "specialText": "激活后(花果山~妖树林)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关妖树林",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040002": {
+    "id": 1040002,
+    "group": 1040002,
+    "name": "东海卫士",
+    "resource": "dongfanghaiwang",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        20501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040002,
+    "specialText": "激活后(浅岸~龙王殿)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关龙王殿",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040003": {
+    "id": 1040003,
+    "group": 1040003,
+    "name": "牛魔克星",
+    "resource": "laoniukexing",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        30501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040003,
+    "specialText": "激活后(蝙蝠窟~牛魔谷)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关牛魔谷",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040004": {
+    "id": 1040004,
+    "group": 1040004,
+    "name": "黄泉之主",
+    "resource": "jixiedashi",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        40501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040004,
+    "specialText": "激活后(鬼门关~迷魂殿)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关迷魂殿",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040005": {
+    "id": 1040005,
+    "group": 1040005,
+    "name": "气死阎王",
+    "resource": "qisiyanwang",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        50501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040005,
+    "specialText": "激活后(登殿道~审判殿)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关审判殿",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040006": {
+    "id": 1040006,
+    "group": 1040006,
+    "name": "轮回至尊",
+    "resource": "mowangjiangshi",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        6050103,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040006,
+    "specialText": "激活后(狂沙地狱~转轮地狱)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关转轮地狱",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040007": {
+    "id": 1040007,
+    "group": 1040007,
+    "name": "登天行者",
+    "resource": "tianting101",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        70501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040007,
+    "specialText": "激活后(九重天~南天门)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关南天门",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040008": {
+    "id": 1040008,
+    "group": 1040008,
+    "name": "天王克星",
+    "resource": "tianting102",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        80501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040008,
+    "specialText": "激活后(南天王殿~云楼宫)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关云楼宫",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040009": {
+    "id": 1040009,
+    "group": 1040009,
+    "name": "凌霄战神",
+    "resource": "tianting103",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        90501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040009,
+    "specialText": "激活后(接引殿~凌霄宝殿)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关凌霄宝殿",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040010": {
+    "id": 1040010,
+    "group": 1040010,
+    "name": "重明继焰",
+    "resource": "jiejiaotianjing101",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        100501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040010,
+    "specialText": "激活后(苍云崖~火龙岛)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关火龙岛",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040011": {
+    "id": 1040011,
+    "group": 1040011,
+    "name": "守正诛邪",
+    "resource": "jiejiaotianjing102",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        110501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040011,
+    "specialText": "激活后(尾妖林~声名山)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关声名山",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040012": {
+    "id": 1040012,
+    "group": 1040012,
+    "name": "玄坛真君",
+    "resource": "jiejiaotianjing103",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        120501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040012,
+    "specialText": "激活后(仙音岛~九曲黄河阵)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关九曲黄河阵",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040013": {
+    "id": 1040013,
+    "group": 1040013,
+    "name": "蓬莱岛主",
+    "resource": "penglaidao",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        130501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040013,
+    "specialText": "激活后(空桑林~鬼雾泽)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关鬼雾泽",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040014": {
+    "id": 1040014,
+    "group": 1040014,
+    "name": "碧游神君",
+    "resource": "penglaixianyu",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        140501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040014,
+    "specialText": "激活后(绝仙门~紫芝崖)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关紫芝崖",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040015": {
+    "id": 1040015,
+    "group": 1040015,
+    "name": "破魔仙尊",
+    "resource": "biyougong",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        150501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040015,
+    "specialText": "激活后(朝仙阁~八怨池)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关八怨池",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040016": {
+    "id": 1040016,
+    "group": 1040016,
+    "name": "金之刑神",
+    "resource": "changancheng",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        160501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040016,
+    "specialText": "激活后(玄武门~兴庆宫)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关兴庆宫",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040017": {
+    "id": 1040017,
+    "group": 1040017,
+    "name": "木之春神",
+    "resource": "shenguangjinling",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        170501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040017,
+    "specialText": "激活后(九华山麓~神光金岭)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关神光金岭",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040018": {
+    "id": 1040018,
+    "group": 1040018,
+    "name": "振滔水神",
+    "resource": "fahualingdong",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        180501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040018,
+    "specialText": "激活后(普陀山脚~法华灵洞)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关法华灵洞",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1040019": {
+    "id": 1040019,
+    "group": 1040019,
+    "name": "焚焰火神",
+    "resource": "jindingyunhai",
+    "level": 0,
+    "resourceType": 2,
+    "show": 4,
+    "showName": "冒险称号",
+    "showNameIndex": 2,
+    "index": 4,
+    "type": 3,
+    "value": [
+      [
+        190501,
+        1
+      ]
+    ],
+    "isAuto": 0,
+    "buteId": 1040019,
+    "specialText": "激活后(峨眉山道~金顶云海)装备掉落为高品质的概率提升25%",
+    "getDesc": "通关金顶云海",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050001": {
+    "id": 1050001,
+    "group": 1050001,
+    "name": "散仙",
+    "resource": "xianwei01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 1,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050001,
+    "getDesc": "上周仙位竞技场段位到散仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050002": {
+    "id": 1050002,
+    "group": 1050002,
+    "name": "上仙",
+    "resource": "xianwei02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 2,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050002,
+    "getDesc": "上周仙位竞技场段位到上仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050003": {
+    "id": 1050003,
+    "group": 1050003,
+    "name": "高仙",
+    "resource": "xianwei03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 3,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050003,
+    "getDesc": "上周仙位竞技场段位到高仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050004": {
+    "id": 1050004,
+    "group": 1050004,
+    "name": "太仙",
+    "resource": "xianwei04",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 4,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050004,
+    "getDesc": "上周仙位竞技场段位到太仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050005": {
+    "id": 1050005,
+    "group": 1050005,
+    "name": "玄仙",
+    "resource": "xianwei05",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 5,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050005,
+    "getDesc": "上周仙位竞技场段位到玄仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050006": {
+    "id": 1050006,
+    "group": 1050006,
+    "name": "天仙",
+    "resource": "xianwei06",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 6,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050006,
+    "getDesc": "上周仙位竞技场段位到天仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050007": {
+    "id": 1050007,
+    "group": 1050007,
+    "name": "真仙",
+    "resource": "xianwei07",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 7,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050007,
+    "getDesc": "上周仙位竞技场段位到真仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050008": {
+    "id": 1050008,
+    "group": 1050008,
+    "name": "神仙",
+    "resource": "xianwei08",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 8,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050008,
+    "getDesc": "上周仙位竞技场段位到神仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050009": {
+    "id": 1050009,
+    "group": 1050009,
+    "name": "灵仙",
+    "resource": "xianwei09",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 9,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050009,
+    "getDesc": "上周仙位竞技场段位到灵仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1050010": {
+    "id": 1050010,
+    "group": 1050010,
+    "name": "至仙",
+    "resource": "xianwei10",
+    "resourceSp": "zhixian",
+    "level": 0,
+    "resourceType": 1,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 5,
+    "type": 7,
+    "value": 10,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1050010,
+    "getDesc": "上周仙位竞技场段位到至仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060001": {
+    "id": 1060001,
+    "group": 1060001,
+    "name": "驭宠新手",
+    "resource": "chongwu01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 1,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060001,
+    "getDesc": "上周斗宠大会段位到驭宠新手",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060002": {
+    "id": 1060002,
+    "group": 1060002,
+    "name": "驭宠高手",
+    "resource": "chongwu02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 2,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060002,
+    "getDesc": "上周斗宠大会段位到驭宠高手",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060003": {
+    "id": 1060003,
+    "group": 1060003,
+    "name": "驭宠大师",
+    "resource": "chongwu03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 3,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060003,
+    "getDesc": "上周斗宠大会段位到驭宠大师",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060004": {
+    "id": 1060004,
+    "group": 1060004,
+    "name": "灵兽宗师",
+    "resource": "chongwu04",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 4,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060004,
+    "getDesc": "上周斗宠大会段位到灵兽宗师",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060005": {
+    "id": 1060005,
+    "group": 1060005,
+    "name": "灵兽长老",
+    "resource": "chongwu05",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 5,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060005,
+    "getDesc": "上周斗宠大会段位到灵兽长老",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060006": {
+    "id": 1060006,
+    "group": 1060006,
+    "name": "灵兽大仙",
+    "resource": "chongwu06",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 6,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060006,
+    "getDesc": "上周斗宠大会段位到灵兽大仙",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060007": {
+    "id": 1060007,
+    "group": 1060007,
+    "name": "仙兽灵尊",
+    "resource": "chongwu07",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 7,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060007,
+    "getDesc": "上周斗宠大会段位到仙兽灵尊",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060008": {
+    "id": 1060008,
+    "group": 1060008,
+    "name": "仙兽尊者",
+    "resource": "chongwu08",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 8,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060008,
+    "getDesc": "上周斗宠大会段位到仙兽尊者",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060009": {
+    "id": 1060009,
+    "group": 1060009,
+    "name": "仙兽王者",
+    "resource": "chongwu09",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 9,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060009,
+    "getDesc": "上周斗宠大会段位到仙兽王者",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1060010": {
+    "id": 1060010,
+    "group": 1060010,
+    "name": "神兽至尊",
+    "resource": "chongwu10",
+    "resourceSp": "shenshouzhizun",
+    "level": 0,
+    "resourceType": 1,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 6,
+    "type": 8,
+    "value": 10,
+    "isAuto": 1,
+    "time": {
+      "day": 7
+    },
+    "buteId": 1060010,
+    "getDesc": "上周斗宠大会段位到神兽至尊",
+    "jump": "#未获得",
+    "otherData": {
+      "showLvText": 1
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1070001": {
+    "id": 1070001,
+    "group": 1070001,
+    "name": "青铜散仙",
+    "resource": "tiandao01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 9,
+    "type": 9,
+    "value": 2,
+    "isAuto": 1,
+    "resetText": "天道赛季重启后失效",
+    "getDesc": "天道段位为青铜散仙时激活",
+    "jump": "#天道段位不匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1070002": {
+    "id": 1070002,
+    "group": 1070002,
+    "name": "白银上仙",
+    "resource": "tiandao02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 9,
+    "type": 9,
+    "value": 5,
+    "isAuto": 1,
+    "resetText": "天道赛季重启后失效",
+    "getDesc": "天道段位为白银上仙时激活",
+    "jump": "#天道段位不匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1070003": {
+    "id": 1070003,
+    "group": 1070003,
+    "name": "黄金玄仙",
+    "resource": "tiandao03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 9,
+    "type": 9,
+    "value": 8,
+    "isAuto": 1,
+    "resetText": "天道赛季重启后失效",
+    "getDesc": "天道段位为黄金玄仙时激活",
+    "jump": "#天道段位不匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1070004": {
+    "id": 1070004,
+    "group": 1070004,
+    "name": "白金天仙",
+    "resource": "tiandao04",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 9,
+    "type": 9,
+    "value": 12,
+    "isAuto": 1,
+    "resetText": "天道赛季重启后失效",
+    "getDesc": "天道段位为白金天仙时激活",
+    "jump": "#天道段位不匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1070005": {
+    "id": 1070005,
+    "group": 1070005,
+    "name": "灵玉真仙",
+    "resource": "tiandao05",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 9,
+    "type": 9,
+    "value": 16,
+    "isAuto": 1,
+    "resetText": "天道赛季重启后失效",
+    "getDesc": "天道段位为灵玉真仙时激活",
+    "jump": "#天道段位不匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1070006": {
+    "id": 1070006,
+    "group": 1070006,
+    "name": "大罗金仙",
+    "resource": "tiandao06",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 9,
+    "type": 9,
+    "value": 21,
+    "isAuto": 1,
+    "resetText": "天道赛季重启后失效",
+    "getDesc": "天道段位为大罗金仙时激活",
+    "jump": "#天道段位不匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1070007": {
+    "id": 1070007,
+    "group": 1070007,
+    "name": "天道圣王",
+    "resource": "tiandao07",
+    "resourceSp": "tiandaoshengwang",
+    "level": 0,
+    "resourceType": 1,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 9,
+    "type": 9,
+    "value": 26,
+    "isAuto": 1,
+    "resetText": "天道赛季重启后失效",
+    "getDesc": "天道段位为天道圣王时激活",
+    "jump": "#天道段位不匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1080001": {
+    "id": 1080001,
+    "group": 1080001,
+    "name": "师傅1",
+    "resource": "shifu01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 10,
+    "showName": "名师称号",
+    "showNameIndex": 6,
+    "index": 10,
+    "type": 10,
+    "value": 3000,
+    "isAuto": 1,
+    "resetText": "名师值3000~11999解锁",
+    "getDesc": "名师值3000~11999解锁",
+    "jump": "#名师值未匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1080002": {
+    "id": 1080002,
+    "group": 1080002,
+    "name": "师傅2",
+    "resource": "shifu02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 10,
+    "showName": "名师称号",
+    "showNameIndex": 6,
+    "index": 10,
+    "type": 10,
+    "value": 12000,
+    "isAuto": 1,
+    "resetText": "名师值12000~26999解锁",
+    "getDesc": "名师值12000~26999解锁",
+    "jump": "#名师值未匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1080003": {
+    "id": 1080003,
+    "group": 1080003,
+    "name": "师傅3",
+    "resource": "shifu03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 10,
+    "showName": "名师称号",
+    "showNameIndex": 6,
+    "index": 10,
+    "type": 10,
+    "value": 27000,
+    "isAuto": 1,
+    "resetText": "名师值27000~50999解锁",
+    "getDesc": "名师值27000~50999解锁",
+    "jump": "#名师值未匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1080004": {
+    "id": 1080004,
+    "group": 1080004,
+    "name": "师傅4",
+    "resource": "shifu04",
+    "level": 0,
+    "resourceType": 2,
+    "show": 10,
+    "showName": "名师称号",
+    "showNameIndex": 6,
+    "index": 10,
+    "type": 10,
+    "value": 51000,
+    "isAuto": 1,
+    "resetText": "名师值51000~86999解锁",
+    "getDesc": "名师值51000~86999解锁",
+    "jump": "#名师值未匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1080005": {
+    "id": 1080005,
+    "group": 1080005,
+    "name": "师傅5",
+    "resource": "shifu05",
+    "level": 0,
+    "resourceType": 2,
+    "show": 10,
+    "showName": "名师称号",
+    "showNameIndex": 6,
+    "index": 10,
+    "type": 10,
+    "value": 87000,
+    "isAuto": 1,
+    "resetText": "名师值87000~134999解锁",
+    "getDesc": "名师值87000~134999解锁",
+    "jump": "#名师值未匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1080006": {
+    "id": 1080006,
+    "group": 1080006,
+    "name": "师傅6",
+    "resource": "shifu06",
+    "resourceSp": "baishizhishi",
+    "level": 0,
+    "resourceType": 1,
+    "show": 10,
+    "showName": "名师称号",
+    "showNameIndex": 6,
+    "index": 10,
+    "type": 10,
+    "value": 135000,
+    "isAuto": 1,
+    "resetText": "名师值135000+解锁",
+    "getDesc": "名师值135000+解锁",
+    "jump": "#名师值未匹配",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090001": {
+    "id": 1090001,
+    "group": 1090001,
+    "name": "成就称号1",
+    "resource": "chengjiu01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 3000,
+    "isAuto": 0,
+    "getDesc": "成就达到3000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090002": {
+    "id": 1090002,
+    "group": 1090002,
+    "name": "成就称号2",
+    "resource": "chengjiu02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 5000,
+    "isAuto": 0,
+    "getDesc": "成就达到5000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090003": {
+    "id": 1090003,
+    "group": 1090003,
+    "name": "成就称号3",
+    "resource": "chengjiu03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 7000,
+    "isAuto": 0,
+    "getDesc": "成就达到7000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090004": {
+    "id": 1090004,
+    "group": 1090004,
+    "name": "成就称号4",
+    "resource": "chengjiu04",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 9000,
+    "isAuto": 0,
+    "getDesc": "成就达到9000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090005": {
+    "id": 1090005,
+    "group": 1090005,
+    "name": "成就称号5",
+    "resource": "chengjiu05",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 11000,
+    "isAuto": 0,
+    "getDesc": "成就达到11000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090006": {
+    "id": 1090006,
+    "group": 1090006,
+    "name": "成就称号6",
+    "resource": "chengjiu06",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 13000,
+    "isAuto": 0,
+    "getDesc": "成就达到13000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090007": {
+    "id": 1090007,
+    "group": 1090007,
+    "name": "成就称号7",
+    "resource": "chengjiu07",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 15000,
+    "isAuto": 0,
+    "getDesc": "成就达到15000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090008": {
+    "id": 1090008,
+    "group": 1090008,
+    "name": "成就称号8",
+    "resource": "chengjiu08",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 17000,
+    "isAuto": 0,
+    "getDesc": "成就达到17000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090009": {
+    "id": 1090009,
+    "group": 1090009,
+    "name": "成就称号9",
+    "resource": "chengjiu09",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 19000,
+    "isAuto": 0,
+    "getDesc": "成就达到19000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090010": {
+    "id": 1090010,
+    "group": 1090010,
+    "name": "成就称号10",
+    "resource": "chengjiu10",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 21000,
+    "isAuto": 0,
+    "getDesc": "成就达到21000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1090011": {
+    "id": 1090011,
+    "group": 1090011,
+    "name": "成就称号11",
+    "resource": "chengjiu11",
+    "level": 0,
+    "resourceType": 2,
+    "show": 11,
+    "showName": "成就称号",
+    "showNameIndex": 5,
+    "index": 11,
+    "type": 11,
+    "value": 23000,
+    "isAuto": 0,
+    "getDesc": "成就达到23000点可激活该称号",
+    "jump": "#成就点未达到",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1100001": {
+    "id": 1100001,
+    "group": 1100001,
+    "name": "神将",
+    "resource": "shenjiang01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 12,
+    "type": 12,
+    "value": 1,
+    "isAuto": 1,
+    "getDesc": "神魔段位达到神将自动激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1100002": {
+    "id": 1100002,
+    "group": 1100002,
+    "name": "卓越神将",
+    "resource": "shenjiang02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 12,
+    "type": 12,
+    "value": 6,
+    "isAuto": 1,
+    "getDesc": "神魔段位达到卓越神将自动激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1100003": {
+    "id": 1100003,
+    "group": 1100003,
+    "name": "无双神将",
+    "resource": "shenjiang03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 12,
+    "type": 12,
+    "value": 11,
+    "isAuto": 1,
+    "getDesc": "神魔段位达到无双神将自动激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1100004": {
+    "id": 1100004,
+    "group": 1100004,
+    "name": "绝世神将",
+    "resource": "shenjiang04",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 12,
+    "type": 12,
+    "value": 16,
+    "isAuto": 1,
+    "getDesc": "神魔段位达到绝世神将自动激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1200001": {
+    "id": 1200001,
+    "group": 1200001,
+    "name": "魔王",
+    "resource": "mowang01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 12,
+    "type": 13,
+    "value": 1,
+    "isAuto": 1,
+    "getDesc": "神魔段位达到魔王自动激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1200002": {
+    "id": 1200002,
+    "group": 1200002,
+    "name": "恐惧魔王",
+    "resource": "mowang02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 12,
+    "type": 13,
+    "value": 6,
+    "isAuto": 1,
+    "getDesc": "神魔段位达到恐惧魔王自动激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1200003": {
+    "id": 1200003,
+    "group": 1200003,
+    "name": "惩天魔王",
+    "resource": "mowang03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 12,
+    "type": 13,
+    "value": 11,
+    "isAuto": 1,
+    "getDesc": "神魔段位达到惩天魔王自动激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1200004": {
+    "id": 1200004,
+    "group": 1200004,
+    "name": "灭世魔王",
+    "resource": "mowang04",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "index": 12,
+    "type": 13,
+    "value": 16,
+    "isAuto": 1,
+    "getDesc": "神魔段位达到灭世魔王自动激活",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1210001": {
+    "id": 1210001,
+    "group": 1210001,
+    "name": "极御之圣",
+    "resource": "jiyuzhisheng",
+    "resourceSp": "jiyuzhisheng",
+    "level": 0,
+    "resourceType": 1,
+    "show": 3,
+    "showName": "活动称号",
+    "showNameIndex": 2,
+    "index": 3,
+    "type": 14,
+    "value": [
+      1,
+      1
+    ],
+    "isAuto": 1,
+    "time": {
+      "petChampionAddTime": 3207599000,
+      "showTime": "28天"
+    },
+    "getDesc": "领取万兽争锋总冠军奖励后激活该称号",
+    "jump": "#未获得",
+    "otherData": {
+      "showItemId": 470095
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1220001": {
+    "id": 1220001,
+    "group": 1220001,
+    "name": "蟠桃会客人",
+    "resource": "pantao01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 15,
+    "value": [
+      4,
+      20
+    ],
+    "isAuto": 1,
+    "time": {
+      "fixed": 1690819199000
+    },
+    "resetText": "第二年蟠桃会前夕失效",
+    "specialText": "穿戴称号后会有天庭侍女相伴在身旁",
+    "getDesc": "蟠桃会积分第21~100名获取",
+    "jump": "#未获得",
+    "close": 1,
+    "otherData": {
+      "phantomId": 2143531,
+      "showItemId": 470096
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1220002": {
+    "id": 1220002,
+    "group": 1220002,
+    "name": "蟠桃会贵客",
+    "resource": "pantao02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 15,
+    "value": [
+      2,
+      3
+    ],
+    "isAuto": 1,
+    "time": {
+      "fixed": 1690819199000
+    },
+    "resetText": "第二年蟠桃会前夕失效",
+    "specialText": "穿戴称号后会有天庭仙女相伴在身旁",
+    "getDesc": "蟠桃会积分第5~20名获取",
+    "jump": "#未获得",
+    "close": 1,
+    "otherData": {
+      "phantomId": 2143521,
+      "showItemId": 470097
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1220003": {
+    "id": 1220003,
+    "group": 1220003,
+    "name": "蟠桃会上宾",
+    "resource": "pantao03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 2,
+    "showName": "特殊称号",
+    "showNameIndex": 1,
+    "index": 2,
+    "type": 15,
+    "value": [
+      1,
+      1
+    ],
+    "isAuto": 1,
+    "time": {
+      "fixed": 1690819199000
+    },
+    "resetText": "第二年蟠桃会前夕失效",
+    "specialText": "穿戴称号后会有天庭舞仙相伴在身旁",
+    "getDesc": "蟠桃会积分第1~4名获取",
+    "jump": "#未获得",
+    "close": 1,
+    "otherData": {
+      "phantomId": 2143511,
+      "showItemId": 470098
+    },
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230001": {
+    "id": 1230001,
+    "group": 1230001,
+    "name": "战王之王",
+    "resource": "zwzw01",
+    "resourceSp": "zwzw01",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      0,
+      [
+        1,
+        1
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "角色总榜排名第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230002": {
+    "id": 1230002,
+    "group": 1230002,
+    "name": "三界十强",
+    "resource": "zwzw02",
+    "resourceSp": "zwzw02",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      0,
+      [
+        2,
+        10
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "角色总榜排名前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230003": {
+    "id": 1230003,
+    "group": 1230003,
+    "name": "三界百强",
+    "resource": "zwzw03",
+    "resourceSp": "zwzw03",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      0,
+      [
+        11,
+        100
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "角色总榜排名前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230101": {
+    "id": 1230101,
+    "group": 1230101,
+    "name": "齐天大圣",
+    "role": 1,
+    "resource": "wukong01",
+    "resourceSp": "wukong01",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      1,
+      [
+        1,
+        1
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "孙悟空榜排名第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230102": {
+    "id": 1230102,
+    "group": 1230102,
+    "name": "十强悟空",
+    "role": 1,
+    "resource": "wukong02",
+    "resourceSp": "wukong02",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      1,
+      [
+        2,
+        10
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "孙悟空榜排名前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230103": {
+    "id": 1230103,
+    "group": 1230103,
+    "name": "百强悟空",
+    "role": 1,
+    "resource": "wukong03",
+    "resourceSp": "wukong03",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      1,
+      [
+        11,
+        100
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "孙悟空榜排名前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230201": {
+    "id": 1230201,
+    "group": 1230201,
+    "name": "金蝉子",
+    "role": 2,
+    "resource": "tangseng01",
+    "resourceSp": "tangseng01",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      2,
+      [
+        1,
+        1
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "唐三藏榜排名第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230202": {
+    "id": 1230202,
+    "group": 1230202,
+    "name": "十强唐僧",
+    "role": 2,
+    "resource": "tangseng02",
+    "resourceSp": "tangseng02",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      2,
+      [
+        2,
+        10
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "唐三藏榜排名前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230203": {
+    "id": 1230203,
+    "group": 1230203,
+    "name": "百强唐僧",
+    "role": 2,
+    "resource": "tangseng03",
+    "resourceSp": "tangseng03",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      2,
+      [
+        11,
+        100
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "唐三藏榜排名前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230301": {
+    "id": 1230301,
+    "group": 1230301,
+    "name": "天蓬元帅",
+    "role": 3,
+    "resource": "bajie01",
+    "resourceSp": "bajie01",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      3,
+      [
+        1,
+        1
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "猪八戒榜排名第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230302": {
+    "id": 1230302,
+    "group": 1230302,
+    "name": "十强八戒",
+    "role": 3,
+    "resource": "bajie02",
+    "resourceSp": "bajie02",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      3,
+      [
+        2,
+        10
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "猪八戒榜排名前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230303": {
+    "id": 1230303,
+    "group": 1230303,
+    "name": "百强八戒",
+    "role": 3,
+    "resource": "bajie03",
+    "resourceSp": "bajie03",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      3,
+      [
+        11,
+        100
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "猪八戒榜排名前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230401": {
+    "id": 1230401,
+    "group": 1230401,
+    "name": "卷帘大将",
+    "role": 4,
+    "resource": "shaseng01",
+    "resourceSp": "shaseng01",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      4,
+      [
+        1,
+        1
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "沙悟净榜排名第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230402": {
+    "id": 1230402,
+    "group": 1230402,
+    "name": "十强沙僧",
+    "role": 4,
+    "resource": "shaseng02",
+    "resourceSp": "shaseng02",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      4,
+      [
+        2,
+        10
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "沙悟净榜排名前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230403": {
+    "id": 1230403,
+    "group": 1230403,
+    "name": "百强沙僧",
+    "role": 4,
+    "resource": "shaseng03",
+    "resourceSp": "shaseng03",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      4,
+      [
+        11,
+        100
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "沙悟净榜排名前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230501": {
+    "id": 1230501,
+    "group": 1230501,
+    "name": "东海三公主",
+    "role": 5,
+    "resource": "aoxue01",
+    "resourceSp": "aoxue01",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      5,
+      [
+        1,
+        1
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "敖雪榜排名第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230502": {
+    "id": 1230502,
+    "group": 1230502,
+    "name": "十强敖雪",
+    "role": 5,
+    "resource": "aoxue02",
+    "resourceSp": "aoxue02",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      5,
+      [
+        2,
+        10
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "敖雪榜排名前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230503": {
+    "id": 1230503,
+    "group": 1230503,
+    "name": "百强敖雪",
+    "role": 5,
+    "resource": "aoxue03",
+    "resourceSp": "aoxue03",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      5,
+      [
+        11,
+        100
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "敖雪榜排名前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230601": {
+    "id": 1230601,
+    "group": 1230601,
+    "name": "玉龙三太子",
+    "role": 6,
+    "resource": "aolie01",
+    "resourceSp": "aolie01",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      6,
+      [
+        1,
+        1
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "敖烈榜排名第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230602": {
+    "id": 1230602,
+    "group": 1230602,
+    "name": "十强敖烈",
+    "role": 6,
+    "resource": "aolie02",
+    "resourceSp": "aolie02",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      6,
+      [
+        2,
+        10
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "敖烈榜排名前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230603": {
+    "id": 1230603,
+    "group": 1230603,
+    "name": "百强敖烈",
+    "role": 6,
+    "resource": "aolie03",
+    "resourceSp": "aolie03",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      6,
+      [
+        11,
+        100
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "敖烈榜排名前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230701": {
+    "id": 1230701,
+    "group": 1230701,
+    "name": "西梁王女",
+    "role": 7,
+    "resource": "xiaoyan01",
+    "resourceSp": "xiaoyan01",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      7,
+      [
+        1,
+        1
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "萧嫣榜排名第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230702": {
+    "id": 1230702,
+    "group": 1230702,
+    "name": "十强萧嫣",
+    "role": 7,
+    "resource": "xiaoyan02",
+    "resourceSp": "xiaoyan02",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      7,
+      [
+        2,
+        10
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "萧嫣榜排名前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1230703": {
+    "id": 1230703,
+    "group": 1230703,
+    "name": "百强萧嫣",
+    "role": 7,
+    "resource": "xiaoyan03",
+    "resourceSp": "xiaoyan03",
+    "level": 0,
+    "resourceType": 1,
+    "show": 14,
+    "showName": "排行称号",
+    "showNameIndex": 4,
+    "type": 16,
+    "value": [
+      7,
+      [
+        11,
+        100
+      ]
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "萧嫣榜排名前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1240001": {
+    "id": 1240001,
+    "group": 1240001,
+    "name": "无极圣主",
+    "resource": "dengfeng01",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "type": 17,
+    "value": [
+      1,
+      1
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "招摇山挑战第一",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1240002": {
+    "id": 1240002,
+    "group": 1240002,
+    "name": "登峰造极",
+    "resource": "dengfeng02",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "type": 17,
+    "value": [
+      2,
+      10
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "招摇山挑战前十",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "1240003": {
+    "id": 1240003,
+    "group": 1240003,
+    "name": "勇攀高峰",
+    "resource": "dengfeng03",
+    "level": 0,
+    "resourceType": 2,
+    "show": 5,
+    "showName": "竞技称号",
+    "showNameIndex": 3,
+    "type": 17,
+    "value": [
+      11,
+      100
+    ],
+    "isAuto": 1,
+    "time": {
+      "hour": 168
+    },
+    "getDesc": "招摇山挑战前百",
+    "jump": "#未获得",
+    "offset": [
+      0,
+      0
+    ]
+  }
+}

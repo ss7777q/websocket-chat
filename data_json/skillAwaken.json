@@ -1,0 +1,930 @@
+[
+  {
+    "id": 100115401,
+    "skillGroup": 1001154,
+    "level": 1,
+    "skillId": 1001154,
+    "levelCost": [
+      [
+        20111,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100115402,
+    "skillGroup": 1001154,
+    "level": 2,
+    "skillId": 1001151,
+    "levelLimit": [
+      [
+        1,
+        11
+      ]
+    ],
+    "levelCost": [
+      [
+        1001,
+        11
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 100115403,
+    "skillGroup": 1001154,
+    "level": 3,
+    "skillId": 1001183,
+    "levelLimit": [
+      [
+        1,
+        11
+      ]
+    ],
+    "levelCost": [
+      [
+        1001,
+        11
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 100115404,
+    "skillGroup": 1001154,
+    "level": 4,
+    "skillId": 1001184,
+    "levelLimit": [
+      [
+        1,
+        11
+      ]
+    ],
+    "levelCost": [
+      [
+        1001,
+        11
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 100115301,
+    "skillGroup": 1001153,
+    "level": 1,
+    "skillId": 1001153,
+    "levelCost": [
+      [
+        20111,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100115302,
+    "skillGroup": 1001153,
+    "level": 2,
+    "skillId": 1001152,
+    "levelLimit": [
+      [
+        1,
+        11
+      ]
+    ],
+    "levelCost": [
+      [
+        1001,
+        11
+      ]
+    ],
+    "close": 1
+  },
+  {
+    "id": 100116201,
+    "skillGroup": 1001162,
+    "level": 1,
+    "skillId": 1001162,
+    "levelCost": [
+      [
+        20113,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100116101,
+    "skillGroup": 1001161,
+    "level": 1,
+    "skillId": 1001161,
+    "levelCost": [
+      [
+        20113,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100117201,
+    "skillGroup": 1001172,
+    "level": 1,
+    "skillId": 1001172,
+    "levelCost": [
+      [
+        20115,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100117101,
+    "skillGroup": 1001171,
+    "level": 1,
+    "skillId": 1001171,
+    "levelCost": [
+      [
+        20115,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100118201,
+    "skillGroup": 1001182,
+    "level": 1,
+    "skillId": 1001182,
+    "levelCost": [
+      [
+        20117,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100118101,
+    "skillGroup": 1001181,
+    "level": 1,
+    "skillId": 1001181,
+    "levelCost": [
+      [
+        20117,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100119201,
+    "skillGroup": 1001192,
+    "level": 1,
+    "skillId": 1001192,
+    "levelCost": [
+      [
+        20119,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 100119301,
+    "skillGroup": 1001193,
+    "level": 1,
+    "skillId": 1001193,
+    "levelCost": [
+      [
+        20119,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200103101,
+    "skillGroup": 2001031,
+    "level": 1,
+    "skillId": 2001031,
+    "levelCost": [
+      [
+        20211,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200103401,
+    "skillGroup": 2001034,
+    "level": 1,
+    "skillId": 2001034,
+    "levelCost": [
+      [
+        20211,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200104101,
+    "skillGroup": 2001041,
+    "level": 1,
+    "skillId": 2001041,
+    "levelCost": [
+      [
+        20213,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200104401,
+    "skillGroup": 2001044,
+    "level": 1,
+    "skillId": 2001044,
+    "levelCost": [
+      [
+        20213,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200105201,
+    "skillGroup": 2001052,
+    "level": 1,
+    "skillId": 2001052,
+    "levelCost": [
+      [
+        20215,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200105101,
+    "skillGroup": 2001051,
+    "level": 1,
+    "skillId": 2001051,
+    "levelCost": [
+      [
+        20215,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200105401,
+    "skillGroup": 2001054,
+    "level": 1,
+    "skillId": 2001054,
+    "levelCost": [
+      [
+        20215,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200106201,
+    "skillGroup": 2001062,
+    "level": 1,
+    "skillId": 2001062,
+    "levelCost": [
+      [
+        20217,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200106401,
+    "skillGroup": 2001064,
+    "level": 1,
+    "skillId": 2001064,
+    "levelCost": [
+      [
+        20217,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200107201,
+    "skillGroup": 2001072,
+    "level": 1,
+    "skillId": 2001072,
+    "levelCost": [
+      [
+        20219,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 200107301,
+    "skillGroup": 2001073,
+    "level": 1,
+    "skillId": 2001073,
+    "levelCost": [
+      [
+        20219,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300106201,
+    "skillGroup": 3001062,
+    "level": 1,
+    "skillId": 3001062,
+    "levelCost": [
+      [
+        20317,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300106701,
+    "skillGroup": 3001067,
+    "level": 1,
+    "skillId": 3001067,
+    "levelCost": [
+      [
+        20317,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300103101,
+    "skillGroup": 3001031,
+    "level": 1,
+    "skillId": 3001031,
+    "levelCost": [
+      [
+        20311,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300103201,
+    "skillGroup": 3001032,
+    "level": 1,
+    "skillId": 3001032,
+    "levelCost": [
+      [
+        20311,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300104101,
+    "skillGroup": 3001041,
+    "level": 1,
+    "skillId": 3001041,
+    "levelCost": [
+      [
+        20313,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300104201,
+    "skillGroup": 3001042,
+    "level": 1,
+    "skillId": 3001042,
+    "levelCost": [
+      [
+        20313,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300108101,
+    "skillGroup": 3001081,
+    "level": 1,
+    "skillId": 3001081,
+    "levelCost": [
+      [
+        20315,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300108501,
+    "skillGroup": 3001085,
+    "level": 1,
+    "skillId": 3001085,
+    "levelCost": [
+      [
+        20315,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300107201,
+    "skillGroup": 3001072,
+    "level": 1,
+    "skillId": 3001072,
+    "levelCost": [
+      [
+        20319,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 300107301,
+    "skillGroup": 3001073,
+    "level": 1,
+    "skillId": 3001073,
+    "levelCost": [
+      [
+        20319,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400103401,
+    "skillGroup": 4001034,
+    "level": 1,
+    "skillId": 4001034,
+    "levelCost": [
+      [
+        20411,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400103701,
+    "skillGroup": 4001037,
+    "level": 1,
+    "skillId": 4001037,
+    "levelCost": [
+      [
+        20411,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400104401,
+    "skillGroup": 4001044,
+    "level": 1,
+    "skillId": 4001044,
+    "levelCost": [
+      [
+        20413,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400104701,
+    "skillGroup": 4001047,
+    "level": 1,
+    "skillId": 4001047,
+    "levelCost": [
+      [
+        20413,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400105401,
+    "skillGroup": 4001054,
+    "level": 1,
+    "skillId": 4001054,
+    "levelCost": [
+      [
+        20415,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400105701,
+    "skillGroup": 4001057,
+    "level": 1,
+    "skillId": 4001057,
+    "levelCost": [
+      [
+        20415,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400106401,
+    "skillGroup": 4001064,
+    "level": 1,
+    "skillId": 4001064,
+    "levelCost": [
+      [
+        20417,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400106701,
+    "skillGroup": 4001067,
+    "level": 1,
+    "skillId": 4001067,
+    "levelCost": [
+      [
+        20417,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400107101,
+    "skillGroup": 4001071,
+    "level": 1,
+    "skillId": 4001071,
+    "levelCost": [
+      [
+        20419,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 400107201,
+    "skillGroup": 4001072,
+    "level": 1,
+    "skillId": 4001072,
+    "levelCost": [
+      [
+        20419,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500103101,
+    "skillGroup": 5001031,
+    "level": 1,
+    "skillId": 5001031,
+    "levelCost": [
+      [
+        20511,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500103501,
+    "skillGroup": 5001035,
+    "level": 1,
+    "skillId": 5001035,
+    "levelCost": [
+      [
+        20511,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500104101,
+    "skillGroup": 5001041,
+    "level": 1,
+    "skillId": 5001041,
+    "levelCost": [
+      [
+        20513,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500104501,
+    "skillGroup": 5001045,
+    "level": 1,
+    "skillId": 5001045,
+    "levelCost": [
+      [
+        20513,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500105201,
+    "skillGroup": 5001052,
+    "level": 1,
+    "skillId": 5001052,
+    "levelCost": [
+      [
+        20515,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500105501,
+    "skillGroup": 5001055,
+    "level": 1,
+    "skillId": 5001055,
+    "levelCost": [
+      [
+        20515,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500106101,
+    "skillGroup": 5001061,
+    "level": 1,
+    "skillId": 5001061,
+    "levelCost": [
+      [
+        20517,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500106501,
+    "skillGroup": 5001068,
+    "level": 1,
+    "skillId": 5001068,
+    "levelCost": [
+      [
+        20517,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500107101,
+    "skillGroup": 5001071,
+    "level": 1,
+    "skillId": 5001071,
+    "levelCost": [
+      [
+        20519,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 500107501,
+    "skillGroup": 5001075,
+    "level": 1,
+    "skillId": 5001075,
+    "levelCost": [
+      [
+        20519,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600103101,
+    "skillGroup": 6001031,
+    "level": 1,
+    "skillId": 6001031,
+    "levelCost": [
+      [
+        20611,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600103601,
+    "skillGroup": 6001036,
+    "level": 1,
+    "skillId": 6001036,
+    "levelCost": [
+      [
+        20611,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600104101,
+    "skillGroup": 6001041,
+    "level": 1,
+    "skillId": 6001041,
+    "levelCost": [
+      [
+        20613,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600104601,
+    "skillGroup": 6001046,
+    "level": 1,
+    "skillId": 6001046,
+    "levelCost": [
+      [
+        20613,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600105101,
+    "skillGroup": 6001051,
+    "level": 1,
+    "skillId": 6001051,
+    "levelCost": [
+      [
+        20615,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600105601,
+    "skillGroup": 6001056,
+    "level": 1,
+    "skillId": 6001056,
+    "levelCost": [
+      [
+        20615,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600106101,
+    "skillGroup": 6001061,
+    "level": 1,
+    "skillId": 6001061,
+    "levelCost": [
+      [
+        20617,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600106601,
+    "skillGroup": 6001066,
+    "level": 1,
+    "skillId": 6001066,
+    "levelCost": [
+      [
+        20617,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600107101,
+    "skillGroup": 6001071,
+    "level": 1,
+    "skillId": 6001071,
+    "levelCost": [
+      [
+        20619,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 600107601,
+    "skillGroup": 6001076,
+    "level": 1,
+    "skillId": 6001076,
+    "levelCost": [
+      [
+        20619,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700103101,
+    "skillGroup": 7001031,
+    "level": 1,
+    "skillId": 7001031,
+    "levelCost": [
+      [
+        20711,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700103601,
+    "skillGroup": 7001036,
+    "level": 1,
+    "skillId": 7001036,
+    "levelCost": [
+      [
+        20711,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700104101,
+    "skillGroup": 7001041,
+    "level": 1,
+    "skillId": 7001041,
+    "levelCost": [
+      [
+        20713,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700104601,
+    "skillGroup": 7001046,
+    "level": 1,
+    "skillId": 7001046,
+    "levelCost": [
+      [
+        20713,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700105101,
+    "skillGroup": 7001051,
+    "level": 1,
+    "skillId": 7001051,
+    "levelCost": [
+      [
+        20715,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700105601,
+    "skillGroup": 7001056,
+    "level": 1,
+    "skillId": 7001056,
+    "levelCost": [
+      [
+        20715,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700106101,
+    "skillGroup": 7001061,
+    "level": 1,
+    "skillId": 7001061,
+    "levelCost": [
+      [
+        20717,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700106601,
+    "skillGroup": 7001066,
+    "level": 1,
+    "skillId": 7001066,
+    "levelCost": [
+      [
+        20717,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700107101,
+    "skillGroup": 7001071,
+    "level": 1,
+    "skillId": 7001071,
+    "levelCost": [
+      [
+        20719,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 700107601,
+    "skillGroup": 7001076,
+    "level": 1,
+    "skillId": 7001076,
+    "levelCost": [
+      [
+        20719,
+        1
+      ]
+    ]
+  }
+]

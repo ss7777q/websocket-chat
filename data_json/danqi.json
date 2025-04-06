@@ -1,0 +1,8150 @@
+[
+  {
+    "id": 181001001,
+    "name": "Lv1攻击丹气",
+    "level": 1,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        23,
+        47
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 181001002,
+    "name": "Lv2攻击丹气",
+    "level": 2,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        48,
+        72
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 181001003,
+    "name": "Lv3攻击丹气",
+    "level": 3,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        73,
+        97
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 181001004,
+    "name": "Lv4攻击丹气",
+    "level": 4,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        98,
+        122
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 181001005,
+    "name": "Lv5攻击丹气",
+    "level": 5,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        123,
+        154
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 181001006,
+    "name": "Lv6攻击丹气",
+    "level": 6,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        155,
+        194
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 181001007,
+    "name": "Lv7攻击丹气",
+    "level": 7,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 181001008,
+    "name": "Lv8攻击丹气",
+    "level": 8,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 181001009,
+    "name": "Lv9攻击丹气",
+    "level": 9,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 181001010,
+    "name": "Lv10攻击丹气",
+    "level": 10,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 181001011,
+    "name": "Lv11攻击丹气",
+    "level": 11,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 181001012,
+    "name": "Lv12攻击丹气",
+    "level": 12,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 181001013,
+    "name": "Lv13攻击丹气",
+    "level": 13,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 181001014,
+    "name": "Lv14攻击丹气",
+    "level": 14,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 181001015,
+    "name": "Lv15攻击丹气",
+    "level": 15,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 181001016,
+    "name": "Lv16攻击丹气",
+    "level": 16,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1843
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 181001017,
+    "name": "Lv17攻击丹气",
+    "level": 17,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        1844,
+        2322
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 181001018,
+    "name": "Lv18攻击丹气",
+    "level": 18,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        2323,
+        3037
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 181001019,
+    "name": "Lv19攻击丹气",
+    "level": 19,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        3038,
+        3912
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181001020,
+    "name": "Lv20攻击丹气",
+    "level": 20,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      [
+        3913,
+        4990
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182001001,
+    "name": "Lv1防御丹气",
+    "level": 1,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        8,
+        15
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 182001002,
+    "name": "Lv2防御丹气",
+    "level": 2,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        16,
+        23
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 182001003,
+    "name": "Lv3防御丹气",
+    "level": 3,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        24,
+        32
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 182001004,
+    "name": "Lv4防御丹气",
+    "level": 4,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        33,
+        40
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 182001005,
+    "name": "Lv5防御丹气",
+    "level": 5,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        41,
+        51
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 182001006,
+    "name": "Lv6防御丹气",
+    "level": 6,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        52,
+        64
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 182001007,
+    "name": "Lv7防御丹气",
+    "level": 7,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        65,
+        81
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 182001008,
+    "name": "Lv8防御丹气",
+    "level": 8,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        82,
+        102
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 182001009,
+    "name": "Lv9防御丹气",
+    "level": 9,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        103,
+        129
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 182001010,
+    "name": "Lv10防御丹气",
+    "level": 10,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        130,
+        163
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 182001011,
+    "name": "Lv11防御丹气",
+    "level": 11,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        164,
+        205
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 182001012,
+    "name": "Lv12防御丹气",
+    "level": 12,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        206,
+        259
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 182001013,
+    "name": "Lv13防御丹气",
+    "level": 13,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        260,
+        326
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 182001014,
+    "name": "Lv14防御丹气",
+    "level": 14,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        327,
+        412
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 182001015,
+    "name": "Lv15防御丹气",
+    "level": 15,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        413,
+        519
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 182001016,
+    "name": "Lv16防御丹气",
+    "level": 16,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        520,
+        614
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 182001017,
+    "name": "Lv17防御丹气",
+    "level": 17,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        615,
+        773
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 182001018,
+    "name": "Lv18防御丹气",
+    "level": 18,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        774,
+        1012
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 182001019,
+    "name": "Lv19防御丹气",
+    "level": 19,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1013,
+        1303
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182001020,
+    "name": "Lv20防御丹气",
+    "level": 20,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      [
+        1304,
+        1663
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182002001,
+    "name": "Lv1生命丹气",
+    "level": 1,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        225,
+        474
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 182002002,
+    "name": "Lv2生命丹气",
+    "level": 2,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        475,
+        724
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 182002003,
+    "name": "Lv3生命丹气",
+    "level": 3,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        725,
+        974
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 182002004,
+    "name": "Lv4生命丹气",
+    "level": 4,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        975,
+        1227
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 182002005,
+    "name": "Lv5生命丹气",
+    "level": 5,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        1228,
+        1546
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 182002006,
+    "name": "Lv6生命丹气",
+    "level": 6,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        1547,
+        1948
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 182002007,
+    "name": "Lv7生命丹气",
+    "level": 7,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        1949,
+        2455
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 182002008,
+    "name": "Lv8生命丹气",
+    "level": 8,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        2456,
+        3093
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 182002009,
+    "name": "Lv9生命丹气",
+    "level": 9,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        3094,
+        3898
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 182002010,
+    "name": "Lv10生命丹气",
+    "level": 10,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        3899,
+        4911
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 182002011,
+    "name": "Lv11生命丹气",
+    "level": 11,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        4912,
+        6188
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 182002012,
+    "name": "Lv12生命丹气",
+    "level": 12,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        6189,
+        7797
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 182002013,
+    "name": "Lv13生命丹气",
+    "level": 13,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        7798,
+        9823
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 182002014,
+    "name": "Lv14生命丹气",
+    "level": 14,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        9824,
+        12377
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 182002015,
+    "name": "Lv15生命丹气",
+    "level": 15,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        12378,
+        15594
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 182002016,
+    "name": "Lv16生命丹气",
+    "level": 16,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        15595,
+        18438
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 182002017,
+    "name": "Lv17生命丹气",
+    "level": 17,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        18439,
+        23233
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 182002018,
+    "name": "Lv18生命丹气",
+    "level": 18,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        23234,
+        30376
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 182002019,
+    "name": "Lv19生命丹气",
+    "level": 19,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        30377,
+        39128
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182002020,
+    "name": "Lv20生命丹气",
+    "level": 20,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      [
+        39129,
+        49910
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182003001,
+    "name": "Lv1回血丹气",
+    "level": 1,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        13,
+        25
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 182003002,
+    "name": "Lv2回血丹气",
+    "level": 2,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        26,
+        39
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 182003003,
+    "name": "Lv3回血丹气",
+    "level": 3,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        40,
+        53
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 182003004,
+    "name": "Lv4回血丹气",
+    "level": 4,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        54,
+        67
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 182003005,
+    "name": "Lv5回血丹气",
+    "level": 5,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        68,
+        85
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 182003006,
+    "name": "Lv6回血丹气",
+    "level": 6,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        86,
+        107
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 182003007,
+    "name": "Lv7回血丹气",
+    "level": 7,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        108,
+        135
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 182003008,
+    "name": "Lv8回血丹气",
+    "level": 8,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        136,
+        171
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 182003009,
+    "name": "Lv9回血丹气",
+    "level": 9,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        172,
+        216
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 182003010,
+    "name": "Lv10回血丹气",
+    "level": 10,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        217,
+        272
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 182003011,
+    "name": "Lv11回血丹气",
+    "level": 11,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        273,
+        343
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 182003012,
+    "name": "Lv12回血丹气",
+    "level": 12,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        344,
+        432
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 182003013,
+    "name": "Lv13回血丹气",
+    "level": 13,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        433,
+        545
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 182003014,
+    "name": "Lv14回血丹气",
+    "level": 14,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        546,
+        687
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 182003015,
+    "name": "Lv15回血丹气",
+    "level": 15,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        688,
+        865
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 182003016,
+    "name": "Lv16回血丹气",
+    "level": 16,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        866,
+        1023
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 182003017,
+    "name": "Lv17回血丹气",
+    "level": 17,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1024,
+        1290
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 182003018,
+    "name": "Lv18回血丹气",
+    "level": 18,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1291,
+        1687
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 182003019,
+    "name": "Lv19回血丹气",
+    "level": 19,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        1688,
+        2173
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182003020,
+    "name": "Lv20回血丹气",
+    "level": 20,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      [
+        2174,
+        2772
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181002001,
+    "name": "Lv1魔力丹气",
+    "level": 1,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        113,
+        237
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 181002002,
+    "name": "Lv2魔力丹气",
+    "level": 2,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        238,
+        362
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 181002003,
+    "name": "Lv3魔力丹气",
+    "level": 3,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        363,
+        487
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 181002004,
+    "name": "Lv4魔力丹气",
+    "level": 4,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        488,
+        613
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 181002005,
+    "name": "Lv5魔力丹气",
+    "level": 5,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        614,
+        773
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 181002006,
+    "name": "Lv6魔力丹气",
+    "level": 6,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        774,
+        974
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 181002007,
+    "name": "Lv7魔力丹气",
+    "level": 7,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        975,
+        1227
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 181002008,
+    "name": "Lv8魔力丹气",
+    "level": 8,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        1228,
+        1546
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 181002009,
+    "name": "Lv9魔力丹气",
+    "level": 9,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        1547,
+        1948
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 181002010,
+    "name": "Lv10魔力丹气",
+    "level": 10,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        1949,
+        2455
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 181002011,
+    "name": "Lv11魔力丹气",
+    "level": 11,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        2456,
+        3093
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 181002012,
+    "name": "Lv12魔力丹气",
+    "level": 12,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        3094,
+        3898
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 181002013,
+    "name": "Lv13魔力丹气",
+    "level": 13,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        3899,
+        4911
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 181002014,
+    "name": "Lv14魔力丹气",
+    "level": 14,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        4912,
+        6188
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 181002015,
+    "name": "Lv15魔力丹气",
+    "level": 15,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        6189,
+        7797
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 181002016,
+    "name": "Lv16魔力丹气",
+    "level": 16,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        7798,
+        9219
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 181002017,
+    "name": "Lv17魔力丹气",
+    "level": 17,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        9220,
+        11616
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 181002018,
+    "name": "Lv18魔力丹气",
+    "level": 18,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        11617,
+        15187
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 181002019,
+    "name": "Lv19魔力丹气",
+    "level": 19,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        15188,
+        19564
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181002020,
+    "name": "Lv20魔力丹气",
+    "level": 20,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      [
+        19565,
+        24955
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181003001,
+    "name": "Lv1回魔丹气",
+    "level": 1,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        6,
+        12
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 181003002,
+    "name": "Lv2回魔丹气",
+    "level": 2,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        13,
+        19
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 181003003,
+    "name": "Lv3回魔丹气",
+    "level": 3,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        20,
+        26
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 181003004,
+    "name": "Lv4回魔丹气",
+    "level": 4,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        27,
+        33
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 181003005,
+    "name": "Lv5回魔丹气",
+    "level": 5,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        34,
+        42
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 181003006,
+    "name": "Lv6回魔丹气",
+    "level": 6,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        43,
+        53
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 181003007,
+    "name": "Lv7回魔丹气",
+    "level": 7,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        54,
+        67
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 181003008,
+    "name": "Lv8回魔丹气",
+    "level": 8,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        68,
+        85
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 181003009,
+    "name": "Lv9回魔丹气",
+    "level": 9,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        86,
+        107
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 181003010,
+    "name": "Lv10回魔丹气",
+    "level": 10,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        108,
+        135
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 181003011,
+    "name": "Lv11回魔丹气",
+    "level": 11,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        136,
+        171
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 181003012,
+    "name": "Lv12回魔丹气",
+    "level": 12,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        172,
+        216
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 181003013,
+    "name": "Lv13回魔丹气",
+    "level": 13,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        217,
+        272
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 181003014,
+    "name": "Lv14回魔丹气",
+    "level": 14,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        273,
+        343
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 181003015,
+    "name": "Lv15回魔丹气",
+    "level": 15,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        344,
+        432
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 181003016,
+    "name": "Lv16回魔丹气",
+    "level": 16,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        433,
+        511
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 181003017,
+    "name": "Lv17回魔丹气",
+    "level": 17,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        512,
+        644
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 181003018,
+    "name": "Lv18回魔丹气",
+    "level": 18,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        645,
+        843
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 181003019,
+    "name": "Lv19回魔丹气",
+    "level": 19,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        844,
+        1086
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181003020,
+    "name": "Lv20回魔丹气",
+    "level": 20,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      [
+        1087,
+        1385
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181004001,
+    "name": "Lv1命中丹气",
+    "level": 1,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        45,
+        94
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 181004002,
+    "name": "Lv2命中丹气",
+    "level": 2,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        95,
+        144
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 181004003,
+    "name": "Lv3命中丹气",
+    "level": 3,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        145,
+        194
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 181004004,
+    "name": "Lv4命中丹气",
+    "level": 4,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 181004005,
+    "name": "Lv5命中丹气",
+    "level": 5,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 181004006,
+    "name": "Lv6命中丹气",
+    "level": 6,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 181004007,
+    "name": "Lv7命中丹气",
+    "level": 7,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 181004008,
+    "name": "Lv8命中丹气",
+    "level": 8,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 181004009,
+    "name": "Lv9命中丹气",
+    "level": 9,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 181004010,
+    "name": "Lv10命中丹气",
+    "level": 10,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 181004011,
+    "name": "Lv11命中丹气",
+    "level": 11,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 181004012,
+    "name": "Lv12命中丹气",
+    "level": 12,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 181004013,
+    "name": "Lv13命中丹气",
+    "level": 13,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1964
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 181004014,
+    "name": "Lv14命中丹气",
+    "level": 14,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        1965,
+        2475
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 181004015,
+    "name": "Lv15命中丹气",
+    "level": 15,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        2476,
+        3118
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 181004016,
+    "name": "Lv16命中丹气",
+    "level": 16,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        3119,
+        3687
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 181004017,
+    "name": "Lv17命中丹气",
+    "level": 17,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        3688,
+        4646
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 181004018,
+    "name": "Lv18命中丹气",
+    "level": 18,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        4647,
+        6074
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 181004019,
+    "name": "Lv19命中丹气",
+    "level": 19,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        6075,
+        7825
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181004020,
+    "name": "Lv20命中丹气",
+    "level": 20,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      [
+        7826,
+        9981
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182004001,
+    "name": "Lv1闪避丹气",
+    "level": 1,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        45,
+        94
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 182004002,
+    "name": "Lv2闪避丹气",
+    "level": 2,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        95,
+        144
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 182004003,
+    "name": "Lv3闪避丹气",
+    "level": 3,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        145,
+        194
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 182004004,
+    "name": "Lv4闪避丹气",
+    "level": 4,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 182004005,
+    "name": "Lv5闪避丹气",
+    "level": 5,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 182004006,
+    "name": "Lv6闪避丹气",
+    "level": 6,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 182004007,
+    "name": "Lv7闪避丹气",
+    "level": 7,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 182004008,
+    "name": "Lv8闪避丹气",
+    "level": 8,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 182004009,
+    "name": "Lv9闪避丹气",
+    "level": 9,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 182004010,
+    "name": "Lv10闪避丹气",
+    "level": 10,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 182004011,
+    "name": "Lv11闪避丹气",
+    "level": 11,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 182004012,
+    "name": "Lv12闪避丹气",
+    "level": 12,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 182004013,
+    "name": "Lv13闪避丹气",
+    "level": 13,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1964
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 182004014,
+    "name": "Lv14闪避丹气",
+    "level": 14,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        1965,
+        2475
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 182004015,
+    "name": "Lv15闪避丹气",
+    "level": 15,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        2476,
+        3118
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 182004016,
+    "name": "Lv16闪避丹气",
+    "level": 16,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        3119,
+        3687
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 182004017,
+    "name": "Lv17闪避丹气",
+    "level": 17,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        3688,
+        4646
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 182004018,
+    "name": "Lv18闪避丹气",
+    "level": 18,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        4647,
+        6074
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 182004019,
+    "name": "Lv19闪避丹气",
+    "level": 19,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        6075,
+        7825
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182004020,
+    "name": "Lv20闪避丹气",
+    "level": 20,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      [
+        7826,
+        9981
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181005001,
+    "name": "Lv1暴击丹气",
+    "level": 1,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        45,
+        94
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 181005002,
+    "name": "Lv2暴击丹气",
+    "level": 2,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        95,
+        144
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 181005003,
+    "name": "Lv3暴击丹气",
+    "level": 3,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        145,
+        194
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 181005004,
+    "name": "Lv4暴击丹气",
+    "level": 4,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 181005005,
+    "name": "Lv5暴击丹气",
+    "level": 5,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 181005006,
+    "name": "Lv6暴击丹气",
+    "level": 6,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 181005007,
+    "name": "Lv7暴击丹气",
+    "level": 7,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 181005008,
+    "name": "Lv8暴击丹气",
+    "level": 8,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 181005009,
+    "name": "Lv9暴击丹气",
+    "level": 9,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 181005010,
+    "name": "Lv10暴击丹气",
+    "level": 10,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 181005011,
+    "name": "Lv11暴击丹气",
+    "level": 11,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 181005012,
+    "name": "Lv12暴击丹气",
+    "level": 12,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 181005013,
+    "name": "Lv13暴击丹气",
+    "level": 13,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1964
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 181005014,
+    "name": "Lv14暴击丹气",
+    "level": 14,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        1965,
+        2475
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 181005015,
+    "name": "Lv15暴击丹气",
+    "level": 15,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        2476,
+        3118
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 181005016,
+    "name": "Lv16暴击丹气",
+    "level": 16,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        3119,
+        3687
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 181005017,
+    "name": "Lv17暴击丹气",
+    "level": 17,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        3688,
+        4646
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 181005018,
+    "name": "Lv18暴击丹气",
+    "level": 18,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        4647,
+        6074
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 181005019,
+    "name": "Lv19暴击丹气",
+    "level": 19,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        6075,
+        7825
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181005020,
+    "name": "Lv20暴击丹气",
+    "level": 20,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      [
+        7826,
+        9981
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182005001,
+    "name": "Lv1韧性丹气",
+    "level": 1,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        45,
+        94
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 182005002,
+    "name": "Lv2韧性丹气",
+    "level": 2,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        95,
+        144
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 182005003,
+    "name": "Lv3韧性丹气",
+    "level": 3,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        145,
+        194
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 182005004,
+    "name": "Lv4韧性丹气",
+    "level": 4,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 182005005,
+    "name": "Lv5韧性丹气",
+    "level": 5,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 182005006,
+    "name": "Lv6韧性丹气",
+    "level": 6,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 182005007,
+    "name": "Lv7韧性丹气",
+    "level": 7,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 182005008,
+    "name": "Lv8韧性丹气",
+    "level": 8,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 182005009,
+    "name": "Lv9韧性丹气",
+    "level": 9,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 182005010,
+    "name": "Lv10韧性丹气",
+    "level": 10,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 182005011,
+    "name": "Lv11韧性丹气",
+    "level": 11,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 182005012,
+    "name": "Lv12韧性丹气",
+    "level": 12,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 182005013,
+    "name": "Lv13韧性丹气",
+    "level": 13,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1964
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 182005014,
+    "name": "Lv14韧性丹气",
+    "level": 14,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        1965,
+        2475
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 182005015,
+    "name": "Lv15韧性丹气",
+    "level": 15,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        2476,
+        3118
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 182005016,
+    "name": "Lv16韧性丹气",
+    "level": 16,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        3119,
+        3687
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 182005017,
+    "name": "Lv17韧性丹气",
+    "level": 17,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        3688,
+        4646
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 182005018,
+    "name": "Lv18韧性丹气",
+    "level": 18,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        4647,
+        6074
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 182005019,
+    "name": "Lv19韧性丹气",
+    "level": 19,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        6075,
+        7825
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182005020,
+    "name": "Lv20韧性丹气",
+    "level": 20,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      [
+        7826,
+        9981
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181006001,
+    "name": "Lv1幸运丹气",
+    "level": 1,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        45,
+        94
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 181006002,
+    "name": "Lv2幸运丹气",
+    "level": 2,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        95,
+        144
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 181006003,
+    "name": "Lv3幸运丹气",
+    "level": 3,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        145,
+        194
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 181006004,
+    "name": "Lv4幸运丹气",
+    "level": 4,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 181006005,
+    "name": "Lv5幸运丹气",
+    "level": 5,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 181006006,
+    "name": "Lv6幸运丹气",
+    "level": 6,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 181006007,
+    "name": "Lv7幸运丹气",
+    "level": 7,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 181006008,
+    "name": "Lv8幸运丹气",
+    "level": 8,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 181006009,
+    "name": "Lv9幸运丹气",
+    "level": 9,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 181006010,
+    "name": "Lv10幸运丹气",
+    "level": 10,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 181006011,
+    "name": "Lv11幸运丹气",
+    "level": 11,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 181006012,
+    "name": "Lv12幸运丹气",
+    "level": 12,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 181006013,
+    "name": "Lv13幸运丹气",
+    "level": 13,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1964
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 181006014,
+    "name": "Lv14幸运丹气",
+    "level": 14,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        1965,
+        2475
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 181006015,
+    "name": "Lv15幸运丹气",
+    "level": 15,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        2476,
+        3118
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 181006016,
+    "name": "Lv16幸运丹气",
+    "level": 16,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        3119,
+        3687
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 181006017,
+    "name": "Lv17幸运丹气",
+    "level": 17,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        3688,
+        4646
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 181006018,
+    "name": "Lv18幸运丹气",
+    "level": 18,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        4647,
+        6074
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 181006019,
+    "name": "Lv19幸运丹气",
+    "level": 19,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        6075,
+        7825
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181006020,
+    "name": "Lv20幸运丹气",
+    "level": 20,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      [
+        7826,
+        9981
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182006001,
+    "name": "Lv1守护丹气",
+    "level": 1,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        45,
+        94
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 182006002,
+    "name": "Lv2守护丹气",
+    "level": 2,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        95,
+        144
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 182006003,
+    "name": "Lv3守护丹气",
+    "level": 3,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        145,
+        194
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 182006004,
+    "name": "Lv4守护丹气",
+    "level": 4,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 182006005,
+    "name": "Lv5守护丹气",
+    "level": 5,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 182006006,
+    "name": "Lv6守护丹气",
+    "level": 6,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 182006007,
+    "name": "Lv7守护丹气",
+    "level": 7,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 182006008,
+    "name": "Lv8守护丹气",
+    "level": 8,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 182006009,
+    "name": "Lv9守护丹气",
+    "level": 9,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 182006010,
+    "name": "Lv10守护丹气",
+    "level": 10,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 182006011,
+    "name": "Lv11守护丹气",
+    "level": 11,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 182006012,
+    "name": "Lv12守护丹气",
+    "level": 12,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 182006013,
+    "name": "Lv13守护丹气",
+    "level": 13,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1964
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 182006014,
+    "name": "Lv14守护丹气",
+    "level": 14,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        1965,
+        2475
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 182006015,
+    "name": "Lv15守护丹气",
+    "level": 15,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        2476,
+        3118
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 182006016,
+    "name": "Lv16守护丹气",
+    "level": 16,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        3119,
+        3687
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 182006017,
+    "name": "Lv17守护丹气",
+    "level": 17,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        3688,
+        4646
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 182006018,
+    "name": "Lv18守护丹气",
+    "level": 18,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        4647,
+        6074
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 182006019,
+    "name": "Lv19守护丹气",
+    "level": 19,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        6075,
+        7825
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182006020,
+    "name": "Lv20守护丹气",
+    "level": 20,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      [
+        7826,
+        9981
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181007001,
+    "name": "Lv1穿透丹气",
+    "level": 1,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        23,
+        47
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 181007002,
+    "name": "Lv2穿透丹气",
+    "level": 2,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        48,
+        72
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 181007003,
+    "name": "Lv3穿透丹气",
+    "level": 3,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        73,
+        97
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 181007004,
+    "name": "Lv4穿透丹气",
+    "level": 4,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        98,
+        122
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 181007005,
+    "name": "Lv5穿透丹气",
+    "level": 5,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        123,
+        154
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 181007006,
+    "name": "Lv6穿透丹气",
+    "level": 6,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        155,
+        194
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 181007007,
+    "name": "Lv7穿透丹气",
+    "level": 7,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 181007008,
+    "name": "Lv8穿透丹气",
+    "level": 8,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 181007009,
+    "name": "Lv9穿透丹气",
+    "level": 9,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 181007010,
+    "name": "Lv10穿透丹气",
+    "level": 10,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 181007011,
+    "name": "Lv11穿透丹气",
+    "level": 11,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 181007012,
+    "name": "Lv12穿透丹气",
+    "level": 12,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 181007013,
+    "name": "Lv13穿透丹气",
+    "level": 13,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 181007014,
+    "name": "Lv14穿透丹气",
+    "level": 14,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 181007015,
+    "name": "Lv15穿透丹气",
+    "level": 15,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 181007016,
+    "name": "Lv16穿透丹气",
+    "level": 16,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1843
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 181007017,
+    "name": "Lv17穿透丹气",
+    "level": 17,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        1844,
+        2322
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 181007018,
+    "name": "Lv18穿透丹气",
+    "level": 18,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        2323,
+        3037
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 181007019,
+    "name": "Lv19穿透丹气",
+    "level": 19,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        3038,
+        3912
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 181007020,
+    "name": "Lv20穿透丹气",
+    "level": 20,
+    "group": 13,
+    "attribute": [
+      "break"
+    ],
+    "attributeValue": [
+      [
+        3913,
+        4990
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yin",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182007001,
+    "name": "Lv1减伤丹气",
+    "level": 1,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        23,
+        47
+      ]
+    ],
+    "typeValue": [
+      45,
+      94
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.49,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 182007002,
+    "name": "Lv2减伤丹气",
+    "level": 2,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        48,
+        72
+      ]
+    ],
+    "typeValue": [
+      95,
+      144
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.2678,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 182007003,
+    "name": "Lv3减伤丹气",
+    "level": 3,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        73,
+        97
+      ]
+    ],
+    "typeValue": [
+      145,
+      194
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1686,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        190
+      ]
+    ]
+  },
+  {
+    "id": 182007004,
+    "name": "Lv4减伤丹气",
+    "level": 4,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        98,
+        122
+      ]
+    ],
+    "typeValue": [
+      195,
+      245
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.1216,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  {
+    "id": 182007005,
+    "name": "Lv5减伤丹气",
+    "level": 5,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        123,
+        154
+      ]
+    ],
+    "typeValue": [
+      246,
+      308
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        1300
+      ]
+    ]
+  },
+  {
+    "id": 182007006,
+    "name": "Lv6减伤丹气",
+    "level": 6,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        155,
+        194
+      ]
+    ],
+    "typeValue": [
+      309,
+      389
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        2400
+      ]
+    ]
+  },
+  {
+    "id": 182007007,
+    "name": "Lv7减伤丹气",
+    "level": 7,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        195,
+        245
+      ]
+    ],
+    "typeValue": [
+      390,
+      490
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        4000
+      ]
+    ]
+  },
+  {
+    "id": 182007008,
+    "name": "Lv8减伤丹气",
+    "level": 8,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        246,
+        308
+      ]
+    ],
+    "typeValue": [
+      491,
+      618
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        6200
+      ]
+    ]
+  },
+  {
+    "id": 182007009,
+    "name": "Lv9减伤丹气",
+    "level": 9,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        309,
+        389
+      ]
+    ],
+    "typeValue": [
+      619,
+      779
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        9400
+      ]
+    ]
+  },
+  {
+    "id": 182007010,
+    "name": "Lv10减伤丹气",
+    "level": 10,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        390,
+        490
+      ]
+    ],
+    "typeValue": [
+      780,
+      981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        13900
+      ]
+    ]
+  },
+  {
+    "id": 182007011,
+    "name": "Lv11减伤丹气",
+    "level": 11,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        491,
+        618
+      ]
+    ],
+    "typeValue": [
+      982,
+      1237
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        20000
+      ]
+    ]
+  },
+  {
+    "id": 182007012,
+    "name": "Lv12减伤丹气",
+    "level": 12,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        619,
+        779
+      ]
+    ],
+    "typeValue": [
+      1238,
+      1559
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        28300
+      ]
+    ]
+  },
+  {
+    "id": 182007013,
+    "name": "Lv13减伤丹气",
+    "level": 13,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        780,
+        981
+      ]
+    ],
+    "typeValue": [
+      1560,
+      1964
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        39700
+      ]
+    ]
+  },
+  {
+    "id": 182007014,
+    "name": "Lv14减伤丹气",
+    "level": 14,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        982,
+        1237
+      ]
+    ],
+    "typeValue": [
+      1965,
+      2475
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        55000
+      ]
+    ]
+  },
+  {
+    "id": 182007015,
+    "name": "Lv15减伤丹气",
+    "level": 15,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        1238,
+        1559
+      ]
+    ],
+    "typeValue": [
+      2476,
+      3118
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        75600
+      ]
+    ]
+  },
+  {
+    "id": 182007016,
+    "name": "Lv16减伤丹气",
+    "level": 16,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        1560,
+        1843
+      ]
+    ],
+    "typeValue": [
+      3119,
+      3687
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        103000
+      ]
+    ]
+  },
+  {
+    "id": 182007017,
+    "name": "Lv17减伤丹气",
+    "level": 17,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        1844,
+        2322
+      ]
+    ],
+    "typeValue": [
+      3688,
+      4646
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.12,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        140000
+      ]
+    ]
+  },
+  {
+    "id": 182007018,
+    "name": "Lv18减伤丹气",
+    "level": 18,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        2323,
+        3037
+      ]
+    ],
+    "typeValue": [
+      4647,
+      6074
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.14,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        189000
+      ]
+    ]
+  },
+  {
+    "id": 182007019,
+    "name": "Lv19减伤丹气",
+    "level": 19,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        3038,
+        3912
+      ]
+    ],
+    "typeValue": [
+      6075,
+      7825
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        254000
+      ]
+    ],
+    "isClose": 1
+  },
+  {
+    "id": 182007020,
+    "name": "Lv20减伤丹气",
+    "level": 20,
+    "group": 14,
+    "attribute": [
+      "protect"
+    ],
+    "attributeValue": [
+      [
+        3913,
+        4990
+      ]
+    ],
+    "typeValue": [
+      7826,
+      9981
+    ],
+    "type": "yang",
+    "refineWeight": 2500,
+    "refineUp": 0.13,
+    "refineUpBase": 0.01,
+    "refineCost": [
+      [
+        3,
+        340000
+      ]
+    ],
+    "isClose": 1
+  }
+]

@@ -1,0 +1,3170 @@
+[
+  {
+    "id": 1001001,
+    "name": "1级攻击宝石",
+    "level": 1,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      7
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1001002,
+    "name": "2级攻击宝石",
+    "level": 2,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      15
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1001003,
+    "name": "3级攻击宝石",
+    "level": 3,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      30
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1001004,
+    "name": "4级攻击宝石",
+    "level": 4,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      60
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1001005,
+    "name": "5级攻击宝石",
+    "level": 5,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      120
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1001006,
+    "name": "6级攻击宝石",
+    "level": 6,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1001007,
+    "name": "7级攻击宝石",
+    "level": 7,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1001008,
+    "name": "8级攻击宝石",
+    "level": 8,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1001009,
+    "name": "9级攻击宝石",
+    "level": 9,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      1920
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1002001,
+    "name": "1级防御宝石",
+    "level": 1,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      2
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1002002,
+    "name": "2级防御宝石",
+    "level": 2,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      5
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1002003,
+    "name": "3级防御宝石",
+    "level": 3,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      10
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1002004,
+    "name": "4级防御宝石",
+    "level": 4,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      20
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1002005,
+    "name": "5级防御宝石",
+    "level": 5,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      40
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1002006,
+    "name": "6级防御宝石",
+    "level": 6,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      80
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1002007,
+    "name": "7级防御宝石",
+    "level": 7,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      160
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1002008,
+    "name": "8级防御宝石",
+    "level": 8,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      320
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1002009,
+    "name": "9级防御宝石",
+    "level": 9,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      640
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1003001,
+    "name": "1级生命宝石",
+    "level": 1,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      75
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1003002,
+    "name": "2级生命宝石",
+    "level": 2,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      150
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1003003,
+    "name": "3级生命宝石",
+    "level": 3,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      300
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1003004,
+    "name": "4级生命宝石",
+    "level": 4,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      600
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1003005,
+    "name": "5级生命宝石",
+    "level": 5,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      1200
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1003006,
+    "name": "6级生命宝石",
+    "level": 6,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      2400
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1003007,
+    "name": "7级生命宝石",
+    "level": 7,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      4800
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1003008,
+    "name": "8级生命宝石",
+    "level": 8,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      9600
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1003009,
+    "name": "9级生命宝石",
+    "level": 9,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      19200
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1004001,
+    "name": "1级回血宝石",
+    "level": 1,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      4
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1004002,
+    "name": "2级回血宝石",
+    "level": 2,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      8
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1004003,
+    "name": "3级回血宝石",
+    "level": 3,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      17
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1004004,
+    "name": "4级回血宝石",
+    "level": 4,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      33
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1004005,
+    "name": "5级回血宝石",
+    "level": 5,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      67
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1004006,
+    "name": "6级回血宝石",
+    "level": 6,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      133
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1004007,
+    "name": "7级回血宝石",
+    "level": 7,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      267
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1004008,
+    "name": "8级回血宝石",
+    "level": 8,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      533
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1004009,
+    "name": "9级回血宝石",
+    "level": 9,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      1067
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1005001,
+    "name": "1级魔力宝石",
+    "level": 1,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      37
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1005002,
+    "name": "2级魔力宝石",
+    "level": 2,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      75
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1005003,
+    "name": "3级魔力宝石",
+    "level": 3,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      150
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1005004,
+    "name": "4级魔力宝石",
+    "level": 4,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      300
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1005005,
+    "name": "5级魔力宝石",
+    "level": 5,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      600
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1005006,
+    "name": "6级魔力宝石",
+    "level": 6,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      1200
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1005007,
+    "name": "7级魔力宝石",
+    "level": 7,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      2400
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1005008,
+    "name": "8级魔力宝石",
+    "level": 8,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      4800
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1005009,
+    "name": "9级魔力宝石",
+    "level": 9,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      9600
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1006001,
+    "name": "1级回魔宝石",
+    "level": 1,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      2
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1006002,
+    "name": "2级回魔宝石",
+    "level": 2,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      4
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1006003,
+    "name": "3级回魔宝石",
+    "level": 3,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      8
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1006004,
+    "name": "4级回魔宝石",
+    "level": 4,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      17
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1006005,
+    "name": "5级回魔宝石",
+    "level": 5,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      33
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1006006,
+    "name": "6级回魔宝石",
+    "level": 6,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      67
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1006007,
+    "name": "7级回魔宝石",
+    "level": 7,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      133
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1006008,
+    "name": "8级回魔宝石",
+    "level": 8,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      267
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1006009,
+    "name": "9级回魔宝石",
+    "level": 9,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      533
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1007001,
+    "name": "1级命中宝石",
+    "level": 1,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      15
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1007002,
+    "name": "2级命中宝石",
+    "level": 2,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      30
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1007003,
+    "name": "3级命中宝石",
+    "level": 3,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      60
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1007004,
+    "name": "4级命中宝石",
+    "level": 4,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      120
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1007005,
+    "name": "5级命中宝石",
+    "level": 5,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1007006,
+    "name": "6级命中宝石",
+    "level": 6,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1007007,
+    "name": "7级命中宝石",
+    "level": 7,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1007008,
+    "name": "8级命中宝石",
+    "level": 8,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      1920
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1007009,
+    "name": "9级命中宝石",
+    "level": 9,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      3840
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1008001,
+    "name": "1级闪避宝石",
+    "level": 1,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      15
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1008002,
+    "name": "2级闪避宝石",
+    "level": 2,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      30
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1008003,
+    "name": "3级闪避宝石",
+    "level": 3,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      60
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1008004,
+    "name": "4级闪避宝石",
+    "level": 4,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      120
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1008005,
+    "name": "5级闪避宝石",
+    "level": 5,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1008006,
+    "name": "6级闪避宝石",
+    "level": 6,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1008007,
+    "name": "7级闪避宝石",
+    "level": 7,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1008008,
+    "name": "8级闪避宝石",
+    "level": 8,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      1920
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1008009,
+    "name": "9级闪避宝石",
+    "level": 9,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      3840
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1009001,
+    "name": "1级暴击宝石",
+    "level": 1,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      15
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1009002,
+    "name": "2级暴击宝石",
+    "level": 2,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      30
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1009003,
+    "name": "3级暴击宝石",
+    "level": 3,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      60
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1009004,
+    "name": "4级暴击宝石",
+    "level": 4,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      120
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1009005,
+    "name": "5级暴击宝石",
+    "level": 5,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1009006,
+    "name": "6级暴击宝石",
+    "level": 6,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1009007,
+    "name": "7级暴击宝石",
+    "level": 7,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1009008,
+    "name": "8级暴击宝石",
+    "level": 8,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      1920
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1009009,
+    "name": "9级暴击宝石",
+    "level": 9,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      3840
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1010001,
+    "name": "1级韧性宝石",
+    "level": 1,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      15
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1010002,
+    "name": "2级韧性宝石",
+    "level": 2,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      30
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1010003,
+    "name": "3级韧性宝石",
+    "level": 3,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      60
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1010004,
+    "name": "4级韧性宝石",
+    "level": 4,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      120
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1010005,
+    "name": "5级韧性宝石",
+    "level": 5,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1010006,
+    "name": "6级韧性宝石",
+    "level": 6,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1010007,
+    "name": "7级韧性宝石",
+    "level": 7,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1010008,
+    "name": "8级韧性宝石",
+    "level": 8,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      1920
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1010009,
+    "name": "9级韧性宝石",
+    "level": 9,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      3840
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1011001,
+    "name": "1级幸运宝石",
+    "level": 1,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      15
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1011002,
+    "name": "2级幸运宝石",
+    "level": 2,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      30
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1011003,
+    "name": "3级幸运宝石",
+    "level": 3,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      60
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1011004,
+    "name": "4级幸运宝石",
+    "level": 4,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      120
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1011005,
+    "name": "5级幸运宝石",
+    "level": 5,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1011006,
+    "name": "6级幸运宝石",
+    "level": 6,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1011007,
+    "name": "7级幸运宝石",
+    "level": 7,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1011008,
+    "name": "8级幸运宝石",
+    "level": 8,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      1920
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1011009,
+    "name": "9级幸运宝石",
+    "level": 9,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      3840
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1012001,
+    "name": "1级守护宝石",
+    "level": 1,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      15
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          5,
+          15
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1012002,
+    "name": "2级守护宝石",
+    "level": 2,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      30
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          15,
+          45
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1012003,
+    "name": "3级守护宝石",
+    "level": 3,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      60
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          45,
+          135
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1012004,
+    "name": "4级守护宝石",
+    "level": 4,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      120
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          135,
+          405
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1012005,
+    "name": "5级守护宝石",
+    "level": 5,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      240
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          405,
+          1215
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1012006,
+    "name": "6级守护宝石",
+    "level": 6,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      480
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          1215,
+          3645
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1012007,
+    "name": "7级守护宝石",
+    "level": 7,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      960
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          3645,
+          10935
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1012008,
+    "name": "8级守护宝石",
+    "level": 8,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      1920
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          10935,
+          32805
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1012009,
+    "name": "9级守护宝石",
+    "level": 9,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      3840
+    ],
+    "sellCost": [
+      [
+        410000,
+        [
+          32805,
+          98415
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1101007,
+    "name": "7级攻击精练宝石",
+    "level": 7,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      679
+    ],
+    "sellCost": [
+      [
+        1001007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1101008,
+    "name": "8级攻击精练宝石",
+    "level": 8,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      1379
+    ],
+    "sellCost": [
+      [
+        1001008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1101009,
+    "name": "9级攻击精练宝石",
+    "level": 9,
+    "group": 1,
+    "attribute": [
+      "atk"
+    ],
+    "attributeValue": [
+      2715
+    ],
+    "sellCost": [
+      [
+        1001009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FFEA29"
+  },
+  {
+    "id": 1102007,
+    "name": "7级防御精练宝石",
+    "level": 7,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      226
+    ],
+    "sellCost": [
+      [
+        1002007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1102008,
+    "name": "8级防御精练宝石",
+    "level": 8,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      460
+    ],
+    "sellCost": [
+      [
+        1002008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1102009,
+    "name": "9级防御精练宝石",
+    "level": 9,
+    "group": 2,
+    "attribute": [
+      "def"
+    ],
+    "attributeValue": [
+      905
+    ],
+    "sellCost": [
+      [
+        1002009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": 747474
+  },
+  {
+    "id": 1103007,
+    "name": "7级生命精练宝石",
+    "level": 7,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      6788
+    ],
+    "sellCost": [
+      [
+        1003007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1103008,
+    "name": "8级生命精练宝石",
+    "level": 8,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      13791
+    ],
+    "sellCost": [
+      [
+        1003008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1103009,
+    "name": "9级生命精练宝石",
+    "level": 9,
+    "group": 3,
+    "attribute": [
+      "hp"
+    ],
+    "attributeValue": [
+      27153
+    ],
+    "sellCost": [
+      [
+        1003009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF0101"
+  },
+  {
+    "id": 1104007,
+    "name": "7级回血精练宝石",
+    "level": 7,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      377
+    ],
+    "sellCost": [
+      [
+        1004007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1104008,
+    "name": "8级回血精练宝石",
+    "level": 8,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      766
+    ],
+    "sellCost": [
+      [
+        1004008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1104009,
+    "name": "9级回血精练宝石",
+    "level": 9,
+    "group": 4,
+    "attribute": [
+      "healHp"
+    ],
+    "attributeValue": [
+      1508
+    ],
+    "sellCost": [
+      [
+        1004009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF9000"
+  },
+  {
+    "id": 1105007,
+    "name": "7级魔法精练宝石",
+    "level": 7,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      3394
+    ],
+    "sellCost": [
+      [
+        1005007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1105008,
+    "name": "8级魔法精练宝石",
+    "level": 8,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      6896
+    ],
+    "sellCost": [
+      [
+        1005008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1105009,
+    "name": "9级魔法精练宝石",
+    "level": 9,
+    "group": 5,
+    "attribute": [
+      "mp"
+    ],
+    "attributeValue": [
+      13576
+    ],
+    "sellCost": [
+      [
+        1005009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "167DD7"
+  },
+  {
+    "id": 1106007,
+    "name": "7级回魔精练宝石",
+    "level": 7,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      189
+    ],
+    "sellCost": [
+      [
+        1006007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1106008,
+    "name": "8级回魔精练宝石",
+    "level": 8,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      383
+    ],
+    "sellCost": [
+      [
+        1006008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1106009,
+    "name": "9级回魔精练宝石",
+    "level": 9,
+    "group": 6,
+    "attribute": [
+      "healMp"
+    ],
+    "attributeValue": [
+      754
+    ],
+    "sellCost": [
+      [
+        1006009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "6D21C0"
+  },
+  {
+    "id": 1107007,
+    "name": "7级命中精练宝石",
+    "level": 7,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      1358
+    ],
+    "sellCost": [
+      [
+        1007007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1107008,
+    "name": "8级命中精练宝石",
+    "level": 8,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      2758
+    ],
+    "sellCost": [
+      [
+        1007008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1107009,
+    "name": "9级命中精练宝石",
+    "level": 9,
+    "group": 7,
+    "attribute": [
+      "hitVal"
+    ],
+    "attributeValue": [
+      5431
+    ],
+    "sellCost": [
+      [
+        1007009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "5BD9D4"
+  },
+  {
+    "id": 1108007,
+    "name": "7级闪避精练宝石",
+    "level": 7,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      1358
+    ],
+    "sellCost": [
+      [
+        1008007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1108008,
+    "name": "8级闪避精练宝石",
+    "level": 8,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      2758
+    ],
+    "sellCost": [
+      [
+        1008008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1108009,
+    "name": "9级闪避精练宝石",
+    "level": 9,
+    "group": 8,
+    "attribute": [
+      "dodge"
+    ],
+    "attributeValue": [
+      5431
+    ],
+    "sellCost": [
+      [
+        1008009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "CDCDCD"
+  },
+  {
+    "id": 1109007,
+    "name": "7级暴击精练宝石",
+    "level": 7,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      1358
+    ],
+    "sellCost": [
+      [
+        1009007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1109008,
+    "name": "8级暴击精练宝石",
+    "level": 8,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      2758
+    ],
+    "sellCost": [
+      [
+        1009008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1109009,
+    "name": "9级暴击精练宝石",
+    "level": 9,
+    "group": 9,
+    "attribute": [
+      "crit"
+    ],
+    "attributeValue": [
+      5431
+    ],
+    "sellCost": [
+      [
+        1009009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "F521FE"
+  },
+  {
+    "id": 1110007,
+    "name": "7级韧性精练宝石",
+    "level": 7,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      1358
+    ],
+    "sellCost": [
+      [
+        1010007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1110008,
+    "name": "8级韧性精练宝石",
+    "level": 8,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      2758
+    ],
+    "sellCost": [
+      [
+        1010008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1110009,
+    "name": "9级韧性精练宝石",
+    "level": 9,
+    "group": 10,
+    "attribute": [
+      "tenacity"
+    ],
+    "attributeValue": [
+      5431
+    ],
+    "sellCost": [
+      [
+        1010009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "B2785E"
+  },
+  {
+    "id": 1111007,
+    "name": "7级幸运精练宝石",
+    "level": 7,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      1358
+    ],
+    "sellCost": [
+      [
+        1011007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1111008,
+    "name": "8级幸运精练宝石",
+    "level": 8,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      2758
+    ],
+    "sellCost": [
+      [
+        1011008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1111009,
+    "name": "9级幸运精练宝石",
+    "level": 9,
+    "group": 11,
+    "attribute": [
+      "lucky"
+    ],
+    "attributeValue": [
+      5431
+    ],
+    "sellCost": [
+      [
+        1011009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "FF94A3"
+  },
+  {
+    "id": 1112007,
+    "name": "7级守护精练宝石",
+    "level": 7,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      1358
+    ],
+    "sellCost": [
+      [
+        1012007,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1112008,
+    "name": "8级守护精练宝石",
+    "level": 8,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      2758
+    ],
+    "sellCost": [
+      [
+        1012008,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  },
+  {
+    "id": 1112009,
+    "name": "9级守护精练宝石",
+    "level": 9,
+    "group": 12,
+    "attribute": [
+      "guardian"
+    ],
+    "attributeValue": [
+      5431
+    ],
+    "sellCost": [
+      [
+        1012009,
+        [
+          2,
+          2
+        ]
+      ]
+    ],
+    "dotColor": "66C61F"
+  }
+]

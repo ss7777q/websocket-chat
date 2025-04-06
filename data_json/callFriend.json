@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "group": 101,
+    "type": 1,
+    "val": 30,
+    "number": 1,
+    "reward": [
+      [
+        2,
+        300
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·等级",
+    "targetText": "邀请的&a&名上仙等级达到30级（&C&/&c&)"
+  },
+  {
+    "id": 2,
+    "group": 101,
+    "type": 1,
+    "val": 30,
+    "number": 2,
+    "reward": [
+      [
+        2,
+        400
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·等级",
+    "targetText": "邀请的&a&名上仙等级达到30级（&C&/&c&)"
+  },
+  {
+    "id": 3,
+    "group": 101,
+    "type": 1,
+    "val": 30,
+    "number": 3,
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·等级",
+    "targetText": "邀请的&a&名上仙等级达到30级（&C&/&c&)"
+  },
+  {
+    "id": 201,
+    "group": 201,
+    "type": 3,
+    "val": 990301,
+    "number": 1,
+    "reward": [
+      [
+        2,
+        300
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·噩梦",
+    "targetText": "邀请的&a&名上仙通关关卡噩梦·牛魔谷（&C&/&c&)"
+  },
+  {
+    "id": 202,
+    "group": 201,
+    "type": 3,
+    "val": 990301,
+    "number": 2,
+    "reward": [
+      [
+        2,
+        400
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·噩梦",
+    "targetText": "邀请的&a&名上仙通关关卡噩梦·牛魔谷（&C&/&c&)"
+  },
+  {
+    "id": 203,
+    "group": 201,
+    "type": 3,
+    "val": 990301,
+    "number": 3,
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·噩梦",
+    "targetText": "邀请的&a&名上仙通关关卡噩梦·牛魔谷（&C&/&c&)"
+  },
+  {
+    "id": 301,
+    "group": 301,
+    "type": 3,
+    "val": 1002,
+    "number": 1,
+    "reward": [
+      [
+        2,
+        300
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·幻境",
+    "targetText": "邀请的&a&名上仙通关关卡波月幻境（&C&/&c&)"
+  },
+  {
+    "id": 302,
+    "group": 301,
+    "type": 3,
+    "val": 1002,
+    "number": 2,
+    "reward": [
+      [
+        2,
+        400
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·幻境",
+    "targetText": "邀请的&a&名上仙通关关卡波月幻境（&C&/&c&)"
+  },
+  {
+    "id": 303,
+    "group": 301,
+    "type": 3,
+    "val": 1002,
+    "number": 3,
+    "reward": [
+      [
+        2,
+        500
+      ]
+    ],
+    "activityId": 101,
+    "name": "接引任务·幻境",
+    "targetText": "邀请的&a&名上仙通关关卡波月幻境（&C&/&c&)"
+  },
+  {
+    "id": 1001,
+    "group": 1001,
+    "type": 2,
+    "val": 10,
+    "levelBinding": 5,
+    "reward": [
+      [
+        1002,
+        1
+      ]
+    ],
+    "activityId": 102
+  },
+  {
+    "id": 1002,
+    "group": 1002,
+    "type": 2,
+    "val": 20,
+    "levelBinding": 15,
+    "reward": [
+      [
+        409991,
+        1
+      ]
+    ],
+    "activityId": 102
+  },
+  {
+    "id": 1003,
+    "group": 1003,
+    "type": 2,
+    "val": 30,
+    "levelBinding": 25,
+    "reward": [
+      [
+        1011,
+        1
+      ]
+    ],
+    "activityId": 102
+  }
+]

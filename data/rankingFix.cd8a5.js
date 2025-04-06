@@ -1,0 +1,1 @@
+var tmp=[["id","rankingStage","rankingData"],[1,.0816,.017],[2,.1837,.012],[3,.2857,.016],[4,.3878,.024],[5,.4898,.0381],[6,.5918,.0675],[7,.6939,.1181],[8,.7959,.1782],[9,.898,.2783],[10,1,.2508]];("undefined"!=typeof window?window.__IS_SERVER__:__IS_SERVER__)?module.exports=tmp:(window.configData=window.configData||{},window.configData.rankingFix=tmp);
